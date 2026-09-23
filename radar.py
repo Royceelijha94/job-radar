@@ -20,6 +20,7 @@ import sys
 from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
+from urllib.parse import quote_plus
 
 import requests
 import yaml
@@ -31,7 +32,9 @@ TIMEOUT = 25
 SEARCH_TERMS = ["site reliability", "devops", "cloud engineer", "platform engineer", "infrastructure"]
 COUNTRY = {"in": "India", "ae": "United Arab Emirates"}
 HEADERS = {"User-Agent": "Mozilla/5.0 (personal job-alert script)", "Accept": "application/json"}
-TIER_LIMITS = [(10, 1), (30, 2), (40, 3), (45, 4), (50, 5)]
+TIER_LIMITS = [(10, 1), (30, 2), (40, 3), (45, 4), (50, 5), (95, 6), (140, 7), (180, 8), (192, 9), (200, 10)]
+PROBE_ORDER = ["greenhouse", "ashby", "lever", "smartrecruiters"]
+REPROBE_DAYS = 3
 FORGET_AFTER_DAYS = 120
 
 logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s")
@@ -47,7 +50,7 @@ def job(jid, title, location, url):
 
 
 def tier(rank):
-    return next(t for limit, t in TIER_LIMITS if rank <= limit)
+    return next((t for limit, t in TIER_LIMITS if rank <= limit), TIER_LIMITS[-1][1])
 
 
 # ---------------- adapters: each returns a list of job dicts ----------------
@@ -159,6 +162,75 @@ ADAPTERS = {"greenhouse": greenhouse, "lever": lever, "ashby": ashby, "smartrecr
             "workday": workday, "oracle_hcm": oracle_hcm, "amazon": amazon, "uber": uber}
 
 
+# ---------------- auto-discovery ----------------
+def slug_candidates(c):
+    if c.get("slugs"):
+        return list(c["slugs"])
+    words = re.findall(r"[A-Za-z0-9]+", re.sub(r"\(.*?\)", "", c["name"]))
+    out = []
+    for s in ["".join(words).lower(), "-".join(words).lower(), "".join(words)]:
+        if s and s not in out:
+            out.append(s)
+    return out
+
+
+def probe(c):
+    """Find which job board a company uses. Returns {"ats", ...} or None."""
+    for slug in slug_candidates(c):
+        for ats in PROBE_ORDER:
+            try:
+                if fetch({**c, "ats": ats, "token": slug}):
+                    return {"ats": ats, "token": slug}
+            except Exception:
+                pass
+    if c.get("workday"):
+        try:
+            if fetch({**c, **c["workday"], "ats": "workday"}):
+                return {"ats": "workday", **c["workday"]}
+        except Exception:
+            pass
+    return None
+
+
+def resolve_auto(cfg, state):
+    resolved = state.setdefault("resolved", {})
+    now = now_utc()
+    todo = []
+    for c in cfg["companies"]:
+        if c.get("ats", "auto") != "auto":
+            continue
+        r = resolved.get(c["name"]) or {}
+        if r.get("ats"):
+            continue
+        if r.get("miss") and now - datetime.fromisoformat(r["miss"]) < timedelta(days=REPROBE_DAYS):
+            continue
+        todo.append(c)
+    if not todo:
+        return
+    log.info("looking up job boards for %d companies", len(todo))
+    with ThreadPoolExecutor(max_workers=12) as pool:
+        for c, found in zip(todo, pool.map(probe, todo)):
+            resolved[c["name"]] = found or {"miss": now.isoformat()}
+            log.info("%s: %s", c["name"], f"{found['ats']} board found" if found else "no public board found")
+
+
+def effective_companies(cfg, state):
+    """Company list with auto entries replaced by the board that was found (or manual)."""
+    out = []
+    for c in cfg["companies"]:
+        if c.get("ats", "auto") == "auto":
+            r = state.get("resolved", {}).get(c["name"]) or {}
+            out.append({**c, **r, "auto": True} if r.get("ats") else {**c, "ats": "manual", "auto": True})
+        else:
+            out.append(c)
+    return out
+
+
+def careers_link(c):
+    return c.get("careers") or ("https://www.google.com/search?q=" +
+                                quote_plus(f"{c['name']} careers site reliability devops India"))
+
+
 # ---------------- scanning ----------------
 def load_config():
     with open(BASE / "companies.yaml") as f:
@@ -183,10 +255,10 @@ def is_match(j, f):
     return any(k in loc for k in f["location_include"])
 
 
-def scan_all(cfg):
-    auto = [c for c in cfg["companies"] if c["ats"] in ADAPTERS]
+def scan_all(companies):
+    auto = [c for c in companies if c["ats"] in ADAPTERS]
     results = {}
-    with ThreadPoolExecutor(max_workers=8) as pool:
+    with ThreadPoolExecutor(max_workers=12) as pool:
         futures = {c["name"]: (c, pool.submit(fetch, c)) for c in auto}
         for name, (c, fut) in futures.items():
             try:
@@ -199,7 +271,7 @@ def scan_all(cfg):
 def load_state():
     if STATE_PATH.exists():
         return json.loads(STATE_PATH.read_text())
-    return {"seeded": [], "seen": {}, "open": {}}
+    return {"seeded": [], "seen": {}, "open": {}, "resolved": {}}
 
 
 def save_json(path, data):
@@ -213,11 +285,15 @@ def run(cfg):
     state = load_state()
     ts = now_utc().isoformat()
     new_jobs, health = [], []
+    resolve_auto(cfg, state)
+    companies = effective_companies(cfg, state)
 
-    for name, (c, jobs, err) in scan_all(cfg).items():
+    for name, (c, jobs, err) in scan_all(companies).items():
         if err:
             log.warning("%s: fetch failed (%s)", name, err)
             health.append({"company": name, "ok": False, "error": err})
+            if c.get("auto"):  # board moved or vanished: look it up again next run
+                state["resolved"].pop(name, None)
             continue  # keep last known open jobs for this company
         matched = [j for j in jobs if is_match(j, cfg["filters"])]
         health.append({"company": name, "ok": True, "open": len(jobs), "matching": len(matched)})
@@ -235,7 +311,7 @@ def run(cfg):
 
     prune(state)
     save_json(STATE_PATH, state)
-    write_dashboard_data(cfg, state, health, ts)
+    write_dashboard_data(companies, state, health, ts)
     log.info("scan complete: %d new matching jobs", len(new_jobs))
     if new_jobs:
         alert(new_jobs, cfg.get("alerts", {}))
@@ -250,8 +326,8 @@ def prune(state):
             del seen[jid]
 
 
-def write_dashboard_data(cfg, state, health, ts):
-    by_name = {c["name"]: c for c in cfg["companies"]}
+def write_dashboard_data(companies, state, health, ts):
+    by_name = {c["name"]: c for c in companies}
     jobs = []
     for name, open_jobs in state["open"].items():
         if name not in by_name:
@@ -260,8 +336,8 @@ def write_dashboard_data(cfg, state, health, ts):
         for j in open_jobs:
             jobs.append({**j, "company": name, "rank": c["rank"], "tier": tier(c["rank"]),
                          "first_seen": state["seen"].get(name, {}).get(j["id"])})
-    manual = [{"company": c["name"], "rank": c["rank"], "careers": c.get("careers", "")}
-              for c in cfg["companies"] if c["ats"] == "manual"]
+    manual = [{"company": c["name"], "rank": c["rank"], "tier": tier(c["rank"]), "careers": careers_link(c)}
+              for c in companies if c["ats"] == "manual"]
     save_json(DATA_PATH, {"generated_at": ts, "jobs": jobs, "health": health, "manual": manual})
 
 
@@ -321,22 +397,28 @@ def mac_popup(title, message):
 
 # ---------------- validate ----------------
 def validate(cfg):
-    results = scan_all(cfg)
+    state = load_state()
+    resolve_auto(cfg, state)
+    companies = effective_companies(cfg, state)
+    results = scan_all(companies)
     ok = bad = 0
-    lines = [f"{'#':>3}  {'Company':<22} {'Board':<16} {'Status':<7} {'Open':>6} {'Match':>6}"]
-    for c in cfg["companies"]:
+    lines = [f"{'#':>3}  {'Company':<26} {'Board':<16} {'Status':<7} {'Open':>6} {'Match':>6}"]
+    for c in companies:
         if c["ats"] == "manual":
-            lines.append(f"{c['rank']:>3}  {c['name']:<22} {'manual':<16} {'-':<7} {'-':>6} {'-':>6}")
+            label = "not found" if c.get("auto") else "manual"
+            lines.append(f"{c['rank']:>3}  {c['name'][:26]:<26} {label:<16} {'-':<7} {'-':>6} {'-':>6}")
             continue
         _, jobs, err = results[c["name"]]
         if err:
             bad += 1
-            lines.append(f"{c['rank']:>3}  {c['name']:<22} {c['ats']:<16} {'FAIL':<7} {'-':>6} {'-':>6}  {err[:60]}")
+            lines.append(f"{c['rank']:>3}  {c['name'][:26]:<26} {c['ats']:<16} {'FAIL':<7} {'-':>6} {'-':>6}  {err[:60]}")
         else:
             ok += 1
             m = sum(is_match(j, cfg["filters"]) for j in jobs)
-            lines.append(f"{c['rank']:>3}  {c['name']:<22} {c['ats']:<16} {'OK':<7} {len(jobs):>6} {m:>6}")
-    lines.append(f"\n{ok} boards working, {bad} failing.")
+            board = f"{c['ats']}:{c.get('token') or c.get('tenant')}" if c.get("auto") else c["ats"]
+            lines.append(f"{c['rank']:>3}  {c['name'][:26]:<26} {board[:16]:<16} {'OK':<7} {len(jobs):>6} {m:>6}")
+    manual = sum(c["ats"] == "manual" for c in companies)
+    lines.append(f"\n{ok} boards working, {bad} failing, {manual} to check yourself.")
     report = "\n".join(lines)
     print(report)
     summary = os.getenv("GITHUB_STEP_SUMMARY")

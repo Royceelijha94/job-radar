@@ -105,6 +105,11 @@
       <option value="3">Tier 3: Indian product</option>
       <option value="4">Tier 4: remote infra</option>
       <option value="5">Tier 5: telecom + Dubai</option>
+      <option value="6">Tier 6: global infra and SaaS</option>
+      <option value="7">Tier 7: Indian product and fintech</option>
+      <option value="8">Tier 8: capability centres</option>
+      <option value="9">Tier 9: Dubai and UAE</option>
+      <option value="10">Tier 10: remote-first infra</option>
     </select>
     <div class="seg" role="group" aria-label="Location">
       <button data-loc="" aria-pressed="true">All</button>
@@ -122,7 +127,7 @@
     <p>These boards failed on the last scan. Their previous jobs are still shown above.</p>
     <ul class="fail-list" id="fails"></ul>
     <h2>Check these yourself</h2>
-    <p>These companies have no public job feed. Set a job alert on their careers site.</p>
+    <p>These companies have no public job feed job-radar can read. Set a job alert on their careers site. The tier filter above applies here too.</p>
     <ul class="manual" id="manual"></ul>
   </footer>
 </main>
@@ -163,6 +168,7 @@ function row(j) {
 function render() {
   const d = state.data;
   if (!d) return;
+  renderManual();
   const q = state.q.toLowerCase();
   const jobs = d.jobs.filter((j) =>
     (!q || (j.title + " " + j.company).toLowerCase().includes(q)) &&
@@ -202,8 +208,14 @@ function renderStatic(d) {
   $("fails").innerHTML = fails.length
     ? fails.map((f) => `<li>${esc(f.company)}<small>${esc(f.error)}</small></li>`).join("")
     : "<li style='color:var(--muted)'>All boards scanned cleanly.</li>";
-  $("manual").innerHTML = d.manual.map((m) =>
-    `<li><a href="${esc(m.careers)}" target="_blank" rel="noopener">${esc(m.company)}</a></li>`).join("");
+}
+
+function renderManual() {
+  const d = state.data;
+  const list = d.manual.filter((m) => !state.tier || String(m.tier) === state.tier).sort((a, b) => a.rank - b.rank);
+  $("manual").innerHTML = list.length
+    ? list.map((m) => `<li><a href="${esc(m.careers)}" target="_blank" rel="noopener">${esc(m.company)}</a></li>`).join("")
+    : "<li style='color:var(--muted)'>None in this tier.</li>";
 }
 
 $("q").addEventListener("input", (e) => { state.q = e.target.value; render(); });

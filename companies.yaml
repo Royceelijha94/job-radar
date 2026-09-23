@@ -1,5 +1,8 @@
 # job-radar config
-# ats: greenhouse | lever | ashby | smartrecruiters | workday | oracle_hcm | amazon | uber | manual
+# ats: greenhouse | lever | ashby | smartrecruiters | workday | oracle_hcm | amazon | uber | manual | auto
+# "auto" = job-radar finds the board itself: it tries each slug on Greenhouse, Ashby, Lever and
+#   SmartRecruiters (plus the workday candidate if given), remembers what works, and retries
+#   companies it couldn't find every 3 days. Not found = listed under "Check these yourself".
 # "manual" = no public job feed; set a job alert on their careers site instead.
 # verify: true = board name is my best guess; `python radar.py validate` will confirm or flag it.
 
@@ -104,3 +107,163 @@ companies:
   - {rank: 48, name: Careem (Dubai), ats: greenhouse, token: careem, verify: true}
   - {rank: 49, name: Talabat (Dubai), ats: smartrecruiters, token: DeliveryHero, verify: true}
   - {rank: 50, name: noon (Dubai),   ats: manual, careers: "https://www.noon.com/careers"}
+
+  # ---- Tier 6: global infra, cloud and SaaS with India engineering ----
+  - {rank: 51, name: Stripe, ats: auto, slugs: [stripe]}
+  - {rank: 52, name: Cloudflare, ats: auto, slugs: [cloudflare]}
+  - {rank: 53, name: Datadog, ats: auto, slugs: [datadog]}
+  - {rank: 54, name: MongoDB, ats: auto, slugs: [mongodb]}
+  - {rank: 55, name: Snowflake, ats: auto, slugs: [snowflake, snowflakecomputing]}
+  - {rank: 56, name: Rippling, ats: auto, slugs: [rippling]}
+  - {rank: 57, name: Samsara, ats: auto, slugs: [samsara]}
+  - {rank: 58, name: Coinbase, ats: auto, slugs: [coinbase]}
+  - {rank: 59, name: DigitalOcean, ats: auto, slugs: [digitalocean98, digitalocean]}
+  - {rank: 60, name: JFrog, ats: auto, slugs: [jfrog]}
+  - {rank: 61, name: Docker, ats: auto, slugs: [docker]}
+  - {rank: 62, name: Kong, ats: auto, slugs: [kong, konghq]}
+  - {rank: 63, name: Couchbase, ats: auto, slugs: [couchbase]}
+  - {rank: 64, name: Yugabyte, ats: auto, slugs: [yugabyte]}
+  - {rank: 65, name: Redis, ats: auto, slugs: [redis, redislabs]}
+  - {rank: 66, name: ClickHouse, ats: auto, slugs: [clickhouse]}
+  - {rank: 67, name: Aerospike, ats: auto, slugs: [aerospike]}
+  - {rank: 68, name: Fivetran, ats: auto, slugs: [fivetran]}
+  - {rank: 69, name: Cohesity, ats: auto, slugs: [cohesity]}
+  - {rank: 70, name: Pure Storage, ats: auto, slugs: [purestorage]}
+  - {rank: 71, name: Druva, ats: auto, slugs: [druva]}
+  - {rank: 72, name: New Relic, ats: auto, slugs: [newrelic]}
+  - {rank: 73, name: Sumo Logic, ats: auto, slugs: [sumologic]}
+  - {rank: 74, name: PagerDuty, ats: auto, slugs: [pagerduty]}
+  - {rank: 75, name: Glean, ats: auto, slugs: [gleanwork]}
+  - {rank: 76, name: Zendesk, ats: auto, slugs: [zendesk]}
+  - {rank: 77, name: Sysdig, ats: auto, slugs: [sysdig]}
+  - {rank: 78, name: Snyk, ats: auto, slugs: [snyk]}
+  - {rank: 79, name: CrowdStrike, ats: auto, workday: {tenant: crowdstrike, wd: wd5, site: crowdstrikecareers}}
+  - {rank: 80, name: Autodesk, ats: auto, workday: {tenant: autodesk, wd: wd1, site: Ext}}
+  - {rank: 81, name: Mastercard, ats: auto, workday: {tenant: mastercard, wd: wd1, site: CorporateCareers}}
+  - {rank: 82, name: Intel, ats: auto, workday: {tenant: intel, wd: wd1, site: External}}
+  - {rank: 83, name: Micron, ats: auto, workday: {tenant: micron, wd: wd1, site: External}}
+  - {rank: 84, name: Akamai, ats: auto, workday: {tenant: akamai, wd: wd1, site: akamai_careers}}
+  - {rank: 85, name: Workday, ats: auto, workday: {tenant: workday, wd: wd5, site: Workday}}
+  - {rank: 86, name: Dell Technologies, ats: auto, workday: {tenant: dell, wd: wd1, site: External}}
+  - {rank: 87, name: AMD, ats: auto, workday: {tenant: amd, wd: wd1, site: External}}
+  - {rank: 88, name: Qualcomm, ats: auto, workday: {tenant: qualcomm, wd: wd5, site: External}}
+  - {rank: 89, name: Expedia Group, ats: manual}
+  - {rank: 90, name: Rakuten, ats: manual}
+  - {rank: 91, name: Tekion, ats: auto, slugs: [tekion]}
+  - {rank: 92, name: Uniphore, ats: auto, slugs: [uniphore]}
+  - {rank: 93, name: Hasura, ats: auto, slugs: [hasura]}
+  - {rank: 94, name: Icertis, ats: auto, slugs: [icertis]}
+  - {rank: 95, name: Innovaccer, ats: auto, slugs: [innovaccer]}
+
+  # ---- Tier 7: Indian product, fintech and consumer tech ----
+  - {rank: 96, name: Zeta, ats: auto, slugs: [zetasuite, zeta]}
+  - {rank: 97, name: Chargebee, ats: auto, slugs: [chargebee]}
+  - {rank: 98, name: Zepto, ats: auto, slugs: [zepto, zeptonow]}
+  - {rank: 99, name: Dream11, ats: auto, slugs: [dreamsports, dream11]}
+  - {rank: 100, name: Games24x7, ats: auto, slugs: [games24x7]}
+  - {rank: 101, name: ShareChat, ats: auto, slugs: [sharechat, mohallatech]}
+  - {rank: 102, name: InMobi, ats: auto, slugs: [inmobi]}
+  - {rank: 103, name: Glance, ats: auto, slugs: [glance, glanceinmobi]}
+  - {rank: 104, name: Paytm, ats: auto, slugs: [paytm]}
+  - {rank: 105, name: Navi, ats: auto, slugs: [navi-technologies, navitech]}
+  - {rank: 106, name: slice, ats: auto, slugs: [sliceit, slice-fintech]}
+  - {rank: 107, name: Jupiter Money, ats: auto, slugs: [jupiter-money, jupitermoney]}
+  - {rank: 108, name: Fi Money, ats: auto, slugs: [epifi]}
+  - {rank: 109, name: CoinDCX, ats: auto, slugs: [coindcx]}
+  - {rank: 110, name: CoinSwitch, ats: auto, slugs: [coinswitch]}
+  - {rank: 111, name: Upstox, ats: auto, slugs: [upstox]}
+  - {rank: 112, name: Angel One, ats: auto, slugs: [angelone, angelbroking]}
+  - {rank: 113, name: Cashfree Payments, ats: auto, slugs: [cashfree, cashfreepayments]}
+  - {rank: 114, name: Juspay, ats: auto, slugs: [juspay]}
+  - {rank: 115, name: Pine Labs, ats: auto, slugs: [pinelabs]}
+  - {rank: 116, name: BharatPe, ats: auto, slugs: [bharatpe]}
+  - {rank: 117, name: "PB Fintech (Policybazaar)", ats: auto, slugs: [policybazaar, pbfintech]}
+  - {rank: 118, name: Acko, ats: auto, slugs: [acko]}
+  - {rank: 119, name: Urban Company, ats: auto, slugs: [urbancompany]}
+  - {rank: 120, name: Rapido, ats: auto, slugs: [rapido, rapidobikes]}
+  - {rank: 121, name: Ola, ats: auto, slugs: [olacabs]}
+  - {rank: 122, name: Myntra, ats: auto, slugs: [myntra]}
+  - {rank: 123, name: Nykaa, ats: auto, slugs: [nykaa]}
+  - {rank: 124, name: Lenskart, ats: auto, slugs: [lenskart]}
+  - {rank: 125, name: Delhivery, ats: auto, slugs: [delhivery]}
+  - {rank: 126, name: MakeMyTrip, ats: auto, slugs: [makemytrip]}
+  - {rank: 127, name: Udaan, ats: auto, slugs: [udaan]}
+  - {rank: 128, name: Zetwerk, ats: auto, slugs: [zetwerk]}
+  - {rank: 129, name: Atlan, ats: auto, slugs: [atlan]}
+  - {rank: 130, name: Mindtickle, ats: auto, slugs: [mindtickle]}
+  - {rank: 131, name: Whatfix, ats: auto, slugs: [whatfix]}
+  - {rank: 132, name: Darwinbox, ats: auto, slugs: [darwinbox]}
+  - {rank: 133, name: LeadSquared, ats: auto, slugs: [leadsquared]}
+  - {rank: 134, name: Gupshup, ats: auto, slugs: [gupshup]}
+  - {rank: 135, name: Yellow.ai, ats: auto, slugs: [yellowai, yellow-ai]}
+  - {rank: 136, name: Observe.AI, ats: auto, slugs: [observeai]}
+  - {rank: 137, name: Hevo Data, ats: auto, slugs: [hevodata]}
+  - {rank: 138, name: Sprinto, ats: auto, slugs: [sprinto]}
+  - {rank: 139, name: upGrad, ats: auto, slugs: [upgrad]}
+  - {rank: 140, name: Physics Wallah, ats: auto, slugs: [physicswallah]}
+
+  # ---- Tier 8: global capability centres and enterprise in Bangalore ----
+  - {rank: 141, name: Tesco, ats: auto, slugs: [tesco]}
+  - {rank: 142, name: "Lowe's India", ats: manual}
+  - {rank: 143, name: Morgan Stanley, ats: manual}
+  - {rank: 144, name: Wells Fargo, ats: manual}
+  - {rank: 145, name: Fidelity International, ats: manual}
+  - {rank: 146, name: State Street, ats: manual}
+  - {rank: 147, name: Deutsche Bank, ats: manual}
+  - {rank: 148, name: Standard Chartered, ats: manual}
+  - {rank: 149, name: HSBC, ats: manual}
+  - {rank: 150, name: Barclays, ats: manual}
+  - {rank: 151, name: Citi, ats: manual}
+  - {rank: 152, name: Societe Generale, ats: manual}
+  - {rank: 153, name: Nike, ats: manual}
+  - {rank: 154, name: Honeywell, ats: manual}
+  - {rank: 155, name: Siemens, ats: manual}
+  - {rank: 156, name: Bosch, ats: auto, slugs: [BoschGroup]}
+  - {rank: 157, name: Philips, ats: manual}
+  - {rank: 158, name: GE HealthCare, ats: manual}
+  - {rank: 159, name: Shell, ats: manual}
+  - {rank: 160, name: Maersk, ats: manual}
+  - {rank: 161, name: "Mercedes-Benz R&D India", ats: manual}
+  - {rank: 162, name: Synopsys, ats: manual}
+  - {rank: 163, name: Cadence, ats: manual}
+  - {rank: 164, name: Arm, ats: manual}
+  - {rank: 165, name: Texas Instruments, ats: manual}
+  - {rank: 166, name: Hewlett Packard Enterprise, ats: manual}
+  - {rank: 167, name: IBM, ats: manual}
+  - {rank: 168, name: eBay, ats: manual}
+  - {rank: 169, name: Zoho, ats: manual}
+  - {rank: 170, name: SUSE, ats: auto, slugs: [suse]}
+  - {rank: 171, name: F5, ats: manual}
+  - {rank: 172, name: Ivanti, ats: manual}
+  - {rank: 173, name: Check Point, ats: manual}
+  - {rank: 174, name: Fortinet, ats: manual}
+  - {rank: 175, name: McAfee, ats: manual}
+  - {rank: 176, name: Accenture, ats: manual}
+  - {rank: 177, name: Infosys, ats: manual}
+  - {rank: 178, name: Thoughtworks, ats: auto, slugs: [thoughtworks]}
+  - {rank: 179, name: Publicis Sapient, ats: manual}
+  - {rank: 180, name: Juniper Networks, ats: manual}
+
+  # ---- Tier 9: Dubai and UAE ----
+  - {rank: 181, name: "e& (Etisalat)", ats: manual}
+  - {rank: 182, name: du, ats: manual}
+  - {rank: 183, name: Emirates Group, ats: manual}
+  - {rank: 184, name: Emirates NBD, ats: manual}
+  - {rank: 185, name: Majid Al Futtaim, ats: manual}
+  - {rank: 186, name: G42, ats: auto, slugs: [g42]}
+  - {rank: 187, name: Tabby, ats: auto, slugs: [tabby]}
+  - {rank: 188, name: Tamara, ats: auto, slugs: [tamara]}
+  - {rank: 189, name: Kitopi, ats: auto, slugs: [kitopi]}
+  - {rank: 190, name: Property Finder, ats: auto, slugs: [propertyfinder]}
+  - {rank: 191, name: Dubizzle Group, ats: auto, slugs: [dubizzle, dubizzlegroup]}
+  - {rank: 192, name: Bybit, ats: auto, slugs: [bybit]}
+
+  # ---- Tier 10: remote-first infrastructure ----
+  - {rank: 193, name: Tailscale, ats: auto}
+  - {rank: 194, name: Vercel, ats: auto}
+  - {rank: 195, name: Supabase, ats: auto}
+  - {rank: 196, name: Percona, ats: auto}
+  - {rank: 197, name: Sourcegraph, ats: auto}
+  - {rank: 198, name: CircleCI, ats: auto}
+  - {rank: 199, name: Airbyte, ats: auto}
+  - {rank: 200, name: Astronomer, ats: auto}
