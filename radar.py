@@ -129,7 +129,8 @@ def amazon(c, s):
     out = {}
     for term in SEARCH_TERMS:
         r = s.get("https://www.amazon.jobs/en/search.json",
-                  params={"base_query": term, "sort": "recent", "result_limit": 100}, timeout=TIMEOUT)
+                  params={"base_query": term, "sort": "recent", "result_limit": 100,
+                          "normalized_country_code[]": ["IND", "ARE"]}, timeout=TIMEOUT)
         r.raise_for_status()
         for j in r.json().get("jobs", []):
             jid = j.get("id_icims") or j.get("id")

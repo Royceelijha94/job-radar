@@ -49,8 +49,8 @@ companies:
   - {rank: 1,  name: Google,         ats: manual, careers: "https://www.google.com/about/careers/applications/jobs/results/?q=site%20reliability&location=India"}
   - {rank: 2,  name: Microsoft,      ats: manual, careers: "https://careers.microsoft.com"}
   - {rank: 3,  name: Amazon (AWS),   ats: amazon}
-  - {rank: 4,  name: Atlassian,      ats: lever, token: atlassian, verify: true}
-  - {rank: 5,  name: Uber,           ats: uber, verify: true}
+  - {rank: 4,  name: Atlassian,      ats: manual, careers: "https://www.atlassian.com/company/careers/all-jobs?team=Engineering&location=India"}
+  - {rank: 5,  name: Uber,           ats: manual, careers: "https://www.uber.com/global/en/careers/list/?location=IND-Karnataka-Bangalore"}
   - {rank: 6,  name: Databricks,     ats: greenhouse, token: databricks}
   - {rank: 7,  name: Salesforce,     ats: workday, tenant: salesforce, wd: wd12, site: External_Career_Site}
   - {rank: 8,  name: Nvidia,         ats: workday, tenant: nvidia, wd: wd5, site: NVIDIAExternalCareerSite}
@@ -58,35 +58,35 @@ companies:
   - {rank: 10, name: LinkedIn,       ats: manual, careers: "https://www.linkedin.com/company/linkedin/jobs/"}
 
   # ---- Tier 2: strong SRE/platform teams in Bangalore ----
-  - {rank: 11, name: Walmart Global Tech, ats: workday, tenant: walmart, wd: wd5, site: WalmartExternal}
+  - {rank: 11, name: Walmart Global Tech, ats: manual, careers: "https://careers.walmart.com/in"}
   - {rank: 12, name: Flipkart,       ats: manual, careers: "https://www.flipkartcareers.com"}
   - {rank: 13, name: Intuit,         ats: manual, careers: "https://jobs.intuit.com"}
   - {rank: 14, name: Oracle (OCI),   ats: oracle_hcm, host: eeho.fa.us2.oraclecloud.com, site: CX_45001, verify: true}
   - {rank: 15, name: Cisco,          ats: manual, careers: "https://jobs.cisco.com"}
   - {rank: 16, name: Target,         ats: workday, tenant: target, wd: wd5, site: targetcareers, verify: true}
   - {rank: 17, name: ServiceNow,     ats: smartrecruiters, token: ServiceNow}
-  - {rank: 18, name: Visa,           ats: smartrecruiters, token: Visa}
+  - {rank: 18, name: Visa,           ats: manual, careers: "https://corporate.visa.com/en/jobs"}
   - {rank: 19, name: Red Hat,        ats: workday, tenant: redhat, wd: wd5, site: jobs}
   - {rank: 20, name: Nutanix,        ats: manual, careers: "https://www.nutanix.com/company/careers"}
   - {rank: 21, name: Rubrik,         ats: greenhouse, token: rubrik}
-  - {rank: 22, name: Confluent,      ats: greenhouse, token: confluent, verify: true}
+  - {rank: 22, name: Confluent,      ats: ashby, token: confluent}
   - {rank: 23, name: Twilio,         ats: greenhouse, token: twilio}
   - {rank: 24, name: Okta,           ats: greenhouse, token: okta}
   - {rank: 25, name: Zscaler,        ats: greenhouse, token: zscaler, verify: true}
   - {rank: 26, name: Palo Alto Networks, ats: manual, careers: "https://jobs.paloaltonetworks.com"}
   - {rank: 27, name: SAP Labs,       ats: manual, careers: "https://jobs.sap.com"}
-  - {rank: 28, name: JPMorgan Chase, ats: oracle_hcm, host: jpmc.fa.oracle.com, site: CX_1001, verify: true}
+  - {rank: 28, name: JPMorgan Chase, ats: manual, careers: "https://careers.jpmorgan.com"}
   - {rank: 29, name: Goldman Sachs,  ats: manual, careers: "https://higher.gs.com"}
   - {rank: 30, name: American Express, ats: manual, careers: "https://aexp.eightfold.ai/careers"}
 
   # ---- Tier 3: Indian product companies (fast hiring, heavy infra) ----
-  - {rank: 31, name: Razorpay,       ats: lever, token: razorpay, verify: true}
+  - {rank: 31, name: Razorpay,       ats: manual, careers: "https://razorpay.com/jobs"}
   - {rank: 32, name: Swiggy,         ats: manual, careers: "https://careers.swiggy.com"}
   - {rank: 33, name: Zomato (Eternal), ats: manual, careers: "https://www.zomato.com/careers"}
   - {rank: 34, name: CRED,           ats: lever, token: cred, verify: true}
   - {rank: 35, name: Meesho,         ats: lever, token: meesho, verify: true}
   - {rank: 36, name: Groww,          ats: manual, careers: "https://groww.in/careers"}
-  - {rank: 37, name: Postman,        ats: greenhouse, token: postman}
+  - {rank: 37, name: Postman,        ats: manual, careers: "https://job-boards.greenhouse.io/postman"}
   - {rank: 38, name: Freshworks,     ats: smartrecruiters, token: Freshworks}
   - {rank: 39, name: BrowserStack,   ats: manual, careers: "https://www.browserstack.com/careers"}
   - {rank: 40, name: Sprinklr,       ats: manual, careers: "https://www.sprinklr.com/careers"}
