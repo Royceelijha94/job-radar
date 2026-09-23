@@ -110,6 +110,7 @@
       <option value="8">Tier 8: capability centres</option>
       <option value="9">Tier 9: Dubai and UAE</option>
       <option value="10">Tier 10: remote-first infra</option>
+      <option value="li">LinkedIn alerts</option>
     </select>
     <div class="seg" role="group" aria-label="Location">
       <button data-loc="" aria-pressed="true">All</button>
@@ -161,7 +162,7 @@ function row(j) {
     <a class="title" href="${esc(j.url)}" target="_blank" rel="noopener">${esc(j.title)}</a>
     <a class="open" href="${esc(j.url)}" target="_blank" rel="noopener" aria-label="Open ${esc(j.title)} at ${esc(j.company)}">Open job</a>
     <span></span>
-    <span class="meta"><span class="co">${esc(j.company)}</span><span>${esc(j.location || "Location not listed")}</span><span>Rank ${j.rank}</span></span>
+    <span class="meta"><span class="co">${esc(j.company)}</span><span>${esc(j.location || "Location not listed")}</span><span>${j.rank ? "Rank " + j.rank : "via LinkedIn"}</span></span>
   </li>`;
 }
 
@@ -175,7 +176,7 @@ function render() {
     (!state.tier || String(j.tier) === state.tier) &&
     (!state.loc || locKind(j.location) === state.loc || (state.loc === "ind" && locKind(j.location) === "blr")) &&
     (!state.fresh || (j.first_seen && Date.now() - new Date(j.first_seen) < DAY))
-  ).sort((a, b) => (b.first_seen || "").localeCompare(a.first_seen || "") || a.rank - b.rank);
+  ).sort((a, b) => (b.first_seen || "").localeCompare(a.first_seen || "") || (a.rank || 999) - (b.rank || 999));
 
   const groups = [
     ["Last 24 hours", (j) => j.first_seen && Date.now() - new Date(j.first_seen) < DAY],

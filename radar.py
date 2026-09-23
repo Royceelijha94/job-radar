@@ -10,6 +10,9 @@ Alert channels come from environment variables / GitHub Secrets:
   NTFY_TOPIC, TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT_ID
 """
 import argparse
+import email
+import html as html_lib
+import imaplib
 import json
 import logging
 import os
@@ -36,6 +39,12 @@ TIER_LIMITS = [(10, 1), (30, 2), (40, 3), (45, 4), (50, 5), (95, 6), (140, 7), (
 PROBE_ORDER = ["greenhouse", "ashby", "lever", "smartrecruiters"]
 REPROBE_DAYS = 3
 FORGET_AFTER_DAYS = 120
+LINKEDIN = "LinkedIn alerts"
+LINKEDIN_KEEP_DAYS = 14
+LINKEDIN_QUERY = "from:(jobalerts-noreply@linkedin.com OR jobs-listings@linkedin.com) newer_than:3d"
+NOISE = re.compile(r"^(easy apply|actively recruiting|promoted|be an early applicant|apply|view job|see all jobs|"
+                   r"\d+ (school )?alum|\d+ connections?|\d+ applicants?|.*new jobs? match|your job alert|"
+                   r"-{3,}|unsubscribe|this email was intended|.*reviewing applicants).*$", re.I)
 
 logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s")
 log = logging.getLogger("job-radar")
@@ -231,6 +240,116 @@ def careers_link(c):
                                 quote_plus(f"{c['name']} careers site reliability devops India"))
 
 
+# ---------------- LinkedIn job-alert emails (via Gmail) ----------------
+def email_text(msg):
+    plain = html = None
+    for part in msg.walk():
+        ct = part.get_content_type()
+        if ct not in ("text/plain", "text/html"):
+            continue
+        body = part.get_payload(decode=True) or b""
+        text = body.decode(part.get_content_charset() or "utf-8", "replace")
+        if ct == "text/plain" and plain is None:
+            plain = text
+        elif ct == "text/html" and html is None:
+            html = text
+    if plain and "jobs/view" in plain:
+        return plain, "plain"
+    if html:
+        h = re.sub(r"(?is)<(script|style).*?</\1>", "", html)
+        h = re.sub(r'(?i)<a[^>]+href="([^"]+)"[^>]*>', lambda m: "\n" + m.group(1) + "\n", h)
+        h = re.sub(r"(?i)<br\s*/?>|</(p|div|td|tr|h\d|li|table|a|span)>", "\n", h)
+        return html_lib.unescape(re.sub(r"<[^>]+>", "", h)), "html"
+    return plain or "", "plain"
+
+
+def parse_linkedin(text, kind):
+    """Pull (id, title, company, location) out of a LinkedIn job-alert email."""
+    lines = [l.strip() for l in text.splitlines()]
+    lines = [l for l in lines if l and ("jobs/view" in l or not NOISE.match(l))]
+    jobs, last = {}, -1
+    for i, line in enumerate(lines):
+        m = re.search(r"linkedin\.com/(?:comm/)?jobs/view/(\d+)", line)
+        if not m:
+            continue
+        jid = m.group(1)
+        if kind == "plain":   # text first, then "View job: <url>"
+            info = [l for l in lines[last + 1:i] if "http" not in l][-3:]
+        else:                 # html: link first, then title, then "Company · Location"
+            info = []
+            for l in lines[i + 1:i + 6]:
+                if "http" in l:
+                    if info:
+                        break
+                    continue
+                info.append(l)
+        last = i
+        if jid in jobs and jobs[jid]["title"]:
+            continue
+        title = info[0] if info else ""
+        company = location = ""
+        rest = info[1:]
+        if rest and "·" in rest[0]:
+            company, _, location = rest[0].partition("·")
+        else:
+            company = rest[0] if rest else ""
+            location = rest[1] if len(rest) > 1 else ""
+        jobs[jid] = job(jid, title or f"LinkedIn job {jid}", location.strip(), f"https://www.linkedin.com/jobs/view/{jid}/")
+        jobs[jid]["employer"] = company.strip()
+    return list(jobs.values())
+
+
+def fetch_linkedin_emails():
+    user, pw = os.getenv("GMAIL_USER"), os.getenv("GMAIL_APP_PASSWORD")
+    if not (user and pw):
+        return None  # not configured
+    imap = imaplib.IMAP4_SSL("imap.gmail.com")
+    try:
+        imap.login(user, pw.replace(" ", ""))
+        if imap.select('"[Gmail]/All Mail"', readonly=True)[0] != "OK":
+            imap.select("INBOX", readonly=True)
+        typ, data = imap.search(None, "X-GM-RAW", f'"{LINKEDIN_QUERY}"')
+        jobs = {}
+        for num in (data[0].split() if typ == "OK" and data and data[0] else []):
+            typ, parts = imap.fetch(num, "(BODY.PEEK[])")
+            if typ != "OK" or not parts or not isinstance(parts[0], tuple):
+                continue
+            text, kind = email_text(email.message_from_bytes(parts[0][1]))
+            for j in parse_linkedin(text, kind):
+                jobs.setdefault(j["id"], j)
+        return list(jobs.values())
+    finally:
+        try:
+            imap.logout()
+        except Exception:
+            pass
+
+
+def linkedin_scan(cfg, state, ts):
+    """Returns (new_jobs, health_row or None)."""
+    try:
+        jobs = fetch_linkedin_emails()
+    except Exception as e:
+        log.warning("LinkedIn email check failed (%s)", e)
+        return [], {"company": LINKEDIN, "ok": False, "error": str(e)[:160]}
+    if jobs is None:
+        return [], None
+    excl = cfg["filters"]["title_exclude"]
+    jobs = [j for j in jobs if not any(re.search(p, j["title"].lower()) for p in excl)]
+    seen = state["seen"].setdefault(LINKEDIN, {})
+    open_jobs = {j["id"]: j for j in state["open"].get(LINKEDIN, [])}
+    new = []
+    for j in jobs:
+        if j["id"] not in seen:
+            seen[j["id"]] = ts
+            open_jobs[j["id"]] = j
+            new.append({**j, "company": f"{j['employer'] or 'LinkedIn'} (LinkedIn)"})
+    cutoff = (now_utc() - timedelta(days=LINKEDIN_KEEP_DAYS)).isoformat()
+    state["open"][LINKEDIN] = [j for jid, j in open_jobs.items() if (seen.get(jid) or "") >= cutoff]
+    log.info("LinkedIn alerts: %d jobs in recent emails, %d new", len(jobs), len(new))
+    return new, {"company": LINKEDIN, "ok": True, "open": len(jobs), "matching": len(jobs)}
+
+
 # ---------------- scanning ----------------
 def load_config():
     with open(BASE / "companies.yaml") as f:
@@ -309,6 +428,11 @@ def run(cfg):
             state["seeded"].append(name)
             log.info("%s: first scan, recorded %d existing matching jobs without alerting", name, len(matched))
 
+    li_new, li_health = linkedin_scan(cfg, state, ts)
+    new_jobs += li_new
+    if li_health:
+        health.append(li_health)
+
     prune(state)
     save_json(STATE_PATH, state)
     write_dashboard_data(companies, state, health, ts)
@@ -321,6 +445,10 @@ def prune(state):
     """Forget closed jobs after FORGET_AFTER_DAYS so the state file stays small."""
     cutoff = (now_utc() - timedelta(days=FORGET_AFTER_DAYS)).isoformat()
     for name, seen in state["seen"].items():
+        if name == LINKEDIN:
+            for jid in [k for k, v in seen.items() if (v or "") < cutoff]:
+                del seen[jid]
+            continue
         open_ids = {j["id"] for j in state["open"].get(name, [])}
         for jid in [k for k, v in seen.items() if k not in open_ids and (v or "") < cutoff]:
             del seen[jid]
@@ -329,6 +457,9 @@ def prune(state):
 def write_dashboard_data(companies, state, health, ts):
     by_name = {c["name"]: c for c in companies}
     jobs = []
+    for j in state["open"].get(LINKEDIN, []):
+        jobs.append({**j, "company": j.get("employer") or "LinkedIn", "rank": None, "tier": "li",
+                     "source": "linkedin", "first_seen": state["seen"].get(LINKEDIN, {}).get(j["id"])})
     for name, open_jobs in state["open"].items():
         if name not in by_name:
             continue
@@ -417,6 +548,11 @@ def validate(cfg):
             m = sum(is_match(j, cfg["filters"]) for j in jobs)
             board = f"{c['ats']}:{c.get('token') or c.get('tenant')}" if c.get("auto") else c["ats"]
             lines.append(f"{c['rank']:>3}  {c['name'][:26]:<26} {board[:16]:<16} {'OK':<7} {len(jobs):>6} {m:>6}")
+    try:
+        li = fetch_linkedin_emails()
+        lines.append(f"\nLinkedIn alerts: {'not set up (add GMAIL_USER / GMAIL_APP_PASSWORD secrets)' if li is None else f'OK, {len(li)} jobs in the last 3 days of alert emails'}")
+    except Exception as e:
+        lines.append(f"\nLinkedIn alerts: FAIL {str(e)[:100]}")
     manual = sum(c["ats"] == "manual" for c in companies)
     lines.append(f"\n{ok} boards working, {bad} failing, {manual} to check yourself.")
     report = "\n".join(lines)
