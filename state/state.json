@@ -2,6 +2,12 @@
  "open": {
   "Adobe": [
    {
+    "id": "/job/Noida/Cloud-Engineer-3---AI-Agents_R171273",
+    "location": "Noida",
+    "title": "Cloud Engineer 3 - AI Agents",
+    "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Noida/Cloud-Engineer-3---AI-Agents_R171273"
+   },
+   {
     "id": "/job/Bangalore/Sr-Computer-Scientist--Data-Platform-Engineer-_R166812",
     "location": "Bangalore",
     "title": "Sr. Computer Scientist (Data Platform Engineer)",
@@ -9,29 +15,24 @@
    }
   ],
   "Airbyte": [],
-  "Amazon (AWS)": [],
-  "Astronomer": [],
-  "Atlan": [],
-  "Autodesk": [
+  "Amazon (AWS)": [
    {
-    "id": "/job/Idaho-USA---Remote/Senior-Site-Reliability-Engineer_26WD99276-2",
-    "location": "2 Locations",
-    "title": "Senior Site Reliability Engineer",
-    "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Idaho-USA---Remote/Senior-Site-Reliability-Engineer_26WD99276-2"
-   },
-   {
-    "id": "/job/Ontario-CAN---Remote/Senior-DevOps-Developer_26WD100437-1",
-    "location": "14 Locations",
-    "title": "Senior DevOps Developer",
-    "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Ontario-CAN---Remote/Senior-DevOps-Developer_26WD100437-1"
-   },
-   {
-    "id": "/job/Dublin-IRL/Senior-Platform-Support-Engineer_26WD95293-1",
-    "location": "2 Locations",
-    "title": "Senior Platform Engineer",
-    "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Dublin-IRL/Senior-Platform-Support-Engineer_26WD95293-1"
+    "id": "10489541",
+    "location": "Hyderabad, Telangana, IND",
+    "title": "System Dev Engineer III, AFT Platform Engineering and Services",
+    "url": "https://www.amazon.jobs/en/jobs/10489541/system-dev-engineer-iii-aft-platform-engineering-and-services"
    }
   ],
+  "Astronomer": [
+   {
+    "id": "193740e4-593e-4fef-adf1-b6def7b7765a",
+    "location": "Hyderabad",
+    "title": "Senior Customer Reliability Engineer, Infrastructure - Hyderabad, India",
+    "url": "https://jobs.ashbyhq.com/astronomer/193740e4-593e-4fef-adf1-b6def7b7765a"
+   }
+  ],
+  "Atlan": [],
+  "Autodesk": [],
   "Bosch": [
    {
     "id": "744000149609680",
@@ -87,12 +88,6 @@
   "Confluent": [],
   "CrowdStrike": [
    {
-    "id": "/job/USA---Sunnyvale-CA/Cloud-Engineer-III--Falcon-Exposure-Management--Hybrid-_R29807",
-    "location": "4 Locations",
-    "title": "Cloud Engineer III, Falcon Exposure Management (Hybrid)",
-    "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Sunnyvale-CA/Cloud-Engineer-III--Falcon-Exposure-Management--Hybrid-_R29807"
-   },
-   {
     "id": "/job/India---Bangalore/Network-Reliability-Engineer-III--Hybrid--IND-_R29210",
     "location": "India - Bangalore",
     "title": "Network Reliability Engineer III (Hybrid, IND)",
@@ -109,18 +104,6 @@
     "location": "India - Pune",
     "title": "Engineer III - CICD DevOps",
     "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/India---Pune/Engineer-III---CICD-DevOps_R29096"
-   },
-   {
-    "id": "/job/Australia---Sydney/Sr-Engineer-II---EPICS--NG-SIEM--Hybrid--Sydney-_R28362",
-    "location": "2 Locations",
-    "title": "Sr. Engineer II, DevOps, NG-SIEM (Remote, AUS)",
-    "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/Australia---Sydney/Sr-Engineer-II---EPICS--NG-SIEM--Hybrid--Sydney-_R28362"
-   },
-   {
-    "id": "/job/Australia---Sydney/Sr-Engineer---Falcon-NG-SIEM--Serverless-Cell-Platform_R29475",
-    "location": "2 Locations",
-    "title": "Sr. Engineer, DevOps, NG-SIEM (Remote, AUS)",
-    "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/Australia---Sydney/Sr-Engineer---Falcon-NG-SIEM--Serverless-Cell-Platform_R29475"
    },
    {
     "id": "/job/India---Bangalore/Engineer-III---AI-Powered-SRE--UK-Shift-Timing-_R29953",
@@ -152,10 +135,22 @@
   "Datadog": [],
   "DigitalOcean": [
    {
+    "id": "8192833",
+    "location": "Hyderabad",
+    "title": "Cloud Operations Engineer I",
+    "url": "https://www.digitalocean.com/careers/position/apply/?gh_jid=8192833"
+   },
+   {
     "id": "8165867",
     "location": "Bengaluru",
     "title": "Senior DevOps Engineer",
     "url": "https://www.digitalocean.com/careers/position/apply/?gh_jid=8165867"
+   },
+   {
+    "id": "8193018",
+    "location": "Hyderabad",
+    "title": "Software Engineer II - Managed Kubernetes products",
+    "url": "https://www.digitalocean.com/careers/position/apply/?gh_jid=8193018"
    }
   ],
   "Docker": [],
@@ -206,26 +201,7 @@
     "url": "https://job-boards.greenhouse.io/inmobi/jobs/7393433"
    }
   ],
-  "Intel": [
-   {
-    "id": "/job/US-Oregon-Hillsboro/Senior-PDK-Reliability-Engineer_JR0287181",
-    "location": "4 Locations",
-    "title": "Senior PDK Reliability Engineer",
-    "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Senior-PDK-Reliability-Engineer_JR0287181"
-   },
-   {
-    "id": "/job/US-New-Mexico-Albuquerque/Senior-Silicon-Photonics-Reliability-Engineer_JR0287338",
-    "location": "3 Locations",
-    "title": "Senior Silicon Photonics Reliability Engineer",
-    "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-New-Mexico-Albuquerque/Senior-Silicon-Photonics-Reliability-Engineer_JR0287338"
-   },
-   {
-    "id": "/job/US-California-Folsom/TD-Memory-Quality-and-Reliability-Engineer_JR0286762",
-    "location": "3 Locations",
-    "title": "TD Memory Quality and Reliability Engineer",
-    "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Folsom/TD-Memory-Quality-and-Reliability-Engineer_JR0286762"
-   }
-  ],
+  "Intel": [],
   "JFrog": [],
   "Kong": [
    {
@@ -237,10 +213,10 @@
   ],
   "LinkedIn alerts": [
    {
-    "employer": "India",
+    "employer": "Flexiple",
     "id": "4469824272",
-    "location": "This company is actively hiring",
-    "title": "Flexiple",
+    "location": "India",
+    "title": "Site Reliability Engineer",
     "url": "https://www.linkedin.com/jobs/view/4469824272/"
    },
    {
@@ -258,10 +234,10 @@
     "url": "https://www.linkedin.com/jobs/view/4468420396/"
    },
    {
-    "employer": "Delhi",
+    "employer": "Morningstar",
     "id": "4467979115",
-    "location": "This company is actively hiring",
-    "title": "Morningstar",
+    "location": "Delhi",
+    "title": "Infrastructure Engineer",
     "url": "https://www.linkedin.com/jobs/view/4467979115/"
    },
    {
@@ -272,45 +248,31 @@
     "url": "https://www.linkedin.com/jobs/view/4469822143/"
    },
    {
-    "employer": "India",
+    "employer": "Flexiple",
     "id": "4469575112",
-    "location": "This company is actively hiring",
-    "title": "Flexiple",
+    "location": "India",
+    "title": "DevOps Engineer",
     "url": "https://www.linkedin.com/jobs/view/4469575112/"
    },
    {
-    "employer": "Montreal, QC",
-    "id": "4439253468",
-    "location": "This company is actively hiring",
-    "title": "Xsolla",
-    "url": "https://www.linkedin.com/jobs/view/4439253468/"
-   },
-   {
-    "employer": "Canada",
-    "id": "4401914138",
-    "location": "This company is actively hiring",
-    "title": "Tailscale",
-    "url": "https://www.linkedin.com/jobs/view/4401914138/"
-   },
-   {
-    "employer": "Bengaluru",
+    "employer": "eBay",
     "id": "4430604888",
-    "location": "This company is actively hiring",
-    "title": "eBay",
+    "location": "Bengaluru",
+    "title": "Site Reliability Engineer 3",
     "url": "https://www.linkedin.com/jobs/view/4430604888/"
    },
    {
-    "employer": "Bengaluru",
+    "employer": "<strong class=\"font-bold\" style=\"font-weight: 600;\">Analyst</strong> jobs in Bengaluru",
     "id": "4449206760",
-    "location": "This company is actively hiring",
-    "title": "EY",
+    "location": "Analyst - Assurance - National - ASU - Audit - Standards and Methodologies - Bangalore",
+    "title": "New jobs from your other alerts",
     "url": "https://www.linkedin.com/jobs/view/4449206760/"
    },
    {
-    "employer": "Bengaluru",
+    "employer": "BlackRock",
     "id": "4469517793",
-    "location": "This company is actively hiring",
-    "title": "BlackRock",
+    "location": "Bengaluru",
+    "title": "Analyst, Data Management",
     "url": "https://www.linkedin.com/jobs/view/4469517793/"
    },
    {
@@ -349,31 +311,17 @@
     "url": "https://www.linkedin.com/jobs/view/4451062427/"
    },
    {
-    "employer": "Bengaluru East",
+    "employer": "Target",
     "id": "4469820504",
-    "location": "This company is actively hiring",
-    "title": "Target",
+    "location": "Bengaluru East",
+    "title": "Data Analyst",
     "url": "https://www.linkedin.com/jobs/view/4469820504/"
    },
    {
-    "employer": "Jobgether",
-    "id": "4468711395",
-    "location": "Canada",
-    "title": "Senior Site Reliability Engineer",
-    "url": "https://www.linkedin.com/jobs/view/4468711395/"
-   },
-   {
-    "employer": "Jobright.ai",
-    "id": "4467671141",
-    "location": "Canada",
-    "title": "DevOps Engineer, New Grad",
-    "url": "https://www.linkedin.com/jobs/view/4467671141/"
-   },
-   {
-    "employer": "India",
+    "employer": "Flexiple",
     "id": "4469970234",
-    "location": "This company is actively hiring",
-    "title": "Flexiple",
+    "location": "India",
+    "title": "Site Reliability Engineer",
     "url": "https://www.linkedin.com/jobs/view/4469970234/"
    },
    {
@@ -384,10 +332,10 @@
     "url": "https://www.linkedin.com/jobs/view/4467648131/"
    },
    {
-    "employer": "Bengaluru",
+    "employer": "Miratech",
     "id": "4467389521",
-    "location": "This company is actively hiring",
-    "title": "Miratech",
+    "location": "Bengaluru",
+    "title": "Junior SRE Engineer",
     "url": "https://www.linkedin.com/jobs/view/4467389521/"
    },
    {
@@ -454,31 +402,17 @@
     "url": "https://www.linkedin.com/jobs/view/4468571107/"
    },
    {
-    "employer": "AuthZed",
-    "id": "4468150037",
-    "location": "Canada",
-    "title": "Senior Site Reliability Engineer, Security",
-    "url": "https://www.linkedin.com/jobs/view/4468150037/"
-   },
-   {
-    "employer": "Greater Vancouver Metropolitan Area",
-    "id": "4461192930",
-    "location": "This company is actively hiring",
-    "title": "Samsung Electronics",
-    "url": "https://www.linkedin.com/jobs/view/4461192930/"
-   },
-   {
-    "employer": "Bengaluru",
+    "employer": "Proofpoint",
     "id": "4415345658",
-    "location": "This company is actively hiring",
-    "title": "Proofpoint",
+    "location": "Bengaluru",
+    "title": "Site Reliablity Engineer III",
     "url": "https://www.linkedin.com/jobs/view/4415345658/"
    },
    {
-    "employer": "Bangalore Urban",
+    "employer": "zenda",
     "id": "4457488693",
-    "location": "This company is actively hiring",
-    "title": "zenda",
+    "location": "Bangalore Urban",
+    "title": "DevOps Engineer",
     "url": "https://www.linkedin.com/jobs/view/4457488693/"
    },
    {
@@ -489,45 +423,38 @@
     "url": "https://www.linkedin.com/jobs/view/4468568030/"
    },
    {
-    "employer": "India",
+    "employer": "Flexiple",
     "id": "4470207366",
-    "location": "This company is actively hiring",
-    "title": "Flexiple",
+    "location": "India",
+    "title": "DevOps Engineer",
     "url": "https://www.linkedin.com/jobs/view/4470207366/"
    },
    {
-    "employer": "Bengaluru, Karnataka, India",
-    "id": "4462948050",
-    "location": "This company is actively hiring",
-    "title": "PDI Technologies",
-    "url": "https://www.linkedin.com/jobs/view/4462948050/"
-   },
-   {
-    "employer": "Bengaluru, Karnataka, India",
+    "employer": "SymphonyAI",
     "id": "4459636962",
-    "location": "This company is actively hiring",
-    "title": "SymphonyAI",
+    "location": "Bengaluru, Karnataka, India",
+    "title": "Site Reliability Engineer",
     "url": "https://www.linkedin.com/jobs/view/4459636962/"
    },
    {
-    "employer": "Bengaluru, Karnataka, India",
+    "employer": "SolarWinds",
     "id": "4469852331",
-    "location": "This company is actively hiring",
-    "title": "SolarWinds",
+    "location": "Bengaluru, Karnataka, India",
+    "title": "Site Reliability Engineer",
     "url": "https://www.linkedin.com/jobs/view/4469852331/"
    },
    {
-    "employer": "Bengaluru, Karnataka, India",
+    "employer": "HARMAN India",
     "id": "4457788813",
-    "location": "This company is actively hiring",
-    "title": "HARMAN India",
+    "location": "Bengaluru, Karnataka, India",
+    "title": "Software Engineer - Devops SRE",
     "url": "https://www.linkedin.com/jobs/view/4457788813/"
    },
    {
-    "employer": "Bengaluru, Karnataka, India",
+    "employer": "Akamai Technologies",
     "id": "4469172041",
-    "location": "This company is actively hiring",
-    "title": "Akamai Technologies",
+    "location": "Bengaluru, Karnataka, India",
+    "title": "Site Reliability Engineer II",
     "url": "https://www.linkedin.com/jobs/view/4469172041/"
    },
    {
@@ -538,14 +465,7 @@
     "url": "https://www.linkedin.com/jobs/view/4462943375/"
    }
   ],
-  "Mastercard": [
-   {
-    "id": "/job/Dublin-Ireland/Senior-Site-Reliability-Engineer_R-289943",
-    "location": "2 Locations",
-    "title": "Senior Platform Engineer",
-    "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Dublin-Ireland/Senior-Site-Reliability-Engineer_R-289943"
-   }
-  ],
+  "Mastercard": [],
   "Meesho": [
    {
     "id": "60e0d986-abe8-42ee-b172-0d9aecb307b7",
@@ -562,6 +482,18 @@
     "location": "Bengaluru",
     "title": "Cloud Operations Engineer",
     "url": "https://www.mongodb.com/careers/job/?gh_jid=8184637"
+   },
+   {
+    "id": "8071475",
+    "location": "Gurugram",
+    "title": "Lead, Platform Engineering",
+    "url": "https://www.mongodb.com/careers/job/?gh_jid=8071475"
+   },
+   {
+    "id": "8051379",
+    "location": "Gurugram",
+    "title": "Senior Site Reliability Engineer",
+    "url": "https://www.mongodb.com/careers/job/?gh_jid=8051379"
    }
   ],
   "New Relic": [
@@ -574,20 +506,8 @@
   ],
   "Nvidia": [
    {
-    "id": "/job/Israel-Yokneam/Senior-Site-Reliability-Engineer_JR2024251",
-    "location": "2 Locations",
-    "title": "Senior Site Reliability Engineer",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Site-Reliability-Engineer_JR2024251"
-   },
-   {
-    "id": "/job/Israel-Yokneam/Senior-HPC-Site-Reliability-Engineer_JR2014015",
-    "location": "2 Locations",
-    "title": "Senior HPC Site Reliability Engineer",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-HPC-Site-Reliability-Engineer_JR2014015"
-   },
-   {
     "id": "/job/India-Bengaluru/Senior-Network-Site-Reliability-Engineer_JR2020679",
-    "location": "3 Locations",
+    "location": "India, Bengaluru, India, Hyderabad, India, Pune",
     "title": "Senior Network Site Reliability Engineer",
     "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/Senior-Network-Site-Reliability-Engineer_JR2020679"
    },
@@ -604,64 +524,10 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/Senior-Network-Site-Reliability-Engineer_JR2024289"
    },
    {
-    "id": "/job/US-CA-Santa-Clara/Senior-Site-Reliability-Engineer---HPC_JR2013271",
-    "location": "3 Locations",
-    "title": "Senior Site Reliability Engineer - HPC",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Site-Reliability-Engineer---HPC_JR2013271"
-   },
-   {
-    "id": "/job/Switzerland-Zurich/Senior-Site-Reliability-Engineer--DGX-Cloud_JR2021427-1",
-    "location": "2 Locations",
-    "title": "Senior Site Reliability Engineer, DGX Cloud",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/Senior-Site-Reliability-Engineer--DGX-Cloud_JR2021427-1"
-   },
-   {
-    "id": "/job/Israel-Raanana/DevOps-Engineer_JR2020488",
-    "location": "2 Locations",
-    "title": "DevOps Engineer",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Raanana/DevOps-Engineer_JR2020488"
-   },
-   {
-    "id": "/job/Ukraine-Kyiv/DevOps-Engineer_JR2020684",
-    "location": "2 Locations",
-    "title": "DevOps Engineer",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Ukraine-Kyiv/DevOps-Engineer_JR2020684"
-   },
-   {
-    "id": "/job/Israel-Raanana/Senior-DevOps-Engineer_JR2017130",
-    "location": "3 Locations",
-    "title": "Senior DevOps Engineer",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Raanana/Senior-DevOps-Engineer_JR2017130"
-   },
-   {
-    "id": "/job/Israel-Yokneam/DevOps-Engineer--DOCA_JR2023758",
-    "location": "2 Locations",
-    "title": "DevOps Engineer, DOCA",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/DevOps-Engineer--DOCA_JR2023758"
-   },
-   {
-    "id": "/job/Israel-Raanana/Senior-Solutions-Architect--DevOps_JR2025260",
-    "location": "3 Locations",
-    "title": "Senior Solutions Architect, DevOps",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Raanana/Senior-Solutions-Architect--DevOps_JR2025260"
-   },
-   {
-    "id": "/job/Israel-Yokneam/Senior-Research-Ops---DevOps-Engineer_JR2017230",
-    "location": "2 Locations",
-    "title": "Senior Research-Ops & DevOps Engineer",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Research-Ops---DevOps-Engineer_JR2017230"
-   },
-   {
     "id": "/job/India-Pune/Senior-DevOps-Engineer---E-commerce_JR2021184",
     "location": "India, Pune",
     "title": "Senior DevOps Engineer - E-commerce",
     "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Pune/Senior-DevOps-Engineer---E-commerce_JR2021184"
-   },
-   {
-    "id": "/job/Israel-Tel-Aviv/Senior-HPC-DevOps-Engineer--NCS_JR2022973",
-    "location": "2 Locations",
-    "title": "Senior HPC DevOps Engineer, NCS",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-HPC-DevOps-Engineer--NCS_JR2022973"
    },
    {
     "id": "/job/India-Mumbai/Senior-Solution-Architect--Cloud-Infrastructure-DevOps_JR2017867",
@@ -670,64 +536,16 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Mumbai/Senior-Solution-Architect--Cloud-Infrastructure-DevOps_JR2017867"
    },
    {
-    "id": "/job/Israel-Yokneam/Senior-Software-and-DevOps-Engineer--DOCA-Verification_JR2016630",
-    "location": "2 Locations",
-    "title": "Senior Software and DevOps Engineer, DOCA Verification",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Software-and-DevOps-Engineer--DOCA-Verification_JR2016630"
-   },
-   {
-    "id": "/job/France-Courbevoie/Senior-Cloud-Infrastructure-and-DevOps-Solutions-Architect_JR2025837",
-    "location": "4 Locations",
-    "title": "Senior Cloud Infrastructure and DevOps Solutions Architect",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/France-Courbevoie/Senior-Cloud-Infrastructure-and-DevOps-Solutions-Architect_JR2025837"
-   },
-   {
-    "id": "/job/US-CA-Remote/Senior-Production-Engineer---DGX-Cloud_JR2018101",
-    "location": "6 Locations",
-    "title": "Senior Software Engineer - DGX Cloud Production Engineering",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Remote/Senior-Production-Engineer---DGX-Cloud_JR2018101"
-   },
-   {
-    "id": "/job/US-CA-Santa-Clara/Senior-Software-Engineer--DGX-Cloud-Production-Engineering_JR2023609",
-    "location": "2 Locations",
-    "title": "Senior Software Engineer, DGX Cloud Production Engineering",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--DGX-Cloud-Production-Engineering_JR2023609"
-   },
-   {
     "id": "/job/India-Bengaluru/Senior-Platform-Engineer--Network-Infrastructure_JR2021500",
-    "location": "4 Locations",
+    "location": "India, Bengaluru, India, Remote, India, Hyderabad, India, Pune",
     "title": "Senior Platform Engineer, Network Infrastructure",
     "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/Senior-Platform-Engineer--Network-Infrastructure_JR2021500"
    },
    {
-    "id": "/job/US-CA-Remote/Senior-Compute-Platform-Engineer--LSF-_JR2023960",
-    "location": "3 Locations",
-    "title": "Senior Compute Platform Engineer, LSF - EDA Infrastructure",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Remote/Senior-Compute-Platform-Engineer--LSF-_JR2023960"
-   },
-   {
-    "id": "/job/US-CA-Santa-Clara/Harness-and-Platform-Engineer--AI-Safety-and-Security-Engineering_JR2021886",
-    "location": "6 Locations",
-    "title": "Harness and Platform Engineer, AI Safety and Security Engineering",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Harness-and-Platform-Engineer--AI-Safety-and-Security-Engineering_JR2021886"
-   },
-   {
     "id": "/job/India-Remote/Senior-Network-Infrastructure-Engineer_JR2015526",
-    "location": "5 Locations",
+    "location": "India, Remote, India, Mumbai, India, Gurugram, India, Hyderabad, India, Pune",
     "title": "Senior Network Infrastructure Engineer",
     "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Remote/Senior-Network-Infrastructure-Engineer_JR2015526"
-   },
-   {
-    "id": "/job/US-CA-Santa-Clara/Senior-Network-Reliability-Engineer---DGX-Cloud_JR2018113",
-    "location": "2 Locations",
-    "title": "Senior Network Reliability Engineer - DGX Cloud",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Network-Reliability-Engineer---DGX-Cloud_JR2018113"
-   },
-   {
-    "id": "/job/US-CA-Remote/Senior-AI-infrastructure-engineer---Hardware-Infrastructure-Engineering_JR2024816",
-    "location": "5 Locations",
-    "title": "Senior AI Infrastructure Engineer - EDA Infrastructure",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Remote/Senior-AI-infrastructure-engineer---Hardware-Infrastructure-Engineering_JR2024816"
    }
   ],
   "Observe.AI": [],
@@ -754,14 +572,7 @@
   "Red Hat": [],
   "Redis": [],
   "Rubrik": [],
-  "Salesforce": [
-   {
-    "id": "/job/Washington---Bellevue/Senior-Cloud-Platform-Engineer--SMTS-_JR358761",
-    "location": "2 Locations",
-    "title": "Senior Cloud Platform Engineer (SMTS)",
-    "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Washington---Bellevue/Senior-Cloud-Platform-Engineer--SMTS-_JR358761"
-   }
-  ],
+  "Salesforce": [],
   "Samsara": [],
   "ServiceNow": [
    {
@@ -798,7 +609,20 @@
   "Vercel": [],
   "Workday": [],
   "Yugabyte": [],
-  "Zeta": [],
+  "Zeta": [
+   {
+    "id": "5eb7a75b-312c-4759-8813-70e67b5d4109",
+    "location": "Hyderabad",
+    "title": "Lead Site Reliability Engineer",
+    "url": "https://jobs.lever.co/zeta/5eb7a75b-312c-4759-8813-70e67b5d4109"
+   },
+   {
+    "id": "803792f5-0e9c-45bc-82ce-c0a552ce0cf8",
+    "location": "Hyderabad",
+    "title": "Lead Site Reliability Engineer",
+    "url": "https://jobs.lever.co/zeta/803792f5-0e9c-45bc-82ce-c0a552ce0cf8"
+   }
+  ],
   "Zscaler": [
    {
     "id": "5128594007",
@@ -1269,17 +1093,18 @@
  ],
  "seen": {
   "Adobe": {
-   "/job/Bangalore/Sr-Computer-Scientist--Data-Platform-Engineer-_R166812": null
+   "/job/Bangalore/Sr-Computer-Scientist--Data-Platform-Engineer-_R166812": null,
+   "/job/Noida/Cloud-Engineer-3---AI-Agents_R171273": "2026-09-23T21:15:40+00:00"
   },
   "Airbyte": {},
-  "Amazon (AWS)": {},
-  "Astronomer": {},
-  "Atlan": {},
-  "Autodesk": {
-   "/job/Dublin-IRL/Senior-Platform-Support-Engineer_26WD95293-1": null,
-   "/job/Idaho-USA---Remote/Senior-Site-Reliability-Engineer_26WD99276-2": null,
-   "/job/Ontario-CAN---Remote/Senior-DevOps-Developer_26WD100437-1": null
+  "Amazon (AWS)": {
+   "10489541": "2026-09-23T21:15:40+00:00"
   },
+  "Astronomer": {
+   "193740e4-593e-4fef-adf1-b6def7b7765a": "2026-09-23T21:15:40+00:00"
+  },
+  "Atlan": {},
+  "Autodesk": {},
   "Bosch": {
    "744000132113999": null,
    "744000137090617": null,
@@ -1299,13 +1124,10 @@
   "Coinbase": {},
   "Confluent": {},
   "CrowdStrike": {
-   "/job/Australia---Sydney/Sr-Engineer---Falcon-NG-SIEM--Serverless-Cell-Platform_R29475": null,
-   "/job/Australia---Sydney/Sr-Engineer-II---EPICS--NG-SIEM--Hybrid--Sydney-_R28362": null,
    "/job/India---Bangalore/Engineer-III---AI-Powered-SRE--UK-Shift-Timing-_R29953": null,
    "/job/India---Bangalore/Network-Reliability-Engineer-III--Hybrid--IND-_R29210": null,
    "/job/India---Bangalore/Sr-Engineer---Observability-Tracing--Hybrid-_R29204": null,
-   "/job/India---Pune/Engineer-III---CICD-DevOps_R29096": null,
-   "/job/USA---Sunnyvale-CA/Cloud-Engineer-III--Falcon-Exposure-Management--Hybrid-_R29807": null
+   "/job/India---Pune/Engineer-III---CICD-DevOps_R29096": null
   },
   "Databricks": {
    "7619811002": null,
@@ -1314,7 +1136,9 @@
   },
   "Datadog": {},
   "DigitalOcean": {
-   "8165867": null
+   "8165867": null,
+   "8192833": "2026-09-23T21:15:40+00:00",
+   "8193018": "2026-09-23T21:15:40+00:00"
   },
   "Docker": {},
   "Druva": {},
@@ -1339,11 +1163,7 @@
   "InMobi": {
    "7393433": null
   },
-  "Intel": {
-   "/job/US-California-Folsom/TD-Memory-Quality-and-Reliability-Engineer_JR0286762": null,
-   "/job/US-New-Mexico-Albuquerque/Senior-Silicon-Photonics-Reliability-Engineer_JR0287338": null,
-   "/job/US-Oregon-Hillsboro/Senior-PDK-Reliability-Engineer_JR0287181": null
-  },
+  "Intel": {},
   "JFrog": {},
   "Kong": {
    "4da28c63-9926-4b14-93ba-c5c589233344": null
@@ -1393,22 +1213,21 @@
    "4470279594": "2026-09-23T21:09:51+00:00",
    "4470407795": "2026-09-23T21:09:51+00:00"
   },
-  "Mastercard": {
-   "/job/Dublin-Ireland/Senior-Site-Reliability-Engineer_R-289943": null
-  },
+  "Mastercard": {},
   "Meesho": {
    "60e0d986-abe8-42ee-b172-0d9aecb307b7": null
   },
   "Micron": {},
   "Mindtickle": {},
   "MongoDB": {
+   "8051379": "2026-09-23T21:15:40+00:00",
+   "8071475": "2026-09-23T21:15:40+00:00",
    "8184637": null
   },
   "New Relic": {
    "5116768008": null
   },
   "Nvidia": {
-   "/job/France-Courbevoie/Senior-Cloud-Infrastructure-and-DevOps-Solutions-Architect_JR2025837": null,
    "/job/India-Bengaluru/Senior-Network-Site-Reliability-Engineer_JR2020679": null,
    "/job/India-Bengaluru/Senior-Network-Site-Reliability-Engineer_JR2024289": null,
    "/job/India-Bengaluru/Senior-Platform-Engineer--Network-Infrastructure_JR2021500": null,
@@ -1416,24 +1235,7 @@
    "/job/India-Mumbai/Senior-Solution-Architect--Cloud-Infrastructure-DevOps_JR2017867": null,
    "/job/India-Pune/Senior-DevOps-Engineer---E-commerce_JR2021184": null,
    "/job/India-Remote/Senior-Network-Infrastructure-Engineer_JR2015526": null,
-   "/job/Israel-Raanana/DevOps-Engineer_JR2020488": null,
-   "/job/Israel-Raanana/Senior-DevOps-Engineer_JR2017130": null,
-   "/job/Israel-Raanana/Senior-Solutions-Architect--DevOps_JR2025260": null,
-   "/job/Israel-Tel-Aviv/Senior-HPC-DevOps-Engineer--NCS_JR2022973": null,
-   "/job/Israel-Yokneam/DevOps-Engineer--DOCA_JR2023758": null,
-   "/job/Israel-Yokneam/Senior-HPC-Site-Reliability-Engineer_JR2014015": null,
-   "/job/Israel-Yokneam/Senior-Research-Ops---DevOps-Engineer_JR2017230": null,
-   "/job/Israel-Yokneam/Senior-Site-Reliability-Engineer_JR2024251": null,
-   "/job/Israel-Yokneam/Senior-Software-and-DevOps-Engineer--DOCA-Verification_JR2016630": null,
-   "/job/Switzerland-Zurich/Senior-Site-Reliability-Engineer--DGX-Cloud_JR2021427-1": null,
-   "/job/US-CA-Remote/Senior-AI-infrastructure-engineer---Hardware-Infrastructure-Engineering_JR2024816": null,
-   "/job/US-CA-Remote/Senior-Compute-Platform-Engineer--LSF-_JR2023960": null,
-   "/job/US-CA-Remote/Senior-Production-Engineer---DGX-Cloud_JR2018101": null,
-   "/job/US-CA-Santa-Clara/Harness-and-Platform-Engineer--AI-Safety-and-Security-Engineering_JR2021886": null,
-   "/job/US-CA-Santa-Clara/Senior-Network-Reliability-Engineer---DGX-Cloud_JR2018113": null,
-   "/job/US-CA-Santa-Clara/Senior-Site-Reliability-Engineer---HPC_JR2013271": null,
-   "/job/US-CA-Santa-Clara/Senior-Software-Engineer--DGX-Cloud-Production-Engineering_JR2023609": "2026-09-23T21:09:51+00:00",
-   "/job/Ukraine-Kyiv/DevOps-Engineer_JR2020684": null
+   "/job/US-CA-Santa-Clara/Senior-Software-Engineer--DGX-Cloud-Production-Engineering_JR2023609": "2026-09-23T21:09:51+00:00"
   },
   "Observe.AI": {},
   "Okta": {
@@ -1449,9 +1251,7 @@
   "Red Hat": {},
   "Redis": {},
   "Rubrik": {},
-  "Salesforce": {
-   "/job/Washington---Bellevue/Senior-Cloud-Platform-Engineer--SMTS-_JR358761": null
-  },
+  "Salesforce": {},
   "Samsara": {},
   "ServiceNow": {
    "744000144691979": null,
@@ -1473,7 +1273,10 @@
   "Vercel": {},
   "Workday": {},
   "Yugabyte": {},
-  "Zeta": {},
+  "Zeta": {
+   "5eb7a75b-312c-4759-8813-70e67b5d4109": "2026-09-23T21:15:40+00:00",
+   "803792f5-0e9c-45bc-82ce-c0a552ce0cf8": "2026-09-23T21:15:40+00:00"
+  },
   "Zscaler": {
    "5128594007": null
   }
