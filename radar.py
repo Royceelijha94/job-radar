@@ -43,8 +43,12 @@ LINKEDIN = "LinkedIn alerts"
 LINKEDIN_KEEP_DAYS = 14
 LINKEDIN_QUERY = "from:(jobalerts-noreply@linkedin.com OR jobs-listings@linkedin.com) newer_than:3d"
 NOISE = re.compile(r"^(easy apply|actively recruiting|promoted|be an early applicant|apply|view job|see all jobs|"
-                   r"\d+ (school )?alum|\d+ connections?|\d+ applicants?|.*new jobs? match|your job alert|"
-                   r"-{3,}|unsubscribe|this email was intended|.*reviewing applicants).*$", re.I)
+                   r"this company is actively hiring|top applicant|fast growing|hiring multiple|"
+                   r"your profile (matches|is a match)|.*\bbenefits?\b$|.*(₹|\$|€|£|aed)\s?[\d,.]+.*|.*/(yr|hr|mo)\b.*|"
+                   r"\d+ (school )?alum.*|\d+ connections?.*|\d+ applicants?.*|.*new jobs? match.*|your job alert.*|"
+                   r"jobs? (similar|you may be interested).*|top job picks.*|unsubscribe.*|this email was intended.*|"
+                   r".*reviewing applicants.*|viewed|new|verified)$", re.I)
+SEPARATOR = re.compile(r"^[-=_*]{3,}$")
 
 logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s")
 log = logging.getLogger("job-radar")
@@ -116,6 +120,18 @@ def workday(c, s):
         for j in r.json().get("jobPostings", []):
             path = j.get("externalPath", "")
             out[path] = job(path, j.get("title"), j.get("locationsText"), f"{base}/en-US/{c['site']}{path}")
+    lookups = 0
+    for path, jb in out.items():
+        if re.search(r"\d+\s+locations", jb["location"].lower()) and lookups < 40:
+            lookups += 1
+            try:
+                d = s.get(f"{base}/wday/cxs/{c['tenant']}/{c['site']}{path}", timeout=TIMEOUT).json()
+                info = d.get("jobPostingInfo") or {}
+                locs = [info.get("location") or ""] + list(info.get("additionalLocations") or [])
+                if any(locs):
+                    jb["location"] = ", ".join(l for l in locs if l)
+            except Exception:
+                pass  # keep "N Locations"; allow_unknown_location decides
     return list(out.values())
 
 
@@ -266,18 +282,24 @@ def email_text(msg):
 def parse_linkedin(text, kind):
     """Pull (id, title, company, location) out of a LinkedIn job-alert email."""
     lines = [l.strip() for l in text.splitlines()]
-    lines = [l for l in lines if l and ("jobs/view" in l or not NOISE.match(l))]
+    lines = [l for l in lines if l and ("jobs/view" in l or SEPARATOR.match(l) or not NOISE.match(l))]
     jobs, last = {}, -1
     for i, line in enumerate(lines):
         m = re.search(r"linkedin\.com/(?:comm/)?jobs/view/(\d+)", line)
         if not m:
             continue
         jid = m.group(1)
-        if kind == "plain":   # text first, then "View job: <url>"
-            info = [l for l in lines[last + 1:i] if "http" not in l][-3:]
+        if kind == "plain":   # block: Title / Company / Location / (badges) / View job: <url>
+            block = lines[last + 1:i]
+            seps = [k for k, l in enumerate(block) if SEPARATOR.match(l)]
+            if seps:
+                block = block[seps[-1] + 1:]
+            info = [l for l in block if "http" not in l and not SEPARATOR.match(l)][:3]
         else:                 # html: link first, then title, then "Company · Location"
             info = []
             for l in lines[i + 1:i + 6]:
+                if SEPARATOR.match(l):
+                    continue
                 if "http" in l:
                     if info:
                         break
@@ -334,16 +356,19 @@ def linkedin_scan(cfg, state, ts):
         return [], {"company": LINKEDIN, "ok": False, "error": str(e)[:160]}
     if jobs is None:
         return [], None
-    excl = cfg["filters"]["title_exclude"]
-    jobs = [j for j in jobs if not any(re.search(p, j["title"].lower()) for p in excl)]
+    f = cfg["filters"]
+    keep = lambda j: (not any(re.search(p, j["title"].lower()) for p in f["title_exclude"])
+                      and (not j["location"] or any(k in j["location"].lower() for k in f["location_include"])))
+    jobs = [j for j in jobs if keep(j)]
     seen = state["seen"].setdefault(LINKEDIN, {})
     open_jobs = {j["id"]: j for j in state["open"].get(LINKEDIN, [])}
     new = []
     for j in jobs:
+        open_jobs[j["id"]] = j  # refresh with the latest parse
         if j["id"] not in seen:
             seen[j["id"]] = ts
-            open_jobs[j["id"]] = j
             new.append({**j, "company": f"{j['employer'] or 'LinkedIn'} (LinkedIn)"})
+    open_jobs = {k: v for k, v in open_jobs.items() if keep(v)}
     cutoff = (now_utc() - timedelta(days=LINKEDIN_KEEP_DAYS)).isoformat()
     state["open"][LINKEDIN] = [j for jid, j in open_jobs.items() if (seen.get(jid) or "") >= cutoff]
     log.info("LinkedIn alerts: %d jobs in recent emails, %d new", len(jobs), len(new))

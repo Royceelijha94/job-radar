@@ -39,6 +39,23 @@ filters:
     - 'dubai'
     - 'united arab emirates'
     - 'uae'
+    - 'abu dhabi'
+    # Indian cities/states, for listings that don't say "India" (common on LinkedIn)
+    - 'karnataka'
+    - 'hyderabad'
+    - 'telangana'
+    - 'pune'
+    - 'mumbai'
+    - 'maharashtra'
+    - 'chennai'
+    - 'tamil nadu'
+    - 'delhi'
+    - 'gurugram'
+    - 'gurgaon'
+    - 'haryana'
+    - 'noida'
+    - 'kochi'
+    - 'ahmedabad'
   # Workday often says "3 Locations" instead of names. true = alert anyway so you don't miss it.
   allow_unknown_location: true
 
