@@ -1,2 +1,2 @@
--e requests>=2.31
+requests>=2.31
 pyyaml>=6.0
