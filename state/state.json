@@ -8,11 +8,127 @@
     "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Bangalore/Sr-Computer-Scientist--Data-Platform-Engineer-_R166812"
    }
   ],
+  "Airbyte": [],
   "Amazon (AWS)": [],
+  "Astronomer": [],
+  "Atlan": [],
+  "Autodesk": [
+   {
+    "id": "/job/Idaho-USA---Remote/Senior-Site-Reliability-Engineer_26WD99276-2",
+    "location": "2 Locations",
+    "title": "Senior Site Reliability Engineer",
+    "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Idaho-USA---Remote/Senior-Site-Reliability-Engineer_26WD99276-2"
+   },
+   {
+    "id": "/job/Ontario-CAN---Remote/Senior-DevOps-Developer_26WD100437-1",
+    "location": "14 Locations",
+    "title": "Senior DevOps Developer",
+    "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Ontario-CAN---Remote/Senior-DevOps-Developer_26WD100437-1"
+   },
+   {
+    "id": "/job/Dublin-IRL/Senior-Platform-Support-Engineer_26WD95293-1",
+    "location": "2 Locations",
+    "title": "Senior Platform Engineer",
+    "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Dublin-IRL/Senior-Platform-Support-Engineer_26WD95293-1"
+   }
+  ],
+  "Bosch": [
+   {
+    "id": "744000149609680",
+    "location": "coimbatore, India",
+    "title": "AWS DevOps Support for BHC APAC - HC",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000149609680"
+   },
+   {
+    "id": "744000151301815",
+    "location": "bengaluru, India",
+    "title": "AI and DevOps Engineer",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000151301815"
+   },
+   {
+    "id": "744000148416109",
+    "location": "Bengaluru, India",
+    "title": "Senior DevOps Engineer",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000148416109"
+   },
+   {
+    "id": "744000146640025",
+    "location": "coimbatore, India",
+    "title": "2026_CICD_DevOps_Engineer_ProCon_SLA_LGP3",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000146640025"
+   },
+   {
+    "id": "744000145035068",
+    "location": "bangalore, India",
+    "title": "Product Owner - DevOps Practice (Ansible)",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000145035068"
+   },
+   {
+    "id": "744000137090617",
+    "location": "Hyderabad, India",
+    "title": "Technical Architect (Cloud & Platform Engineering)",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000137090617"
+   },
+   {
+    "id": "744000132113999",
+    "location": "bangalore, India",
+    "title": "Technical Architect (Cloud & Platform Engineering)",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000132113999"
+   }
+  ],
+  "Bybit": [],
   "CRED": [],
   "Canonical": [],
   "Careem (Dubai)": [],
+  "CircleCI": [],
+  "ClickHouse": [],
+  "Cloudflare": [],
+  "Coinbase": [],
   "Confluent": [],
+  "CrowdStrike": [
+   {
+    "id": "/job/USA---Sunnyvale-CA/Cloud-Engineer-III--Falcon-Exposure-Management--Hybrid-_R29807",
+    "location": "4 Locations",
+    "title": "Cloud Engineer III, Falcon Exposure Management (Hybrid)",
+    "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Sunnyvale-CA/Cloud-Engineer-III--Falcon-Exposure-Management--Hybrid-_R29807"
+   },
+   {
+    "id": "/job/India---Bangalore/Network-Reliability-Engineer-III--Hybrid--IND-_R29210",
+    "location": "India - Bangalore",
+    "title": "Network Reliability Engineer III (Hybrid, IND)",
+    "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/India---Bangalore/Network-Reliability-Engineer-III--Hybrid--IND-_R29210"
+   },
+   {
+    "id": "/job/India---Bangalore/Sr-Engineer---Observability-Tracing--Hybrid-_R29204",
+    "location": "India - Bangalore",
+    "title": "Sr. Software Developer - Observability Tracing (Hybrid)",
+    "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/India---Bangalore/Sr-Engineer---Observability-Tracing--Hybrid-_R29204"
+   },
+   {
+    "id": "/job/India---Pune/Engineer-III---CICD-DevOps_R29096",
+    "location": "India - Pune",
+    "title": "Engineer III - CICD DevOps",
+    "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/India---Pune/Engineer-III---CICD-DevOps_R29096"
+   },
+   {
+    "id": "/job/Australia---Sydney/Sr-Engineer-II---EPICS--NG-SIEM--Hybrid--Sydney-_R28362",
+    "location": "2 Locations",
+    "title": "Sr. Engineer II, DevOps, NG-SIEM (Remote, AUS)",
+    "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/Australia---Sydney/Sr-Engineer-II---EPICS--NG-SIEM--Hybrid--Sydney-_R28362"
+   },
+   {
+    "id": "/job/Australia---Sydney/Sr-Engineer---Falcon-NG-SIEM--Serverless-Cell-Platform_R29475",
+    "location": "2 Locations",
+    "title": "Sr. Engineer, DevOps, NG-SIEM (Remote, AUS)",
+    "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/Australia---Sydney/Sr-Engineer---Falcon-NG-SIEM--Serverless-Cell-Platform_R29475"
+   },
+   {
+    "id": "/job/India---Bangalore/Engineer-III---AI-Powered-SRE--UK-Shift-Timing-_R29953",
+    "location": "India - Bangalore",
+    "title": "Engineer III - AI Powered SRE (UK Shift Timing)",
+    "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/India---Bangalore/Engineer-III---AI-Powered-SRE--UK-Shift-Timing-_R29953"
+   }
+  ],
   "Databricks": [
    {
     "id": "7897431002",
@@ -33,6 +149,17 @@
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7925560002"
    }
   ],
+  "Datadog": [],
+  "DigitalOcean": [
+   {
+    "id": "8165867",
+    "location": "Bengaluru",
+    "title": "Senior DevOps Engineer",
+    "url": "https://www.digitalocean.com/careers/position/apply/?gh_jid=8165867"
+   }
+  ],
+  "Docker": [],
+  "Druva": [],
   "Elastic": [
    {
     "id": "7447246",
@@ -41,6 +168,8 @@
     "url": "https://jobs.elastic.co/jobs?gh_jid=7447246&gh_jid=7447246"
    }
   ],
+  "Fi Money": [],
+  "Fivetran": [],
   "Freshworks": [
    {
     "id": "744000143743519",
@@ -57,6 +186,8 @@
     "url": "https://job-boards.greenhouse.io/gitlab/jobs/8615319002"
    }
   ],
+  "Glance": [],
+  "Glean": [],
   "Grafana Labs": [],
   "Harness": [
    {
@@ -66,12 +197,76 @@
     "url": "https://www.harness.io/company/jobs/apply?gh_jid=5047997007&gh_jid=5047997007"
    }
   ],
+  "Hevo Data": [],
+  "InMobi": [
+   {
+    "id": "7393433",
+    "location": "Bangalore",
+    "title": "SDE III - Devops",
+    "url": "https://job-boards.greenhouse.io/inmobi/jobs/7393433"
+   }
+  ],
+  "Intel": [
+   {
+    "id": "/job/US-Oregon-Hillsboro/Senior-PDK-Reliability-Engineer_JR0287181",
+    "location": "4 Locations",
+    "title": "Senior PDK Reliability Engineer",
+    "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Senior-PDK-Reliability-Engineer_JR0287181"
+   },
+   {
+    "id": "/job/US-New-Mexico-Albuquerque/Senior-Silicon-Photonics-Reliability-Engineer_JR0287338",
+    "location": "3 Locations",
+    "title": "Senior Silicon Photonics Reliability Engineer",
+    "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-New-Mexico-Albuquerque/Senior-Silicon-Photonics-Reliability-Engineer_JR0287338"
+   },
+   {
+    "id": "/job/US-California-Folsom/TD-Memory-Quality-and-Reliability-Engineer_JR0286762",
+    "location": "3 Locations",
+    "title": "TD Memory Quality and Reliability Engineer",
+    "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Folsom/TD-Memory-Quality-and-Reliability-Engineer_JR0286762"
+   }
+  ],
+  "JFrog": [],
+  "Kong": [
+   {
+    "id": "4da28c63-9926-4b14-93ba-c5c589233344",
+    "location": "Bangalore, India",
+    "title": "Site Reliability Engineer 2, Managed Gateways",
+    "url": "https://jobs.ashbyhq.com/kong/4da28c63-9926-4b14-93ba-c5c589233344"
+   }
+  ],
+  "Mastercard": [
+   {
+    "id": "/job/Dublin-Ireland/Senior-Site-Reliability-Engineer_R-289943",
+    "location": "2 Locations",
+    "title": "Senior Platform Engineer",
+    "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Dublin-Ireland/Senior-Site-Reliability-Engineer_R-289943"
+   }
+  ],
   "Meesho": [
    {
     "id": "60e0d986-abe8-42ee-b172-0d9aecb307b7",
     "location": "Bangalore, Karnataka",
     "title": "Software Development Engineer III DevOps",
     "url": "https://jobs.lever.co/meesho/60e0d986-abe8-42ee-b172-0d9aecb307b7"
+   }
+  ],
+  "Micron": [],
+  "Mindtickle": [],
+  "MongoDB": [
+   {
+    "id": "8184637",
+    "location": "Bengaluru",
+    "title": "Cloud Operations Engineer",
+    "url": "https://www.mongodb.com/careers/job/?gh_jid=8184637"
+   }
+  ],
+  "New Relic": [
+   {
+    "id": "5116768008",
+    "location": "Bangalore, India",
+    "title": "Senior Software Engineer - Kubernetes Orchestration - (R0000335) Bangalore",
+    "url": "https://job-boards.greenhouse.io/newrelic/jobs/5116768008"
    }
   ],
   "Nvidia": [
@@ -226,6 +421,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Remote/Senior-AI-infrastructure-engineer---Hardware-Infrastructure-Engineering_JR2024816"
    }
   ],
+  "Observe.AI": [],
   "Okta": [
    {
     "id": "8078730",
@@ -242,7 +438,12 @@
     "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/345560"
    }
   ],
+  "PagerDuty": [],
+  "Paytm": [],
+  "Percona": [],
+  "Pure Storage": [],
   "Red Hat": [],
+  "Redis": [],
   "Rubrik": [],
   "Salesforce": [
    {
@@ -252,6 +453,7 @@
     "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Washington---Bellevue/Senior-Cloud-Platform-Engineer--SMTS-_JR358761"
    }
   ],
+  "Samsara": [],
   "ServiceNow": [
    {
     "id": "744000149918201",
@@ -272,9 +474,22 @@
     "url": "https://jobs.smartrecruiters.com/ServiceNow/744000150360307"
    }
   ],
+  "Snowflake": [],
+  "Stripe": [],
+  "Sumo Logic": [],
+  "Supabase": [],
+  "Sysdig": [],
+  "Tailscale": [],
   "Talabat (Dubai)": [],
+  "Tamara": [],
   "Target": [],
+  "Tekion": [],
+  "Thoughtworks": [],
   "Twilio": [],
+  "Vercel": [],
+  "Workday": [],
+  "Yugabyte": [],
+  "Zeta": [],
   "Zscaler": [
    {
     "id": "5128594007",
@@ -283,6 +498,390 @@
     "url": "https://job-boards.greenhouse.io/zscaler/jobs/5128594007"
    }
   ]
+ },
+ "resolved": {
+  "AMD": {
+   "miss": "2026-09-23T20:07:21+00:00"
+  },
+  "Acko": {
+   "miss": "2026-09-23T20:07:21+00:00"
+  },
+  "Aerospike": {
+   "miss": "2026-09-23T20:07:21+00:00"
+  },
+  "Airbyte": {
+   "ats": "ashby",
+   "token": "airbyte"
+  },
+  "Akamai": {
+   "miss": "2026-09-23T20:07:21+00:00"
+  },
+  "Angel One": {
+   "miss": "2026-09-23T20:07:21+00:00"
+  },
+  "Astronomer": {
+   "ats": "ashby",
+   "token": "astronomer"
+  },
+  "Atlan": {
+   "ats": "ashby",
+   "token": "atlan"
+  },
+  "Autodesk": {
+   "ats": "workday",
+   "site": "Ext",
+   "tenant": "autodesk",
+   "wd": "wd1"
+  },
+  "BharatPe": {
+   "miss": "2026-09-23T20:07:21+00:00"
+  },
+  "Bosch": {
+   "ats": "smartrecruiters",
+   "token": "BoschGroup"
+  },
+  "Bybit": {
+   "ats": "greenhouse",
+   "token": "bybit"
+  },
+  "Cashfree Payments": {
+   "miss": "2026-09-23T20:07:21+00:00"
+  },
+  "Chargebee": {
+   "miss": "2026-09-23T20:07:21+00:00"
+  },
+  "CircleCI": {
+   "ats": "greenhouse",
+   "token": "circleci"
+  },
+  "ClickHouse": {
+   "ats": "ashby",
+   "token": "clickhouse"
+  },
+  "Cloudflare": {
+   "ats": "greenhouse",
+   "token": "cloudflare"
+  },
+  "Cohesity": {
+   "miss": "2026-09-23T20:07:21+00:00"
+  },
+  "CoinDCX": {
+   "miss": "2026-09-23T20:07:21+00:00"
+  },
+  "CoinSwitch": {
+   "miss": "2026-09-23T20:07:21+00:00"
+  },
+  "Coinbase": {
+   "ats": "greenhouse",
+   "token": "coinbase"
+  },
+  "Couchbase": {
+   "miss": "2026-09-23T20:07:21+00:00"
+  },
+  "CrowdStrike": {
+   "ats": "workday",
+   "site": "crowdstrikecareers",
+   "tenant": "crowdstrike",
+   "wd": "wd5"
+  },
+  "Darwinbox": {
+   "miss": "2026-09-23T20:07:21+00:00"
+  },
+  "Datadog": {
+   "ats": "greenhouse",
+   "token": "datadog"
+  },
+  "Delhivery": {
+   "miss": "2026-09-23T20:07:21+00:00"
+  },
+  "Dell Technologies": {
+   "miss": "2026-09-23T20:07:21+00:00"
+  },
+  "DigitalOcean": {
+   "ats": "greenhouse",
+   "token": "digitalocean98"
+  },
+  "Docker": {
+   "ats": "ashby",
+   "token": "docker"
+  },
+  "Dream11": {
+   "miss": "2026-09-23T20:07:21+00:00"
+  },
+  "Druva": {
+   "ats": "greenhouse",
+   "token": "druva"
+  },
+  "Dubizzle Group": {
+   "miss": "2026-09-23T20:07:21+00:00"
+  },
+  "Fi Money": {
+   "ats": "lever",
+   "token": "epifi"
+  },
+  "Fivetran": {
+   "ats": "greenhouse",
+   "token": "fivetran"
+  },
+  "G42": {
+   "miss": "2026-09-23T20:07:21+00:00"
+  },
+  "Games24x7": {
+   "miss": "2026-09-23T20:07:21+00:00"
+  },
+  "Glance": {
+   "ats": "greenhouse",
+   "token": "glance"
+  },
+  "Glean": {
+   "ats": "greenhouse",
+   "token": "gleanwork"
+  },
+  "Gupshup": {
+   "miss": "2026-09-23T20:07:21+00:00"
+  },
+  "Hasura": {
+   "miss": "2026-09-23T20:07:21+00:00"
+  },
+  "Hevo Data": {
+   "ats": "lever",
+   "token": "hevodata"
+  },
+  "Icertis": {
+   "miss": "2026-09-23T20:07:21+00:00"
+  },
+  "InMobi": {
+   "ats": "greenhouse",
+   "token": "inmobi"
+  },
+  "Innovaccer": {
+   "miss": "2026-09-23T20:07:21+00:00"
+  },
+  "Intel": {
+   "ats": "workday",
+   "site": "External",
+   "tenant": "intel",
+   "wd": "wd1"
+  },
+  "JFrog": {
+   "ats": "greenhouse",
+   "token": "jfrog"
+  },
+  "Jupiter Money": {
+   "miss": "2026-09-23T20:07:21+00:00"
+  },
+  "Juspay": {
+   "miss": "2026-09-23T20:07:21+00:00"
+  },
+  "Kitopi": {
+   "miss": "2026-09-23T20:07:21+00:00"
+  },
+  "Kong": {
+   "ats": "ashby",
+   "token": "kong"
+  },
+  "LeadSquared": {
+   "miss": "2026-09-23T20:07:21+00:00"
+  },
+  "Lenskart": {
+   "miss": "2026-09-23T20:07:21+00:00"
+  },
+  "MakeMyTrip": {
+   "miss": "2026-09-23T20:07:21+00:00"
+  },
+  "Mastercard": {
+   "ats": "workday",
+   "site": "CorporateCareers",
+   "tenant": "mastercard",
+   "wd": "wd1"
+  },
+  "Micron": {
+   "ats": "workday",
+   "site": "External",
+   "tenant": "micron",
+   "wd": "wd1"
+  },
+  "Mindtickle": {
+   "ats": "lever",
+   "token": "mindtickle"
+  },
+  "MongoDB": {
+   "ats": "greenhouse",
+   "token": "mongodb"
+  },
+  "Myntra": {
+   "miss": "2026-09-23T20:07:21+00:00"
+  },
+  "Navi": {
+   "miss": "2026-09-23T20:07:21+00:00"
+  },
+  "New Relic": {
+   "ats": "greenhouse",
+   "token": "newrelic"
+  },
+  "Nykaa": {
+   "miss": "2026-09-23T20:07:21+00:00"
+  },
+  "Observe.AI": {
+   "ats": "greenhouse",
+   "token": "observeai"
+  },
+  "Ola": {
+   "miss": "2026-09-23T20:07:21+00:00"
+  },
+  "PB Fintech (Policybazaar)": {
+   "miss": "2026-09-23T20:07:21+00:00"
+  },
+  "PagerDuty": {
+   "ats": "greenhouse",
+   "token": "pagerduty"
+  },
+  "Paytm": {
+   "ats": "lever",
+   "token": "paytm"
+  },
+  "Percona": {
+   "ats": "ashby",
+   "token": "percona"
+  },
+  "Physics Wallah": {
+   "miss": "2026-09-23T20:07:21+00:00"
+  },
+  "Pine Labs": {
+   "miss": "2026-09-23T20:07:21+00:00"
+  },
+  "Property Finder": {
+   "miss": "2026-09-23T20:07:21+00:00"
+  },
+  "Pure Storage": {
+   "ats": "greenhouse",
+   "token": "purestorage"
+  },
+  "Qualcomm": {
+   "miss": "2026-09-23T20:07:21+00:00"
+  },
+  "Rapido": {
+   "miss": "2026-09-23T20:07:21+00:00"
+  },
+  "Redis": {
+   "ats": "ashby",
+   "token": "redis"
+  },
+  "Rippling": {
+   "miss": "2026-09-23T20:07:21+00:00"
+  },
+  "SUSE": {
+   "miss": "2026-09-23T20:07:21+00:00"
+  },
+  "Samsara": {
+   "ats": "greenhouse",
+   "token": "samsara"
+  },
+  "ShareChat": {
+   "miss": "2026-09-23T20:07:21+00:00"
+  },
+  "Snowflake": {
+   "ats": "ashby",
+   "token": "snowflake"
+  },
+  "Snyk": {
+   "miss": "2026-09-23T20:07:21+00:00"
+  },
+  "Sourcegraph": {
+   "miss": "2026-09-23T20:07:21+00:00"
+  },
+  "Sprinto": {
+   "miss": "2026-09-23T20:07:21+00:00"
+  },
+  "Stripe": {
+   "ats": "greenhouse",
+   "token": "stripe"
+  },
+  "Sumo Logic": {
+   "ats": "greenhouse",
+   "token": "sumologic"
+  },
+  "Supabase": {
+   "ats": "ashby",
+   "token": "supabase"
+  },
+  "Sysdig": {
+   "ats": "lever",
+   "token": "sysdig"
+  },
+  "Tabby": {
+   "miss": "2026-09-23T20:07:21+00:00"
+  },
+  "Tailscale": {
+   "ats": "greenhouse",
+   "token": "tailscale"
+  },
+  "Tamara": {
+   "ats": "greenhouse",
+   "token": "tamara"
+  },
+  "Tekion": {
+   "ats": "ashby",
+   "token": "tekion"
+  },
+  "Tesco": {
+   "miss": "2026-09-23T20:07:21+00:00"
+  },
+  "Thoughtworks": {
+   "ats": "greenhouse",
+   "token": "thoughtworks"
+  },
+  "Udaan": {
+   "miss": "2026-09-23T20:07:21+00:00"
+  },
+  "Uniphore": {
+   "miss": "2026-09-23T20:07:21+00:00"
+  },
+  "Upstox": {
+   "miss": "2026-09-23T20:07:21+00:00"
+  },
+  "Urban Company": {
+   "miss": "2026-09-23T20:07:21+00:00"
+  },
+  "Vercel": {
+   "ats": "greenhouse",
+   "token": "vercel"
+  },
+  "Whatfix": {
+   "miss": "2026-09-23T20:07:21+00:00"
+  },
+  "Workday": {
+   "ats": "workday",
+   "site": "Workday",
+   "tenant": "workday",
+   "wd": "wd5"
+  },
+  "Yellow.ai": {
+   "miss": "2026-09-23T20:07:21+00:00"
+  },
+  "Yugabyte": {
+   "ats": "greenhouse",
+   "token": "yugabyte"
+  },
+  "Zendesk": {
+   "miss": "2026-09-23T20:07:21+00:00"
+  },
+  "Zepto": {
+   "miss": "2026-09-23T20:07:21+00:00"
+  },
+  "Zeta": {
+   "ats": "lever",
+   "token": "zeta"
+  },
+  "Zetwerk": {
+   "miss": "2026-09-23T20:07:21+00:00"
+  },
+  "slice": {
+   "miss": "2026-09-23T20:07:21+00:00"
+  },
+  "upGrad": {
+   "miss": "2026-09-23T20:07:21+00:00"
+  }
  },
  "seeded": [
   "Amazon (AWS)",
@@ -308,37 +907,151 @@
   "Canonical",
   "Harness",
   "Careem (Dubai)",
-  "Talabat (Dubai)"
+  "Talabat (Dubai)",
+  "Stripe",
+  "Cloudflare",
+  "Datadog",
+  "MongoDB",
+  "Snowflake",
+  "Samsara",
+  "Coinbase",
+  "DigitalOcean",
+  "JFrog",
+  "Docker",
+  "Kong",
+  "Yugabyte",
+  "Redis",
+  "ClickHouse",
+  "Fivetran",
+  "Pure Storage",
+  "Druva",
+  "New Relic",
+  "Sumo Logic",
+  "PagerDuty",
+  "Glean",
+  "Sysdig",
+  "CrowdStrike",
+  "Autodesk",
+  "Mastercard",
+  "Intel",
+  "Micron",
+  "Workday",
+  "Tekion",
+  "Zeta",
+  "InMobi",
+  "Glance",
+  "Paytm",
+  "Fi Money",
+  "Atlan",
+  "Mindtickle",
+  "Observe.AI",
+  "Hevo Data",
+  "Bosch",
+  "Thoughtworks",
+  "Tamara",
+  "Bybit",
+  "Tailscale",
+  "Vercel",
+  "Supabase",
+  "Percona",
+  "CircleCI",
+  "Airbyte",
+  "Astronomer"
  ],
  "seen": {
   "Adobe": {
    "/job/Bangalore/Sr-Computer-Scientist--Data-Platform-Engineer-_R166812": null
   },
+  "Airbyte": {},
   "Amazon (AWS)": {},
+  "Astronomer": {},
+  "Atlan": {},
+  "Autodesk": {
+   "/job/Dublin-IRL/Senior-Platform-Support-Engineer_26WD95293-1": null,
+   "/job/Idaho-USA---Remote/Senior-Site-Reliability-Engineer_26WD99276-2": null,
+   "/job/Ontario-CAN---Remote/Senior-DevOps-Developer_26WD100437-1": null
+  },
+  "Bosch": {
+   "744000132113999": null,
+   "744000137090617": null,
+   "744000145035068": null,
+   "744000146640025": null,
+   "744000148416109": null,
+   "744000149609680": null,
+   "744000151301815": null
+  },
+  "Bybit": {},
   "CRED": {},
   "Canonical": {},
   "Careem (Dubai)": {},
+  "CircleCI": {},
+  "ClickHouse": {},
+  "Cloudflare": {},
+  "Coinbase": {},
   "Confluent": {},
+  "CrowdStrike": {
+   "/job/Australia---Sydney/Sr-Engineer---Falcon-NG-SIEM--Serverless-Cell-Platform_R29475": null,
+   "/job/Australia---Sydney/Sr-Engineer-II---EPICS--NG-SIEM--Hybrid--Sydney-_R28362": null,
+   "/job/India---Bangalore/Engineer-III---AI-Powered-SRE--UK-Shift-Timing-_R29953": null,
+   "/job/India---Bangalore/Network-Reliability-Engineer-III--Hybrid--IND-_R29210": null,
+   "/job/India---Bangalore/Sr-Engineer---Observability-Tracing--Hybrid-_R29204": null,
+   "/job/India---Pune/Engineer-III---CICD-DevOps_R29096": null,
+   "/job/USA---Sunnyvale-CA/Cloud-Engineer-III--Falcon-Exposure-Management--Hybrid-_R29807": null
+  },
   "Databricks": {
    "7619811002": null,
    "7897431002": null,
    "7925560002": null
   },
+  "Datadog": {},
+  "DigitalOcean": {
+   "8165867": null
+  },
+  "Docker": {},
+  "Druva": {},
   "Elastic": {
    "7447246": null
   },
+  "Fi Money": {},
+  "Fivetran": {},
   "Freshworks": {
    "744000143743519": null
   },
   "GitLab": {
    "8615319002": null
   },
+  "Glance": {},
+  "Glean": {},
   "Grafana Labs": {},
   "Harness": {
    "5047997007": null
   },
+  "Hevo Data": {},
+  "InMobi": {
+   "7393433": null
+  },
+  "Intel": {
+   "/job/US-California-Folsom/TD-Memory-Quality-and-Reliability-Engineer_JR0286762": null,
+   "/job/US-New-Mexico-Albuquerque/Senior-Silicon-Photonics-Reliability-Engineer_JR0287338": null,
+   "/job/US-Oregon-Hillsboro/Senior-PDK-Reliability-Engineer_JR0287181": null
+  },
+  "JFrog": {},
+  "Kong": {
+   "4da28c63-9926-4b14-93ba-c5c589233344": null
+  },
+  "Mastercard": {
+   "/job/Dublin-Ireland/Senior-Site-Reliability-Engineer_R-289943": null
+  },
   "Meesho": {
    "60e0d986-abe8-42ee-b172-0d9aecb307b7": null
+  },
+  "Micron": {},
+  "Mindtickle": {},
+  "MongoDB": {
+   "8184637": null
+  },
+  "New Relic": {
+   "5116768008": null
   },
   "Nvidia": {
    "/job/France-Courbevoie/Senior-Cloud-Infrastructure-and-DevOps-Solutions-Architect_JR2025837": null,
@@ -367,25 +1080,45 @@
    "/job/US-CA-Santa-Clara/Senior-Site-Reliability-Engineer---HPC_JR2013271": null,
    "/job/Ukraine-Kyiv/DevOps-Engineer_JR2020684": null
   },
+  "Observe.AI": {},
   "Okta": {
    "8078730": null
   },
   "Oracle (OCI)": {
    "345560": null
   },
+  "PagerDuty": {},
+  "Paytm": {},
+  "Percona": {},
+  "Pure Storage": {},
   "Red Hat": {},
+  "Redis": {},
   "Rubrik": {},
   "Salesforce": {
    "/job/Washington---Bellevue/Senior-Cloud-Platform-Engineer--SMTS-_JR358761": null
   },
+  "Samsara": {},
   "ServiceNow": {
    "744000144691979": null,
    "744000149918201": null,
    "744000150360307": null
   },
+  "Snowflake": {},
+  "Stripe": {},
+  "Sumo Logic": {},
+  "Supabase": {},
+  "Sysdig": {},
+  "Tailscale": {},
   "Talabat (Dubai)": {},
+  "Tamara": {},
   "Target": {},
+  "Tekion": {},
+  "Thoughtworks": {},
   "Twilio": {},
+  "Vercel": {},
+  "Workday": {},
+  "Yugabyte": {},
+  "Zeta": {},
   "Zscaler": {
    "5128594007": null
   }
