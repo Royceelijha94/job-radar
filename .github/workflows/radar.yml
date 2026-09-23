@@ -1,0 +1,70 @@
+name: job-radar
+
+on:
+  schedule:
+    - cron: "7 */2 * * *"   # every 2 hours, at :07
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "run = scan now, validate = check boards, test-alert = send a sample alert"
+        type: choice
+        options: [run, validate, test-alert]
+        default: run
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: job-radar
+  cancel-in-progress: false
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    env:
+      MODE: ${{ inputs.mode || 'run' }}
+      NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+      TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+      TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+      DASHBOARD_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Scan / validate / test
+        run: python radar.py "$MODE"
+
+      - name: Save state
+        if: env.MODE == 'run'
+        run: |
+          git config user.name "job-radar-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add state/state.json
+          if git diff --cached --quiet; then
+            echo "No state change"
+          else
+            git commit -m "radar: state update $(date -u +%Y-%m-%dT%H:%MZ)"
+            git push
+          fi
+
+      - if: env.MODE == 'run'
+        uses: actions/configure-pages@v5
+      - if: env.MODE == 'run'
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+      - if: env.MODE == 'run'
+        id: deploy
+        uses: actions/deploy-pages@v4
