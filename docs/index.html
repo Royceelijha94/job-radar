@@ -1,0 +1,227 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Job radar</title>
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📡</text></svg>">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Barlow:wght@400;500;600&family=Barlow+Condensed:wght@500;600;700&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --paper: #E9EEF2; --surface: #F7F9FB; --ink: #17222D; --muted: #5A6977;
+    --rule: #C7D1DA; --signal: #B06E00; --signal-bg: #FCEFD2; --fail: #A63A32;
+    --body: "Barlow", "Segoe UI", system-ui, sans-serif;
+    --display: "Barlow Condensed", "Arial Narrow", "Segoe UI", sans-serif;
+    color-scheme: light;
+    box-sizing: border-box;
+    padding-top: env(safe-area-inset-top, 0px);
+    padding-bottom: env(safe-area-inset-bottom, 0px);
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --paper: #121A22; --surface: #19232D; --ink: #DCE5EC; --muted: #8C9BA8;
+      --rule: #2C3A47; --signal: #F2B544; --signal-bg: #3A2E14; --fail: #E57A70; color-scheme: dark;
+    }
+  }
+  *, *::before, *::after { box-sizing: inherit; }
+  body { margin: 0; background: var(--paper); color: var(--ink); font: 400 16px/1.5 var(--body); }
+  main { max-width: 880px; margin: 0 auto; padding: 40px 20px 64px; }
+  a { color: inherit; }
+  :focus-visible { outline: 2px solid var(--signal); outline-offset: 2px; }
+
+  header h1 { font: 700 clamp(44px, 9vw, 72px)/0.95 var(--display); margin: 0; letter-spacing: -0.01em; }
+  .status { display: flex; flex-wrap: wrap; gap: 6px 22px; margin: 12px 0 0; color: var(--muted); }
+  .status b { color: var(--ink); font-weight: 600; }
+  .status .hot b { color: var(--signal); }
+
+  .controls { display: flex; flex-wrap: wrap; gap: 10px; margin: 32px 0 8px; align-items: center; }
+  .controls input[type=search], .controls select {
+    font: inherit; color: inherit; background: var(--surface); border: 1px solid var(--rule);
+    border-radius: 6px; padding: 8px 10px; min-height: 40px;
+  }
+  .controls input[type=search] { flex: 1 1 220px; }
+  .seg { display: inline-flex; border: 1px solid var(--rule); border-radius: 6px; overflow: hidden; }
+  .seg button {
+    font: 500 15px var(--body); color: var(--muted); background: var(--surface);
+    border: 0; padding: 8px 12px; min-height: 40px; cursor: pointer;
+  }
+  .seg button + button { border-left: 1px solid var(--rule); }
+  .seg button[aria-pressed="true"] { background: var(--ink); color: var(--paper); }
+  .toggle { display: inline-flex; gap: 6px; align-items: center; color: var(--muted); cursor: pointer; }
+
+  h2 { font: 600 22px/1.2 var(--display); margin: 36px 0 8px; color: var(--muted); }
+  h2 span { font-family: var(--body); font-size: 15px; font-weight: 400; margin-left: 6px; }
+  ol.jobs { list-style: none; margin: 0; padding: 0; border-top: 1px solid var(--rule); }
+  .job {
+    display: grid; grid-template-columns: 76px 1fr auto; gap: 4px 16px; align-items: baseline;
+    padding: 14px 12px 14px 10px; border-bottom: 1px solid var(--rule); border-left: 4px solid transparent;
+  }
+  .job.new { border-left-color: var(--signal); background: var(--signal-bg); }
+  .age { font: 700 30px/1 var(--display); color: var(--muted); font-variant-numeric: tabular-nums; }
+  .job.new .age { color: var(--signal); }
+  .age.none { font-size: 18px; font-weight: 500; }
+  .title { font-weight: 600; font-size: 17px; text-decoration: none; }
+  .title:hover { text-decoration: underline; }
+  .meta { color: var(--muted); font-size: 15px; display: flex; flex-wrap: wrap; gap: 2px 14px; }
+  .meta .co { font: 600 17px var(--display); color: var(--ink); }
+  .open {
+    grid-row: span 2; align-self: center; font: 500 15px var(--body); text-decoration: none;
+    border: 1px solid var(--rule); border-radius: 6px; padding: 7px 12px; background: var(--surface); white-space: nowrap;
+  }
+  .open:hover { border-color: var(--ink); }
+
+  .empty { padding: 28px 0; color: var(--muted); }
+  footer { margin-top: 56px; border-top: 1px solid var(--rule); padding-top: 12px; }
+  footer h2 { margin-top: 20px; }
+  footer p { color: var(--muted); margin: 4px 0 10px; max-width: 70ch; }
+  .fail-list li { color: var(--fail); }
+  .fail-list small { color: var(--muted); display: block; }
+  .manual { columns: 2 220px; padding-left: 18px; margin: 0; }
+
+  @media (max-width: 560px) {
+    main { padding-top: 28px; }
+    .job { grid-template-columns: 56px 1fr; }
+    .age { font-size: 24px; }
+    .meta { grid-column: 2; }
+    .open { grid-row: auto; grid-column: 2; order: 1; justify-self: start; margin-top: 6px; }
+  }
+</style>
+</head>
+<body>
+<main>
+  <header>
+    <h1>Job radar</h1>
+    <p class="status" id="status">Loading the latest scan…</p>
+  </header>
+
+  <div class="controls" role="search">
+    <input type="search" id="q" placeholder="Search title or company" aria-label="Search title or company">
+    <select id="tier" aria-label="Company tier">
+      <option value="">All tiers</option>
+      <option value="1">Tier 1: big tech</option>
+      <option value="2">Tier 2: Bangalore SRE teams</option>
+      <option value="3">Tier 3: Indian product</option>
+      <option value="4">Tier 4: remote infra</option>
+      <option value="5">Tier 5: telecom + Dubai</option>
+    </select>
+    <div class="seg" role="group" aria-label="Location">
+      <button data-loc="" aria-pressed="true">All</button>
+      <button data-loc="blr" aria-pressed="false">Bengaluru</button>
+      <button data-loc="ind" aria-pressed="false">India</button>
+      <button data-loc="uae" aria-pressed="false">Dubai</button>
+    </div>
+    <label class="toggle"><input type="checkbox" id="fresh"> New in last 24h</label>
+  </div>
+
+  <div id="list"></div>
+
+  <footer>
+    <h2>Boards needing attention</h2>
+    <p>These boards failed on the last scan. Their previous jobs are still shown above.</p>
+    <ul class="fail-list" id="fails"></ul>
+    <h2>Check these yourself</h2>
+    <p>These companies have no public job feed. Set a job alert on their careers site.</p>
+    <ul class="manual" id="manual"></ul>
+  </footer>
+</main>
+
+<script>
+const state = { q: "", tier: "", loc: "", fresh: false, data: null };
+const $ = (id) => document.getElementById(id);
+const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+const DAY = 864e5;
+
+function ago(iso) {
+  const m = Math.max(0, Math.round((Date.now() - new Date(iso)) / 6e4));
+  if (m < 60) return m + "m";
+  if (m < 1440) return Math.round(m / 60) + "h";
+  return Math.round(m / 1440) + "d";
+}
+function locKind(l) {
+  l = (l || "").toLowerCase();
+  if (/bengaluru|bangalore/.test(l)) return "blr";
+  if (/dubai|uae|united arab emirates/.test(l)) return "uae";
+  if (/india/.test(l)) return "ind";
+  return "";
+}
+
+function row(j) {
+  const isNew = j.first_seen && Date.now() - new Date(j.first_seen) < DAY;
+  const age = j.first_seen ? `<span class="age" title="First seen ${esc(new Date(j.first_seen).toLocaleString())}">${ago(j.first_seen)}</span>`
+                           : `<span class="age none" title="Already open when tracking began">earlier</span>`;
+  return `<li class="job${isNew ? " new" : ""}">
+    ${age}
+    <a class="title" href="${esc(j.url)}" target="_blank" rel="noopener">${esc(j.title)}</a>
+    <a class="open" href="${esc(j.url)}" target="_blank" rel="noopener" aria-label="Open ${esc(j.title)} at ${esc(j.company)}">Open job</a>
+    <span></span>
+    <span class="meta"><span class="co">${esc(j.company)}</span><span>${esc(j.location || "Location not listed")}</span><span>Rank ${j.rank}</span></span>
+  </li>`;
+}
+
+function render() {
+  const d = state.data;
+  if (!d) return;
+  const q = state.q.toLowerCase();
+  const jobs = d.jobs.filter((j) =>
+    (!q || (j.title + " " + j.company).toLowerCase().includes(q)) &&
+    (!state.tier || String(j.tier) === state.tier) &&
+    (!state.loc || locKind(j.location) === state.loc || (state.loc === "ind" && locKind(j.location) === "blr")) &&
+    (!state.fresh || (j.first_seen && Date.now() - new Date(j.first_seen) < DAY))
+  ).sort((a, b) => (b.first_seen || "").localeCompare(a.first_seen || "") || a.rank - b.rank);
+
+  const groups = [
+    ["Last 24 hours", (j) => j.first_seen && Date.now() - new Date(j.first_seen) < DAY],
+    ["Last 7 days", (j) => j.first_seen && Date.now() - new Date(j.first_seen) < 7 * DAY],
+    ["Earlier", (j) => !!j.first_seen],
+    ["Open before tracking began", () => true],
+  ];
+  const used = new Set();
+  let html = "";
+  for (const [name, test] of groups) {
+    const g = jobs.filter((j) => !used.has(j) && test(j));
+    g.forEach((j) => used.add(j));
+    if (g.length) html += `<h2>${name}<span>${g.length}</span></h2><ol class="jobs">${g.map(row).join("")}</ol>`;
+  }
+  $("list").innerHTML = html || `<p class="empty">${d.generated_at
+    ? "No jobs match these filters. Clear the search or pick another location."
+    : "No scan yet. The first scan runs within 2 hours of setup, or start one from the Actions tab."}</p>`;
+}
+
+function renderStatic(d) {
+  const newToday = d.jobs.filter((j) => j.first_seen && Date.now() - new Date(j.first_seen) < DAY).length;
+  const okBoards = d.health.filter((h) => h.ok).length;
+  $("status").innerHTML = d.generated_at
+    ? `<span>Last scan <b>${ago(d.generated_at)} ago</b></span>
+       <span class="${newToday ? "hot" : ""}"><b>${newToday}</b> new in 24h</span>
+       <span><b>${d.jobs.length}</b> open matches</span>
+       <span><b>${okBoards}/${d.health.length}</b> boards healthy</span>`
+    : "Waiting for the first scan.";
+  const fails = d.health.filter((h) => !h.ok);
+  $("fails").innerHTML = fails.length
+    ? fails.map((f) => `<li>${esc(f.company)}<small>${esc(f.error)}</small></li>`).join("")
+    : "<li style='color:var(--muted)'>All boards scanned cleanly.</li>";
+  $("manual").innerHTML = d.manual.map((m) =>
+    `<li><a href="${esc(m.careers)}" target="_blank" rel="noopener">${esc(m.company)}</a></li>`).join("");
+}
+
+$("q").addEventListener("input", (e) => { state.q = e.target.value; render(); });
+$("tier").addEventListener("change", (e) => { state.tier = e.target.value; render(); });
+$("fresh").addEventListener("change", (e) => { state.fresh = e.target.checked; render(); });
+document.querySelectorAll(".seg button").forEach((b) => b.addEventListener("click", () => {
+  document.querySelectorAll(".seg button").forEach((x) => x.setAttribute("aria-pressed", String(x === b)));
+  state.loc = b.dataset.loc; render();
+}));
+
+fetch("data.json", { cache: "no-store" })
+  .then((r) => { if (!r.ok) throw new Error(r.status); return r.json(); })
+  .then((d) => { state.data = d; renderStatic(d); render(); })
+  .catch(() => {
+    state.data = { generated_at: null, jobs: [], health: [], manual: [] };
+    $("status").textContent = "No scan data yet. Run the workflow once from the Actions tab.";
+    render();
+  });
+</script>
+</body>
+</html>

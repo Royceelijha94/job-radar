@@ -2,7 +2,7 @@ name: job-radar
 
 on:
   schedule:
-    - cron: "7 */2 * * *"   # every 2 hours, at :07
+    - cron: "7 */2 * * *"   # every 2 hours, at :07 (avoids GitHub's busy top-of-hour)
   workflow_dispatch:
     inputs:
       mode:
