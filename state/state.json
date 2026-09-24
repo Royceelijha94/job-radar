@@ -470,6 +470,69 @@
     "location": "Bengaluru, Karnataka, India",
     "title": "Senior Software Engineer - Codeship",
     "url": "https://www.linkedin.com/jobs/view/4338420472/"
+   },
+   {
+    "employer": "Nutanix",
+    "id": "4458352622",
+    "location": "Pune Division, Maharashtra, India",
+    "title": "Systems Reliability Engineer II",
+    "url": "https://www.linkedin.com/jobs/view/4458352622/"
+   },
+   {
+    "employer": "Cisco",
+    "id": "4462147795",
+    "location": "Kolkata, West Bengal, India",
+    "title": "Software Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4462147795/"
+   },
+   {
+    "employer": "Nutanix",
+    "id": "4469012086",
+    "location": "Bengaluru, Karnataka, India",
+    "title": "SRE II (L2 Tech Support+ Virtualization)4-7yrs Bangalore",
+    "url": "https://www.linkedin.com/jobs/view/4469012086/"
+   },
+   {
+    "employer": "Nutanix",
+    "id": "4458969311",
+    "location": "Bengaluru, Karnataka, India",
+    "title": "SRE III Enterprise Tech Support (Virtualization & Networking)",
+    "url": "https://www.linkedin.com/jobs/view/4458969311/"
+   },
+   {
+    "employer": "Walmart Global Tech India",
+    "id": "4421101868",
+    "location": "Bengaluru, Karnataka, India",
+    "title": "Software Engineer III",
+    "url": "https://www.linkedin.com/jobs/view/4421101868/"
+   },
+   {
+    "employer": "JPMorganChase",
+    "id": "4469518289",
+    "location": "Bengaluru, Karnataka, India",
+    "title": "Site Reliability Engineer III - Python, Grafana, Splunk, AWS, Jenkins",
+    "url": "https://www.linkedin.com/jobs/view/4469518289/"
+   },
+   {
+    "employer": "JPMorganChase",
+    "id": "4442443458",
+    "location": "Bengaluru, Karnataka, India",
+    "title": "Lead Site Reliability Engineer + AWS",
+    "url": "https://www.linkedin.com/jobs/view/4442443458/"
+   },
+   {
+    "employer": "JPMorganChase",
+    "id": "4468343822",
+    "location": "Bengaluru, Karnataka, India",
+    "title": "Lead Site Reliability Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4468343822/"
+   },
+   {
+    "employer": "Goldman Sachs",
+    "id": "4458956317",
+    "location": "Bengaluru, Karnataka, India",
+    "title": "The Core Engineering-L2-Bengaluru-Vice President-Software Engineering",
+    "url": "https://www.linkedin.com/jobs/view/4458956317/"
    }
   ],
   "Mastercard": [],
@@ -1180,14 +1243,20 @@
    "4358434048": "2026-09-23T21:09:51+00:00",
    "4401914138": "2026-09-23T21:09:51+00:00",
    "4415345658": "2026-09-23T21:09:51+00:00",
+   "4421101868": "2026-09-24T04:40:01+00:00",
    "4430604888": "2026-09-23T21:09:51+00:00",
    "4439253468": "2026-09-23T21:09:51+00:00",
+   "4442443458": "2026-09-24T04:40:01+00:00",
    "4449206760": "2026-09-23T21:09:51+00:00",
    "4451062427": "2026-09-23T21:09:51+00:00",
    "4457488693": "2026-09-23T21:09:51+00:00",
    "4457788813": "2026-09-23T21:09:51+00:00",
+   "4458352622": "2026-09-24T04:40:01+00:00",
+   "4458956317": "2026-09-24T04:40:01+00:00",
+   "4458969311": "2026-09-24T04:40:01+00:00",
    "4459636962": "2026-09-23T21:09:51+00:00",
    "4461192930": "2026-09-23T21:09:51+00:00",
+   "4462147795": "2026-09-24T04:40:01+00:00",
    "4462943375": "2026-09-23T21:09:51+00:00",
    "4462948050": "2026-09-23T21:09:51+00:00",
    "4467389521": "2026-09-23T21:09:51+00:00",
@@ -1196,6 +1265,7 @@
    "4467671141": "2026-09-23T21:09:51+00:00",
    "4467979115": "2026-09-23T21:09:51+00:00",
    "4468150037": "2026-09-23T21:09:51+00:00",
+   "4468343822": "2026-09-24T04:40:01+00:00",
    "4468420396": "2026-09-23T21:09:51+00:00",
    "4468449749": "2026-09-23T21:09:51+00:00",
    "4468493858": "2026-09-23T21:09:51+00:00",
@@ -1205,8 +1275,10 @@
    "4468679944": "2026-09-23T21:09:51+00:00",
    "4468702430": "2026-09-23T21:09:51+00:00",
    "4468711395": "2026-09-23T21:09:51+00:00",
+   "4469012086": "2026-09-24T04:40:01+00:00",
    "4469172041": "2026-09-23T21:09:51+00:00",
    "4469517793": "2026-09-23T21:09:51+00:00",
+   "4469518289": "2026-09-24T04:40:01+00:00",
    "4469575112": "2026-09-23T21:09:51+00:00",
    "4469820504": "2026-09-23T21:09:51+00:00",
    "4469822143": "2026-09-23T21:09:51+00:00",
