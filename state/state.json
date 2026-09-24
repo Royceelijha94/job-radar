@@ -17,6 +17,12 @@
   "Airbyte": [],
   "Amazon (AWS)": [
    {
+    "id": "10559330",
+    "location": "Bengaluru, Karnataka, IND",
+    "title": "DevOps Engineer II, Ads AI Core Infra Support Engineering, Ads AI Core Infra (ACI)",
+    "url": "https://www.amazon.jobs/en/jobs/10559330/devops-engineer-ii-ads-ai-core-infra-support-engineering-ads-ai-core-infra-aci"
+   },
+   {
     "id": "10489541",
     "location": "Hyderabad, Telangana, IND",
     "title": "System Dev Engineer III, AFT Platform Engineering and Services",
@@ -1263,7 +1269,8 @@
   },
   "Airbyte": {},
   "Amazon (AWS)": {
-   "10489541": "2026-09-23T21:15:40+00:00"
+   "10489541": "2026-09-23T21:15:40+00:00",
+   "10559330": "2026-09-24T21:27:48+00:00"
   },
   "Astronomer": {
    "193740e4-593e-4fef-adf1-b6def7b7765a": "2026-09-23T21:15:40+00:00"
