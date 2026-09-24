@@ -32,13 +32,26 @@
    }
   ],
   "Atlan": [],
-  "Autodesk": [],
+  "Autodesk": [
+   {
+    "id": "/job/APAC---India---Pune---ABIL-Boulevard/Site-Reliability-Engineer_26WD98218-1",
+    "location": "APAC - India - Pune - ABIL Boulevard",
+    "title": "Site Reliability Engineer",
+    "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/APAC---India---Pune---ABIL-Boulevard/Site-Reliability-Engineer_26WD98218-1"
+   }
+  ],
   "Bosch": [
    {
     "id": "744000149609680",
     "location": "coimbatore, India",
     "title": "AWS DevOps Support for BHC APAC - HC",
     "url": "https://jobs.smartrecruiters.com/BoschGroup/744000149609680"
+   },
+   {
+    "id": "744000151592409",
+    "location": "bangalore, India",
+    "title": "Sr. Software Engineer_Cloud_Devops",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000151592409"
    },
    {
     "id": "744000151301815",
@@ -533,6 +546,76 @@
     "location": "Bengaluru, Karnataka, India",
     "title": "The Core Engineering-L2-Bengaluru-Vice President-Software Engineering",
     "url": "https://www.linkedin.com/jobs/view/4458956317/"
+   },
+   {
+    "employer": "H&M",
+    "id": "4470681393",
+    "location": "Bengaluru",
+    "title": "Site Reliability Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4470681393/"
+   },
+   {
+    "employer": "Bridgestone Americas",
+    "id": "4469447009",
+    "location": "Bengaluru",
+    "title": "DevOps Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4469447009/"
+   },
+   {
+    "employer": "Flexiple",
+    "id": "4470635972",
+    "location": "India",
+    "title": "DevOps Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4470635972/"
+   },
+   {
+    "employer": "Upstox",
+    "id": "4468982443",
+    "location": "Mumbai Metropolitan Region",
+    "title": "SRE II",
+    "url": "https://www.linkedin.com/jobs/view/4468982443/"
+   },
+   {
+    "employer": "True Tech Professionals",
+    "id": "4469427036",
+    "location": "India",
+    "title": "DevOps Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4469427036/"
+   },
+   {
+    "employer": "HSBC",
+    "id": "4470415876",
+    "location": "Bengaluru",
+    "title": "Operational Analyst",
+    "url": "https://www.linkedin.com/jobs/view/4470415876/"
+   },
+   {
+    "employer": "MongoDB",
+    "id": "4470686728",
+    "location": "Bengaluru",
+    "title": "Cloud Operations Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4470686728/"
+   },
+   {
+    "employer": "DeepIntent",
+    "id": "4468599876",
+    "location": "Pune Division",
+    "title": "Site Reliability Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4468599876/"
+   },
+   {
+    "employer": "ColorTokens Inc.",
+    "id": "4469435349",
+    "location": "Bengaluru",
+    "title": "DevOps Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4469435349/"
+   },
+   {
+    "employer": "Scoutit",
+    "id": "4469430523",
+    "location": "Bengaluru",
+    "title": "Cloud Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4469430523/"
    }
   ],
   "Mastercard": [],
@@ -629,10 +712,10 @@
   ],
   "Oracle (OCI)": [
    {
-    "id": "345560",
-    "location": "BENGALURU, KARNATAKA, India",
-    "title": "Senior Site Reliability Engineer",
-    "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/345560"
+    "id": "343151",
+    "location": "India",
+    "title": "Senior Core Infrastructure Engineer",
+    "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/343151"
    }
   ],
   "PagerDuty": [],
@@ -1174,7 +1257,9 @@
    "193740e4-593e-4fef-adf1-b6def7b7765a": "2026-09-23T21:15:40+00:00"
   },
   "Atlan": {},
-  "Autodesk": {},
+  "Autodesk": {
+   "/job/APAC---India---Pune---ABIL-Boulevard/Site-Reliability-Engineer_26WD98218-1": "2026-09-24T11:38:41+00:00"
+  },
   "Bosch": {
    "744000132113999": null,
    "744000137090617": null,
@@ -1182,7 +1267,8 @@
    "744000146640025": null,
    "744000148416109": null,
    "744000149609680": null,
-   "744000151301815": null
+   "744000151301815": null,
+   "744000151592409": "2026-09-24T11:38:41+00:00"
   },
   "Bybit": {},
   "CRED": {},
@@ -1271,12 +1357,18 @@
    "4468493858": "2026-09-23T21:09:51+00:00",
    "4468568030": "2026-09-23T21:09:51+00:00",
    "4468571107": "2026-09-23T21:09:51+00:00",
+   "4468599876": "2026-09-24T11:38:41+00:00",
    "4468612825": "2026-09-23T21:09:51+00:00",
    "4468679944": "2026-09-23T21:09:51+00:00",
    "4468702430": "2026-09-23T21:09:51+00:00",
    "4468711395": "2026-09-23T21:09:51+00:00",
+   "4468982443": "2026-09-24T11:38:41+00:00",
    "4469012086": "2026-09-24T04:40:01+00:00",
    "4469172041": "2026-09-23T21:09:51+00:00",
+   "4469427036": "2026-09-24T11:38:41+00:00",
+   "4469430523": "2026-09-24T11:38:41+00:00",
+   "4469435349": "2026-09-24T11:38:41+00:00",
+   "4469447009": "2026-09-24T11:38:41+00:00",
    "4469517793": "2026-09-23T21:09:51+00:00",
    "4469518289": "2026-09-24T04:40:01+00:00",
    "4469575112": "2026-09-23T21:09:51+00:00",
@@ -1291,7 +1383,11 @@
    "4470207366": "2026-09-23T21:09:51+00:00",
    "4470274459": "2026-09-23T21:09:51+00:00",
    "4470279594": "2026-09-23T21:09:51+00:00",
-   "4470407795": "2026-09-23T21:09:51+00:00"
+   "4470407795": "2026-09-23T21:09:51+00:00",
+   "4470415876": "2026-09-24T11:38:41+00:00",
+   "4470635972": "2026-09-24T11:38:41+00:00",
+   "4470681393": "2026-09-24T11:38:41+00:00",
+   "4470686728": "2026-09-24T11:38:41+00:00"
   },
   "Mastercard": {},
   "Meesho": {
@@ -1322,7 +1418,7 @@
    "8078730": null
   },
   "Oracle (OCI)": {
-   "345560": null
+   "343151": "2026-09-24T11:38:41+00:00"
   },
   "PagerDuty": {},
   "Paytm": {},
