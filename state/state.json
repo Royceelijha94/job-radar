@@ -712,6 +712,18 @@
   ],
   "Oracle (OCI)": [
    {
+    "id": "345871",
+    "location": "BENGALURU, KARNATAKA, India, India",
+    "title": "Senior Site Reliability Engineer",
+    "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/345871"
+   },
+   {
+    "id": "345903",
+    "location": "BENGALURU, KARNATAKA, India",
+    "title": "Senior Core Infrastructure Engineer",
+    "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/345903"
+   },
+   {
     "id": "343151",
     "location": "India",
     "title": "Senior Core Infrastructure Engineer",
@@ -1418,7 +1430,9 @@
    "8078730": null
   },
   "Oracle (OCI)": {
-   "343151": "2026-09-24T11:38:41+00:00"
+   "343151": "2026-09-24T11:38:41+00:00",
+   "345871": "2026-09-24T17:05:36+00:00",
+   "345903": "2026-09-24T17:05:36+00:00"
   },
   "PagerDuty": {},
   "Paytm": {},
