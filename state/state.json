@@ -657,6 +657,12 @@
    "ats": "ashby",
    "token": "atlan"
   },
+  "Autodesk": {
+   "ats": "workday",
+   "site": "Ext",
+   "tenant": "autodesk",
+   "wd": "wd1"
+  },
   "BharatPe": {
    "miss": "2026-09-23T20:07:21+00:00"
   },
