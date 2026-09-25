@@ -6,12 +6,6 @@
     "location": "Noida",
     "title": "Cloud Engineer 3 - AI Agents",
     "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Noida/Cloud-Engineer-3---AI-Agents_R171273"
-   },
-   {
-    "id": "/job/Bangalore/Sr-Computer-Scientist--Data-Platform-Engineer-_R166812",
-    "location": "Bangalore",
-    "title": "Sr. Computer Scientist (Data Platform Engineer)",
-    "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Bangalore/Sr-Computer-Scientist--Data-Platform-Engineer-_R166812"
    }
   ],
   "Airbyte": [],
@@ -29,14 +23,7 @@
     "url": "https://www.amazon.jobs/en/jobs/10489541/system-dev-engineer-iii-aft-platform-engineering-and-services"
    }
   ],
-  "Astronomer": [
-   {
-    "id": "193740e4-593e-4fef-adf1-b6def7b7765a",
-    "location": "Hyderabad",
-    "title": "Senior Customer Reliability Engineer, Infrastructure - Hyderabad, India",
-    "url": "https://jobs.ashbyhq.com/astronomer/193740e4-593e-4fef-adf1-b6def7b7765a"
-   }
-  ],
+  "Astronomer": [],
   "Atlan": [],
   "Autodesk": [],
   "Bosch": [
@@ -47,22 +34,10 @@
     "url": "https://jobs.smartrecruiters.com/BoschGroup/744000149609680"
    },
    {
-    "id": "744000151592409",
-    "location": "bangalore, India",
-    "title": "Sr. Software Engineer_Cloud_Devops",
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000151592409"
-   },
-   {
     "id": "744000151301815",
     "location": "bengaluru, India",
     "title": "AI and DevOps Engineer",
     "url": "https://jobs.smartrecruiters.com/BoschGroup/744000151301815"
-   },
-   {
-    "id": "744000148416109",
-    "location": "Bengaluru, India",
-    "title": "Senior DevOps Engineer",
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000148416109"
    },
    {
     "id": "744000146640025",
@@ -75,18 +50,6 @@
     "location": "bangalore, India",
     "title": "Product Owner - DevOps Practice (Ansible)",
     "url": "https://jobs.smartrecruiters.com/BoschGroup/744000145035068"
-   },
-   {
-    "id": "744000137090617",
-    "location": "Hyderabad, India",
-    "title": "Technical Architect (Cloud & Platform Engineering)",
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000137090617"
-   },
-   {
-    "id": "744000132113999",
-    "location": "bangalore, India",
-    "title": "Technical Architect (Cloud & Platform Engineering)",
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000132113999"
    }
   ],
   "Bybit": [],
@@ -106,12 +69,6 @@
     "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/India---Bangalore/Network-Reliability-Engineer-III--Hybrid--IND-_R29210"
    },
    {
-    "id": "/job/India---Bangalore/Sr-Engineer---Observability-Tracing--Hybrid-_R29204",
-    "location": "India - Bangalore",
-    "title": "Sr. Software Developer - Observability Tracing (Hybrid)",
-    "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/India---Bangalore/Sr-Engineer---Observability-Tracing--Hybrid-_R29204"
-   },
-   {
     "id": "/job/India---Pune/Engineer-III---CICD-DevOps_R29096",
     "location": "India - Pune",
     "title": "Engineer III - CICD DevOps",
@@ -124,26 +81,7 @@
     "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/India---Bangalore/Engineer-III---AI-Powered-SRE--UK-Shift-Timing-_R29953"
    }
   ],
-  "Databricks": [
-   {
-    "id": "7897431002",
-    "location": "Bengaluru, India",
-    "title": "Senior Software Engineer - Data + AI Observability",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7897431002"
-   },
-   {
-    "id": "7619811002",
-    "location": "Bengaluru, India",
-    "title": "Senior Software Engineer - Observability",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7619811002"
-   },
-   {
-    "id": "7925560002",
-    "location": "Bengaluru, India",
-    "title": "Sr. Software Engineer - Observability",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7925560002"
-   }
-  ],
+  "Databricks": [],
   "Datadog": [],
   "DigitalOcean": [
    {
@@ -151,12 +89,6 @@
     "location": "Hyderabad",
     "title": "Cloud Operations Engineer I",
     "url": "https://www.digitalocean.com/careers/position/apply/?gh_jid=8192833"
-   },
-   {
-    "id": "8165867",
-    "location": "Bengaluru",
-    "title": "Senior DevOps Engineer",
-    "url": "https://www.digitalocean.com/careers/position/apply/?gh_jid=8165867"
    },
    {
     "id": "8193018",
@@ -167,49 +99,15 @@
   ],
   "Docker": [],
   "Druva": [],
-  "Elastic": [
-   {
-    "id": "7447246",
-    "location": "India",
-    "title": "Consulting Architect - Observability",
-    "url": "https://jobs.elastic.co/jobs?gh_jid=7447246&gh_jid=7447246"
-   }
-  ],
+  "Elastic": [],
   "Fi Money": [],
   "Fivetran": [],
-  "Freshworks": [
-   {
-    "id": "744000151772990",
-    "location": "Hyderabad, India",
-    "title": "Lead Software Engineer - Site Reliability",
-    "url": "https://jobs.smartrecruiters.com/Freshworks/744000151772990"
-   },
-   {
-    "id": "744000143743519",
-    "location": "Chennai, India",
-    "title": "Lead - Data Platform Engineering",
-    "url": "https://jobs.smartrecruiters.com/Freshworks/744000143743519"
-   }
-  ],
-  "GitLab": [
-   {
-    "id": "8615319002",
-    "location": "Bangalore, India",
-    "title": "Senior Site Reliability Engineer - Monitoring and Anomaly Detection (Monetization)",
-    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8615319002"
-   }
-  ],
+  "Freshworks": [],
+  "GitLab": [],
   "Glance": [],
   "Glean": [],
   "Grafana Labs": [],
-  "Harness": [
-   {
-    "id": "5047997007",
-    "location": "Bengaluru, Karnataka, India",
-    "title": "Senior Devops Engineer - Customer Engineering Team",
-    "url": "https://www.harness.io/company/jobs/apply?gh_jid=5047997007&gh_jid=5047997007"
-   }
-  ],
+  "Harness": [],
   "Hevo Data": [],
   "InMobi": [
    {
@@ -364,13 +262,6 @@
     "url": "https://www.linkedin.com/jobs/view/4469854256/"
    },
    {
-    "employer": "Jobgether",
-    "id": "4468702430",
-    "location": "India",
-    "title": "Senior Site Reliability Engineer",
-    "url": "https://www.linkedin.com/jobs/view/4468702430/"
-   },
-   {
     "employer": "Enterprise Bot",
     "id": "4467394564",
     "location": "Bengaluru",
@@ -390,20 +281,6 @@
     "location": "Greater Bengaluru Area",
     "title": "KYC Analyst",
     "url": "https://www.linkedin.com/jobs/view/4470274459/"
-   },
-   {
-    "employer": "State Street",
-    "id": "4470407795",
-    "location": "Bengaluru",
-    "title": "Associate System Analyst, Senior Associate",
-    "url": "https://www.linkedin.com/jobs/view/4470407795/"
-   },
-   {
-    "employer": "Northern Trust",
-    "id": "4470279594",
-    "location": "Bengaluru",
-    "title": "Senior Analyst",
-    "url": "https://www.linkedin.com/jobs/view/4470279594/"
    },
    {
     "employer": "MUFG",
@@ -483,13 +360,6 @@
     "url": "https://www.linkedin.com/jobs/view/4462943375/"
    },
    {
-    "employer": "Rippling",
-    "id": "4338420472",
-    "location": "Bengaluru, Karnataka, India",
-    "title": "Senior Software Engineer - Codeship",
-    "url": "https://www.linkedin.com/jobs/view/4338420472/"
-   },
-   {
     "employer": "Nutanix",
     "id": "4458352622",
     "location": "Pune Division",
@@ -530,20 +400,6 @@
     "location": "Bengaluru, Karnataka, India",
     "title": "Site Reliability Engineer III - Python, Grafana, Splunk, AWS, Jenkins",
     "url": "https://www.linkedin.com/jobs/view/4469518289/"
-   },
-   {
-    "employer": "JPMorganChase",
-    "id": "4442443458",
-    "location": "Bengaluru, Karnataka, India",
-    "title": "Lead Site Reliability Engineer + AWS",
-    "url": "https://www.linkedin.com/jobs/view/4442443458/"
-   },
-   {
-    "employer": "JPMorganChase",
-    "id": "4468343822",
-    "location": "Bengaluru, Karnataka, India",
-    "title": "Lead Site Reliability Engineer",
-    "url": "https://www.linkedin.com/jobs/view/4468343822/"
    },
    {
     "employer": "Goldman Sachs",
@@ -714,13 +570,6 @@
     "url": "https://www.linkedin.com/jobs/view/4469362158/"
    },
    {
-    "employer": "Astreya",
-    "id": "4469314185",
-    "location": "India",
-    "title": "DevOps Engineer IV (Infrastructure)",
-    "url": "https://www.linkedin.com/jobs/view/4469314185/"
-   },
-   {
     "employer": "Cisco",
     "id": "4462150774",
     "location": "Pune Division",
@@ -745,101 +594,13 @@
     "location": "Bengaluru",
     "title": "Cloud Operations Engineer",
     "url": "https://www.mongodb.com/careers/job/?gh_jid=8184637"
-   },
-   {
-    "id": "8071475",
-    "location": "Gurugram",
-    "title": "Lead, Platform Engineering",
-    "url": "https://www.mongodb.com/careers/job/?gh_jid=8071475"
-   },
-   {
-    "id": "8051379",
-    "location": "Gurugram",
-    "title": "Senior Site Reliability Engineer",
-    "url": "https://www.mongodb.com/careers/job/?gh_jid=8051379"
    }
   ],
-  "New Relic": [
-   {
-    "id": "5116768008",
-    "location": "Bangalore, India",
-    "title": "Senior Software Engineer - Kubernetes Orchestration - (R0000335) Bangalore",
-    "url": "https://job-boards.greenhouse.io/newrelic/jobs/5116768008"
-   }
-  ],
-  "Nvidia": [
-   {
-    "id": "/job/India-Bengaluru/Senior-Network-Site-Reliability-Engineer_JR2020679",
-    "location": "India, Bengaluru, India, Hyderabad, India, Pune",
-    "title": "Senior Network Site Reliability Engineer",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/Senior-Network-Site-Reliability-Engineer_JR2020679"
-   },
-   {
-    "id": "/job/India-Bengaluru/Senior-Site-Reliability-Engineering--Storage_JR2024293",
-    "location": "India, Bengaluru",
-    "title": "Senior Site Reliability Engineering, Storage",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/Senior-Site-Reliability-Engineering--Storage_JR2024293"
-   },
-   {
-    "id": "/job/India-Bengaluru/Senior-Network-Site-Reliability-Engineer_JR2024289",
-    "location": "India, Bengaluru",
-    "title": "Senior Network Site Reliability Engineer",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/Senior-Network-Site-Reliability-Engineer_JR2024289"
-   },
-   {
-    "id": "/job/India-Pune/Senior-DevOps-Engineer---E-commerce_JR2021184",
-    "location": "India, Pune",
-    "title": "Senior DevOps Engineer - E-commerce",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Pune/Senior-DevOps-Engineer---E-commerce_JR2021184"
-   },
-   {
-    "id": "/job/India-Mumbai/Senior-Solution-Architect--Cloud-Infrastructure-DevOps_JR2017867",
-    "location": "India, Mumbai",
-    "title": "Senior Solution Architect, Cloud Infrastructure-DevOps",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Mumbai/Senior-Solution-Architect--Cloud-Infrastructure-DevOps_JR2017867"
-   },
-   {
-    "id": "/job/India-Bengaluru/Senior-Platform-Engineer--Network-Infrastructure_JR2021500",
-    "location": "India, Bengaluru, India, Remote, India, Hyderabad, India, Pune",
-    "title": "Senior Platform Engineer, Network Infrastructure",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/Senior-Platform-Engineer--Network-Infrastructure_JR2021500"
-   },
-   {
-    "id": "/job/India-Remote/Senior-Network-Infrastructure-Engineer_JR2015526",
-    "location": "India, Remote, India, Mumbai, India, Gurugram, India, Hyderabad, India, Pune",
-    "title": "Senior Network Infrastructure Engineer",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Remote/Senior-Network-Infrastructure-Engineer_JR2015526"
-   }
-  ],
+  "New Relic": [],
+  "Nvidia": [],
   "Observe.AI": [],
-  "Okta": [
-   {
-    "id": "8078730",
-    "location": "Bengaluru, India",
-    "title": "Senior Site Reliability Engineer (CI-CD/CTAP/Delivery team)",
-    "url": "https://www.okta.com/company/careers/opportunity/8078730?gh_jid=8078730"
-   }
-  ],
-  "Oracle (OCI)": [
-   {
-    "id": "345903",
-    "location": "BENGALURU, KARNATAKA, India",
-    "title": "Senior Core Infrastructure Engineer",
-    "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/345903"
-   },
-   {
-    "id": "343151",
-    "location": "India",
-    "title": "Senior Core Infrastructure Engineer",
-    "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/343151"
-   },
-   {
-    "id": "345896",
-    "location": "BENGALURU, KARNATAKA, India",
-    "title": "Senior Core Infrastructure Engineer",
-    "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/345896"
-   }
-  ],
+  "Okta": [],
+  "Oracle (OCI)": [],
   "PagerDuty": [],
   "Paytm": [],
   "Percona": [],
@@ -849,26 +610,7 @@
   "Rubrik": [],
   "Salesforce": [],
   "Samsara": [],
-  "ServiceNow": [
-   {
-    "id": "744000149918201",
-    "location": "Hyderabad, India",
-    "title": "Sr Software Engineer - Kubernetes",
-    "url": "https://jobs.smartrecruiters.com/ServiceNow/744000149918201"
-   },
-   {
-    "id": "744000144691979",
-    "location": "Bangalore, India",
-    "title": "Senior DevOps Engineer",
-    "url": "https://jobs.smartrecruiters.com/ServiceNow/744000144691979"
-   },
-   {
-    "id": "744000150360307",
-    "location": "Hyderabad, India",
-    "title": "Sr Software Engineer - Cloud Platform—Kubernetes Development",
-    "url": "https://jobs.smartrecruiters.com/ServiceNow/744000150360307"
-   }
-  ],
+  "ServiceNow": [],
   "Snowflake": [],
   "Stripe": [],
   "Sumo Logic": [],
@@ -884,28 +626,8 @@
   "Vercel": [],
   "Workday": [],
   "Yugabyte": [],
-  "Zeta": [
-   {
-    "id": "5eb7a75b-312c-4759-8813-70e67b5d4109",
-    "location": "Hyderabad",
-    "title": "Lead Site Reliability Engineer",
-    "url": "https://jobs.lever.co/zeta/5eb7a75b-312c-4759-8813-70e67b5d4109"
-   },
-   {
-    "id": "803792f5-0e9c-45bc-82ce-c0a552ce0cf8",
-    "location": "Hyderabad",
-    "title": "Lead Site Reliability Engineer",
-    "url": "https://jobs.lever.co/zeta/803792f5-0e9c-45bc-82ce-c0a552ce0cf8"
-   }
-  ],
-  "Zscaler": [
-   {
-    "id": "5128594007",
-    "location": "Bangalore, IND",
-    "title": "Sr. Software Development Engineer - Python Automation / Kubernetes / Networking",
-    "url": "https://job-boards.greenhouse.io/zscaler/jobs/5128594007"
-   }
-  ]
+  "Zeta": [],
+  "Zscaler": []
  },
  "resolved": {
   "AMD": {
@@ -1368,7 +1090,6 @@
  ],
  "seen": {
   "Adobe": {
-   "/job/Bangalore/Sr-Computer-Scientist--Data-Platform-Engineer-_R166812": null,
    "/job/Noida/Cloud-Engineer-3---AI-Agents_R171273": "2026-09-23T21:15:40+00:00"
   },
   "Airbyte": {},
@@ -1384,11 +1105,8 @@
    "/job/APAC---India---Pune---ABIL-Boulevard/Site-Reliability-Engineer_26WD98218-1": "2026-09-24T11:38:41+00:00"
   },
   "Bosch": {
-   "744000132113999": null,
-   "744000137090617": null,
    "744000145035068": null,
    "744000146640025": null,
-   "744000148416109": null,
    "744000149609680": null,
    "744000151301815": null,
    "744000151592409": "2026-09-24T11:38:41+00:00"
@@ -1405,40 +1123,27 @@
   "CrowdStrike": {
    "/job/India---Bangalore/Engineer-III---AI-Powered-SRE--UK-Shift-Timing-_R29953": null,
    "/job/India---Bangalore/Network-Reliability-Engineer-III--Hybrid--IND-_R29210": null,
-   "/job/India---Bangalore/Sr-Engineer---Observability-Tracing--Hybrid-_R29204": null,
    "/job/India---Pune/Engineer-III---CICD-DevOps_R29096": null
   },
-  "Databricks": {
-   "7619811002": null,
-   "7897431002": null,
-   "7925560002": null
-  },
+  "Databricks": {},
   "Datadog": {},
   "DigitalOcean": {
-   "8165867": null,
    "8192833": "2026-09-23T21:15:40+00:00",
    "8193018": "2026-09-23T21:15:40+00:00"
   },
   "Docker": {},
   "Druva": {},
-  "Elastic": {
-   "7447246": null
-  },
+  "Elastic": {},
   "Fi Money": {},
   "Fivetran": {},
   "Freshworks": {
-   "744000143743519": null,
    "744000151772990": "2026-09-25T07:42:36+00:00"
   },
-  "GitLab": {
-   "8615319002": null
-  },
+  "GitLab": {},
   "Glance": {},
   "Glean": {},
   "Grafana Labs": {},
-  "Harness": {
-   "5047997007": null
-  },
+  "Harness": {},
   "Hevo Data": {},
   "InMobi": {
    "7393433": null
@@ -1539,23 +1244,12 @@
    "8071475": "2026-09-23T21:15:40+00:00",
    "8184637": null
   },
-  "New Relic": {
-   "5116768008": null
-  },
+  "New Relic": {},
   "Nvidia": {
-   "/job/India-Bengaluru/Senior-Network-Site-Reliability-Engineer_JR2020679": null,
-   "/job/India-Bengaluru/Senior-Network-Site-Reliability-Engineer_JR2024289": null,
-   "/job/India-Bengaluru/Senior-Platform-Engineer--Network-Infrastructure_JR2021500": null,
-   "/job/India-Bengaluru/Senior-Site-Reliability-Engineering--Storage_JR2024293": null,
-   "/job/India-Mumbai/Senior-Solution-Architect--Cloud-Infrastructure-DevOps_JR2017867": null,
-   "/job/India-Pune/Senior-DevOps-Engineer---E-commerce_JR2021184": null,
-   "/job/India-Remote/Senior-Network-Infrastructure-Engineer_JR2015526": null,
    "/job/US-CA-Santa-Clara/Senior-Software-Engineer--DGX-Cloud-Production-Engineering_JR2023609": "2026-09-23T21:09:51+00:00"
   },
   "Observe.AI": {},
-  "Okta": {
-   "8078730": null
-  },
+  "Okta": {},
   "Oracle (OCI)": {
    "343151": "2026-09-24T11:38:41+00:00",
    "345871": "2026-09-24T17:05:36+00:00",
@@ -1571,11 +1265,7 @@
   "Rubrik": {},
   "Salesforce": {},
   "Samsara": {},
-  "ServiceNow": {
-   "744000144691979": null,
-   "744000149918201": null,
-   "744000150360307": null
-  },
+  "ServiceNow": {},
   "Snowflake": {},
   "Stripe": {},
   "Sumo Logic": {},
@@ -1595,8 +1285,6 @@
    "5eb7a75b-312c-4759-8813-70e67b5d4109": "2026-09-23T21:15:40+00:00",
    "803792f5-0e9c-45bc-82ce-c0a552ce0cf8": "2026-09-23T21:15:40+00:00"
   },
-  "Zscaler": {
-   "5128594007": null
-  }
+  "Zscaler": {}
  }
 }
