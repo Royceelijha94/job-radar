@@ -38,14 +38,7 @@
    }
   ],
   "Atlan": [],
-  "Autodesk": [
-   {
-    "id": "/job/APAC---India---Pune---ABIL-Boulevard/Site-Reliability-Engineer_26WD98218-1",
-    "location": "APAC - India - Pune - ABIL Boulevard",
-    "title": "Site Reliability Engineer",
-    "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/APAC---India---Pune---ABIL-Boulevard/Site-Reliability-Engineer_26WD98218-1"
-   }
-  ],
+  "Autodesk": [],
   "Bosch": [
    {
     "id": "744000149609680",
@@ -185,6 +178,12 @@
   "Fi Money": [],
   "Fivetran": [],
   "Freshworks": [
+   {
+    "id": "744000151772990",
+    "location": "Hyderabad, India",
+    "title": "Lead Software Engineer - Site Reliability",
+    "url": "https://jobs.smartrecruiters.com/Freshworks/744000151772990"
+   },
    {
     "id": "744000143743519",
     "location": "Chennai, India",
@@ -622,6 +621,48 @@
     "location": "Bengaluru",
     "title": "Cloud Engineer",
     "url": "https://www.linkedin.com/jobs/view/4469430523/"
+   },
+   {
+    "employer": "Wells Fargo",
+    "id": "4471440288",
+    "location": "Bengaluru",
+    "title": "System Operations Engineer - Production Support",
+    "url": "https://www.linkedin.com/jobs/view/4471440288/"
+   },
+   {
+    "employer": "Barclays",
+    "id": "4469369572",
+    "location": "Pune Division",
+    "title": "ProdOps Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4469369572/"
+   },
+   {
+    "employer": "Goldman Sachs",
+    "id": "4460613525",
+    "location": "Bengaluru",
+    "title": "GBM - Prime Services Custody Engineering - Bengaluru - Vice President - Software Engineering",
+    "url": "https://www.linkedin.com/jobs/view/4460613525/"
+   },
+   {
+    "employer": "Deutsche Bank",
+    "id": "4470982852",
+    "location": "Pune Division",
+    "title": "L3 Authorization Support Engineer, AVP",
+    "url": "https://www.linkedin.com/jobs/view/4470982852/"
+   },
+   {
+    "employer": "Barclays",
+    "id": "4468910353",
+    "location": "Pune Division",
+    "title": "MicroFocus Analyst",
+    "url": "https://www.linkedin.com/jobs/view/4468910353/"
+   },
+   {
+    "employer": "Valtech",
+    "id": "4419408148",
+    "location": "Bengaluru",
+    "title": "Site Reliability Egineer",
+    "url": "https://www.linkedin.com/jobs/view/4419408148/"
    }
   ],
   "Mastercard": [],
@@ -717,12 +758,6 @@
    }
   ],
   "Oracle (OCI)": [
-   {
-    "id": "345871",
-    "location": "BENGALURU, KARNATAKA, India, India",
-    "title": "Senior Site Reliability Engineer",
-    "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/345871"
-   },
    {
     "id": "345903",
     "location": "BENGALURU, KARNATAKA, India",
@@ -1323,7 +1358,8 @@
   "Fi Money": {},
   "Fivetran": {},
   "Freshworks": {
-   "744000143743519": null
+   "744000143743519": null,
+   "744000151772990": "2026-09-25T07:42:36+00:00"
   },
   "GitLab": {
    "8615319002": null
@@ -1348,6 +1384,7 @@
    "4358434048": "2026-09-23T21:09:51+00:00",
    "4401914138": "2026-09-23T21:09:51+00:00",
    "4415345658": "2026-09-23T21:09:51+00:00",
+   "4419408148": "2026-09-25T07:42:36+00:00",
    "4421101868": "2026-09-24T04:40:01+00:00",
    "4430604888": "2026-09-23T21:09:51+00:00",
    "4439253468": "2026-09-23T21:09:51+00:00",
@@ -1360,6 +1397,7 @@
    "4458956317": "2026-09-24T04:40:01+00:00",
    "4458969311": "2026-09-24T04:40:01+00:00",
    "4459636962": "2026-09-23T21:09:51+00:00",
+   "4460613525": "2026-09-25T07:42:36+00:00",
    "4461192930": "2026-09-23T21:09:51+00:00",
    "4462147795": "2026-09-24T04:40:01+00:00",
    "4462943375": "2026-09-23T21:09:51+00:00",
@@ -1381,9 +1419,11 @@
    "4468679944": "2026-09-23T21:09:51+00:00",
    "4468702430": "2026-09-23T21:09:51+00:00",
    "4468711395": "2026-09-23T21:09:51+00:00",
+   "4468910353": "2026-09-25T07:42:36+00:00",
    "4468982443": "2026-09-24T11:38:41+00:00",
    "4469012086": "2026-09-24T04:40:01+00:00",
    "4469172041": "2026-09-23T21:09:51+00:00",
+   "4469369572": "2026-09-25T07:42:36+00:00",
    "4469427036": "2026-09-24T11:38:41+00:00",
    "4469430523": "2026-09-24T11:38:41+00:00",
    "4469435349": "2026-09-24T11:38:41+00:00",
@@ -1406,7 +1446,9 @@
    "4470415876": "2026-09-24T11:38:41+00:00",
    "4470635972": "2026-09-24T11:38:41+00:00",
    "4470681393": "2026-09-24T11:38:41+00:00",
-   "4470686728": "2026-09-24T11:38:41+00:00"
+   "4470686728": "2026-09-24T11:38:41+00:00",
+   "4470982852": "2026-09-25T07:42:36+00:00",
+   "4471440288": "2026-09-25T07:42:36+00:00"
   },
   "Mastercard": {},
   "Meesho": {
