@@ -32,6 +32,14 @@ filters:
     - 'sales'
     - 'java'
     - 'database'
+    # experience: keep ~3-year roles, drop senior-level titles
+    - '\bsenior\b'
+    - '\bsr\b'
+    - '\blead\b'
+    - 'architect'
+    - '\bexpert\b'
+    - '\biv\b'
+    - '\bl[5-9]\b'
   location_include:
     - 'bengaluru'
     - 'bangalore'
