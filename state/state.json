@@ -492,7 +492,7 @@
    {
     "employer": "Nutanix",
     "id": "4458352622",
-    "location": "Pune Division, Maharashtra, India",
+    "location": "Pune Division",
     "title": "Systems Reliability Engineer II",
     "url": "https://www.linkedin.com/jobs/view/4458352622/"
    },
@@ -663,6 +663,69 @@
     "location": "Bengaluru",
     "title": "Site Reliability Egineer",
     "url": "https://www.linkedin.com/jobs/view/4419408148/"
+   },
+   {
+    "employer": "Visa",
+    "id": "4470932213",
+    "location": "Bengaluru",
+    "title": "Product Analyst",
+    "url": "https://www.linkedin.com/jobs/view/4470932213/"
+   },
+   {
+    "employer": "MUFG",
+    "id": "4470929756",
+    "location": "Greater Bengaluru Area",
+    "title": "Analyst",
+    "url": "https://www.linkedin.com/jobs/view/4470929756/"
+   },
+   {
+    "employer": "Duck Creek Technologies",
+    "id": "4459951877",
+    "location": "Bengaluru",
+    "title": "Application Support Analyst II",
+    "url": "https://www.linkedin.com/jobs/view/4459951877/"
+   },
+   {
+    "employer": "Chevron",
+    "id": "4468998890",
+    "location": "Bengaluru",
+    "title": "OE/HSE Reporting Analyst",
+    "url": "https://www.linkedin.com/jobs/view/4468998890/"
+   },
+   {
+    "employer": "Accenture in India",
+    "id": "4448609097",
+    "location": "Bengaluru",
+    "title": "Business Analyst",
+    "url": "https://www.linkedin.com/jobs/view/4448609097/"
+   },
+   {
+    "employer": "Flexiple",
+    "id": "4471158223",
+    "location": "India",
+    "title": "DevOps Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4471158223/"
+   },
+   {
+    "employer": "Process Point Technologies Corporation",
+    "id": "4469362158",
+    "location": "India",
+    "title": "DevOps Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4469362158/"
+   },
+   {
+    "employer": "Astreya",
+    "id": "4469314185",
+    "location": "India",
+    "title": "DevOps Engineer IV (Infrastructure)",
+    "url": "https://www.linkedin.com/jobs/view/4469314185/"
+   },
+   {
+    "employer": "Cisco",
+    "id": "4462150774",
+    "location": "Pune Division",
+    "title": "Software Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4462150774/"
    }
   ],
   "Mastercard": [],
@@ -769,6 +832,12 @@
     "location": "India",
     "title": "Senior Core Infrastructure Engineer",
     "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/343151"
+   },
+   {
+    "id": "345896",
+    "location": "BENGALURU, KARNATAKA, India",
+    "title": "Senior Core Infrastructure Engineer",
+    "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/345896"
    }
   ],
   "PagerDuty": [],
@@ -1389,6 +1458,7 @@
    "4430604888": "2026-09-23T21:09:51+00:00",
    "4439253468": "2026-09-23T21:09:51+00:00",
    "4442443458": "2026-09-24T04:40:01+00:00",
+   "4448609097": "2026-09-25T13:41:28+00:00",
    "4449206760": "2026-09-23T21:09:51+00:00",
    "4451062427": "2026-09-23T21:09:51+00:00",
    "4457488693": "2026-09-23T21:09:51+00:00",
@@ -1397,9 +1467,11 @@
    "4458956317": "2026-09-24T04:40:01+00:00",
    "4458969311": "2026-09-24T04:40:01+00:00",
    "4459636962": "2026-09-23T21:09:51+00:00",
+   "4459951877": "2026-09-25T13:41:28+00:00",
    "4460613525": "2026-09-25T07:42:36+00:00",
    "4461192930": "2026-09-23T21:09:51+00:00",
    "4462147795": "2026-09-24T04:40:01+00:00",
+   "4462150774": "2026-09-25T13:41:28+00:00",
    "4462943375": "2026-09-23T21:09:51+00:00",
    "4462948050": "2026-09-23T21:09:51+00:00",
    "4467389521": "2026-09-23T21:09:51+00:00",
@@ -1421,8 +1493,11 @@
    "4468711395": "2026-09-23T21:09:51+00:00",
    "4468910353": "2026-09-25T07:42:36+00:00",
    "4468982443": "2026-09-24T11:38:41+00:00",
+   "4468998890": "2026-09-25T13:41:28+00:00",
    "4469012086": "2026-09-24T04:40:01+00:00",
    "4469172041": "2026-09-23T21:09:51+00:00",
+   "4469314185": "2026-09-25T13:41:28+00:00",
+   "4469362158": "2026-09-25T13:41:28+00:00",
    "4469369572": "2026-09-25T07:42:36+00:00",
    "4469427036": "2026-09-24T11:38:41+00:00",
    "4469430523": "2026-09-24T11:38:41+00:00",
@@ -1447,7 +1522,10 @@
    "4470635972": "2026-09-24T11:38:41+00:00",
    "4470681393": "2026-09-24T11:38:41+00:00",
    "4470686728": "2026-09-24T11:38:41+00:00",
+   "4470929756": "2026-09-25T13:41:28+00:00",
+   "4470932213": "2026-09-25T13:41:28+00:00",
    "4470982852": "2026-09-25T07:42:36+00:00",
+   "4471158223": "2026-09-25T13:41:28+00:00",
    "4471440288": "2026-09-25T07:42:36+00:00"
   },
   "Mastercard": {},
@@ -1481,6 +1559,7 @@
   "Oracle (OCI)": {
    "343151": "2026-09-24T11:38:41+00:00",
    "345871": "2026-09-24T17:05:36+00:00",
+   "345896": "2026-09-25T13:41:28+00:00",
    "345903": "2026-09-24T17:05:36+00:00"
   },
   "PagerDuty": {},
