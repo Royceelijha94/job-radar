@@ -34,12 +34,6 @@
     "url": "https://jobs.smartrecruiters.com/BoschGroup/744000149609680"
    },
    {
-    "id": "744000151301815",
-    "location": "bengaluru, India",
-    "title": "AI and DevOps Engineer",
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000151301815"
-   },
-   {
     "id": "744000146640025",
     "location": "coimbatore, India",
     "title": "2026_CICD_DevOps_Engineer_ProCon_SLA_LGP3",
@@ -327,7 +321,7 @@
    {
     "employer": "SymphonyAI",
     "id": "4459636962",
-    "location": "Bengaluru, Karnataka, India",
+    "location": "Bengaluru",
     "title": "Site Reliability Engineer",
     "url": "https://www.linkedin.com/jobs/view/4459636962/"
    },
@@ -1192,7 +1186,6 @@
    "744000145035068": null,
    "744000146640025": null,
    "744000149609680": null,
-   "744000151301815": null,
    "744000151592409": "2026-09-24T11:38:41+00:00"
   },
   "Bybit": {},
