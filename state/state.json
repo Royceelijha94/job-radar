@@ -589,6 +589,76 @@
     "location": "Bengaluru",
     "title": "Site Reliability Engineer",
     "url": "https://www.linkedin.com/jobs/view/4470108802/"
+   },
+   {
+    "employer": "JPMorganChase",
+    "id": "4471670997",
+    "location": "Bengaluru",
+    "title": "Site Reliability Engineer II",
+    "url": "https://www.linkedin.com/jobs/view/4471670997/"
+   },
+   {
+    "employer": "Citi",
+    "id": "4470000279",
+    "location": "Pune Division",
+    "title": "Application Support Analyst with SRE",
+    "url": "https://www.linkedin.com/jobs/view/4470000279/"
+   },
+   {
+    "employer": "Barclays",
+    "id": "4469793177",
+    "location": "Noida",
+    "title": "MLOps Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4469793177/"
+   },
+   {
+    "employer": "HSBC",
+    "id": "4471641399",
+    "location": "Pune Division",
+    "title": "ITSO / Consultant Specialist",
+    "url": "https://www.linkedin.com/jobs/view/4471641399/"
+   },
+   {
+    "employer": "Grow Your Staff",
+    "id": "4470131756",
+    "location": "India",
+    "title": "DevOps Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4470131756/"
+   },
+   {
+    "employer": "Alstom",
+    "id": "4469782183",
+    "location": "Bengaluru",
+    "title": "Configuration Management Analyst",
+    "url": "https://www.linkedin.com/jobs/view/4469782183/"
+   },
+   {
+    "employer": "Caterpillar Inc.",
+    "id": "4469565131",
+    "location": "Bengaluru East",
+    "title": "IT Analyst Applications (Disaster Recovery Operations Analyst I)",
+    "url": "https://www.linkedin.com/jobs/view/4469565131/"
+   },
+   {
+    "employer": "Caterpillar Inc.",
+    "id": "4469544907",
+    "location": "Bengaluru East",
+    "title": "IT Analyst Applications(Disaster Recovery Operations Analyst II)",
+    "url": "https://www.linkedin.com/jobs/view/4469544907/"
+   },
+   {
+    "employer": "Accenture in India",
+    "id": "4448323636",
+    "location": "Bengaluru",
+    "title": "Quality Assurance Analyst",
+    "url": "https://www.linkedin.com/jobs/view/4448323636/"
+   },
+   {
+    "employer": "Deutsche Bank",
+    "id": "4471638412",
+    "location": "Bengaluru",
+    "title": "Reconciliation Analyst, NCT",
+    "url": "https://www.linkedin.com/jobs/view/4471638412/"
    }
   ],
   "Mastercard": [],
@@ -1177,6 +1247,7 @@
    "4430604888": "2026-09-23T21:09:51+00:00",
    "4439253468": "2026-09-23T21:09:51+00:00",
    "4442443458": "2026-09-24T04:40:01+00:00",
+   "4448323636": "2026-09-26T11:17:47+00:00",
    "4448609097": "2026-09-25T13:41:28+00:00",
    "4449206760": "2026-09-23T21:09:51+00:00",
    "4451062427": "2026-09-23T21:09:51+00:00",
@@ -1224,7 +1295,11 @@
    "4469447009": "2026-09-24T11:38:41+00:00",
    "4469517793": "2026-09-23T21:09:51+00:00",
    "4469518289": "2026-09-24T04:40:01+00:00",
+   "4469544907": "2026-09-26T11:17:47+00:00",
+   "4469565131": "2026-09-26T11:17:47+00:00",
    "4469575112": "2026-09-23T21:09:51+00:00",
+   "4469782183": "2026-09-26T11:17:47+00:00",
+   "4469793177": "2026-09-26T11:17:47+00:00",
    "4469820504": "2026-09-23T21:09:51+00:00",
    "4469822143": "2026-09-23T21:09:51+00:00",
    "4469824272": "2026-09-23T21:09:51+00:00",
@@ -1233,7 +1308,9 @@
    "4469855924": "2026-09-23T21:09:51+00:00",
    "4469865389": "2026-09-23T21:09:51+00:00",
    "4469970234": "2026-09-23T21:09:51+00:00",
+   "4470000279": "2026-09-26T11:17:47+00:00",
    "4470108802": "2026-09-26T04:50:26+00:00",
+   "4470131756": "2026-09-26T11:17:47+00:00",
    "4470207366": "2026-09-23T21:09:51+00:00",
    "4470274459": "2026-09-23T21:09:51+00:00",
    "4470279594": "2026-09-23T21:09:51+00:00",
@@ -1247,6 +1324,9 @@
    "4470982852": "2026-09-25T07:42:36+00:00",
    "4471158223": "2026-09-25T13:41:28+00:00",
    "4471440288": "2026-09-25T07:42:36+00:00",
+   "4471638412": "2026-09-26T11:17:47+00:00",
+   "4471641399": "2026-09-26T11:17:47+00:00",
+   "4471670997": "2026-09-26T11:17:47+00:00",
    "4471677384": "2026-09-26T04:50:26+00:00"
   },
   "Mastercard": {},
