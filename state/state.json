@@ -57,12 +57,6 @@
   "Confluent": [],
   "CrowdStrike": [
    {
-    "id": "/job/India---Bangalore/Network-Reliability-Engineer-III--Hybrid--IND-_R29210",
-    "location": "India - Bangalore",
-    "title": "Network Reliability Engineer III (Hybrid, IND)",
-    "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/India---Bangalore/Network-Reliability-Engineer-III--Hybrid--IND-_R29210"
-   },
-   {
     "id": "/job/India---Pune/Engineer-III---CICD-DevOps_R29096",
     "location": "India - Pune",
     "title": "Engineer III - CICD DevOps",
@@ -695,9 +689,86 @@
     "location": "Bengaluru",
     "title": "Software Engineer 2",
     "url": "https://www.linkedin.com/jobs/view/4472002347/"
+   },
+   {
+    "employer": "Embrace Software Inc",
+    "id": "4472297676",
+    "location": "India",
+    "title": "Azure Cloud Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4472297676/"
+   },
+   {
+    "employer": "Cisco",
+    "id": "4454396629",
+    "location": "Bengaluru",
+    "title": "Software Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4454396629/"
+   },
+   {
+    "employer": "Cisco",
+    "id": "4454508648",
+    "location": "Greater Hyderabad Area",
+    "title": "Software Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4454508648/"
+   },
+   {
+    "employer": "Cisco",
+    "id": "4454501593",
+    "location": "Bengaluru",
+    "title": "Software Engineer - Kubernetes (K8s) Go (Golang) Python Microservices,Linux,AI-assisted development - 8 to 10 years",
+    "url": "https://www.linkedin.com/jobs/view/4454501593/"
+   },
+   {
+    "employer": "Flexiple",
+    "id": "4472407805",
+    "location": "India",
+    "title": "DevOps Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4472407805/"
+   },
+   {
+    "employer": "Revspot",
+    "id": "4471022749",
+    "location": "Bengaluru",
+    "title": "DevOps Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4471022749/"
+   },
+   {
+    "employer": "LSEG",
+    "id": "4442068122",
+    "location": "Bengaluru",
+    "title": "Engineer, Site Reliability Engineering",
+    "url": "https://www.linkedin.com/jobs/view/4442068122/"
+   },
+   {
+    "employer": "MiQ",
+    "id": "4426243483",
+    "location": "Bengaluru",
+    "title": "Dev Ops Engineer II",
+    "url": "https://www.linkedin.com/jobs/view/4426243483/"
+   },
+   {
+    "employer": "Scoutit",
+    "id": "4471076912",
+    "location": "Bengaluru",
+    "title": "Cloud Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4471076912/"
+   },
+   {
+    "employer": "Infosys",
+    "id": "4443887105",
+    "location": "Bengaluru East",
+    "title": "DevOps / Cloud Platform Engineer - RegTech",
+    "url": "https://www.linkedin.com/jobs/view/4443887105/"
    }
   ],
-  "Mastercard": [],
+  "Mastercard": [
+   {
+    "id": "/job/Pune-India/Platform-Engineer-II_R-288632",
+    "location": "Pune, India",
+    "title": "Platform Engineer II",
+    "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Platform-Engineer-II_R-288632"
+   }
+  ],
   "Meesho": [
    {
     "id": "60e0d986-abe8-42ee-b172-0d9aecb307b7",
@@ -1241,7 +1312,6 @@
   "Confluent": {},
   "CrowdStrike": {
    "/job/India---Bangalore/Engineer-III---AI-Powered-SRE--UK-Shift-Timing-_R29953": null,
-   "/job/India---Bangalore/Network-Reliability-Engineer-III--Hybrid--IND-_R29210": null,
    "/job/India---Pune/Engineer-III---CICD-DevOps_R29096": null
   },
   "Databricks": {},
@@ -1279,13 +1349,19 @@
    "4415345658": "2026-09-23T21:09:51+00:00",
    "4419408148": "2026-09-25T07:42:36+00:00",
    "4421101868": "2026-09-24T04:40:01+00:00",
+   "4426243483": "2026-09-28T13:45:49+00:00",
    "4430604888": "2026-09-23T21:09:51+00:00",
    "4439253468": "2026-09-23T21:09:51+00:00",
+   "4442068122": "2026-09-28T13:45:49+00:00",
    "4442443458": "2026-09-24T04:40:01+00:00",
+   "4443887105": "2026-09-28T13:45:49+00:00",
    "4448323636": "2026-09-26T11:17:47+00:00",
    "4448609097": "2026-09-25T13:41:28+00:00",
    "4449206760": "2026-09-23T21:09:51+00:00",
    "4451062427": "2026-09-23T21:09:51+00:00",
+   "4454396629": "2026-09-28T13:45:49+00:00",
+   "4454501593": "2026-09-28T13:45:49+00:00",
+   "4454508648": "2026-09-28T13:45:49+00:00",
    "4457488693": "2026-09-23T21:09:51+00:00",
    "4457788813": "2026-09-23T21:09:51+00:00",
    "4458352622": "2026-09-24T04:40:01+00:00",
@@ -1359,6 +1435,8 @@
    "4470929756": "2026-09-25T13:41:28+00:00",
    "4470932213": "2026-09-25T13:41:28+00:00",
    "4470982852": "2026-09-25T07:42:36+00:00",
+   "4471022749": "2026-09-28T13:45:49+00:00",
+   "4471076912": "2026-09-28T13:45:49+00:00",
    "4471158223": "2026-09-25T13:41:28+00:00",
    "4471440288": "2026-09-25T07:42:36+00:00",
    "4471638412": "2026-09-26T11:17:47+00:00",
@@ -1368,9 +1446,13 @@
    "4472002347": "2026-09-27T13:54:22+00:00",
    "4472074987": "2026-09-27T08:03:27+00:00",
    "4472084910": "2026-09-27T08:03:27+00:00",
-   "4472085682": "2026-09-27T08:03:27+00:00"
+   "4472085682": "2026-09-27T08:03:27+00:00",
+   "4472297676": "2026-09-28T13:45:49+00:00",
+   "4472407805": "2026-09-28T13:45:49+00:00"
   },
-  "Mastercard": {},
+  "Mastercard": {
+   "/job/Pune-India/Platform-Engineer-II_R-288632": "2026-09-28T13:45:49+00:00"
+  },
   "Meesho": {
    "60e0d986-abe8-42ee-b172-0d9aecb307b7": null
   },
