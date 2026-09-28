@@ -761,14 +761,7 @@
     "url": "https://www.linkedin.com/jobs/view/4443887105/"
    }
   ],
-  "Mastercard": [
-   {
-    "id": "/job/Pune-India/Platform-Engineer-II_R-288632",
-    "location": "Pune, India",
-    "title": "Platform Engineer II",
-    "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Platform-Engineer-II_R-288632"
-   }
-  ],
+  "Mastercard": [],
   "Meesho": [
    {
     "id": "60e0d986-abe8-42ee-b172-0d9aecb307b7",
@@ -1163,10 +1156,6 @@
   },
   "Urban Company": {
    "miss": "2026-09-26T21:04:46+00:00"
-  },
-  "Vercel": {
-   "ats": "greenhouse",
-   "token": "vercel"
   },
   "Whatfix": {
    "miss": "2026-09-26T21:04:46+00:00"
