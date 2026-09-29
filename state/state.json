@@ -1157,6 +1157,10 @@
   "Urban Company": {
    "miss": "2026-09-26T21:04:46+00:00"
   },
+  "Vercel": {
+   "ats": "greenhouse",
+   "token": "vercel"
+  },
   "Whatfix": {
    "miss": "2026-09-26T21:04:46+00:00"
   },
