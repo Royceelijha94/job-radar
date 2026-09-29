@@ -71,6 +71,12 @@
   "Confluent": [],
   "CrowdStrike": [
    {
+    "id": "/job/India---Bangalore/Network-Reliability-Engineer-III--Hybrid--IND-_R29210",
+    "location": "India - Bangalore",
+    "title": "Network Reliability Engineer III (Hybrid, IND)",
+    "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/India---Bangalore/Network-Reliability-Engineer-III--Hybrid--IND-_R29210"
+   },
+   {
     "id": "/job/India---Pune/Engineer-III---CICD-DevOps_R29096",
     "location": "India - Pune",
     "title": "Engineer III - CICD DevOps",
@@ -101,7 +107,14 @@
   ],
   "Docker": [],
   "Druva": [],
-  "Elastic": [],
+  "Elastic": [
+   {
+    "id": "8237463",
+    "location": "Bangalore, India",
+    "title": "Platform Engineer - Kubernetes",
+    "url": "https://jobs.elastic.co/jobs?gh_jid=8237463&gh_jid=8237463"
+   }
+  ],
   "Fi Money": [],
   "Fivetran": [],
   "Freshworks": [],
@@ -1418,6 +1431,7 @@
   "Confluent": {},
   "CrowdStrike": {
    "/job/India---Bangalore/Engineer-III---AI-Powered-SRE--UK-Shift-Timing-_R29953": null,
+   "/job/India---Bangalore/Network-Reliability-Engineer-III--Hybrid--IND-_R29210": "2026-09-29T16:29:02+00:00",
    "/job/India---Pune/Engineer-III---CICD-DevOps_R29096": null
   },
   "Databricks": {},
@@ -1428,7 +1442,9 @@
   },
   "Docker": {},
   "Druva": {},
-  "Elastic": {},
+  "Elastic": {
+   "8237463": "2026-09-29T16:29:02+00:00"
+  },
   "Fi Money": {},
   "Fivetran": {},
   "Freshworks": {
