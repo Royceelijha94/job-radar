@@ -128,14 +128,7 @@
   ],
   "Intel": [],
   "JFrog": [],
-  "Kong": [
-   {
-    "id": "4da28c63-9926-4b14-93ba-c5c589233344",
-    "location": "Bangalore, India",
-    "title": "Site Reliability Engineer 2, Managed Gateways",
-    "url": "https://jobs.ashbyhq.com/kong/4da28c63-9926-4b14-93ba-c5c589233344"
-   }
-  ],
+  "Kong": [],
   "LinkedIn alerts": [
    {
     "employer": "Flexiple",
@@ -899,16 +892,114 @@
     "location": "Bengaluru",
     "title": "Site Reliability Engineer",
     "url": "https://www.linkedin.com/jobs/view/4462975502/"
-   }
-  ],
-  "Mastercard": [
+   },
    {
-    "id": "/job/Pune-India/Site-Reliability-Engineer-2_R-278999-1",
-    "location": "Pune, India",
-    "title": "Site Reliability Engineer 2",
-    "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Site-Reliability-Engineer-2_R-278999-1"
+    "employer": "Fiserv",
+    "id": "4471701437",
+    "location": "Bengaluru",
+    "title": "Specialist, Infrastructure Engineering",
+    "url": "https://www.linkedin.com/jobs/view/4471701437/"
+   },
+   {
+    "employer": "CrashPlan",
+    "id": "4443717137",
+    "location": "Bengaluru",
+    "title": "DevOps Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4443717137/"
+   },
+   {
+    "employer": "Barclays",
+    "id": "4470180201",
+    "location": "Noida",
+    "title": "AI Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4470180201/"
+   },
+   {
+    "employer": "Barclays",
+    "id": "4471244406",
+    "location": "Pune Division",
+    "title": "GTSM - Site Reliability Engineer – XDP",
+    "url": "https://www.linkedin.com/jobs/view/4471244406/"
+   },
+   {
+    "employer": "HSBC",
+    "id": "4473099429",
+    "location": "Pune Division",
+    "title": "Production Support L2/l3 / Consultant Specialist",
+    "url": "https://www.linkedin.com/jobs/view/4473099429/"
+   },
+   {
+    "employer": "HSBC",
+    "id": "4472790153",
+    "location": "Pune Division",
+    "title": "Production Support, Spring boot, API, Microservices / Consultant Specialist",
+    "url": "https://www.linkedin.com/jobs/view/4472790153/"
+   },
+   {
+    "employer": "JPMorganChase",
+    "id": "4473005629",
+    "location": "Hyderabad",
+    "title": "Infrastructure Engineer III- Network Operation Merchant Services",
+    "url": "https://www.linkedin.com/jobs/view/4473005629/"
+   },
+   {
+    "employer": "Deutsche Bank",
+    "id": "4472783200",
+    "location": "Bengaluru",
+    "title": "Information Security Analyst",
+    "url": "https://www.linkedin.com/jobs/view/4472783200/"
+   },
+   {
+    "employer": "Iron Mountain",
+    "id": "4472754533",
+    "location": "Bengaluru",
+    "title": "Change Analyst",
+    "url": "https://www.linkedin.com/jobs/view/4472754533/"
+   },
+   {
+    "employer": "Transition VC",
+    "id": "4470845936",
+    "location": "Bengaluru",
+    "title": "Fund Operations Analyst",
+    "url": "https://www.linkedin.com/jobs/view/4470845936/"
+   },
+   {
+    "employer": "Deutsche Bank",
+    "id": "4472775697",
+    "location": "Bengaluru",
+    "title": "Payments Processing Analyst",
+    "url": "https://www.linkedin.com/jobs/view/4472775697/"
+   },
+   {
+    "employer": "Hewlett Packard Enterprise",
+    "id": "4473222739",
+    "location": "Bengaluru",
+    "title": "Legel Operations Analyst",
+    "url": "https://www.linkedin.com/jobs/view/4473222739/"
+   },
+   {
+    "employer": "Ralph Lauren",
+    "id": "4459537334",
+    "location": "Bengaluru",
+    "title": "Analyst Strategic Sourcing",
+    "url": "https://www.linkedin.com/jobs/view/4459537334/"
+   },
+   {
+    "employer": "FIS",
+    "id": "4473233321",
+    "location": "Pune/Pimpri-Chinchwad Area",
+    "title": "Site Reliability Engineer (SRE) – Cloud Platform",
+    "url": "https://www.linkedin.com/jobs/view/4473233321/"
+   },
+   {
+    "employer": "Brillio",
+    "id": "4473219572",
+    "location": "Bengaluru",
+    "title": "Tech Specialist, DevOps - R01571826",
+    "url": "https://www.linkedin.com/jobs/view/4473219572/"
    }
   ],
+  "Mastercard": [],
   "Meesho": [
    {
     "id": "60e0d986-abe8-42ee-b172-0d9aecb307b7",
@@ -951,7 +1042,14 @@
   "Talabat (Dubai)": [],
   "Tamara": [],
   "Target": [],
-  "Tekion": [],
+  "Tekion": [
+   {
+    "id": "ee18cc47-b670-4fa5-97e6-039470aad2ac",
+    "location": "Bangalore HQ",
+    "title": "Site Reliability Engineer I",
+    "url": "https://jobs.ashbyhq.com/tekion/ee18cc47-b670-4fa5-97e6-039470aad2ac"
+   }
+  ],
   "Thoughtworks": [],
   "Twilio": [],
   "Vercel": [],
@@ -1482,9 +1580,7 @@
   },
   "Intel": {},
   "JFrog": {},
-  "Kong": {
-   "4da28c63-9926-4b14-93ba-c5c589233344": null
-  },
+  "Kong": {},
   "LinkedIn alerts": {
    "4338420472": "2026-09-23T22:55:19+00:00",
    "4358434048": "2026-09-23T21:09:51+00:00",
@@ -1498,6 +1594,7 @@
    "4439253468": "2026-09-23T21:09:51+00:00",
    "4442068122": "2026-09-28T13:45:49+00:00",
    "4442443458": "2026-09-24T04:40:01+00:00",
+   "4443717137": "2026-09-30T12:28:10+00:00",
    "4443887105": "2026-09-28T13:45:49+00:00",
    "4444603112": "2026-09-29T08:23:22+00:00",
    "4448323636": "2026-09-26T11:17:47+00:00",
@@ -1512,6 +1609,7 @@
    "4458352622": "2026-09-24T04:40:01+00:00",
    "4458956317": "2026-09-24T04:40:01+00:00",
    "4458969311": "2026-09-24T04:40:01+00:00",
+   "4459537334": "2026-09-30T12:28:10+00:00",
    "4459636962": "2026-09-23T21:09:51+00:00",
    "4459951877": "2026-09-25T13:41:28+00:00",
    "4460613525": "2026-09-25T07:42:36+00:00",
@@ -1571,6 +1669,7 @@
    "4470000279": "2026-09-26T11:17:47+00:00",
    "4470108802": "2026-09-26T04:50:26+00:00",
    "4470131756": "2026-09-26T11:17:47+00:00",
+   "4470180201": "2026-09-30T12:28:10+00:00",
    "4470207366": "2026-09-23T21:09:51+00:00",
    "4470274459": "2026-09-23T21:09:51+00:00",
    "4470279594": "2026-09-23T21:09:51+00:00",
@@ -1581,12 +1680,14 @@
    "4470681393": "2026-09-24T11:38:41+00:00",
    "4470686728": "2026-09-24T11:38:41+00:00",
    "4470842394": "2026-09-29T08:23:22+00:00",
+   "4470845936": "2026-09-30T12:28:10+00:00",
    "4470929756": "2026-09-25T13:41:28+00:00",
    "4470932213": "2026-09-25T13:41:28+00:00",
    "4470982852": "2026-09-25T07:42:36+00:00",
    "4471022749": "2026-09-28T13:45:49+00:00",
    "4471076912": "2026-09-28T13:45:49+00:00",
    "4471158223": "2026-09-25T13:41:28+00:00",
+   "4471244406": "2026-09-30T12:28:10+00:00",
    "4471303848": "2026-09-29T08:23:22+00:00",
    "4471319601": "2026-09-29T08:23:22+00:00",
    "4471320120": "2026-09-29T08:23:22+00:00",
@@ -1597,6 +1698,7 @@
    "4471641399": "2026-09-26T11:17:47+00:00",
    "4471670997": "2026-09-26T11:17:47+00:00",
    "4471677384": "2026-09-26T04:50:26+00:00",
+   "4471701437": "2026-09-30T12:28:10+00:00",
    "4472002347": "2026-09-27T13:54:22+00:00",
    "4472074987": "2026-09-27T08:03:27+00:00",
    "4472084910": "2026-09-27T08:03:27+00:00",
@@ -1607,8 +1709,17 @@
    "4472485363": "2026-09-29T08:23:22+00:00",
    "4472707564": "2026-09-29T08:23:22+00:00",
    "4472716017": "2026-09-29T08:23:22+00:00",
+   "4472754533": "2026-09-30T12:28:10+00:00",
+   "4472775697": "2026-09-30T12:28:10+00:00",
+   "4472783200": "2026-09-30T12:28:10+00:00",
+   "4472790153": "2026-09-30T12:28:10+00:00",
+   "4473005629": "2026-09-30T12:28:10+00:00",
+   "4473099429": "2026-09-30T12:28:10+00:00",
    "4473211836": "2026-09-30T05:26:13+00:00",
-   "4473217642": "2026-09-30T05:26:13+00:00"
+   "4473217642": "2026-09-30T05:26:13+00:00",
+   "4473219572": "2026-09-30T12:28:10+00:00",
+   "4473222739": "2026-09-30T12:28:10+00:00",
+   "4473233321": "2026-09-30T12:28:10+00:00"
   },
   "Mastercard": {
    "/job/Pune-India/Platform-Engineer-II_R-288632": "2026-09-28T13:45:49+00:00",
@@ -1655,7 +1766,9 @@
   "Talabat (Dubai)": {},
   "Tamara": {},
   "Target": {},
-  "Tekion": {},
+  "Tekion": {
+   "ee18cc47-b670-4fa5-97e6-039470aad2ac": "2026-09-30T12:28:10+00:00"
+  },
   "Thoughtworks": {},
   "Twilio": {},
   "Vercel": {},
