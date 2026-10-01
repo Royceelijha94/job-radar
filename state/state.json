@@ -1154,7 +1154,14 @@
   "Talabat (Dubai)": [],
   "Tamara": [],
   "Target": [],
-  "Tekion": [],
+  "Tekion": [
+   {
+    "id": "a1264414-5349-4ddd-90ce-4bbc05e3c357",
+    "location": "Chennai Regional Office",
+    "title": "DevOps Engineer II",
+    "url": "https://jobs.ashbyhq.com/tekion/a1264414-5349-4ddd-90ce-4bbc05e3c357"
+   }
+  ],
   "Thoughtworks": [],
   "Twilio": [],
   "Vercel": [],
@@ -1888,6 +1895,7 @@
   "Tamara": {},
   "Target": {},
   "Tekion": {
+   "a1264414-5349-4ddd-90ce-4bbc05e3c357": "2026-10-01T19:29:58+00:00",
    "ee18cc47-b670-4fa5-97e6-039470aad2ac": "2026-09-30T12:28:10+00:00"
   },
   "Thoughtworks": {},
