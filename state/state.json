@@ -1032,6 +1032,83 @@
     "location": "India",
     "title": "Cloud Engineer I",
     "url": "https://www.linkedin.com/jobs/view/4471985965/"
+   },
+   {
+    "employer": "Deutsche Bank",
+    "id": "4473501586",
+    "location": "Bengaluru",
+    "title": "Cloud Engineer, AVP",
+    "url": "https://www.linkedin.com/jobs/view/4473501586/"
+   },
+   {
+    "employer": "Barclays",
+    "id": "4471240862",
+    "location": "Pune Division",
+    "title": "Product Engineer - Messaging",
+    "url": "https://www.linkedin.com/jobs/view/4471240862/"
+   },
+   {
+    "employer": "Nutanix",
+    "id": "4472118563",
+    "location": "Bengaluru",
+    "title": "SRE II Enterprise Tech Support (Virtualization & Networking)",
+    "url": "https://www.linkedin.com/jobs/view/4472118563/"
+   },
+   {
+    "employer": "EY",
+    "id": "4473724777",
+    "location": "Bengaluru",
+    "title": "Business Analyst",
+    "url": "https://www.linkedin.com/jobs/view/4473724777/"
+   },
+   {
+    "employer": "EY",
+    "id": "4472112847",
+    "location": "Bengaluru",
+    "title": "Security Analyst",
+    "url": "https://www.linkedin.com/jobs/view/4472112847/"
+   },
+   {
+    "employer": "Smartstream",
+    "id": "4472138523",
+    "location": "Bengaluru",
+    "title": "Associate",
+    "url": "https://www.linkedin.com/jobs/view/4472138523/"
+   },
+   {
+    "employer": "Target",
+    "id": "4467846836",
+    "location": "Bengaluru East",
+    "title": "Media Analyst",
+    "url": "https://www.linkedin.com/jobs/view/4467846836/"
+   },
+   {
+    "employer": "Baxter International Inc.",
+    "id": "4471733411",
+    "location": "Bengaluru",
+    "title": "Analyst, IT",
+    "url": "https://www.linkedin.com/jobs/view/4471733411/"
+   },
+   {
+    "employer": "CGI",
+    "id": "4473542330",
+    "location": "Bengaluru",
+    "title": "Cyber Security Analyst",
+    "url": "https://www.linkedin.com/jobs/view/4473542330/"
+   },
+   {
+    "employer": "Siemens",
+    "id": "4471734386",
+    "location": "Bangalore Urban",
+    "title": "DevOps Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4471734386/"
+   },
+   {
+    "employer": "Flexiple",
+    "id": "4473580174",
+    "location": "India",
+    "title": "DevOps Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4473580174/"
    }
   ],
   "Mastercard": [],
@@ -1654,6 +1731,7 @@
    "4467648131": "2026-09-23T21:09:51+00:00",
    "4467671141": "2026-09-23T21:09:51+00:00",
    "4467817876": "2026-09-29T08:23:22+00:00",
+   "4467846836": "2026-10-01T13:04:37+00:00",
    "4467979115": "2026-09-23T21:09:51+00:00",
    "4468150037": "2026-09-23T21:09:51+00:00",
    "4468343822": "2026-09-24T04:40:01+00:00",
@@ -1715,6 +1793,7 @@
    "4471022749": "2026-09-28T13:45:49+00:00",
    "4471076912": "2026-09-28T13:45:49+00:00",
    "4471158223": "2026-09-25T13:41:28+00:00",
+   "4471240862": "2026-10-01T13:04:37+00:00",
    "4471244406": "2026-09-30T12:28:10+00:00",
    "4471303848": "2026-09-29T08:23:22+00:00",
    "4471319601": "2026-09-29T08:23:22+00:00",
@@ -1727,11 +1806,16 @@
    "4471670997": "2026-09-26T11:17:47+00:00",
    "4471677384": "2026-09-26T04:50:26+00:00",
    "4471701437": "2026-09-30T12:28:10+00:00",
+   "4471733411": "2026-10-01T13:04:37+00:00",
+   "4471734386": "2026-10-01T13:04:37+00:00",
    "4471985965": "2026-10-01T05:44:15+00:00",
    "4472002347": "2026-09-27T13:54:22+00:00",
    "4472074987": "2026-09-27T08:03:27+00:00",
    "4472084910": "2026-09-27T08:03:27+00:00",
    "4472085682": "2026-09-27T08:03:27+00:00",
+   "4472112847": "2026-10-01T13:04:37+00:00",
+   "4472118563": "2026-10-01T13:04:37+00:00",
+   "4472138523": "2026-10-01T13:04:37+00:00",
    "4472161255": "2026-10-01T05:44:15+00:00",
    "4472297676": "2026-09-28T13:45:49+00:00",
    "4472407805": "2026-09-28T13:45:49+00:00",
@@ -1751,6 +1835,10 @@
    "4473222739": "2026-09-30T12:28:10+00:00",
    "4473233321": "2026-09-30T12:28:10+00:00",
    "4473261378": "2026-10-01T05:44:15+00:00",
+   "4473501586": "2026-10-01T13:04:37+00:00",
+   "4473542330": "2026-10-01T13:04:37+00:00",
+   "4473580174": "2026-10-01T13:04:37+00:00",
+   "4473724777": "2026-10-01T13:04:37+00:00",
    "4473728506": "2026-10-01T05:44:15+00:00",
    "4473730263": "2026-10-01T05:44:15+00:00"
   },
