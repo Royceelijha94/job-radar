@@ -997,6 +997,41 @@
     "location": "Bengaluru",
     "title": "Tech Specialist, DevOps - R01571826",
     "url": "https://www.linkedin.com/jobs/view/4473219572/"
+   },
+   {
+    "employer": "Tekion Corp",
+    "id": "4472161255",
+    "location": "Bengaluru",
+    "title": "Site Reliability Engineer I",
+    "url": "https://www.linkedin.com/jobs/view/4472161255/"
+   },
+   {
+    "employer": "Hiver",
+    "id": "4473728506",
+    "location": "Bengaluru",
+    "title": "DevOps 2 Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4473728506/"
+   },
+   {
+    "employer": "Akamai Technologies",
+    "id": "4473261378",
+    "location": "Bengaluru",
+    "title": "Site Reliability Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4473261378/"
+   },
+   {
+    "employer": "IAssess Consultants LLP",
+    "id": "4473730263",
+    "location": "India",
+    "title": "Cloud Operations Engineer - GCP - CB",
+    "url": "https://www.linkedin.com/jobs/view/4473730263/"
+   },
+   {
+    "employer": "Rackspace Technology",
+    "id": "4471985965",
+    "location": "India",
+    "title": "Cloud Engineer I",
+    "url": "https://www.linkedin.com/jobs/view/4471985965/"
    }
   ],
   "Mastercard": [],
@@ -1042,14 +1077,7 @@
   "Talabat (Dubai)": [],
   "Tamara": [],
   "Target": [],
-  "Tekion": [
-   {
-    "id": "ee18cc47-b670-4fa5-97e6-039470aad2ac",
-    "location": "Bangalore HQ",
-    "title": "Site Reliability Engineer I",
-    "url": "https://jobs.ashbyhq.com/tekion/ee18cc47-b670-4fa5-97e6-039470aad2ac"
-   }
-  ],
+  "Tekion": [],
   "Thoughtworks": [],
   "Twilio": [],
   "Vercel": [],
@@ -1699,10 +1727,12 @@
    "4471670997": "2026-09-26T11:17:47+00:00",
    "4471677384": "2026-09-26T04:50:26+00:00",
    "4471701437": "2026-09-30T12:28:10+00:00",
+   "4471985965": "2026-10-01T05:44:15+00:00",
    "4472002347": "2026-09-27T13:54:22+00:00",
    "4472074987": "2026-09-27T08:03:27+00:00",
    "4472084910": "2026-09-27T08:03:27+00:00",
    "4472085682": "2026-09-27T08:03:27+00:00",
+   "4472161255": "2026-10-01T05:44:15+00:00",
    "4472297676": "2026-09-28T13:45:49+00:00",
    "4472407805": "2026-09-28T13:45:49+00:00",
    "4472473905": "2026-09-29T08:23:22+00:00",
@@ -1719,7 +1749,10 @@
    "4473217642": "2026-09-30T05:26:13+00:00",
    "4473219572": "2026-09-30T12:28:10+00:00",
    "4473222739": "2026-09-30T12:28:10+00:00",
-   "4473233321": "2026-09-30T12:28:10+00:00"
+   "4473233321": "2026-09-30T12:28:10+00:00",
+   "4473261378": "2026-10-01T05:44:15+00:00",
+   "4473728506": "2026-10-01T05:44:15+00:00",
+   "4473730263": "2026-10-01T05:44:15+00:00"
   },
   "Mastercard": {
    "/job/Pune-India/Platform-Engineer-II_R-288632": "2026-09-28T13:45:49+00:00",
