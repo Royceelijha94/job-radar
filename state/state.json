@@ -42,6 +42,12 @@
   ],
   "Bosch": [
    {
+    "id": "744000153229468",
+    "location": "bangalore, India",
+    "title": "2026_MS_EMT1_VM_Senior VS Code Extension Developer (TypeScript | DevOps | CI/CD | Kubernetes)",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000153229468"
+   },
+   {
     "id": "744000149609680",
     "location": "coimbatore, India",
     "title": "AWS DevOps Support for BHC APAC - HC",
@@ -1734,7 +1740,8 @@
    "744000145035068": null,
    "744000146640025": null,
    "744000149609680": null,
-   "744000151592409": "2026-09-24T11:38:41+00:00"
+   "744000151592409": "2026-09-24T11:38:41+00:00",
+   "744000153229468": "2026-10-02T19:14:04+00:00"
   },
   "Bybit": {},
   "CRED": {},
