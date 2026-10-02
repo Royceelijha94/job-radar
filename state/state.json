@@ -1158,6 +1158,41 @@
     "location": "Bengaluru",
     "title": "Customer Success Engineer – Cloud Engineering & Platform Enablement",
     "url": "https://www.linkedin.com/jobs/view/4473983456/"
+   },
+   {
+    "employer": "Ema",
+    "id": "4463069294",
+    "location": "Bengaluru",
+    "title": "Site Reliability Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4463069294/"
+   },
+   {
+    "employer": "Fam",
+    "id": "4474134207",
+    "location": "Bengaluru",
+    "title": "SDE 2 Infra",
+    "url": "https://www.linkedin.com/jobs/view/4474134207/"
+   },
+   {
+    "employer": "Invi Grid Inc.",
+    "id": "4472508057",
+    "location": "India",
+    "title": "DevOps Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4472508057/"
+   },
+   {
+    "employer": "D2N Solutions",
+    "id": "4473905041",
+    "location": "India",
+    "title": "Cloud Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4473905041/"
+   },
+   {
+    "employer": "Cisco",
+    "id": "4463586745",
+    "location": "Bengaluru",
+    "title": "Software Engineer-Golang, Microservices, Cloud, 4-8 Yrs, Bangalore",
+    "url": "https://www.linkedin.com/jobs/view/4463586745/"
    }
   ],
   "Mastercard": [],
@@ -1780,6 +1815,8 @@
    "4462943375": "2026-09-23T21:09:51+00:00",
    "4462948050": "2026-09-23T21:09:51+00:00",
    "4462975502": "2026-09-30T05:26:13+00:00",
+   "4463069294": "2026-10-02T12:25:35+00:00",
+   "4463586745": "2026-10-02T12:25:35+00:00",
    "4463691913": "2026-09-27T08:03:27+00:00",
    "4464087849": "2026-09-29T08:23:22+00:00",
    "4465115796": "2026-10-02T05:28:20+00:00",
@@ -1880,6 +1917,7 @@
    "4472407805": "2026-09-28T13:45:49+00:00",
    "4472473905": "2026-09-29T08:23:22+00:00",
    "4472485363": "2026-09-29T08:23:22+00:00",
+   "4472508057": "2026-10-02T12:25:35+00:00",
    "4472509794": "2026-10-02T05:28:20+00:00",
    "4472707564": "2026-09-29T08:23:22+00:00",
    "4472716017": "2026-09-29T08:23:22+00:00",
@@ -1902,8 +1940,10 @@
    "4473728506": "2026-10-01T05:44:15+00:00",
    "4473730263": "2026-10-01T05:44:15+00:00",
    "4473797677": "2026-10-02T05:28:20+00:00",
+   "4473905041": "2026-10-02T12:25:35+00:00",
    "4473931438": "2026-10-02T05:28:20+00:00",
-   "4473983456": "2026-10-02T05:28:20+00:00"
+   "4473983456": "2026-10-02T05:28:20+00:00",
+   "4474134207": "2026-10-02T12:25:35+00:00"
   },
   "Mastercard": {
    "/job/Pune-India/Platform-Engineer-II_R-288632": "2026-09-28T13:45:49+00:00",
