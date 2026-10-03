@@ -1241,6 +1241,48 @@
     "location": "Bengaluru",
     "title": "Site Reliability Engineer",
     "url": "https://www.linkedin.com/jobs/view/4463305645/"
+   },
+   {
+    "employer": "Networth Corp",
+    "id": "4472536553",
+    "location": "India",
+    "title": "DevOps Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4472536553/"
+   },
+   {
+    "employer": "Viraaj HR Solutions Private Limited",
+    "id": "4472551435",
+    "location": "Bengaluru",
+    "title": "DevOps Consultant",
+    "url": "https://www.linkedin.com/jobs/view/4472551435/"
+   },
+   {
+    "employer": "Thinkgrid Labs",
+    "id": "4472873510",
+    "location": "India",
+    "title": "Cloud DevOps Engineer (US Healthcare - Remote from India)",
+    "url": "https://www.linkedin.com/jobs/view/4472873510/"
+   },
+   {
+    "employer": "Flexiple",
+    "id": "4474563329",
+    "location": "India",
+    "title": "DevOps Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4474563329/"
+   },
+   {
+    "employer": "AlgoSec",
+    "id": "4474587014",
+    "location": "New Delhi",
+    "title": "DevOps Engineer, India",
+    "url": "https://www.linkedin.com/jobs/view/4474587014/"
+   },
+   {
+    "employer": "JumpCloud",
+    "id": "4473121141",
+    "location": "Bengaluru East",
+    "title": "Site Reliability Engineer - India",
+    "url": "https://www.linkedin.com/jobs/view/4473121141/"
    }
   ],
   "Mastercard": [],
@@ -1973,15 +2015,19 @@
    "4472485363": "2026-09-29T08:23:22+00:00",
    "4472508057": "2026-10-02T12:25:35+00:00",
    "4472509794": "2026-10-02T05:28:20+00:00",
+   "4472536553": "2026-10-03T11:34:43+00:00",
    "4472547693": "2026-10-03T05:11:22+00:00",
+   "4472551435": "2026-10-03T11:34:43+00:00",
    "4472707564": "2026-09-29T08:23:22+00:00",
    "4472716017": "2026-09-29T08:23:22+00:00",
    "4472754533": "2026-09-30T12:28:10+00:00",
    "4472775697": "2026-09-30T12:28:10+00:00",
    "4472783200": "2026-09-30T12:28:10+00:00",
    "4472790153": "2026-09-30T12:28:10+00:00",
+   "4472873510": "2026-10-03T11:34:43+00:00",
    "4473005629": "2026-09-30T12:28:10+00:00",
    "4473099429": "2026-09-30T12:28:10+00:00",
+   "4473121141": "2026-10-03T11:34:43+00:00",
    "4473211836": "2026-09-30T05:26:13+00:00",
    "4473217642": "2026-09-30T05:26:13+00:00",
    "4473219572": "2026-09-30T12:28:10+00:00",
@@ -2001,7 +2047,9 @@
    "4474134207": "2026-10-02T12:25:35+00:00",
    "4474310912": "2026-10-03T05:11:22+00:00",
    "4474318371": "2026-10-03T05:11:22+00:00",
-   "4474529217": "2026-10-03T05:11:22+00:00"
+   "4474529217": "2026-10-03T05:11:22+00:00",
+   "4474563329": "2026-10-03T11:34:43+00:00",
+   "4474587014": "2026-10-03T11:34:43+00:00"
   },
   "Mastercard": {
    "/job/Pune-India/Platform-Engineer-II_R-288632": "2026-09-28T13:45:49+00:00",
