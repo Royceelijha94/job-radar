@@ -357,7 +357,8 @@ def linkedin_scan(cfg, state, ts):
     if jobs is None:
         return [], None
     f = cfg["filters"]
-    keep = lambda j: (not any(re.search(p, j["title"].lower()) for p in f["title_exclude"])
+    keep = lambda j: (any(re.search(p, j["title"].lower()) for p in f["title_include"])
+                      and not any(re.search(p, j["title"].lower()) for p in f["title_exclude"])
                       and (not j["location"] or any(k in j["location"].lower() for k in f["location_include"])))
     jobs = [j for j in jobs if keep(j)]
     seen = state["seen"].setdefault(LINKEDIN, {})
