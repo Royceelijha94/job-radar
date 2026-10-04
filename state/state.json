@@ -1339,6 +1339,97 @@
     "location": "Bengaluru",
     "title": "Software Engineer 2",
     "url": "https://www.linkedin.com/jobs/view/4472895166/"
+   },
+   {
+    "employer": "BT Group",
+    "id": "4472106987",
+    "location": "Bengaluru South",
+    "title": "Site Reliability Engineering Specialist",
+    "url": "https://www.linkedin.com/jobs/view/4472106987/"
+   },
+   {
+    "employer": "eBay",
+    "id": "4463998237",
+    "location": "Bengaluru",
+    "title": "Site Reliability Engineer 3",
+    "url": "https://www.linkedin.com/jobs/view/4463998237/"
+   },
+   {
+    "employer": "Hewlett Packard Enterprise",
+    "id": "4474143863",
+    "location": "Bengaluru",
+    "title": "Procurement Ops Analyst I",
+    "url": "https://www.linkedin.com/jobs/view/4474143863/"
+   },
+   {
+    "employer": "Siemens Energy",
+    "id": "4473335442",
+    "location": "Bengaluru",
+    "title": "Software Developer - Itwo",
+    "url": "https://www.linkedin.com/jobs/view/4473335442/"
+   },
+   {
+    "employer": "Siemens Energy",
+    "id": "4473334530",
+    "location": "Bangalore Urban",
+    "title": "Software Developer - Itwo",
+    "url": "https://www.linkedin.com/jobs/view/4473334530/"
+   },
+   {
+    "employer": "EY",
+    "id": "4437575919",
+    "location": "Bengaluru",
+    "title": "Analyst - TAX - National - TAX - ITTS - Advisory - Bangalore",
+    "url": "https://www.linkedin.com/jobs/view/4437575919/"
+   },
+   {
+    "employer": "ABB",
+    "id": "4454501850",
+    "location": "Bengaluru East",
+    "title": "IS Data Security - Analyst",
+    "url": "https://www.linkedin.com/jobs/view/4454501850/"
+   },
+   {
+    "employer": "Hire22.ai",
+    "id": "4475301638",
+    "location": "Greater Bengaluru Area",
+    "title": "Service Desk Analyst",
+    "url": "https://www.linkedin.com/jobs/view/4475301638/"
+   },
+   {
+    "employer": "HighRadius",
+    "id": "4473389284",
+    "location": "Hyderabad",
+    "title": "Site Reliability Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4473389284/"
+   },
+   {
+    "employer": "Pythian",
+    "id": "4434574405",
+    "location": "Greater Hyderabad Area",
+    "title": "Site Reliability Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4434574405/"
+   },
+   {
+    "employer": "Cisco",
+    "id": "4466071075",
+    "location": "Bengaluru",
+    "title": "Site Reliability Engineer - Devops, AWS, Python/GO - 4 to 8 years",
+    "url": "https://www.linkedin.com/jobs/view/4466071075/"
+   },
+   {
+    "employer": "Cisco",
+    "id": "4466066186",
+    "location": "Bengaluru",
+    "title": "Software Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4466066186/"
+   },
+   {
+    "employer": "Cisco",
+    "id": "4466072063",
+    "location": "Bengaluru",
+    "title": "Software Engineering Technical Leader - Devops/SRE, AWS, Python/Go - 9 - 14 years",
+    "url": "https://www.linkedin.com/jobs/view/4466072063/"
    }
   ],
   "Mastercard": [],
@@ -1936,7 +2027,9 @@
    "4421101868": "2026-09-24T04:40:01+00:00",
    "4426243483": "2026-09-28T13:45:49+00:00",
    "4430604888": "2026-09-23T21:09:51+00:00",
+   "4434574405": "2026-10-04T08:22:57+00:00",
    "4436513787": "2026-09-29T08:23:22+00:00",
+   "4437575919": "2026-10-04T08:22:57+00:00",
    "4439253468": "2026-09-23T21:09:51+00:00",
    "4442068122": "2026-09-28T13:45:49+00:00",
    "4442443458": "2026-09-24T04:40:01+00:00",
@@ -1949,6 +2042,7 @@
    "4451062427": "2026-09-23T21:09:51+00:00",
    "4454396629": "2026-09-28T13:45:49+00:00",
    "4454501593": "2026-09-28T13:45:49+00:00",
+   "4454501850": "2026-10-04T08:22:57+00:00",
    "4454508648": "2026-09-28T13:45:49+00:00",
    "4454924883": "2026-10-03T16:11:55+00:00",
    "4457488693": "2026-09-23T21:09:51+00:00",
@@ -1970,8 +2064,12 @@
    "4463305645": "2026-10-03T05:11:22+00:00",
    "4463586745": "2026-10-02T12:25:35+00:00",
    "4463691913": "2026-09-27T08:03:27+00:00",
+   "4463998237": "2026-10-04T08:22:57+00:00",
    "4464087849": "2026-09-29T08:23:22+00:00",
    "4465115796": "2026-10-02T05:28:20+00:00",
+   "4466066186": "2026-10-04T08:22:57+00:00",
+   "4466071075": "2026-10-04T08:22:57+00:00",
+   "4466072063": "2026-10-04T08:22:57+00:00",
    "4467389521": "2026-09-23T21:09:51+00:00",
    "4467394564": "2026-09-23T21:09:51+00:00",
    "4467648131": "2026-09-23T21:09:51+00:00",
@@ -2062,6 +2160,7 @@
    "4472084910": "2026-09-27T08:03:27+00:00",
    "4472085682": "2026-09-27T08:03:27+00:00",
    "4472087459": "2026-10-03T05:11:22+00:00",
+   "4472106987": "2026-10-04T08:22:57+00:00",
    "4472112847": "2026-10-01T13:04:37+00:00",
    "4472118563": "2026-10-01T13:04:37+00:00",
    "4472138523": "2026-10-01T13:04:37+00:00",
@@ -2095,6 +2194,9 @@
    "4473222739": "2026-09-30T12:28:10+00:00",
    "4473233321": "2026-09-30T12:28:10+00:00",
    "4473261378": "2026-10-01T05:44:15+00:00",
+   "4473334530": "2026-10-04T08:22:57+00:00",
+   "4473335442": "2026-10-04T08:22:57+00:00",
+   "4473389284": "2026-10-04T08:22:57+00:00",
    "4473501586": "2026-10-01T13:04:37+00:00",
    "4473542330": "2026-10-01T13:04:37+00:00",
    "4473580174": "2026-10-01T13:04:37+00:00",
@@ -2106,6 +2208,7 @@
    "4473931438": "2026-10-02T05:28:20+00:00",
    "4473983456": "2026-10-02T05:28:20+00:00",
    "4474134207": "2026-10-02T12:25:35+00:00",
+   "4474143863": "2026-10-04T08:22:57+00:00",
    "4474310912": "2026-10-03T05:11:22+00:00",
    "4474318371": "2026-10-03T05:11:22+00:00",
    "4474323670": "2026-10-03T16:11:55+00:00",
@@ -2113,7 +2216,8 @@
    "4474345247": "2026-10-03T16:11:55+00:00",
    "4474529217": "2026-10-03T05:11:22+00:00",
    "4474563329": "2026-10-03T11:34:43+00:00",
-   "4474587014": "2026-10-03T11:34:43+00:00"
+   "4474587014": "2026-10-03T11:34:43+00:00",
+   "4475301638": "2026-10-04T08:22:57+00:00"
   },
   "Mastercard": {
    "/job/Pune-India/Platform-Engineer-II_R-288632": "2026-09-28T13:45:49+00:00",
