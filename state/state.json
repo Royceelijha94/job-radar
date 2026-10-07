@@ -53,10 +53,10 @@
   ],
   "Bosch": [
    {
-    "id": "744000153678133",
-    "location": "bengaluru, India",
-    "title": "AI and DevOps Engineer",
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000153678133"
+    "id": "744000154010709",
+    "location": "bangalore, India",
+    "title": "Azure Migration and DevOps Consultant",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000154010709"
    },
    {
     "id": "744000153229468",
@@ -130,14 +130,7 @@
   ],
   "Docker": [],
   "Druva": [],
-  "Elastic": [
-   {
-    "id": "8237463",
-    "location": "Bangalore, India",
-    "title": "Platform Engineer - Kubernetes",
-    "url": "https://jobs.elastic.co/jobs?gh_jid=8237463&gh_jid=8237463"
-   }
-  ],
+  "Elastic": [],
   "Fi Money": [],
   "Fivetran": [],
   "Freshworks": [],
@@ -921,6 +914,27 @@
     "location": "Hyderabad",
     "title": "Site Reliability Engineer/DevOps Engineer II",
     "url": "https://www.linkedin.com/jobs/view/4474265331/"
+   },
+   {
+    "employer": "eBay",
+    "id": "4463966496",
+    "location": "Bengaluru",
+    "title": "MTS 1, Site Reliability Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4463966496/"
+   },
+   {
+    "employer": "Jobgether",
+    "id": "4474663572",
+    "location": "India",
+    "title": "Multi Cloud Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4474663572/"
+   },
+   {
+    "employer": "Deutsche Bank",
+    "id": "4475847116",
+    "location": "Pune Division",
+    "title": "Tooling & Automation Site Reliability Engineering (SRE), AVP",
+    "url": "https://www.linkedin.com/jobs/view/4475847116/"
    }
   ],
   "Mastercard": [],
@@ -1478,7 +1492,8 @@
    "744000149609680": null,
    "744000151592409": "2026-09-24T11:38:41+00:00",
    "744000153229468": "2026-10-02T19:14:04+00:00",
-   "744000153678133": "2026-10-06T15:04:52+00:00"
+   "744000153678133": "2026-10-06T15:04:52+00:00",
+   "744000154010709": "2026-10-07T08:34:52+00:00"
   },
   "Bybit": {},
   "CRED": {},
@@ -1571,6 +1586,7 @@
    "4463305645": "2026-10-03T05:11:22+00:00",
    "4463586745": "2026-10-02T12:25:35+00:00",
    "4463691913": "2026-09-27T08:03:27+00:00",
+   "4463966496": "2026-10-07T08:34:52+00:00",
    "4463998237": "2026-10-04T08:22:57+00:00",
    "4464087849": "2026-09-29T08:23:22+00:00",
    "4465115796": "2026-10-02T05:28:20+00:00",
@@ -1729,7 +1745,9 @@
    "4474529217": "2026-10-03T05:11:22+00:00",
    "4474563329": "2026-10-03T11:34:43+00:00",
    "4474587014": "2026-10-03T11:34:43+00:00",
-   "4475301638": "2026-10-04T08:22:57+00:00"
+   "4474663572": "2026-10-07T08:34:52+00:00",
+   "4475301638": "2026-10-04T08:22:57+00:00",
+   "4475847116": "2026-10-07T08:34:52+00:00"
   },
   "Mastercard": {
    "/job/Pune-India/Platform-Engineer-II_R-288632": "2026-09-28T13:45:49+00:00",
