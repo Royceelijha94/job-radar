@@ -316,7 +316,7 @@
    {
     "employer": "Nutanix",
     "id": "4458969311",
-    "location": "Bengaluru, Karnataka, India",
+    "location": "Bengaluru",
     "title": "SRE III Enterprise Tech Support (Virtualization & Networking)",
     "url": "https://www.linkedin.com/jobs/view/4458969311/"
    },
@@ -935,6 +935,41 @@
     "location": "Pune Division",
     "title": "Tooling & Automation Site Reliability Engineering (SRE), AVP",
     "url": "https://www.linkedin.com/jobs/view/4475847116/"
+   },
+   {
+    "employer": "Rakuten Symphony",
+    "id": "4476162357",
+    "location": "Bengaluru",
+    "title": "Site Reliability Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4476162357/"
+   },
+   {
+    "employer": "GeoServe",
+    "id": "4474048389",
+    "location": "Greater Bengaluru Area",
+    "title": "DevOps Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4474048389/"
+   },
+   {
+    "employer": "ALTEN India",
+    "id": "4476113026",
+    "location": "Bengaluru",
+    "title": "DevOps Developer",
+    "url": "https://www.linkedin.com/jobs/view/4476113026/"
+   },
+   {
+    "employer": "ITC Infotech",
+    "id": "4465512165",
+    "location": "Bengaluru",
+    "title": "DevOps",
+    "url": "https://www.linkedin.com/jobs/view/4465512165/"
+   },
+   {
+    "employer": "ITC Infotech",
+    "id": "4465526136",
+    "location": "Bengaluru",
+    "title": "DevOps Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4465526136/"
    }
   ],
   "Mastercard": [],
@@ -1590,6 +1625,8 @@
    "4463998237": "2026-10-04T08:22:57+00:00",
    "4464087849": "2026-09-29T08:23:22+00:00",
    "4465115796": "2026-10-02T05:28:20+00:00",
+   "4465512165": "2026-10-07T17:24:24+00:00",
+   "4465526136": "2026-10-07T17:24:24+00:00",
    "4466066186": "2026-10-04T08:22:57+00:00",
    "4466071075": "2026-10-04T08:22:57+00:00",
    "4466072063": "2026-10-04T08:22:57+00:00",
@@ -1731,6 +1768,7 @@
    "4473905041": "2026-10-02T12:25:35+00:00",
    "4473931438": "2026-10-02T05:28:20+00:00",
    "4473983456": "2026-10-02T05:28:20+00:00",
+   "4474048389": "2026-10-07T17:24:24+00:00",
    "4474134207": "2026-10-02T12:25:35+00:00",
    "4474143863": "2026-10-04T08:22:57+00:00",
    "4474228100": "2026-10-06T15:04:52+00:00",
@@ -1747,7 +1785,9 @@
    "4474587014": "2026-10-03T11:34:43+00:00",
    "4474663572": "2026-10-07T08:34:52+00:00",
    "4475301638": "2026-10-04T08:22:57+00:00",
-   "4475847116": "2026-10-07T08:34:52+00:00"
+   "4475847116": "2026-10-07T08:34:52+00:00",
+   "4476113026": "2026-10-07T17:24:24+00:00",
+   "4476162357": "2026-10-07T17:24:24+00:00"
   },
   "Mastercard": {
    "/job/Pune-India/Platform-Engineer-II_R-288632": "2026-09-28T13:45:49+00:00",
