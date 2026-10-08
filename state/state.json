@@ -68,12 +68,6 @@
     "location": "coimbatore, India",
     "title": "2026_CICD_DevOps_Engineer_ProCon_SLA_LGP3",
     "url": "https://jobs.smartrecruiters.com/BoschGroup/744000146640025"
-   },
-   {
-    "id": "744000145035068",
-    "location": "bangalore, India",
-    "title": "Product Owner - DevOps Practice (Ansible)",
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000145035068"
    }
   ],
   "Bybit": [],
@@ -86,12 +80,6 @@
   "Coinbase": [],
   "Confluent": [],
   "CrowdStrike": [
-   {
-    "id": "/job/India---Bangalore/Infrastructure-Engineer--TechOps-CICD_R29461",
-    "location": "India - Bangalore",
-    "title": "Infrastructure Engineer, TechOps CICD (Hybrid, IND)",
-    "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/India---Bangalore/Infrastructure-Engineer--TechOps-CICD_R29461"
-   },
    {
     "id": "/job/India---Bangalore/Engineer-II---Site-Reliability--Hybrid--IND-_R29180",
     "location": "India - Bangalore",
@@ -145,69 +133,6 @@
   "JFrog": [],
   "Kong": [],
   "LinkedIn alerts": [
-   {
-    "employer": "H&M",
-    "id": "4470681393",
-    "location": "Bengaluru",
-    "title": "Site Reliability Engineer",
-    "url": "https://www.linkedin.com/jobs/view/4470681393/"
-   },
-   {
-    "employer": "Bridgestone Americas",
-    "id": "4469447009",
-    "location": "Bengaluru",
-    "title": "DevOps Engineer",
-    "url": "https://www.linkedin.com/jobs/view/4469447009/"
-   },
-   {
-    "employer": "Flexiple",
-    "id": "4470635972",
-    "location": "India",
-    "title": "DevOps Engineer",
-    "url": "https://www.linkedin.com/jobs/view/4470635972/"
-   },
-   {
-    "employer": "Upstox",
-    "id": "4468982443",
-    "location": "Mumbai Metropolitan Region",
-    "title": "SRE II",
-    "url": "https://www.linkedin.com/jobs/view/4468982443/"
-   },
-   {
-    "employer": "True Tech Professionals",
-    "id": "4469427036",
-    "location": "India",
-    "title": "DevOps Engineer",
-    "url": "https://www.linkedin.com/jobs/view/4469427036/"
-   },
-   {
-    "employer": "MongoDB",
-    "id": "4470686728",
-    "location": "Bengaluru",
-    "title": "Cloud Operations Engineer",
-    "url": "https://www.linkedin.com/jobs/view/4470686728/"
-   },
-   {
-    "employer": "DeepIntent",
-    "id": "4468599876",
-    "location": "Pune Division",
-    "title": "Site Reliability Engineer",
-    "url": "https://www.linkedin.com/jobs/view/4468599876/"
-   },
-   {
-    "employer": "ColorTokens Inc.",
-    "id": "4469435349",
-    "location": "Bengaluru",
-    "title": "DevOps Engineer",
-    "url": "https://www.linkedin.com/jobs/view/4469435349/"
-   },
-   {
-    "employer": "Scoutit",
-    "id": "4469430523",
-    "location": "Bengaluru",
-    "title": "Cloud Engineer",
-    "url": "https://www.linkedin.com/jobs/view/4469430523/"
-   },
    {
     "employer": "Valtech",
     "id": "4419408148",
@@ -823,6 +748,55 @@
     "location": "Bengaluru",
     "title": "Software Engineer - Cloud Infrastructure",
     "url": "https://www.linkedin.com/jobs/view/4476317730/"
+   },
+   {
+    "employer": "Tummee.com",
+    "id": "4475184838",
+    "location": "India",
+    "title": "Site Reliability Engineer (GCP)",
+    "url": "https://www.linkedin.com/jobs/view/4475184838/"
+   },
+   {
+    "employer": "CodeRound AI",
+    "id": "4476708420",
+    "location": "India",
+    "title": "Site Reliability Engineer (Up to 25LPA)",
+    "url": "https://www.linkedin.com/jobs/view/4476708420/"
+   },
+   {
+    "employer": "Uplers",
+    "id": "4475408721",
+    "location": "India",
+    "title": "DevOps Engineer (Remote - India",
+    "url": "https://www.linkedin.com/jobs/view/4475408721/"
+   },
+   {
+    "employer": "Flexiple",
+    "id": "4476521814",
+    "location": "India",
+    "title": "DevOps Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4476521814/"
+   },
+   {
+    "employer": "JPMorganChase",
+    "id": "4476579614",
+    "location": "Hyderabad",
+    "title": "Infrastructure Engineer II - Devops",
+    "url": "https://www.linkedin.com/jobs/view/4476579614/"
+   },
+   {
+    "employer": "PearSon",
+    "id": "4475400371",
+    "location": "India",
+    "title": "Reliability Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4475400371/"
+   },
+   {
+    "employer": "CrelioHealth",
+    "id": "4475406680",
+    "location": "Pune Division",
+    "title": "Site Reliability Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4475406680/"
    }
   ],
   "Mastercard": [],
@@ -1375,7 +1349,6 @@
    "/job/APAC---India---Pune---ABIL-Boulevard/Site-Reliability-Engineer_26WD98218-1": "2026-09-24T11:38:41+00:00"
   },
   "Bosch": {
-   "744000145035068": null,
    "744000146640025": null,
    "744000149609680": null,
    "744000151592409": "2026-09-24T11:38:41+00:00",
@@ -1641,11 +1614,18 @@
    "4474663572": "2026-10-07T08:34:52+00:00",
    "4474950323": "2026-10-08T05:55:00+00:00",
    "4475165982": "2026-10-08T05:55:00+00:00",
+   "4475184838": "2026-10-08T13:20:39+00:00",
    "4475301638": "2026-10-04T08:22:57+00:00",
+   "4475400371": "2026-10-08T13:20:39+00:00",
+   "4475406680": "2026-10-08T13:20:39+00:00",
+   "4475408721": "2026-10-08T13:20:39+00:00",
    "4475847116": "2026-10-07T08:34:52+00:00",
    "4476113026": "2026-10-07T17:24:24+00:00",
    "4476162357": "2026-10-07T17:24:24+00:00",
-   "4476317730": "2026-10-08T05:55:00+00:00"
+   "4476317730": "2026-10-08T05:55:00+00:00",
+   "4476521814": "2026-10-08T13:20:39+00:00",
+   "4476579614": "2026-10-08T13:20:39+00:00",
+   "4476708420": "2026-10-08T13:20:39+00:00"
   },
   "Mastercard": {
    "/job/Pune-India/Platform-Engineer-II_R-288632": "2026-09-28T13:45:49+00:00",
