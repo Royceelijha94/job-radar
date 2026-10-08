@@ -43,14 +43,7 @@
    }
   ],
   "Atlan": [],
-  "Autodesk": [
-   {
-    "id": "/job/APAC---India---Pune---ABIL-Boulevard/Site-Reliability-Engineer_26WD98218-1",
-    "location": "APAC - India - Pune - ABIL Boulevard",
-    "title": "Site Reliability Engineer",
-    "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/APAC---India---Pune---ABIL-Boulevard/Site-Reliability-Engineer_26WD98218-1"
-   }
-  ],
+  "Autodesk": [],
   "Bosch": [
    {
     "id": "744000154010709",
@@ -152,34 +145,6 @@
   "JFrog": [],
   "Kong": [],
   "LinkedIn alerts": [
-   {
-    "employer": "Nutanix",
-    "id": "4458352622",
-    "location": "Pune Division",
-    "title": "Systems Reliability Engineer II",
-    "url": "https://www.linkedin.com/jobs/view/4458352622/"
-   },
-   {
-    "employer": "Nutanix",
-    "id": "4469012086",
-    "location": "Bengaluru, Karnataka, India",
-    "title": "SRE II (L2 Tech Support+ Virtualization)4-7yrs Bangalore",
-    "url": "https://www.linkedin.com/jobs/view/4469012086/"
-   },
-   {
-    "employer": "Nutanix",
-    "id": "4458969311",
-    "location": "Bengaluru",
-    "title": "SRE III Enterprise Tech Support (Virtualization & Networking)",
-    "url": "https://www.linkedin.com/jobs/view/4458969311/"
-   },
-   {
-    "employer": "JPMorganChase",
-    "id": "4469518289",
-    "location": "Bengaluru, Karnataka, India",
-    "title": "Site Reliability Engineer III - Python, Grafana, Splunk, AWS, Jenkins",
-    "url": "https://www.linkedin.com/jobs/view/4469518289/"
-   },
    {
     "employer": "H&M",
     "id": "4470681393",
@@ -823,6 +788,41 @@
     "location": "Bengaluru",
     "title": "DevOps Engineer",
     "url": "https://www.linkedin.com/jobs/view/4465526136/"
+   },
+   {
+    "employer": "Cisco",
+    "id": "4466322364",
+    "location": "Bengaluru",
+    "title": "Site Reliability Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4466322364/"
+   },
+   {
+    "employer": "Signzy",
+    "id": "4475165982",
+    "location": "Bengaluru",
+    "title": "SRE-1",
+    "url": "https://www.linkedin.com/jobs/view/4475165982/"
+   },
+   {
+    "employer": "QualityAI",
+    "id": "4472487645",
+    "location": "Bengaluru",
+    "title": "Cloud DevOps Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4472487645/"
+   },
+   {
+    "employer": "Antal International",
+    "id": "4474950323",
+    "location": "Bengaluru",
+    "title": "Site Reliability Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4474950323/"
+   },
+   {
+    "employer": "Point72",
+    "id": "4476317730",
+    "location": "Bengaluru",
+    "title": "Software Engineer - Cloud Infrastructure",
+    "url": "https://www.linkedin.com/jobs/view/4476317730/"
    }
   ],
   "Mastercard": [],
@@ -1483,6 +1483,7 @@
    "4466066186": "2026-10-04T08:22:57+00:00",
    "4466071075": "2026-10-04T08:22:57+00:00",
    "4466072063": "2026-10-04T08:22:57+00:00",
+   "4466322364": "2026-10-08T05:55:00+00:00",
    "4467389521": "2026-09-23T21:09:51+00:00",
    "4467394564": "2026-09-23T21:09:51+00:00",
    "4467648131": "2026-09-23T21:09:51+00:00",
@@ -1584,6 +1585,7 @@
    "4472407805": "2026-09-28T13:45:49+00:00",
    "4472473905": "2026-09-29T08:23:22+00:00",
    "4472485363": "2026-09-29T08:23:22+00:00",
+   "4472487645": "2026-10-08T05:55:00+00:00",
    "4472508057": "2026-10-02T12:25:35+00:00",
    "4472509794": "2026-10-02T05:28:20+00:00",
    "4472536553": "2026-10-03T11:34:43+00:00",
@@ -1637,10 +1639,13 @@
    "4474563329": "2026-10-03T11:34:43+00:00",
    "4474587014": "2026-10-03T11:34:43+00:00",
    "4474663572": "2026-10-07T08:34:52+00:00",
+   "4474950323": "2026-10-08T05:55:00+00:00",
+   "4475165982": "2026-10-08T05:55:00+00:00",
    "4475301638": "2026-10-04T08:22:57+00:00",
    "4475847116": "2026-10-07T08:34:52+00:00",
    "4476113026": "2026-10-07T17:24:24+00:00",
-   "4476162357": "2026-10-07T17:24:24+00:00"
+   "4476162357": "2026-10-07T17:24:24+00:00",
+   "4476317730": "2026-10-08T05:55:00+00:00"
   },
   "Mastercard": {
    "/job/Pune-India/Platform-Engineer-II_R-288632": "2026-09-28T13:45:49+00:00",
