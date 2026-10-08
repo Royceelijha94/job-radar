@@ -797,6 +797,34 @@
     "location": "Pune Division",
     "title": "Site Reliability Engineer",
     "url": "https://www.linkedin.com/jobs/view/4475406680/"
+   },
+   {
+    "employer": "Comviva",
+    "id": "4476573844",
+    "location": "Bengaluru",
+    "title": "DevOps Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4476573844/"
+   },
+   {
+    "employer": "Tata Consultancy Services",
+    "id": "4475410088",
+    "location": "Bengaluru",
+    "title": "Site Reliability Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4475410088/"
+   },
+   {
+    "employer": "IBM",
+    "id": "4476576418",
+    "location": "Bengaluru",
+    "title": "Application Consultant-Site Reliability",
+    "url": "https://www.linkedin.com/jobs/view/4476576418/"
+   },
+   {
+    "employer": "Cognizant",
+    "id": "4466535187",
+    "location": "Bangalore Urban",
+    "title": "Site Reliability Engineer (SRE) Support",
+    "url": "https://www.linkedin.com/jobs/view/4466535187/"
    }
   ],
   "Mastercard": [],
@@ -1457,6 +1485,7 @@
    "4466071075": "2026-10-04T08:22:57+00:00",
    "4466072063": "2026-10-04T08:22:57+00:00",
    "4466322364": "2026-10-08T05:55:00+00:00",
+   "4466535187": "2026-10-08T19:53:31+00:00",
    "4467389521": "2026-09-23T21:09:51+00:00",
    "4467394564": "2026-09-23T21:09:51+00:00",
    "4467648131": "2026-09-23T21:09:51+00:00",
@@ -1619,11 +1648,14 @@
    "4475400371": "2026-10-08T13:20:39+00:00",
    "4475406680": "2026-10-08T13:20:39+00:00",
    "4475408721": "2026-10-08T13:20:39+00:00",
+   "4475410088": "2026-10-08T19:53:31+00:00",
    "4475847116": "2026-10-07T08:34:52+00:00",
    "4476113026": "2026-10-07T17:24:24+00:00",
    "4476162357": "2026-10-07T17:24:24+00:00",
    "4476317730": "2026-10-08T05:55:00+00:00",
    "4476521814": "2026-10-08T13:20:39+00:00",
+   "4476573844": "2026-10-08T19:53:31+00:00",
+   "4476576418": "2026-10-08T19:53:31+00:00",
    "4476579614": "2026-10-08T13:20:39+00:00",
    "4476708420": "2026-10-08T13:20:39+00:00"
   },
