@@ -46,10 +46,10 @@
   "Autodesk": [],
   "Bosch": [
    {
-    "id": "744000154603848",
+    "id": "744000154659163",
     "location": "hosur road bangalore, India",
     "title": "DevOps (CI/CX)",
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000154603848"
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000154659163"
    },
    {
     "id": "744000154010709",
@@ -86,6 +86,12 @@
   "Coinbase": [],
   "Confluent": [],
   "CrowdStrike": [
+   {
+    "id": "/job/India---Bangalore/Infrastructure-Engineer--TechOps-CICD_R29461",
+    "location": "India - Bangalore",
+    "title": "Infrastructure Engineer, TechOps CICD (Hybrid, IND)",
+    "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/India---Bangalore/Infrastructure-Engineer--TechOps-CICD_R29461"
+   },
    {
     "id": "/job/India---Bangalore/Engineer-II---Site-Reliability--Hybrid--IND-_R29180",
     "location": "India - Bangalore",
@@ -139,20 +145,6 @@
   "JFrog": [],
   "Kong": [],
   "LinkedIn alerts": [
-   {
-    "employer": "Flexiple",
-    "id": "4471158223",
-    "location": "India",
-    "title": "DevOps Engineer",
-    "url": "https://www.linkedin.com/jobs/view/4471158223/"
-   },
-   {
-    "employer": "Process Point Technologies Corporation",
-    "id": "4469362158",
-    "location": "India",
-    "title": "DevOps Engineer",
-    "url": "https://www.linkedin.com/jobs/view/4469362158/"
-   },
    {
     "employer": "Razorpay",
     "id": "4471677384",
@@ -920,7 +912,14 @@
   "Red Hat": [],
   "Redis": [],
   "Rubrik": [],
-  "Salesforce": [],
+  "Salesforce": [
+   {
+    "id": "/job/India---Hyderabad/Software-Engineering-MTS--DevOps-Engineer-_JR362707",
+    "location": "India - Hyderabad",
+    "title": "Software Engineering MTS (DevOps Engineer)",
+    "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/India---Hyderabad/Software-Engineering-MTS--DevOps-Engineer-_JR362707"
+   }
+  ],
   "Samsara": [],
   "ServiceNow": [],
   "Snowflake": [],
@@ -1438,7 +1437,8 @@
    "744000153229468": "2026-10-02T19:14:04+00:00",
    "744000153678133": "2026-10-06T15:04:52+00:00",
    "744000154010709": "2026-10-07T08:34:52+00:00",
-   "744000154603848": "2026-10-09T08:56:26+00:00"
+   "744000154603848": "2026-10-09T08:56:26+00:00",
+   "744000154659163": "2026-10-09T16:58:04+00:00"
   },
   "Bybit": {},
   "CRED": {},
@@ -1758,7 +1758,9 @@
   "Red Hat": {},
   "Redis": {},
   "Rubrik": {},
-  "Salesforce": {},
+  "Salesforce": {
+   "/job/India---Hyderabad/Software-Engineering-MTS--DevOps-Engineer-_JR362707": "2026-10-09T16:58:04+00:00"
+  },
   "Samsara": {},
   "ServiceNow": {},
   "Snowflake": {},
