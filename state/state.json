@@ -46,6 +46,12 @@
   "Autodesk": [],
   "Bosch": [
    {
+    "id": "744000154603848",
+    "location": "hosur road bangalore, India",
+    "title": "DevOps (CI/CX)",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000154603848"
+   },
+   {
     "id": "744000154010709",
     "location": "bangalore, India",
     "title": "Azure Migration and DevOps Consultant",
@@ -133,13 +139,6 @@
   "JFrog": [],
   "Kong": [],
   "LinkedIn alerts": [
-   {
-    "employer": "Valtech",
-    "id": "4419408148",
-    "location": "Bengaluru",
-    "title": "Site Reliability Egineer",
-    "url": "https://www.linkedin.com/jobs/view/4419408148/"
-   },
    {
     "employer": "Flexiple",
     "id": "4471158223",
@@ -825,6 +824,62 @@
     "location": "Bangalore Urban",
     "title": "Site Reliability Engineer (SRE) Support",
     "url": "https://www.linkedin.com/jobs/view/4466535187/"
+   },
+   {
+    "employer": "Jobgether",
+    "id": "4474234593",
+    "location": "India",
+    "title": "Site Reliability Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4474234593/"
+   },
+   {
+    "employer": "FinSpring",
+    "id": "4475448937",
+    "location": "India",
+    "title": "DevOps Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4475448937/"
+   },
+   {
+    "employer": "NodeShift",
+    "id": "4475719058",
+    "location": "India",
+    "title": "DevOps Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4475719058/"
+   },
+   {
+    "employer": "Appiness Interactive",
+    "id": "4475752218",
+    "location": "Bengaluru",
+    "title": "DevOps Engineer (3-5 years)",
+    "url": "https://www.linkedin.com/jobs/view/4475752218/"
+   },
+   {
+    "employer": "Momentum Financial Services Group",
+    "id": "4476160728",
+    "location": "Hyderabad",
+    "title": "Cloud Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4476160728/"
+   },
+   {
+    "employer": "Rekruton Global IT Services",
+    "id": "4475755105",
+    "location": "Ahmedabad",
+    "title": "DevOps Engineer I & II",
+    "url": "https://www.linkedin.com/jobs/view/4475755105/"
+   },
+   {
+    "employer": "Avikal Solutions",
+    "id": "4475456310",
+    "location": "Bengaluru",
+    "title": "DevOps Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4475456310/"
+   },
+   {
+    "employer": "SAAP Technologies",
+    "id": "4474434768",
+    "location": "Hyderabad",
+    "title": "DevOps Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4474434768/"
    }
   ],
   "Mastercard": [],
@@ -896,23 +951,23 @@
  },
  "resolved": {
   "AMD": {
-   "miss": "2026-10-06T06:13:11+00:00"
+   "miss": "2026-10-09T08:56:26+00:00"
   },
   "Acko": {
-   "miss": "2026-10-06T06:13:11+00:00"
+   "miss": "2026-10-09T08:56:26+00:00"
   },
   "Aerospike": {
-   "miss": "2026-10-06T06:13:11+00:00"
+   "miss": "2026-10-09T08:56:26+00:00"
   },
   "Airbyte": {
    "ats": "ashby",
    "token": "airbyte"
   },
   "Akamai": {
-   "miss": "2026-10-06T06:13:11+00:00"
+   "miss": "2026-10-09T08:56:26+00:00"
   },
   "Angel One": {
-   "miss": "2026-10-06T06:13:11+00:00"
+   "miss": "2026-10-09T08:56:26+00:00"
   },
   "Astronomer": {
    "ats": "ashby",
@@ -929,7 +984,7 @@
    "wd": "wd1"
   },
   "BharatPe": {
-   "miss": "2026-10-06T06:13:11+00:00"
+   "miss": "2026-10-09T08:56:26+00:00"
   },
   "Bosch": {
    "ats": "smartrecruiters",
@@ -940,10 +995,10 @@
    "token": "bybit"
   },
   "Cashfree Payments": {
-   "miss": "2026-10-06T06:13:11+00:00"
+   "miss": "2026-10-09T08:56:26+00:00"
   },
   "Chargebee": {
-   "miss": "2026-10-06T06:13:11+00:00"
+   "miss": "2026-10-09T08:56:26+00:00"
   },
   "CircleCI": {
    "ats": "greenhouse",
@@ -958,20 +1013,20 @@
    "token": "cloudflare"
   },
   "Cohesity": {
-   "miss": "2026-10-06T06:13:11+00:00"
+   "miss": "2026-10-09T08:56:26+00:00"
   },
   "CoinDCX": {
-   "miss": "2026-10-06T06:13:11+00:00"
+   "miss": "2026-10-09T08:56:26+00:00"
   },
   "CoinSwitch": {
-   "miss": "2026-10-06T06:13:11+00:00"
+   "miss": "2026-10-09T08:56:26+00:00"
   },
   "Coinbase": {
    "ats": "greenhouse",
    "token": "coinbase"
   },
   "Couchbase": {
-   "miss": "2026-10-06T06:13:11+00:00"
+   "miss": "2026-10-09T08:56:26+00:00"
   },
   "CrowdStrike": {
    "ats": "workday",
@@ -980,17 +1035,17 @@
    "wd": "wd5"
   },
   "Darwinbox": {
-   "miss": "2026-10-06T06:13:11+00:00"
+   "miss": "2026-10-09T08:56:26+00:00"
   },
   "Datadog": {
    "ats": "greenhouse",
    "token": "datadog"
   },
   "Delhivery": {
-   "miss": "2026-10-06T06:13:11+00:00"
+   "miss": "2026-10-09T08:56:26+00:00"
   },
   "Dell Technologies": {
-   "miss": "2026-10-06T06:13:11+00:00"
+   "miss": "2026-10-09T08:56:26+00:00"
   },
   "DigitalOcean": {
    "ats": "greenhouse",
@@ -1001,14 +1056,14 @@
    "token": "docker"
   },
   "Dream11": {
-   "miss": "2026-10-06T06:13:11+00:00"
+   "miss": "2026-10-09T08:56:26+00:00"
   },
   "Druva": {
    "ats": "greenhouse",
    "token": "druva"
   },
   "Dubizzle Group": {
-   "miss": "2026-10-06T06:13:11+00:00"
+   "miss": "2026-10-09T08:56:26+00:00"
   },
   "Fi Money": {
    "ats": "lever",
@@ -1019,10 +1074,10 @@
    "token": "fivetran"
   },
   "G42": {
-   "miss": "2026-10-06T06:13:11+00:00"
+   "miss": "2026-10-09T08:56:26+00:00"
   },
   "Games24x7": {
-   "miss": "2026-10-06T06:13:11+00:00"
+   "miss": "2026-10-09T08:56:26+00:00"
   },
   "Glance": {
    "ats": "greenhouse",
@@ -1033,24 +1088,24 @@
    "token": "gleanwork"
   },
   "Gupshup": {
-   "miss": "2026-10-06T06:13:11+00:00"
+   "miss": "2026-10-09T08:56:26+00:00"
   },
   "Hasura": {
-   "miss": "2026-10-06T06:13:11+00:00"
+   "miss": "2026-10-09T08:56:26+00:00"
   },
   "Hevo Data": {
    "ats": "lever",
    "token": "hevodata"
   },
   "Icertis": {
-   "miss": "2026-10-06T06:13:11+00:00"
+   "miss": "2026-10-09T08:56:26+00:00"
   },
   "InMobi": {
    "ats": "greenhouse",
    "token": "inmobi"
   },
   "Innovaccer": {
-   "miss": "2026-10-06T06:13:11+00:00"
+   "miss": "2026-10-09T08:56:26+00:00"
   },
   "Intel": {
    "ats": "workday",
@@ -1063,26 +1118,26 @@
    "token": "jfrog"
   },
   "Jupiter Money": {
-   "miss": "2026-10-06T06:13:11+00:00"
+   "miss": "2026-10-09T08:56:26+00:00"
   },
   "Juspay": {
-   "miss": "2026-10-06T06:13:11+00:00"
+   "miss": "2026-10-09T08:56:26+00:00"
   },
   "Kitopi": {
-   "miss": "2026-10-06T06:13:11+00:00"
+   "miss": "2026-10-09T08:56:26+00:00"
   },
   "Kong": {
    "ats": "ashby",
    "token": "kong"
   },
   "LeadSquared": {
-   "miss": "2026-10-06T06:13:11+00:00"
+   "miss": "2026-10-09T08:56:26+00:00"
   },
   "Lenskart": {
-   "miss": "2026-10-06T06:13:11+00:00"
+   "miss": "2026-10-09T08:56:26+00:00"
   },
   "MakeMyTrip": {
-   "miss": "2026-10-06T06:13:11+00:00"
+   "miss": "2026-10-09T08:56:26+00:00"
   },
   "Mastercard": {
    "ats": "workday",
@@ -1105,27 +1160,27 @@
    "token": "mongodb"
   },
   "Myntra": {
-   "miss": "2026-10-06T06:13:11+00:00"
+   "miss": "2026-10-09T08:56:26+00:00"
   },
   "Navi": {
-   "miss": "2026-10-06T06:13:11+00:00"
+   "miss": "2026-10-09T08:56:26+00:00"
   },
   "New Relic": {
    "ats": "greenhouse",
    "token": "newrelic"
   },
   "Nykaa": {
-   "miss": "2026-10-06T06:13:11+00:00"
+   "miss": "2026-10-09T08:56:26+00:00"
   },
   "Observe.AI": {
    "ats": "greenhouse",
    "token": "observeai"
   },
   "Ola": {
-   "miss": "2026-10-06T06:13:11+00:00"
+   "miss": "2026-10-09T08:56:26+00:00"
   },
   "PB Fintech (Policybazaar)": {
-   "miss": "2026-10-06T06:13:11+00:00"
+   "miss": "2026-10-09T08:56:26+00:00"
   },
   "PagerDuty": {
    "ats": "greenhouse",
@@ -1140,40 +1195,40 @@
    "token": "percona"
   },
   "Physics Wallah": {
-   "miss": "2026-10-06T06:13:11+00:00"
+   "miss": "2026-10-09T08:56:26+00:00"
   },
   "Pine Labs": {
-   "miss": "2026-10-06T06:13:11+00:00"
+   "miss": "2026-10-09T08:56:26+00:00"
   },
   "Property Finder": {
-   "miss": "2026-10-06T06:13:11+00:00"
+   "miss": "2026-10-09T08:56:26+00:00"
   },
   "Pure Storage": {
    "ats": "greenhouse",
    "token": "purestorage"
   },
   "Qualcomm": {
-   "miss": "2026-10-06T06:13:11+00:00"
+   "miss": "2026-10-09T08:56:26+00:00"
   },
   "Rapido": {
-   "miss": "2026-10-06T06:13:11+00:00"
+   "miss": "2026-10-09T08:56:26+00:00"
   },
   "Redis": {
    "ats": "ashby",
    "token": "redis"
   },
   "Rippling": {
-   "miss": "2026-10-06T06:13:11+00:00"
+   "miss": "2026-10-09T08:56:26+00:00"
   },
   "SUSE": {
-   "miss": "2026-10-06T06:13:11+00:00"
+   "miss": "2026-10-09T08:56:26+00:00"
   },
   "Samsara": {
    "ats": "greenhouse",
    "token": "samsara"
   },
   "ShareChat": {
-   "miss": "2026-10-06T06:13:11+00:00"
+   "miss": "2026-10-09T08:56:26+00:00"
   },
   "Snowflake": {
    "ats": "ashby",
@@ -1184,10 +1239,10 @@
    "token": "snyk"
   },
   "Sourcegraph": {
-   "miss": "2026-10-06T06:13:11+00:00"
+   "miss": "2026-10-09T08:56:26+00:00"
   },
   "Sprinto": {
-   "miss": "2026-10-06T06:13:11+00:00"
+   "miss": "2026-10-09T08:56:26+00:00"
   },
   "Stripe": {
    "ats": "greenhouse",
@@ -1206,7 +1261,7 @@
    "token": "sysdig"
   },
   "Tabby": {
-   "miss": "2026-10-06T06:13:11+00:00"
+   "miss": "2026-10-09T08:56:26+00:00"
   },
   "Tailscale": {
    "ats": "greenhouse",
@@ -1221,30 +1276,30 @@
    "token": "tekion"
   },
   "Tesco": {
-   "miss": "2026-10-06T06:13:11+00:00"
+   "miss": "2026-10-09T08:56:26+00:00"
   },
   "Thoughtworks": {
    "ats": "greenhouse",
    "token": "thoughtworks"
   },
   "Udaan": {
-   "miss": "2026-10-06T06:13:11+00:00"
+   "miss": "2026-10-09T08:56:26+00:00"
   },
   "Uniphore": {
-   "miss": "2026-10-06T06:13:11+00:00"
+   "miss": "2026-10-09T08:56:26+00:00"
   },
   "Upstox": {
-   "miss": "2026-10-06T06:13:11+00:00"
+   "miss": "2026-10-09T08:56:26+00:00"
   },
   "Urban Company": {
-   "miss": "2026-10-06T06:13:11+00:00"
+   "miss": "2026-10-09T08:56:26+00:00"
   },
   "Vercel": {
    "ats": "greenhouse",
    "token": "vercel"
   },
   "Whatfix": {
-   "miss": "2026-10-06T06:13:11+00:00"
+   "miss": "2026-10-09T08:56:26+00:00"
   },
   "Workday": {
    "ats": "workday",
@@ -1253,30 +1308,30 @@
    "wd": "wd5"
   },
   "Yellow.ai": {
-   "miss": "2026-10-06T06:13:11+00:00"
+   "miss": "2026-10-09T08:56:26+00:00"
   },
   "Yugabyte": {
    "ats": "greenhouse",
    "token": "yugabyte"
   },
   "Zendesk": {
-   "miss": "2026-10-06T06:13:11+00:00"
+   "miss": "2026-10-09T08:56:26+00:00"
   },
   "Zepto": {
-   "miss": "2026-10-06T06:13:11+00:00"
+   "miss": "2026-10-09T08:56:26+00:00"
   },
   "Zeta": {
    "ats": "lever",
    "token": "zeta"
   },
   "Zetwerk": {
-   "miss": "2026-10-06T06:13:11+00:00"
+   "miss": "2026-10-09T08:56:26+00:00"
   },
   "slice": {
-   "miss": "2026-10-06T06:13:11+00:00"
+   "miss": "2026-10-09T08:56:26+00:00"
   },
   "upGrad": {
-   "miss": "2026-10-06T06:13:11+00:00"
+   "miss": "2026-10-09T08:56:26+00:00"
   }
  },
  "seeded": [
@@ -1382,7 +1437,8 @@
    "744000151592409": "2026-09-24T11:38:41+00:00",
    "744000153229468": "2026-10-02T19:14:04+00:00",
    "744000153678133": "2026-10-06T15:04:52+00:00",
-   "744000154010709": "2026-10-07T08:34:52+00:00"
+   "744000154010709": "2026-10-07T08:34:52+00:00",
+   "744000154603848": "2026-10-09T08:56:26+00:00"
   },
   "Bybit": {},
   "CRED": {},
@@ -1629,6 +1685,7 @@
    "4474134207": "2026-10-02T12:25:35+00:00",
    "4474143863": "2026-10-04T08:22:57+00:00",
    "4474228100": "2026-10-06T15:04:52+00:00",
+   "4474234593": "2026-10-09T08:56:26+00:00",
    "4474242527": "2026-10-06T15:04:52+00:00",
    "4474249754": "2026-10-06T15:04:52+00:00",
    "4474265331": "2026-10-06T15:04:52+00:00",
@@ -1637,6 +1694,7 @@
    "4474323670": "2026-10-03T16:11:55+00:00",
    "4474332564": "2026-10-03T21:10:02+00:00",
    "4474345247": "2026-10-03T16:11:55+00:00",
+   "4474434768": "2026-10-09T08:56:26+00:00",
    "4474529217": "2026-10-03T05:11:22+00:00",
    "4474563329": "2026-10-03T11:34:43+00:00",
    "4474587014": "2026-10-03T11:34:43+00:00",
@@ -1649,8 +1707,14 @@
    "4475406680": "2026-10-08T13:20:39+00:00",
    "4475408721": "2026-10-08T13:20:39+00:00",
    "4475410088": "2026-10-08T19:53:31+00:00",
+   "4475448937": "2026-10-09T08:56:26+00:00",
+   "4475456310": "2026-10-09T08:56:26+00:00",
+   "4475719058": "2026-10-09T08:56:26+00:00",
+   "4475752218": "2026-10-09T08:56:26+00:00",
+   "4475755105": "2026-10-09T08:56:26+00:00",
    "4475847116": "2026-10-07T08:34:52+00:00",
    "4476113026": "2026-10-07T17:24:24+00:00",
+   "4476160728": "2026-10-09T08:56:26+00:00",
    "4476162357": "2026-10-07T17:24:24+00:00",
    "4476317730": "2026-10-08T05:55:00+00:00",
    "4476521814": "2026-10-08T13:20:39+00:00",
