@@ -960,7 +960,14 @@
     "url": "https://www.okta.com/company/careers/opportunity/8243101?gh_jid=8243101"
    }
   ],
-  "Oracle (OCI)": [],
+  "Oracle (OCI)": [
+   {
+    "id": "346903",
+    "location": "BENGALURU, KARNATAKA, India",
+    "title": "Site Reliability Engineer 2",
+    "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/346903"
+   }
+  ],
   "PagerDuty": [],
   "Paytm": [],
   "Percona": [],
@@ -1818,7 +1825,8 @@
    "343151": "2026-09-24T11:38:41+00:00",
    "345871": "2026-09-24T17:05:36+00:00",
    "345896": "2026-09-25T13:41:28+00:00",
-   "345903": "2026-09-24T17:05:36+00:00"
+   "345903": "2026-09-24T17:05:36+00:00",
+   "346903": "2026-10-10T23:30:18+00:00"
   },
   "PagerDuty": {},
   "Paytm": {},
