@@ -147,27 +147,6 @@
   "LinkedIn alerts": [
    {
     "employer": "JPMorganChase",
-    "id": "4471670997",
-    "location": "Bengaluru",
-    "title": "Site Reliability Engineer II",
-    "url": "https://www.linkedin.com/jobs/view/4471670997/"
-   },
-   {
-    "employer": "Citi",
-    "id": "4470000279",
-    "location": "Pune Division",
-    "title": "Application Support Analyst with SRE",
-    "url": "https://www.linkedin.com/jobs/view/4470000279/"
-   },
-   {
-    "employer": "Grow Your Staff",
-    "id": "4470131756",
-    "location": "India",
-    "title": "DevOps Engineer",
-    "url": "https://www.linkedin.com/jobs/view/4470131756/"
-   },
-   {
-    "employer": "JPMorganChase",
     "id": "4472074987",
     "location": "Bengaluru",
     "title": "Site Reliability Engineer II",
@@ -858,6 +837,97 @@
     "location": "Hyderabad",
     "title": "DevOps Engineer",
     "url": "https://www.linkedin.com/jobs/view/4474434768/"
+   },
+   {
+    "employer": "Okta",
+    "id": "4474020938",
+    "location": "Bengaluru",
+    "title": "Site Reliability Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4474020938/"
+   },
+   {
+    "employer": "BT Group",
+    "id": "4474824176",
+    "location": "Greater Bengaluru Area",
+    "title": "SRE Professional",
+    "url": "https://www.linkedin.com/jobs/view/4474824176/"
+   },
+   {
+    "employer": "AI Innovation and Inclusion Initiative (A4I)",
+    "id": "4477168582",
+    "location": "Bengaluru East",
+    "title": "AI INFRASTRUCTURE ENGINEER",
+    "url": "https://www.linkedin.com/jobs/view/4477168582/"
+   },
+   {
+    "employer": "emagine",
+    "id": "4475947718",
+    "location": "Bengaluru",
+    "title": "SRE Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4475947718/"
+   },
+   {
+    "employer": "WhiteLotus Talent Partners",
+    "id": "4475933595",
+    "location": "Bengaluru",
+    "title": "DevOps Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4475933595/"
+   },
+   {
+    "employer": "Athena Tech",
+    "id": "4477401416",
+    "location": "India",
+    "title": "DevOps Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4477401416/"
+   },
+   {
+    "employer": "Tata Consultancy Services",
+    "id": "4477677113",
+    "location": "Bengaluru",
+    "title": "Site Reliability Engineer (SRE) - Observability",
+    "url": "https://www.linkedin.com/jobs/view/4477677113/"
+   },
+   {
+    "employer": "Revspot",
+    "id": "4476274836",
+    "location": "Bengaluru",
+    "title": "Platform Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4476274836/"
+   },
+   {
+    "employer": "Barclays",
+    "id": "4474845781",
+    "location": "Pune Division",
+    "title": "Caching SRE",
+    "url": "https://www.linkedin.com/jobs/view/4474845781/"
+   },
+   {
+    "employer": "IAssess Consultants LLP",
+    "id": "4476263459",
+    "location": "India",
+    "title": "GCP DevOps_Rz",
+    "url": "https://www.linkedin.com/jobs/view/4476263459/"
+   },
+   {
+    "employer": "viamagus",
+    "id": "4477656048",
+    "location": "Bengaluru",
+    "title": "DevOps Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4477656048/"
+   },
+   {
+    "employer": "Flexiple",
+    "id": "4477605932",
+    "location": "India",
+    "title": "DevOps Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4477605932/"
+   },
+   {
+    "employer": "Jobgether",
+    "id": "4475985038",
+    "location": "India",
+    "title": "Azure Cloud Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4475985038/"
    }
   ],
   "Mastercard": [],
@@ -1667,6 +1737,7 @@
    "4473905041": "2026-10-02T12:25:35+00:00",
    "4473931438": "2026-10-02T05:28:20+00:00",
    "4473983456": "2026-10-02T05:28:20+00:00",
+   "4474020938": "2026-10-10T12:24:16+00:00",
    "4474048389": "2026-10-07T17:24:24+00:00",
    "4474134207": "2026-10-02T12:25:35+00:00",
    "4474143863": "2026-10-04T08:22:57+00:00",
@@ -1685,6 +1756,8 @@
    "4474563329": "2026-10-03T11:34:43+00:00",
    "4474587014": "2026-10-03T11:34:43+00:00",
    "4474663572": "2026-10-07T08:34:52+00:00",
+   "4474824176": "2026-10-10T12:24:16+00:00",
+   "4474845781": "2026-10-10T12:24:16+00:00",
    "4474950323": "2026-10-08T05:55:00+00:00",
    "4475165982": "2026-10-08T05:55:00+00:00",
    "4475184838": "2026-10-08T13:20:39+00:00",
@@ -1699,15 +1772,25 @@
    "4475752218": "2026-10-09T08:56:26+00:00",
    "4475755105": "2026-10-09T08:56:26+00:00",
    "4475847116": "2026-10-07T08:34:52+00:00",
+   "4475933595": "2026-10-10T12:24:16+00:00",
+   "4475947718": "2026-10-10T12:24:16+00:00",
+   "4475985038": "2026-10-10T12:24:16+00:00",
    "4476113026": "2026-10-07T17:24:24+00:00",
    "4476160728": "2026-10-09T08:56:26+00:00",
    "4476162357": "2026-10-07T17:24:24+00:00",
+   "4476263459": "2026-10-10T12:24:16+00:00",
+   "4476274836": "2026-10-10T12:24:16+00:00",
    "4476317730": "2026-10-08T05:55:00+00:00",
    "4476521814": "2026-10-08T13:20:39+00:00",
    "4476573844": "2026-10-08T19:53:31+00:00",
    "4476576418": "2026-10-08T19:53:31+00:00",
    "4476579614": "2026-10-08T13:20:39+00:00",
-   "4476708420": "2026-10-08T13:20:39+00:00"
+   "4476708420": "2026-10-08T13:20:39+00:00",
+   "4477168582": "2026-10-10T12:24:16+00:00",
+   "4477401416": "2026-10-10T12:24:16+00:00",
+   "4477605932": "2026-10-10T12:24:16+00:00",
+   "4477656048": "2026-10-10T12:24:16+00:00",
+   "4477677113": "2026-10-10T12:24:16+00:00"
   },
   "Mastercard": {
    "/job/Pune-India/Platform-Engineer-II_R-288632": "2026-09-28T13:45:49+00:00",
