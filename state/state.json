@@ -146,27 +146,6 @@
   "Kong": [],
   "LinkedIn alerts": [
    {
-    "employer": "JPMorganChase",
-    "id": "4472074987",
-    "location": "Bengaluru",
-    "title": "Site Reliability Engineer II",
-    "url": "https://www.linkedin.com/jobs/view/4472074987/"
-   },
-   {
-    "employer": "JPMorganChase",
-    "id": "4472085682",
-    "location": "Bengaluru",
-    "title": "Infrastructure Engineering",
-    "url": "https://www.linkedin.com/jobs/view/4472085682/"
-   },
-   {
-    "employer": "Quest Global",
-    "id": "4470306315",
-    "location": "Bengaluru",
-    "title": "Devops Engineer",
-    "url": "https://www.linkedin.com/jobs/view/4470306315/"
-   },
-   {
     "employer": "Embrace Software Inc",
     "id": "4472297676",
     "location": "India",
@@ -935,6 +914,62 @@
     "location": "Bengaluru",
     "title": "DevOps Engineer",
     "url": "https://www.linkedin.com/jobs/view/4476806219/"
+   },
+   {
+    "employer": "Deutsche Bank",
+    "id": "4477671518",
+    "location": "Bengaluru",
+    "title": "Site Reliability Engineer, AVP",
+    "url": "https://www.linkedin.com/jobs/view/4477671518/"
+   },
+   {
+    "employer": "American Express",
+    "id": "4476285629",
+    "location": "Bengaluru",
+    "title": "Site Reliability Engineer I",
+    "url": "https://www.linkedin.com/jobs/view/4476285629/"
+   },
+   {
+    "employer": "Retail Insights",
+    "id": "4476867212",
+    "location": "Bengaluru",
+    "title": "DevOps Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4476867212/"
+   },
+   {
+    "employer": "Falkor (formerly Kongsberg Digital)",
+    "id": "4433091144",
+    "location": "Bengaluru",
+    "title": "Technical Analyst – Cloud Infrastructure",
+    "url": "https://www.linkedin.com/jobs/view/4433091144/"
+   },
+   {
+    "employer": "Sandisk",
+    "id": "4477876106",
+    "location": "Bengaluru",
+    "title": "Devops engineer",
+    "url": "https://www.linkedin.com/jobs/view/4477876106/"
+   },
+   {
+    "employer": "Citi",
+    "id": "4476869092",
+    "location": "Pune Division",
+    "title": "Devops Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4476869092/"
+   },
+   {
+    "employer": "Citi",
+    "id": "4476853606",
+    "location": "Pune Division",
+    "title": "Production Support Engineer - Cloud, Kubernetes",
+    "url": "https://www.linkedin.com/jobs/view/4476853606/"
+   },
+   {
+    "employer": "Charger Logistics Inc.",
+    "id": "4477689824",
+    "location": "India",
+    "title": "Site Reliability Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4477689824/"
    }
   ],
   "Mastercard": [],
@@ -1562,6 +1597,7 @@
    "4421101868": "2026-09-24T04:40:01+00:00",
    "4426243483": "2026-09-28T13:45:49+00:00",
    "4430604888": "2026-09-23T21:09:51+00:00",
+   "4433091144": "2026-10-11T12:41:40+00:00",
    "4434574405": "2026-10-04T08:22:57+00:00",
    "4436513787": "2026-09-29T08:23:22+00:00",
    "4437575919": "2026-10-04T08:22:57+00:00",
@@ -1794,6 +1830,7 @@
    "4476162357": "2026-10-07T17:24:24+00:00",
    "4476263459": "2026-10-10T12:24:16+00:00",
    "4476274836": "2026-10-10T12:24:16+00:00",
+   "4476285629": "2026-10-11T12:41:40+00:00",
    "4476317730": "2026-10-08T05:55:00+00:00",
    "4476521814": "2026-10-08T13:20:39+00:00",
    "4476573844": "2026-10-08T19:53:31+00:00",
@@ -1801,11 +1838,17 @@
    "4476579614": "2026-10-08T13:20:39+00:00",
    "4476708420": "2026-10-08T13:20:39+00:00",
    "4476806219": "2026-10-11T05:39:04+00:00",
+   "4476853606": "2026-10-11T12:41:40+00:00",
+   "4476867212": "2026-10-11T12:41:40+00:00",
+   "4476869092": "2026-10-11T12:41:40+00:00",
    "4477168582": "2026-10-10T12:24:16+00:00",
    "4477401416": "2026-10-10T12:24:16+00:00",
    "4477605932": "2026-10-10T12:24:16+00:00",
    "4477656048": "2026-10-10T12:24:16+00:00",
-   "4477677113": "2026-10-10T12:24:16+00:00"
+   "4477671518": "2026-10-11T12:41:40+00:00",
+   "4477677113": "2026-10-10T12:24:16+00:00",
+   "4477689824": "2026-10-11T12:41:40+00:00",
+   "4477876106": "2026-10-11T12:41:40+00:00"
   },
   "Mastercard": {
    "/job/Pune-India/Platform-Engineer-II_R-288632": "2026-09-28T13:45:49+00:00",
