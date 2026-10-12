@@ -942,7 +942,14 @@
     "url": "https://www.linkedin.com/jobs/view/4477241831/"
    }
   ],
-  "Mastercard": [],
+  "Mastercard": [
+   {
+    "id": "/job/Pune-India/Site-Reliability-Engineer-II_R-293452",
+    "location": "Pune, India",
+    "title": "Site Reliability Engineer II",
+    "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Site-Reliability-Engineer-II_R-293452"
+   }
+  ],
   "Meesho": [
    {
     "id": "60e0d986-abe8-42ee-b172-0d9aecb307b7",
@@ -1812,7 +1819,8 @@
   },
   "Mastercard": {
    "/job/Pune-India/Platform-Engineer-II_R-288632": "2026-09-28T13:45:49+00:00",
-   "/job/Pune-India/Site-Reliability-Engineer-2_R-278999-1": "2026-09-30T05:26:13+00:00"
+   "/job/Pune-India/Site-Reliability-Engineer-2_R-278999-1": "2026-09-30T05:26:13+00:00",
+   "/job/Pune-India/Site-Reliability-Engineer-II_R-293452": "2026-10-12T22:54:45+00:00"
   },
   "Meesho": {
    "60e0d986-abe8-42ee-b172-0d9aecb307b7": null
