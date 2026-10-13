@@ -940,6 +940,48 @@
     "location": "India",
     "title": "DevOps Engineer",
     "url": "https://www.linkedin.com/jobs/view/4477241831/"
+   },
+   {
+    "employer": "Teradata",
+    "id": "4477521656",
+    "location": "Bengaluru",
+    "title": "Platform Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4477521656/"
+   },
+   {
+    "employer": "Teradata",
+    "id": "4477528321",
+    "location": "Maharashtra, India",
+    "title": "Platform Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4477528321/"
+   },
+   {
+    "employer": "Retail Insights",
+    "id": "4477258985",
+    "location": "Bengaluru",
+    "title": "DevOps Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4477258985/"
+   },
+   {
+    "employer": "TANUH",
+    "id": "4477517811",
+    "location": "Bengaluru",
+    "title": "Cloud Platform Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4477517811/"
+   },
+   {
+    "employer": "ITC Infotech",
+    "id": "4477510593",
+    "location": "Bengaluru",
+    "title": "Site Reliability Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4477510593/"
+   },
+   {
+    "employer": "Healthify",
+    "id": "4478378803",
+    "location": "Bengaluru",
+    "title": "DevOps Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4478378803/"
    }
   ],
   "Mastercard": [
@@ -1809,13 +1851,19 @@
    "4476869092": "2026-10-11T12:41:40+00:00",
    "4477168582": "2026-10-10T12:24:16+00:00",
    "4477241831": "2026-10-12T15:13:54+00:00",
+   "4477258985": "2026-10-13T06:42:38+00:00",
    "4477401416": "2026-10-10T12:24:16+00:00",
+   "4477510593": "2026-10-13T06:42:38+00:00",
+   "4477517811": "2026-10-13T06:42:38+00:00",
+   "4477521656": "2026-10-13T06:42:38+00:00",
+   "4477528321": "2026-10-13T06:42:38+00:00",
    "4477605932": "2026-10-10T12:24:16+00:00",
    "4477656048": "2026-10-10T12:24:16+00:00",
    "4477671518": "2026-10-11T12:41:40+00:00",
    "4477677113": "2026-10-10T12:24:16+00:00",
    "4477689824": "2026-10-11T12:41:40+00:00",
-   "4477876106": "2026-10-11T12:41:40+00:00"
+   "4477876106": "2026-10-11T12:41:40+00:00",
+   "4478378803": "2026-10-13T06:42:38+00:00"
   },
   "Mastercard": {
    "/job/Pune-India/Platform-Engineer-II_R-288632": "2026-09-28T13:45:49+00:00",
