@@ -52,12 +52,6 @@
     "url": "https://jobs.smartrecruiters.com/BoschGroup/744000154982800"
    },
    {
-    "id": "744000154659163",
-    "location": "hosur road bangalore, India",
-    "title": "DevOps (CI/CX)",
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000154659163"
-   },
-   {
     "id": "744000154010709",
     "location": "bangalore, India",
     "title": "Azure Migration and DevOps Consultant",
@@ -157,69 +151,6 @@
   "JFrog": [],
   "Kong": [],
   "LinkedIn alerts": [
-   {
-    "employer": "Kong",
-    "id": "4464087849",
-    "location": "Bengaluru",
-    "title": "Site Reliability Engineer 2, Managed Gateways",
-    "url": "https://www.linkedin.com/jobs/view/4464087849/"
-   },
-   {
-    "employer": "Endava",
-    "id": "4467817876",
-    "location": "Bengaluru",
-    "title": "Cloud Engineer",
-    "url": "https://www.linkedin.com/jobs/view/4467817876/"
-   },
-   {
-    "employer": "Jupiter",
-    "id": "4470842394",
-    "location": "Bengaluru",
-    "title": "Devops Engineer - SDE 2",
-    "url": "https://www.linkedin.com/jobs/view/4470842394/"
-   },
-   {
-    "employer": "Infosys",
-    "id": "4444603112",
-    "location": "Bengaluru East",
-    "title": "Site Reliability Engineer",
-    "url": "https://www.linkedin.com/jobs/view/4444603112/"
-   },
-   {
-    "employer": "e-Hireo",
-    "id": "4472473905",
-    "location": "Bengaluru",
-    "title": "DevOps Engineer",
-    "url": "https://www.linkedin.com/jobs/view/4472473905/"
-   },
-   {
-    "employer": "Infosys",
-    "id": "4471303848",
-    "location": "Bengaluru East",
-    "title": "SRE / Production Engineering",
-    "url": "https://www.linkedin.com/jobs/view/4471303848/"
-   },
-   {
-    "employer": "Cisco",
-    "id": "4472707564",
-    "location": "Bengaluru",
-    "title": "Cloud Infrastructure Engineer",
-    "url": "https://www.linkedin.com/jobs/view/4472707564/"
-   },
-   {
-    "employer": "Cisco",
-    "id": "4472716017",
-    "location": "Greater Hyderabad Area",
-    "title": "Cloud Infrastructure Engineer",
-    "url": "https://www.linkedin.com/jobs/view/4472716017/"
-   },
-   {
-    "employer": "dotSolved Systems Inc.",
-    "id": "4471319601",
-    "location": "Chennai",
-    "title": "Infrastructure Engineer",
-    "url": "https://www.linkedin.com/jobs/view/4471319601/"
-   },
    {
     "employer": "Google",
     "id": "4462975502",
