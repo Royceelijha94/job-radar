@@ -158,13 +158,6 @@
   "Kong": [],
   "LinkedIn alerts": [
    {
-    "employer": "Google",
-    "id": "4462975502",
-    "location": "Bengaluru",
-    "title": "Site Reliability Engineer",
-    "url": "https://www.linkedin.com/jobs/view/4462975502/"
-   },
-   {
     "employer": "Fiserv",
     "id": "4471701437",
     "location": "Bengaluru",
@@ -919,6 +912,27 @@
     "location": "Bengaluru",
     "title": "DevOps Engineer",
     "url": "https://www.linkedin.com/jobs/view/4478378803/"
+   },
+   {
+    "employer": "Cisco",
+    "id": "4478559092",
+    "location": "Bengaluru",
+    "title": "Site Reliability Engineer (SRE) – Cloud Platform & Kubernetes , Docker (4 to 8Years)",
+    "url": "https://www.linkedin.com/jobs/view/4478559092/"
+   },
+   {
+    "employer": "Open Metal India",
+    "id": "4478598713",
+    "location": "India",
+    "title": "DevOps Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4478598713/"
+   },
+   {
+    "employer": "Netomi",
+    "id": "4476029281",
+    "location": "Gurugram",
+    "title": "Devops Engineer - I",
+    "url": "https://www.linkedin.com/jobs/view/4476029281/"
    }
   ],
   "Mastercard": [
@@ -1771,6 +1785,7 @@
    "4475933595": "2026-10-10T12:24:16+00:00",
    "4475947718": "2026-10-10T12:24:16+00:00",
    "4475985038": "2026-10-10T12:24:16+00:00",
+   "4476029281": "2026-10-14T07:31:24+00:00",
    "4476113026": "2026-10-07T17:24:24+00:00",
    "4476160728": "2026-10-09T08:56:26+00:00",
    "4476162357": "2026-10-07T17:24:24+00:00",
@@ -1801,7 +1816,9 @@
    "4477677113": "2026-10-10T12:24:16+00:00",
    "4477689824": "2026-10-11T12:41:40+00:00",
    "4477876106": "2026-10-11T12:41:40+00:00",
-   "4478378803": "2026-10-13T06:42:38+00:00"
+   "4478378803": "2026-10-13T06:42:38+00:00",
+   "4478559092": "2026-10-14T07:31:24+00:00",
+   "4478598713": "2026-10-14T07:31:24+00:00"
   },
   "Mastercard": {
    "/job/Pune-India/Platform-Engineer-II_R-288632": "2026-09-28T13:45:49+00:00",
