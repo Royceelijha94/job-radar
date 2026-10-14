@@ -28,12 +28,6 @@
     "url": "https://www.amazon.jobs/en/jobs/10570248/software-development-engineer-amazon-fulfillment-technology-aft-platform-engineering-and-services"
    },
    {
-    "id": "10570198",
-    "location": "Hyderabad, Telangana, IND",
-    "title": "Software Development Engineer, Amazon Fulfillment Technology (AFT), Platform Engineering and Services",
-    "url": "https://www.amazon.jobs/en/jobs/10570198/software-development-engineer-amazon-fulfillment-technology-aft-platform-engineering-and-services"
-   },
-   {
     "id": "10570197",
     "location": "Hyderabad, Telangana, IND",
     "title": "Software Development Engineer, Amazon Fulfillment Technology (AFT), Platform Engineering and Services",
@@ -157,48 +151,6 @@
   "JFrog": [],
   "Kong": [],
   "LinkedIn alerts": [
-   {
-    "employer": "Fiserv",
-    "id": "4471701437",
-    "location": "Bengaluru",
-    "title": "Specialist, Infrastructure Engineering",
-    "url": "https://www.linkedin.com/jobs/view/4471701437/"
-   },
-   {
-    "employer": "CrashPlan",
-    "id": "4443717137",
-    "location": "Bengaluru",
-    "title": "DevOps Engineer",
-    "url": "https://www.linkedin.com/jobs/view/4443717137/"
-   },
-   {
-    "employer": "Barclays",
-    "id": "4471244406",
-    "location": "Pune Division",
-    "title": "GTSM - Site Reliability Engineer – XDP",
-    "url": "https://www.linkedin.com/jobs/view/4471244406/"
-   },
-   {
-    "employer": "JPMorganChase",
-    "id": "4473005629",
-    "location": "Hyderabad",
-    "title": "Infrastructure Engineer III- Network Operation Merchant Services",
-    "url": "https://www.linkedin.com/jobs/view/4473005629/"
-   },
-   {
-    "employer": "FIS",
-    "id": "4473233321",
-    "location": "Pune/Pimpri-Chinchwad Area",
-    "title": "Site Reliability Engineer (SRE) – Cloud Platform",
-    "url": "https://www.linkedin.com/jobs/view/4473233321/"
-   },
-   {
-    "employer": "Brillio",
-    "id": "4473219572",
-    "location": "Bengaluru",
-    "title": "Tech Specialist, DevOps - R01571826",
-    "url": "https://www.linkedin.com/jobs/view/4473219572/"
-   },
    {
     "employer": "Tekion Corp",
     "id": "4472161255",
@@ -933,6 +885,27 @@
     "location": "Gurugram",
     "title": "Devops Engineer - I",
     "url": "https://www.linkedin.com/jobs/view/4476029281/"
+   },
+   {
+    "employer": "WirelessCar",
+    "id": "4477922312",
+    "location": "Bengaluru",
+    "title": "Service Reliability Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4477922312/"
+   },
+   {
+    "employer": "Comviva",
+    "id": "4478767837",
+    "location": "Bengaluru",
+    "title": "DevOps Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4478767837/"
+   },
+   {
+    "employer": "Whitefield Careers",
+    "id": "4478512347",
+    "location": "Bengaluru",
+    "title": "DevOps Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4478512347/"
    }
   ],
   "Mastercard": [
@@ -980,7 +953,14 @@
   "Red Hat": [],
   "Redis": [],
   "Rubrik": [],
-  "Salesforce": [],
+  "Salesforce": [
+   {
+    "id": "/job/India---Hyderabad/Software-Engineering-PMTS---Cloud-Security---Hyderabad_JR357893",
+    "location": "India - Hyderabad",
+    "title": "Software Engineering PMTS - Backend Distributed Systems - Cloud Infrastructure",
+    "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/India---Hyderabad/Software-Engineering-PMTS---Cloud-Security---Hyderabad_JR357893"
+   }
+  ],
   "Samsara": [],
   "ServiceNow": [],
   "Snowflake": [],
@@ -1816,9 +1796,12 @@
    "4477677113": "2026-10-10T12:24:16+00:00",
    "4477689824": "2026-10-11T12:41:40+00:00",
    "4477876106": "2026-10-11T12:41:40+00:00",
+   "4477922312": "2026-10-14T13:38:42+00:00",
    "4478378803": "2026-10-13T06:42:38+00:00",
+   "4478512347": "2026-10-14T13:38:42+00:00",
    "4478559092": "2026-10-14T07:31:24+00:00",
-   "4478598713": "2026-10-14T07:31:24+00:00"
+   "4478598713": "2026-10-14T07:31:24+00:00",
+   "4478767837": "2026-10-14T13:38:42+00:00"
   },
   "Mastercard": {
    "/job/Pune-India/Platform-Engineer-II_R-288632": "2026-09-28T13:45:49+00:00",
@@ -1858,7 +1841,8 @@
   "Redis": {},
   "Rubrik": {},
   "Salesforce": {
-   "/job/India---Hyderabad/Software-Engineering-MTS--DevOps-Engineer-_JR362707": "2026-10-09T16:58:04+00:00"
+   "/job/India---Hyderabad/Software-Engineering-MTS--DevOps-Engineer-_JR362707": "2026-10-09T16:58:04+00:00",
+   "/job/India---Hyderabad/Software-Engineering-PMTS---Cloud-Security---Hyderabad_JR357893": "2026-10-14T13:38:42+00:00"
   },
   "Samsara": {},
   "ServiceNow": {},
