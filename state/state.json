@@ -52,6 +52,12 @@
     "url": "https://jobs.smartrecruiters.com/BoschGroup/744000154982800"
    },
    {
+    "id": "744000155720139",
+    "location": "bangalore, India",
+    "title": "DevOps Engineer (Application Deployment & Configuration - K8S)",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000155720139"
+   },
+   {
     "id": "744000154010709",
     "location": "bangalore, India",
     "title": "Azure Migration and DevOps Consultant",
@@ -119,12 +125,6 @@
     "location": "Hyderabad",
     "title": "Cloud Operations Engineer I",
     "url": "https://www.digitalocean.com/careers/position/apply/?gh_jid=8192833"
-   },
-   {
-    "id": "8193018",
-    "location": "Hyderabad",
-    "title": "Software Engineer II - Managed Kubernetes products",
-    "url": "https://www.digitalocean.com/careers/position/apply/?gh_jid=8193018"
    }
   ],
   "Docker": [],
@@ -133,7 +133,14 @@
   "Fi Money": [],
   "Fivetran": [],
   "Freshworks": [],
-  "GitLab": [],
+  "GitLab": [
+   {
+    "id": "8867756002",
+    "location": "Bangalore, India",
+    "title": "Site Reliability Engineer, Cells Infrastructure",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8867756002"
+   }
+  ],
   "Glance": [],
   "Glean": [],
   "Grafana Labs": [],
@@ -151,41 +158,6 @@
   "JFrog": [],
   "Kong": [],
   "LinkedIn alerts": [
-   {
-    "employer": "Tekion Corp",
-    "id": "4472161255",
-    "location": "Bengaluru",
-    "title": "Site Reliability Engineer I",
-    "url": "https://www.linkedin.com/jobs/view/4472161255/"
-   },
-   {
-    "employer": "Hiver",
-    "id": "4473728506",
-    "location": "Bengaluru",
-    "title": "DevOps 2 Engineer",
-    "url": "https://www.linkedin.com/jobs/view/4473728506/"
-   },
-   {
-    "employer": "Akamai Technologies",
-    "id": "4473261378",
-    "location": "Bengaluru",
-    "title": "Site Reliability Engineer",
-    "url": "https://www.linkedin.com/jobs/view/4473261378/"
-   },
-   {
-    "employer": "IAssess Consultants LLP",
-    "id": "4473730263",
-    "location": "India",
-    "title": "Cloud Operations Engineer - GCP - CB",
-    "url": "https://www.linkedin.com/jobs/view/4473730263/"
-   },
-   {
-    "employer": "Rackspace Technology",
-    "id": "4471985965",
-    "location": "India",
-    "title": "Cloud Engineer I",
-    "url": "https://www.linkedin.com/jobs/view/4471985965/"
-   },
    {
     "employer": "Deutsche Bank",
     "id": "4473501586",
@@ -906,6 +878,62 @@
     "location": "Bengaluru",
     "title": "DevOps Engineer",
     "url": "https://www.linkedin.com/jobs/view/4478512347/"
+   },
+   {
+    "employer": "CGI",
+    "id": "4479096384",
+    "location": "Bengaluru",
+    "title": "SRE Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4479096384/"
+   },
+   {
+    "employer": "Deloitte",
+    "id": "4476630690",
+    "location": "Bengaluru",
+    "title": "DevOps Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4476630690/"
+   },
+   {
+    "employer": "EY",
+    "id": "4478152106",
+    "location": "Bengaluru",
+    "title": "DevOps Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4478152106/"
+   },
+   {
+    "employer": "Planview",
+    "id": "4476648679",
+    "location": "Bengaluru",
+    "title": "DevOps Engineer II",
+    "url": "https://www.linkedin.com/jobs/view/4476648679/"
+   },
+   {
+    "employer": "ISG (Information Services Group)",
+    "id": "4479505166",
+    "location": "Bengaluru",
+    "title": "Cloud Infrastructure Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4479505166/"
+   },
+   {
+    "employer": "Nutanix",
+    "id": "4478100477",
+    "location": "Bengaluru",
+    "title": "Systems Reliability Engineer III (BLR)",
+    "url": "https://www.linkedin.com/jobs/view/4478100477/"
+   },
+   {
+    "employer": "Torwin Infotech Pvt Ltd",
+    "id": "4476086738",
+    "location": "Bengaluru",
+    "title": "Azure DevOps + Splunk + Dynatrace",
+    "url": "https://www.linkedin.com/jobs/view/4476086738/"
+   },
+   {
+    "employer": "msg global solutions",
+    "id": "4478182125",
+    "location": "Bengaluru",
+    "title": "Devops Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4478182125/"
    }
   ],
   "Mastercard": [
@@ -1474,7 +1502,8 @@
    "744000154010709": "2026-10-07T08:34:52+00:00",
    "744000154603848": "2026-10-09T08:56:26+00:00",
    "744000154659163": "2026-10-09T16:58:04+00:00",
-   "744000154982800": "2026-10-12T15:13:54+00:00"
+   "744000154982800": "2026-10-12T15:13:54+00:00",
+   "744000155720139": "2026-10-15T11:20:35+00:00"
   },
   "Bybit": {},
   "CRED": {},
@@ -1508,7 +1537,9 @@
   "Freshworks": {
    "744000151772990": "2026-09-25T07:42:36+00:00"
   },
-  "GitLab": {},
+  "GitLab": {
+   "8867756002": "2026-10-15T11:20:35+00:00"
+  },
   "Glance": {},
   "Glean": {},
   "Grafana Labs": {},
@@ -1759,6 +1790,7 @@
    "4475947718": "2026-10-10T12:24:16+00:00",
    "4475985038": "2026-10-10T12:24:16+00:00",
    "4476029281": "2026-10-14T07:31:24+00:00",
+   "4476086738": "2026-10-15T11:20:35+00:00",
    "4476113026": "2026-10-07T17:24:24+00:00",
    "4476160728": "2026-10-09T08:56:26+00:00",
    "4476162357": "2026-10-07T17:24:24+00:00",
@@ -1770,6 +1802,8 @@
    "4476573844": "2026-10-08T19:53:31+00:00",
    "4476576418": "2026-10-08T19:53:31+00:00",
    "4476579614": "2026-10-08T13:20:39+00:00",
+   "4476630690": "2026-10-15T11:20:35+00:00",
+   "4476648679": "2026-10-15T11:20:35+00:00",
    "4476708420": "2026-10-08T13:20:39+00:00",
    "4476806219": "2026-10-11T05:39:04+00:00",
    "4476853606": "2026-10-11T12:41:40+00:00",
@@ -1790,11 +1824,16 @@
    "4477689824": "2026-10-11T12:41:40+00:00",
    "4477876106": "2026-10-11T12:41:40+00:00",
    "4477922312": "2026-10-14T13:38:42+00:00",
+   "4478100477": "2026-10-15T11:20:35+00:00",
+   "4478152106": "2026-10-15T11:20:35+00:00",
+   "4478182125": "2026-10-15T11:20:35+00:00",
    "4478378803": "2026-10-13T06:42:38+00:00",
    "4478512347": "2026-10-14T13:38:42+00:00",
    "4478559092": "2026-10-14T07:31:24+00:00",
    "4478598713": "2026-10-14T07:31:24+00:00",
-   "4478767837": "2026-10-14T13:38:42+00:00"
+   "4478767837": "2026-10-14T13:38:42+00:00",
+   "4479096384": "2026-10-15T11:20:35+00:00",
+   "4479505166": "2026-10-15T11:20:35+00:00"
   },
   "Mastercard": {
    "/job/Pune-India/Platform-Engineer-II_R-288632": "2026-09-28T13:45:49+00:00",
