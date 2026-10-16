@@ -159,20 +159,6 @@
   "Kong": [],
   "LinkedIn alerts": [
    {
-    "employer": "Ascendion",
-    "id": "4472509794",
-    "location": "Bengaluru",
-    "title": "DevOps Engineer",
-    "url": "https://www.linkedin.com/jobs/view/4472509794/"
-   },
-   {
-    "employer": "Deutsche Bank",
-    "id": "4473983456",
-    "location": "Bengaluru",
-    "title": "Customer Success Engineer – Cloud Engineering & Platform Enablement",
-    "url": "https://www.linkedin.com/jobs/view/4473983456/"
-   },
-   {
     "employer": "Ema",
     "id": "4463069294",
     "location": "Bengaluru",
@@ -906,6 +892,76 @@
     "location": "Bengaluru",
     "title": "Devops Engineer",
     "url": "https://www.linkedin.com/jobs/view/4478182125/"
+   },
+   {
+    "employer": "Tecsys Inc.",
+    "id": "4472556549",
+    "location": "Bengaluru",
+    "title": "Site Reliability Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4472556549/"
+   },
+   {
+    "employer": "Natus Sensory",
+    "id": "4477421956",
+    "location": "Bengaluru",
+    "title": "DevOps Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4477421956/"
+   },
+   {
+    "employer": "CME Group",
+    "id": "4456494800",
+    "location": "Bengaluru",
+    "title": "Site Reliability Engineer III - India",
+    "url": "https://www.linkedin.com/jobs/view/4456494800/"
+   },
+   {
+    "employer": "The Standard India",
+    "id": "4478460768",
+    "location": "Bengaluru East",
+    "title": "Cloud DevOps Engineer II",
+    "url": "https://www.linkedin.com/jobs/view/4478460768/"
+   },
+   {
+    "employer": "BCE Global Tech - A Bell Canada Company",
+    "id": "4478441794",
+    "location": "Bengaluru",
+    "title": "Site Reliability Engineer- GCP Cloud",
+    "url": "https://www.linkedin.com/jobs/view/4478441794/"
+   },
+   {
+    "employer": "Deloitte",
+    "id": "4478865464",
+    "location": "Bengaluru",
+    "title": "DevSecOps Engineer - DevOps Engineer II",
+    "url": "https://www.linkedin.com/jobs/view/4478865464/"
+   },
+   {
+    "employer": "Citi",
+    "id": "4478851952",
+    "location": "Pune Division",
+    "title": "Devops Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4478851952/"
+   },
+   {
+    "employer": "Jobgether",
+    "id": "4478849078",
+    "location": "India",
+    "title": "Infrastructure Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4478849078/"
+   },
+   {
+    "employer": "MetLife",
+    "id": "4479539423",
+    "location": "Hyderabad",
+    "title": "Site Reliability Engineer II",
+    "url": "https://www.linkedin.com/jobs/view/4479539423/"
+   },
+   {
+    "employer": "Roadcast",
+    "id": "4479802780",
+    "location": "New Delhi",
+    "title": "Junior DevOps Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4479802780/"
    }
   ],
   "Mastercard": [
@@ -1553,6 +1609,7 @@
    "4454501850": "2026-10-04T08:22:57+00:00",
    "4454508648": "2026-09-28T13:45:49+00:00",
    "4454924883": "2026-10-03T16:11:55+00:00",
+   "4456494800": "2026-10-16T07:05:11+00:00",
    "4457488693": "2026-09-23T21:09:51+00:00",
    "4457788813": "2026-09-23T21:09:51+00:00",
    "4458352622": "2026-09-24T04:40:01+00:00",
@@ -1691,6 +1748,7 @@
    "4472547693": "2026-10-03T05:11:22+00:00",
    "4472551435": "2026-10-03T11:34:43+00:00",
    "4472554757": "2026-10-03T16:11:55+00:00",
+   "4472556549": "2026-10-16T07:05:11+00:00",
    "4472707564": "2026-09-29T08:23:22+00:00",
    "4472716017": "2026-09-29T08:23:22+00:00",
    "4472754533": "2026-09-30T12:28:10+00:00",
@@ -1785,6 +1843,7 @@
    "4477241831": "2026-10-12T15:13:54+00:00",
    "4477258985": "2026-10-13T06:42:38+00:00",
    "4477401416": "2026-10-10T12:24:16+00:00",
+   "4477421956": "2026-10-16T07:05:11+00:00",
    "4477510593": "2026-10-13T06:42:38+00:00",
    "4477517811": "2026-10-13T06:42:38+00:00",
    "4477521656": "2026-10-13T06:42:38+00:00",
@@ -1800,12 +1859,19 @@
    "4478152106": "2026-10-15T11:20:35+00:00",
    "4478182125": "2026-10-15T11:20:35+00:00",
    "4478378803": "2026-10-13T06:42:38+00:00",
+   "4478441794": "2026-10-16T07:05:11+00:00",
+   "4478460768": "2026-10-16T07:05:11+00:00",
    "4478512347": "2026-10-14T13:38:42+00:00",
    "4478559092": "2026-10-14T07:31:24+00:00",
    "4478598713": "2026-10-14T07:31:24+00:00",
    "4478767837": "2026-10-14T13:38:42+00:00",
+   "4478849078": "2026-10-16T07:05:11+00:00",
+   "4478851952": "2026-10-16T07:05:11+00:00",
+   "4478865464": "2026-10-16T07:05:11+00:00",
    "4479096384": "2026-10-15T11:20:35+00:00",
-   "4479505166": "2026-10-15T11:20:35+00:00"
+   "4479505166": "2026-10-15T11:20:35+00:00",
+   "4479539423": "2026-10-16T07:05:11+00:00",
+   "4479802780": "2026-10-16T07:05:11+00:00"
   },
   "Mastercard": {
    "/job/Pune-India/Platform-Engineer-II_R-288632": "2026-09-28T13:45:49+00:00",
