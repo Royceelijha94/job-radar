@@ -36,10 +36,10 @@
   ],
   "Astronomer": [
    {
-    "id": "6670d80f-97fc-4bd0-8e74-ba739c794ca9",
+    "id": "c6bcfa3c-e59d-4768-8d78-d12a4442c114",
     "location": "Hyderabad",
-    "title": "Customer Reliability Engineer, Infrastructure - Hyderabad, India",
-    "url": "https://jobs.ashbyhq.com/astronomer/6670d80f-97fc-4bd0-8e74-ba739c794ca9"
+    "title": "Customer Reliability Engineer - Infrastructure - Hyderabad, India",
+    "url": "https://jobs.ashbyhq.com/astronomer/c6bcfa3c-e59d-4768-8d78-d12a4442c114"
    }
   ],
   "Atlan": [],
@@ -68,12 +68,6 @@
     "location": "bangalore, India",
     "title": "2026_MS_EMT1_VM_Senior VS Code Extension Developer (TypeScript | DevOps | CI/CD | Kubernetes)",
     "url": "https://jobs.smartrecruiters.com/BoschGroup/744000153229468"
-   },
-   {
-    "id": "744000149609680",
-    "location": "coimbatore, India",
-    "title": "AWS DevOps Support for BHC APAC - HC",
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000149609680"
    },
    {
     "id": "744000146640025",
@@ -158,27 +152,6 @@
   "JFrog": [],
   "Kong": [],
   "LinkedIn alerts": [
-   {
-    "employer": "Ema",
-    "id": "4463069294",
-    "location": "Bengaluru",
-    "title": "Site Reliability Engineer",
-    "url": "https://www.linkedin.com/jobs/view/4463069294/"
-   },
-   {
-    "employer": "Invi Grid Inc.",
-    "id": "4472508057",
-    "location": "India",
-    "title": "DevOps Engineer",
-    "url": "https://www.linkedin.com/jobs/view/4472508057/"
-   },
-   {
-    "employer": "D2N Solutions",
-    "id": "4473905041",
-    "location": "India",
-    "title": "Cloud Engineer",
-    "url": "https://www.linkedin.com/jobs/view/4473905041/"
-   },
    {
     "employer": "CGI",
     "id": "4474529217",
@@ -962,6 +935,34 @@
     "location": "New Delhi",
     "title": "Junior DevOps Engineer",
     "url": "https://www.linkedin.com/jobs/view/4479802780/"
+   },
+   {
+    "employer": "Nutanix",
+    "id": "4478853197",
+    "location": "Bengaluru",
+    "title": "SRE 2 Enterprise Tech Support (Virtualization & Networking)",
+    "url": "https://www.linkedin.com/jobs/view/4478853197/"
+   },
+   {
+    "employer": "Nutanix",
+    "id": "4478851220",
+    "location": "Bengaluru",
+    "title": "Systems Reliability Engineer II",
+    "url": "https://www.linkedin.com/jobs/view/4478851220/"
+   },
+   {
+    "employer": "Nutanix",
+    "id": "4478844725",
+    "location": "Bengaluru",
+    "title": "Systems Reliability Engineer II (BLR)",
+    "url": "https://www.linkedin.com/jobs/view/4478844725/"
+   },
+   {
+    "employer": "Nutanix",
+    "id": "4478454065",
+    "location": "Bengaluru",
+    "title": "Systems Reliability Engineer II- Technical Support, Virtualization, Linux, Trouble Shooting, Networking",
+    "url": "https://www.linkedin.com/jobs/view/4478454065/"
    }
   ],
   "Mastercard": [
@@ -1515,7 +1516,8 @@
   },
   "Astronomer": {
    "193740e4-593e-4fef-adf1-b6def7b7765a": "2026-09-23T21:15:40+00:00",
-   "6670d80f-97fc-4bd0-8e74-ba739c794ca9": "2026-09-29T08:23:22+00:00"
+   "6670d80f-97fc-4bd0-8e74-ba739c794ca9": "2026-09-29T08:23:22+00:00",
+   "c6bcfa3c-e59d-4768-8d78-d12a4442c114": "2026-10-16T13:12:34+00:00"
   },
   "Atlan": {},
   "Autodesk": {
@@ -1523,7 +1525,6 @@
   },
   "Bosch": {
    "744000146640025": null,
-   "744000149609680": null,
    "744000151592409": "2026-09-24T11:38:41+00:00",
    "744000153229468": "2026-10-02T19:14:04+00:00",
    "744000153678133": "2026-10-06T15:04:52+00:00",
@@ -1860,13 +1861,17 @@
    "4478182125": "2026-10-15T11:20:35+00:00",
    "4478378803": "2026-10-13T06:42:38+00:00",
    "4478441794": "2026-10-16T07:05:11+00:00",
+   "4478454065": "2026-10-16T13:12:34+00:00",
    "4478460768": "2026-10-16T07:05:11+00:00",
    "4478512347": "2026-10-14T13:38:42+00:00",
    "4478559092": "2026-10-14T07:31:24+00:00",
    "4478598713": "2026-10-14T07:31:24+00:00",
    "4478767837": "2026-10-14T13:38:42+00:00",
+   "4478844725": "2026-10-16T13:12:34+00:00",
    "4478849078": "2026-10-16T07:05:11+00:00",
+   "4478851220": "2026-10-16T13:12:34+00:00",
    "4478851952": "2026-10-16T07:05:11+00:00",
+   "4478853197": "2026-10-16T13:12:34+00:00",
    "4478865464": "2026-10-16T07:05:11+00:00",
    "4479096384": "2026-10-15T11:20:35+00:00",
    "4479505166": "2026-10-15T11:20:35+00:00",
