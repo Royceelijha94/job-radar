@@ -159,48 +159,6 @@
   "Kong": [],
   "LinkedIn alerts": [
    {
-    "employer": "Networth Corp",
-    "id": "4472536553",
-    "location": "India",
-    "title": "DevOps Engineer",
-    "url": "https://www.linkedin.com/jobs/view/4472536553/"
-   },
-   {
-    "employer": "Viraaj HR Solutions Private Limited",
-    "id": "4472551435",
-    "location": "Bengaluru",
-    "title": "DevOps Consultant",
-    "url": "https://www.linkedin.com/jobs/view/4472551435/"
-   },
-   {
-    "employer": "Thinkgrid Labs",
-    "id": "4472873510",
-    "location": "India",
-    "title": "Cloud DevOps Engineer (US Healthcare - Remote from India)",
-    "url": "https://www.linkedin.com/jobs/view/4472873510/"
-   },
-   {
-    "employer": "Flexiple",
-    "id": "4474563329",
-    "location": "India",
-    "title": "DevOps Engineer",
-    "url": "https://www.linkedin.com/jobs/view/4474563329/"
-   },
-   {
-    "employer": "AlgoSec",
-    "id": "4474587014",
-    "location": "New Delhi",
-    "title": "DevOps Engineer, India",
-    "url": "https://www.linkedin.com/jobs/view/4474587014/"
-   },
-   {
-    "employer": "JumpCloud",
-    "id": "4473121141",
-    "location": "Bengaluru East",
-    "title": "Site Reliability Engineer - India",
-    "url": "https://www.linkedin.com/jobs/view/4473121141/"
-   },
-   {
     "employer": "Cisco",
     "id": "4474332564",
     "location": "Bengaluru",
@@ -997,6 +955,20 @@
     "location": "Bengaluru",
     "title": "Systems Reliability Engineer - Enterprise Tech Support (Virtualization & Networking)",
     "url": "https://www.linkedin.com/jobs/view/4472131123/"
+   },
+   {
+    "employer": "Site Reliability Engineer II - Enterprise Data Platform",
+    "id": "4479129659",
+    "location": "The Standard India",
+    "title": "<strong class=\"font-bold\" style=\"font-weight: 600;\">Site Reliability Engineer</strong> jobs in Bengaluru",
+    "url": "https://www.linkedin.com/jobs/view/4479129659/"
+   },
+   {
+    "employer": "NatWest Group",
+    "id": "4479845832",
+    "location": "Bengaluru",
+    "title": "Site Reliability Engineer, Vice President",
+    "url": "https://www.linkedin.com/jobs/view/4479845832/"
    }
   ],
   "Mastercard": [],
@@ -1037,7 +1009,14 @@
   "Red Hat": [],
   "Redis": [],
   "Rubrik": [],
-  "Salesforce": [],
+  "Salesforce": [
+   {
+    "id": "/job/India---Hyderabad/Software-Engineering-MTS_JR338172-1",
+    "location": "India - Hyderabad, India - Bangalore",
+    "title": "Software Engineering, SMTS/MTS (Backend + Kubernetes/Docker/Helm)",
+    "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/India---Hyderabad/Software-Engineering-MTS_JR338172-1"
+   }
+  ],
   "Samsara": [],
   "ServiceNow": [],
   "Snowflake": [],
@@ -1094,6 +1073,12 @@
    "ats": "ashby",
    "token": "atlan"
   },
+  "Autodesk": {
+   "ats": "workday",
+   "site": "Ext",
+   "tenant": "autodesk",
+   "wd": "wd1"
+  },
   "BharatPe": {
    "miss": "2026-10-15T16:53:34+00:00"
   },
@@ -1138,6 +1123,12 @@
   },
   "Couchbase": {
    "miss": "2026-10-15T16:53:34+00:00"
+  },
+  "CrowdStrike": {
+   "ats": "workday",
+   "site": "crowdstrikecareers",
+   "tenant": "crowdstrike",
+   "wd": "wd5"
   },
   "Darwinbox": {
    "miss": "2026-10-15T16:53:34+00:00"
@@ -1212,6 +1203,12 @@
   "Innovaccer": {
    "miss": "2026-10-15T16:53:34+00:00"
   },
+  "Intel": {
+   "ats": "workday",
+   "site": "External",
+   "tenant": "intel",
+   "wd": "wd1"
+  },
   "JFrog": {
    "ats": "greenhouse",
    "token": "jfrog"
@@ -1237,6 +1234,18 @@
   },
   "MakeMyTrip": {
    "miss": "2026-10-15T16:53:34+00:00"
+  },
+  "Mastercard": {
+   "ats": "workday",
+   "site": "CorporateCareers",
+   "tenant": "mastercard",
+   "wd": "wd1"
+  },
+  "Micron": {
+   "ats": "workday",
+   "site": "External",
+   "tenant": "micron",
+   "wd": "wd1"
   },
   "Mindtickle": {
    "ats": "lever",
@@ -1387,6 +1396,12 @@
   },
   "Whatfix": {
    "miss": "2026-10-15T16:53:34+00:00"
+  },
+  "Workday": {
+   "ats": "workday",
+   "site": "Workday",
+   "tenant": "workday",
+   "wd": "wd5"
   },
   "Yellow.ai": {
    "miss": "2026-10-15T16:53:34+00:00"
@@ -1875,10 +1890,12 @@
    "4478865464": "2026-10-16T07:05:11+00:00",
    "4479096384": "2026-10-15T11:20:35+00:00",
    "4479124186": "2026-10-17T06:52:39+00:00",
+   "4479129659": "2026-10-17T12:09:02+00:00",
    "4479354188": "2026-10-17T06:52:39+00:00",
    "4479505166": "2026-10-15T11:20:35+00:00",
    "4479539423": "2026-10-16T07:05:11+00:00",
-   "4479802780": "2026-10-16T07:05:11+00:00"
+   "4479802780": "2026-10-16T07:05:11+00:00",
+   "4479845832": "2026-10-17T12:09:02+00:00"
   },
   "Mastercard": {
    "/job/Pune-India/Platform-Engineer-II_R-288632": "2026-09-28T13:45:49+00:00",
@@ -1919,6 +1936,7 @@
   "Rubrik": {},
   "Salesforce": {
    "/job/India---Hyderabad/Software-Engineering-MTS--DevOps-Engineer-_JR362707": "2026-10-09T16:58:04+00:00",
+   "/job/India---Hyderabad/Software-Engineering-MTS_JR338172-1": "2026-10-17T12:09:02+00:00",
    "/job/India---Hyderabad/Software-Engineering-PMTS---Cloud-Security---Hyderabad_JR357893": "2026-10-14T13:38:42+00:00"
   },
   "Samsara": {},
