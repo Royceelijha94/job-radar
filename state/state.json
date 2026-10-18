@@ -159,48 +159,6 @@
   "Kong": [],
   "LinkedIn alerts": [
    {
-    "employer": "BT Group",
-    "id": "4472106987",
-    "location": "Bengaluru South",
-    "title": "Site Reliability Engineering Specialist",
-    "url": "https://www.linkedin.com/jobs/view/4472106987/"
-   },
-   {
-    "employer": "eBay",
-    "id": "4463998237",
-    "location": "Bengaluru",
-    "title": "Site Reliability Engineer 3",
-    "url": "https://www.linkedin.com/jobs/view/4463998237/"
-   },
-   {
-    "employer": "HighRadius",
-    "id": "4473389284",
-    "location": "Hyderabad",
-    "title": "Site Reliability Engineer",
-    "url": "https://www.linkedin.com/jobs/view/4473389284/"
-   },
-   {
-    "employer": "Pythian",
-    "id": "4434574405",
-    "location": "Greater Hyderabad Area",
-    "title": "Site Reliability Engineer",
-    "url": "https://www.linkedin.com/jobs/view/4434574405/"
-   },
-   {
-    "employer": "Cisco",
-    "id": "4466071075",
-    "location": "Bengaluru",
-    "title": "Site Reliability Engineer - Devops, AWS, Python/GO - 4 to 8 years",
-    "url": "https://www.linkedin.com/jobs/view/4466071075/"
-   },
-   {
-    "employer": "Cisco",
-    "id": "4466072063",
-    "location": "Bengaluru",
-    "title": "Software Engineering Technical Leader - Devops/SRE, AWS, Python/Go - 9 - 14 years",
-    "url": "https://www.linkedin.com/jobs/view/4466072063/"
-   },
-   {
     "employer": "D2N Solutions",
     "id": "4473787585",
     "location": "India",
@@ -969,6 +927,62 @@
     "location": "Bengaluru",
     "title": "DevOps Engineer",
     "url": "https://www.linkedin.com/jobs/view/4477393510/"
+   },
+   {
+    "employer": "American Express",
+    "id": "4479367051",
+    "location": "Bengaluru",
+    "title": "Infrastructure Engineer I",
+    "url": "https://www.linkedin.com/jobs/view/4479367051/"
+   },
+   {
+    "employer": "American Express",
+    "id": "4479357399",
+    "location": "Gurugram",
+    "title": "Infrastructure Engineer II",
+    "url": "https://www.linkedin.com/jobs/view/4479357399/"
+   },
+   {
+    "employer": "American Express",
+    "id": "4479359323",
+    "location": "Gurugram",
+    "title": "Infrastructure Engineer I",
+    "url": "https://www.linkedin.com/jobs/view/4479359323/"
+   },
+   {
+    "employer": "Persistent Systems",
+    "id": "4479657560",
+    "location": "Bengaluru",
+    "title": "Observability Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4479657560/"
+   },
+   {
+    "employer": "Accenture in India",
+    "id": "4480566068",
+    "location": "Bengaluru",
+    "title": "Cloud Operations Administrator",
+    "url": "https://www.linkedin.com/jobs/view/4480566068/"
+   },
+   {
+    "employer": "Work360",
+    "id": "4479333344",
+    "location": "India",
+    "title": "DevOps Engineer - Fresher",
+    "url": "https://www.linkedin.com/jobs/view/4479333344/"
+   },
+   {
+    "employer": "Amgen",
+    "id": "4471879248",
+    "location": "Hyderabad",
+    "title": "Site Reliability Engineer – Data Platforms",
+    "url": "https://www.linkedin.com/jobs/view/4471879248/"
+   },
+   {
+    "employer": "India's Future Investors - Money Entertainment Reality Show",
+    "id": "4479355342",
+    "location": "India",
+    "title": "DevOps Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4479355342/"
    }
   ],
   "Mastercard": [],
@@ -1726,6 +1740,7 @@
    "4471701437": "2026-09-30T12:28:10+00:00",
    "4471733411": "2026-10-01T13:04:37+00:00",
    "4471734386": "2026-10-01T13:04:37+00:00",
+   "4471879248": "2026-10-18T10:56:49+00:00",
    "4471985965": "2026-10-01T05:44:15+00:00",
    "4472002347": "2026-09-27T13:54:22+00:00",
    "4472074987": "2026-09-27T08:03:27+00:00",
@@ -1885,11 +1900,18 @@
    "4479096384": "2026-10-15T11:20:35+00:00",
    "4479124186": "2026-10-17T06:52:39+00:00",
    "4479129659": "2026-10-17T12:09:02+00:00",
+   "4479333344": "2026-10-18T10:56:49+00:00",
    "4479354188": "2026-10-17T06:52:39+00:00",
+   "4479355342": "2026-10-18T10:56:49+00:00",
+   "4479357399": "2026-10-18T10:56:49+00:00",
+   "4479359323": "2026-10-18T10:56:49+00:00",
+   "4479367051": "2026-10-18T10:56:49+00:00",
    "4479505166": "2026-10-15T11:20:35+00:00",
    "4479539423": "2026-10-16T07:05:11+00:00",
+   "4479657560": "2026-10-18T10:56:49+00:00",
    "4479802780": "2026-10-16T07:05:11+00:00",
-   "4479845832": "2026-10-17T12:09:02+00:00"
+   "4479845832": "2026-10-17T12:09:02+00:00",
+   "4480566068": "2026-10-18T10:56:49+00:00"
   },
   "Mastercard": {
    "/job/Pune-India/Platform-Engineer-II_R-288632": "2026-09-28T13:45:49+00:00",
