@@ -159,13 +159,6 @@
   "Kong": [],
   "LinkedIn alerts": [
    {
-    "employer": "Provenir",
-    "id": "4454415068",
-    "location": "Bengaluru",
-    "title": "DevOps Engineer",
-    "url": "https://www.linkedin.com/jobs/view/4454415068/"
-   },
-   {
     "employer": "HYrEzy Tech Solutions",
     "id": "4474249754",
     "location": "India",
@@ -1011,6 +1004,41 @@
     "location": "India",
     "title": "DevOps Engineer",
     "url": "https://www.linkedin.com/jobs/view/4480873166/"
+   },
+   {
+    "employer": "Barclays",
+    "id": "4477782474",
+    "location": "Bengaluru",
+    "title": "Infrastructure Engineer - BA4",
+    "url": "https://www.linkedin.com/jobs/view/4477782474/"
+   },
+   {
+    "employer": "Barclays",
+    "id": "4477786293",
+    "location": "Bengaluru",
+    "title": "Infrastructure Engineer AVP",
+    "url": "https://www.linkedin.com/jobs/view/4477786293/"
+   },
+   {
+    "employer": "Barclays",
+    "id": "4477770933",
+    "location": "Bengaluru",
+    "title": "API Infrastructure Engineer - BA4",
+    "url": "https://www.linkedin.com/jobs/view/4477770933/"
+   },
+   {
+    "employer": "Barclays",
+    "id": "4477787288",
+    "location": "Bengaluru",
+    "title": "Core Banking AVP Service Engg (Support & Devops)",
+    "url": "https://www.linkedin.com/jobs/view/4477787288/"
+   },
+   {
+    "employer": "PhonePe",
+    "id": "4461154327",
+    "location": "Bengaluru",
+    "title": "Site Reliability Engineer - On-Prem (4 to 12 Years)",
+    "url": "https://www.linkedin.com/jobs/view/4461154327/"
    }
   ],
   "Mastercard": [],
@@ -1401,6 +1429,10 @@
   "Tabby": {
    "miss": "2026-10-18T18:35:52+00:00"
   },
+  "Tailscale": {
+   "ats": "greenhouse",
+   "token": "tailscale"
+  },
   "Tamara": {
    "ats": "greenhouse",
    "token": "tamara"
@@ -1411,6 +1443,10 @@
   },
   "Tesco": {
    "miss": "2026-10-18T18:35:52+00:00"
+  },
+  "Thoughtworks": {
+   "ats": "greenhouse",
+   "token": "thoughtworks"
   },
   "Udaan": {
    "miss": "2026-10-18T18:35:52+00:00"
@@ -1663,6 +1699,7 @@
    "4459951877": "2026-09-25T13:41:28+00:00",
    "4460356924": "2026-10-17T06:52:39+00:00",
    "4460613525": "2026-09-25T07:42:36+00:00",
+   "4461154327": "2026-10-19T19:51:29+00:00",
    "4461157534": "2026-10-19T13:00:35+00:00",
    "4461192930": "2026-09-23T21:09:51+00:00",
    "4462147795": "2026-09-24T04:40:01+00:00",
@@ -1908,6 +1945,10 @@
    "4477671518": "2026-10-11T12:41:40+00:00",
    "4477677113": "2026-10-10T12:24:16+00:00",
    "4477689824": "2026-10-11T12:41:40+00:00",
+   "4477770933": "2026-10-19T19:51:29+00:00",
+   "4477782474": "2026-10-19T19:51:29+00:00",
+   "4477786293": "2026-10-19T19:51:29+00:00",
+   "4477787288": "2026-10-19T19:51:29+00:00",
    "4477876106": "2026-10-11T12:41:40+00:00",
    "4477922312": "2026-10-14T13:38:42+00:00",
    "4478100477": "2026-10-15T11:20:35+00:00",
