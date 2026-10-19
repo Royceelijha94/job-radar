@@ -159,20 +159,6 @@
   "Kong": [],
   "LinkedIn alerts": [
    {
-    "employer": "D2N Solutions",
-    "id": "4473787585",
-    "location": "India",
-    "title": "DevOps Engineer",
-    "url": "https://www.linkedin.com/jobs/view/4473787585/"
-   },
-   {
-    "employer": "Prodege",
-    "id": "4438848233",
-    "location": "Pune/Pimpri-Chinchwad Area",
-    "title": "Site Reliability Engineer II (SREII)",
-    "url": "https://www.linkedin.com/jobs/view/4438848233/"
-   },
-   {
     "employer": "Provenir",
     "id": "4454415068",
     "location": "Bengaluru",
@@ -983,6 +969,48 @@
     "location": "India",
     "title": "DevOps Engineer",
     "url": "https://www.linkedin.com/jobs/view/4479355342/"
+   },
+   {
+    "employer": "HyperWorks Imaging",
+    "id": "4479920324",
+    "location": "Bengaluru",
+    "title": "DevOps and MLOps Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4479920324/"
+   },
+   {
+    "employer": "TruTalent.ai",
+    "id": "4479695093",
+    "location": "Bengaluru",
+    "title": "Aws Devops Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4479695093/"
+   },
+   {
+    "employer": "PhonePe",
+    "id": "4461157534",
+    "location": "Bengaluru",
+    "title": "Site Reliability Engineer - On-Prem (4 to 8 Years)",
+    "url": "https://www.linkedin.com/jobs/view/4461157534/"
+   },
+   {
+    "employer": "LSEG",
+    "id": "4088721163",
+    "location": "Bengaluru",
+    "title": "Site Reliability Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4088721163/"
+   },
+   {
+    "employer": "NTT DATA, Inc.",
+    "id": "4470162219",
+    "location": "Bengaluru East",
+    "title": "Site Reliability Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4470162219/"
+   },
+   {
+    "employer": "Flexiple",
+    "id": "4480873166",
+    "location": "India",
+    "title": "DevOps Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4480873166/"
    }
   ],
   "Mastercard": [],
@@ -994,7 +1022,14 @@
     "url": "https://jobs.lever.co/meesho/60e0d986-abe8-42ee-b172-0d9aecb307b7"
    }
   ],
-  "Micron": [],
+  "Micron": [
+   {
+    "id": "/job/Sanand---303A---ATSSDMOD-India/Global-Quality-Product-Quality-and-Reliability-Engineer_JR106972",
+    "location": "Sanand - 303A - AT/SSD/MOD, India",
+    "title": "Global Quality Product Quality and Reliability Engineer",
+    "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Sanand---303A---ATSSDMOD-India/Global-Quality-Product-Quality-and-Reliability-Engineer_JR106972"
+   }
+  ],
   "Mindtickle": [],
   "MongoDB": [
    {
@@ -1366,10 +1401,6 @@
   "Tabby": {
    "miss": "2026-10-18T18:35:52+00:00"
   },
-  "Tailscale": {
-   "ats": "greenhouse",
-   "token": "tailscale"
-  },
   "Tamara": {
    "ats": "greenhouse",
    "token": "tamara"
@@ -1380,10 +1411,6 @@
   },
   "Tesco": {
    "miss": "2026-10-18T18:35:52+00:00"
-  },
-  "Thoughtworks": {
-   "ats": "greenhouse",
-   "token": "thoughtworks"
   },
   "Udaan": {
    "miss": "2026-10-18T18:35:52+00:00"
@@ -1595,6 +1622,7 @@
   "JFrog": {},
   "Kong": {},
   "LinkedIn alerts": {
+   "4088721163": "2026-10-19T13:00:35+00:00",
    "4338420472": "2026-09-23T22:55:19+00:00",
    "4358434048": "2026-09-23T21:09:51+00:00",
    "4401914138": "2026-09-23T21:09:51+00:00",
@@ -1635,6 +1663,7 @@
    "4459951877": "2026-09-25T13:41:28+00:00",
    "4460356924": "2026-10-17T06:52:39+00:00",
    "4460613525": "2026-09-25T07:42:36+00:00",
+   "4461157534": "2026-10-19T13:00:35+00:00",
    "4461192930": "2026-09-23T21:09:51+00:00",
    "4462147795": "2026-09-24T04:40:01+00:00",
    "4462150774": "2026-09-25T13:41:28+00:00",
@@ -1706,6 +1735,7 @@
    "4470000279": "2026-09-26T11:17:47+00:00",
    "4470108802": "2026-09-26T04:50:26+00:00",
    "4470131756": "2026-09-26T11:17:47+00:00",
+   "4470162219": "2026-10-19T13:00:35+00:00",
    "4470180201": "2026-09-30T12:28:10+00:00",
    "4470207366": "2026-09-23T21:09:51+00:00",
    "4470274459": "2026-09-23T21:09:51+00:00",
@@ -1909,9 +1939,12 @@
    "4479505166": "2026-10-15T11:20:35+00:00",
    "4479539423": "2026-10-16T07:05:11+00:00",
    "4479657560": "2026-10-18T10:56:49+00:00",
+   "4479695093": "2026-10-19T13:00:35+00:00",
    "4479802780": "2026-10-16T07:05:11+00:00",
    "4479845832": "2026-10-17T12:09:02+00:00",
-   "4480566068": "2026-10-18T10:56:49+00:00"
+   "4479920324": "2026-10-19T13:00:35+00:00",
+   "4480566068": "2026-10-18T10:56:49+00:00",
+   "4480873166": "2026-10-19T13:00:35+00:00"
   },
   "Mastercard": {
    "/job/Pune-India/Platform-Engineer-II_R-288632": "2026-09-28T13:45:49+00:00",
@@ -1921,7 +1954,9 @@
   "Meesho": {
    "60e0d986-abe8-42ee-b172-0d9aecb307b7": null
   },
-  "Micron": {},
+  "Micron": {
+   "/job/Sanand---303A---ATSSDMOD-India/Global-Quality-Product-Quality-and-Reliability-Engineer_JR106972": "2026-10-19T13:00:35+00:00"
+  },
   "Mindtickle": {},
   "MongoDB": {
    "8051379": "2026-09-23T21:15:40+00:00",
