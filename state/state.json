@@ -159,34 +159,6 @@
   "Kong": [],
   "LinkedIn alerts": [
    {
-    "employer": "HYrEzy Tech Solutions",
-    "id": "4474249754",
-    "location": "India",
-    "title": "DevOps Engineer - Remote & Rotational Shifts",
-    "url": "https://www.linkedin.com/jobs/view/4474249754/"
-   },
-   {
-    "employer": "Levi Strauss & Co.",
-    "id": "4474228100",
-    "location": "Bengaluru",
-    "title": "Engineer II, Systems Reliability Engineering",
-    "url": "https://www.linkedin.com/jobs/view/4474228100/"
-   },
-   {
-    "employer": "Work360",
-    "id": "4474242527",
-    "location": "India",
-    "title": "Cloud Engineer - Fresher",
-    "url": "https://www.linkedin.com/jobs/view/4474242527/"
-   },
-   {
-    "employer": "Liquidnitro Games",
-    "id": "4474265331",
-    "location": "Hyderabad",
-    "title": "Site Reliability Engineer/DevOps Engineer II",
-    "url": "https://www.linkedin.com/jobs/view/4474265331/"
-   },
-   {
     "employer": "eBay",
     "id": "4463966496",
     "location": "Bengaluru",
@@ -1120,14 +1092,7 @@
   "Talabat (Dubai)": [],
   "Tamara": [],
   "Target": [],
-  "Tekion": [
-   {
-    "id": "a1264414-5349-4ddd-90ce-4bbc05e3c357",
-    "location": "Chennai Regional Office",
-    "title": "DevOps Engineer II",
-    "url": "https://jobs.ashbyhq.com/tekion/a1264414-5349-4ddd-90ce-4bbc05e3c357"
-   }
-  ],
+  "Tekion": [],
   "Thoughtworks": [],
   "Twilio": [],
   "Vercel": [],
