@@ -1060,6 +1060,20 @@
     "location": "Bangalore Urban",
     "title": "Platform Engineer",
     "url": "https://www.linkedin.com/jobs/view/4480937451/"
+   },
+   {
+    "employer": "India's Future Investors - Money Entertainment Reality Show",
+    "id": "4479981215",
+    "location": "India",
+    "title": "DevOps Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4479981215/"
+   },
+   {
+    "employer": "Mentorsmoon",
+    "id": "4479931404",
+    "location": "Noida",
+    "title": "Site Reliability Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4479931404/"
    }
   ],
   "Mastercard": [],
@@ -1071,14 +1085,7 @@
     "url": "https://jobs.lever.co/meesho/60e0d986-abe8-42ee-b172-0d9aecb307b7"
    }
   ],
-  "Micron": [
-   {
-    "id": "/job/Sanand---303A---ATSSDMOD-India/Global-Quality-Product-Quality-and-Reliability-Engineer_JR106972",
-    "location": "Sanand - 303A - AT/SSD/MOD, India",
-    "title": "Global Quality Product Quality and Reliability Engineer",
-    "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Sanand---303A---ATSSDMOD-India/Global-Quality-Product-Quality-and-Reliability-Engineer_JR106972"
-   }
-  ],
+  "Micron": [],
   "Mindtickle": [],
   "MongoDB": [
    {
@@ -2000,6 +2007,8 @@
    "4479802780": "2026-10-16T07:05:11+00:00",
    "4479845832": "2026-10-17T12:09:02+00:00",
    "4479920324": "2026-10-19T13:00:35+00:00",
+   "4479931404": "2026-10-20T11:27:54+00:00",
+   "4479981215": "2026-10-20T11:27:54+00:00",
    "4480566068": "2026-10-18T10:56:49+00:00",
    "4480873166": "2026-10-19T13:00:35+00:00",
    "4480937451": "2026-10-20T04:41:48+00:00"
