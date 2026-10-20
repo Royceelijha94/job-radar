@@ -1039,6 +1039,27 @@
     "location": "Bengaluru",
     "title": "Site Reliability Engineer - On-Prem (4 to 12 Years)",
     "url": "https://www.linkedin.com/jobs/view/4461154327/"
+   },
+   {
+    "employer": "Emkay Global Financial Services Ltd",
+    "id": "4478278132",
+    "location": "Bengaluru North",
+    "title": "DevOps & Cloud Engineer (AWS)",
+    "url": "https://www.linkedin.com/jobs/view/4478278132/"
+   },
+   {
+    "employer": "ReN3",
+    "id": "4478235769",
+    "location": "Bengaluru",
+    "title": "Site Reliability Engineer (Bengaluru)",
+    "url": "https://www.linkedin.com/jobs/view/4478235769/"
+   },
+   {
+    "employer": "foundit",
+    "id": "4480937451",
+    "location": "Bangalore Urban",
+    "title": "Platform Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4480937451/"
    }
   ],
   "Mastercard": [],
@@ -1070,14 +1091,7 @@
   "New Relic": [],
   "Nvidia": [],
   "Observe.AI": [],
-  "Okta": [
-   {
-    "id": "8243101",
-    "location": "Bengaluru, India",
-    "title": "Site Reliability Engineer",
-    "url": "https://www.okta.com/company/careers/opportunity/8243101?gh_jid=8243101"
-   }
-  ],
+  "Okta": [],
   "Oracle (OCI)": [],
   "PagerDuty": [],
   "Paytm": [],
@@ -1954,6 +1968,8 @@
    "4478100477": "2026-10-15T11:20:35+00:00",
    "4478152106": "2026-10-15T11:20:35+00:00",
    "4478182125": "2026-10-15T11:20:35+00:00",
+   "4478235769": "2026-10-20T04:41:48+00:00",
+   "4478278132": "2026-10-20T04:41:48+00:00",
    "4478378803": "2026-10-13T06:42:38+00:00",
    "4478441794": "2026-10-16T07:05:11+00:00",
    "4478454065": "2026-10-16T13:12:34+00:00",
@@ -1985,7 +2001,8 @@
    "4479845832": "2026-10-17T12:09:02+00:00",
    "4479920324": "2026-10-19T13:00:35+00:00",
    "4480566068": "2026-10-18T10:56:49+00:00",
-   "4480873166": "2026-10-19T13:00:35+00:00"
+   "4480873166": "2026-10-19T13:00:35+00:00",
+   "4480937451": "2026-10-20T04:41:48+00:00"
   },
   "Mastercard": {
    "/job/Pune-India/Platform-Engineer-II_R-288632": "2026-09-28T13:45:49+00:00",
