@@ -119,14 +119,7 @@
   ],
   "Databricks": [],
   "Datadog": [],
-  "DigitalOcean": [
-   {
-    "id": "8192833",
-    "location": "Hyderabad",
-    "title": "Cloud Operations Engineer I",
-    "url": "https://www.digitalocean.com/careers/position/apply/?gh_jid=8192833"
-   }
-  ],
+  "DigitalOcean": [],
   "Docker": [],
   "Druva": [],
   "Elastic": [],
@@ -158,27 +151,6 @@
   "JFrog": [],
   "Kong": [],
   "LinkedIn alerts": [
-   {
-    "employer": "eBay",
-    "id": "4463966496",
-    "location": "Bengaluru",
-    "title": "MTS 1, Site Reliability Engineer",
-    "url": "https://www.linkedin.com/jobs/view/4463966496/"
-   },
-   {
-    "employer": "Jobgether",
-    "id": "4474663572",
-    "location": "India",
-    "title": "Multi Cloud Engineer",
-    "url": "https://www.linkedin.com/jobs/view/4474663572/"
-   },
-   {
-    "employer": "Deutsche Bank",
-    "id": "4475847116",
-    "location": "Pune Division",
-    "title": "Tooling & Automation Site Reliability Engineering (SRE), AVP",
-    "url": "https://www.linkedin.com/jobs/view/4475847116/"
-   },
    {
     "employer": "Rakuten Symphony",
     "id": "4476162357",
@@ -1074,6 +1046,20 @@
     "location": "Bengaluru",
     "title": "Site Reliability Engineer - AWS (4 to 8 Years)",
     "url": "https://www.linkedin.com/jobs/view/4461866992/"
+   },
+   {
+    "employer": "Cisco",
+    "id": "4481561241",
+    "location": "Bengaluru",
+    "title": "Cloud Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4481561241/"
+   },
+   {
+    "employer": "JPMorganChase",
+    "id": "4481271482",
+    "location": "Bengaluru",
+    "title": "Site Reliability Engineer III",
+    "url": "https://www.linkedin.com/jobs/view/4481271482/"
    }
   ],
   "Mastercard": [
@@ -1114,7 +1100,14 @@
   "Red Hat": [],
   "Redis": [],
   "Rubrik": [],
-  "Salesforce": [],
+  "Salesforce": [
+   {
+    "id": "/job/India---Hyderabad/Software-Engineering-MTS_JR338172-1",
+    "location": "India - Hyderabad, India - Bangalore",
+    "title": "Software Engineering, SMTS/MTS (Backend + Kubernetes/Docker/Helm)",
+    "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/India---Hyderabad/Software-Engineering-MTS_JR338172-1"
+   }
+  ],
   "Samsara": [],
   "ServiceNow": [],
   "Snowflake": [],
@@ -2016,7 +2009,9 @@
    "4479981215": "2026-10-20T11:27:54+00:00",
    "4480566068": "2026-10-18T10:56:49+00:00",
    "4480873166": "2026-10-19T13:00:35+00:00",
-   "4480937451": "2026-10-20T04:41:48+00:00"
+   "4480937451": "2026-10-20T04:41:48+00:00",
+   "4481271482": "2026-10-21T13:43:10+00:00",
+   "4481561241": "2026-10-21T13:43:10+00:00"
   },
   "Mastercard": {
    "/job/Pune-India/Platform-Engineer-II_R-288632": "2026-09-28T13:45:49+00:00",
