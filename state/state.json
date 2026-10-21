@@ -126,14 +126,7 @@
   "Fi Money": [],
   "Fivetran": [],
   "Freshworks": [],
-  "GitLab": [
-   {
-    "id": "8867756002",
-    "location": "Bangalore, India",
-    "title": "Site Reliability Engineer, Cells Infrastructure",
-    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8867756002"
-   }
-  ],
+  "GitLab": [],
   "Glance": [],
   "Glean": [],
   "Grafana Labs": [],
@@ -151,41 +144,6 @@
   "JFrog": [],
   "Kong": [],
   "LinkedIn alerts": [
-   {
-    "employer": "Rakuten Symphony",
-    "id": "4476162357",
-    "location": "Bengaluru",
-    "title": "Site Reliability Engineer",
-    "url": "https://www.linkedin.com/jobs/view/4476162357/"
-   },
-   {
-    "employer": "GeoServe",
-    "id": "4474048389",
-    "location": "Greater Bengaluru Area",
-    "title": "DevOps Engineer",
-    "url": "https://www.linkedin.com/jobs/view/4474048389/"
-   },
-   {
-    "employer": "ALTEN India",
-    "id": "4476113026",
-    "location": "Bengaluru",
-    "title": "DevOps Developer",
-    "url": "https://www.linkedin.com/jobs/view/4476113026/"
-   },
-   {
-    "employer": "ITC Infotech",
-    "id": "4465512165",
-    "location": "Bengaluru",
-    "title": "DevOps",
-    "url": "https://www.linkedin.com/jobs/view/4465512165/"
-   },
-   {
-    "employer": "ITC Infotech",
-    "id": "4465526136",
-    "location": "Bengaluru",
-    "title": "DevOps Engineer",
-    "url": "https://www.linkedin.com/jobs/view/4465526136/"
-   },
    {
     "employer": "Cisco",
     "id": "4466322364",
@@ -1100,14 +1058,7 @@
   "Red Hat": [],
   "Redis": [],
   "Rubrik": [],
-  "Salesforce": [
-   {
-    "id": "/job/India---Hyderabad/Software-Engineering-MTS_JR338172-1",
-    "location": "India - Hyderabad, India - Bangalore",
-    "title": "Software Engineering, SMTS/MTS (Backend + Kubernetes/Docker/Helm)",
-    "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/India---Hyderabad/Software-Engineering-MTS_JR338172-1"
-   }
-  ],
+  "Salesforce": [],
   "Samsara": [],
   "ServiceNow": [],
   "Snowflake": [],
