@@ -151,41 +151,6 @@
   "Kong": [],
   "LinkedIn alerts": [
    {
-    "employer": "Cisco",
-    "id": "4466322364",
-    "location": "Bengaluru",
-    "title": "Site Reliability Engineer",
-    "url": "https://www.linkedin.com/jobs/view/4466322364/"
-   },
-   {
-    "employer": "Signzy",
-    "id": "4475165982",
-    "location": "Bengaluru",
-    "title": "SRE-1",
-    "url": "https://www.linkedin.com/jobs/view/4475165982/"
-   },
-   {
-    "employer": "QualityAI",
-    "id": "4472487645",
-    "location": "Bengaluru",
-    "title": "Cloud DevOps Engineer",
-    "url": "https://www.linkedin.com/jobs/view/4472487645/"
-   },
-   {
-    "employer": "Antal International",
-    "id": "4474950323",
-    "location": "Bengaluru",
-    "title": "Site Reliability Engineer",
-    "url": "https://www.linkedin.com/jobs/view/4474950323/"
-   },
-   {
-    "employer": "Point72",
-    "id": "4476317730",
-    "location": "Bengaluru",
-    "title": "Software Engineer - Cloud Infrastructure",
-    "url": "https://www.linkedin.com/jobs/view/4476317730/"
-   },
-   {
     "employer": "Tummee.com",
     "id": "4475184838",
     "location": "India",
@@ -1038,6 +1003,41 @@
     "location": "India",
     "title": "Cloud Engineer",
     "url": "https://www.linkedin.com/jobs/view/4480792407/"
+   },
+   {
+    "employer": "Citi",
+    "id": "4480486600",
+    "location": "Pune Division",
+    "title": "Devops Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4480486600/"
+   },
+   {
+    "employer": "Barclays",
+    "id": "4477777733",
+    "location": "Bengaluru",
+    "title": "BUK TESCO Bank - Core Banking Infrastructure Engineer - BA4",
+    "url": "https://www.linkedin.com/jobs/view/4477777733/"
+   },
+   {
+    "employer": "Citi",
+    "id": "4480482689",
+    "location": "Pune Division",
+    "title": "AWS GCP Cloud Engineer AVP",
+    "url": "https://www.linkedin.com/jobs/view/4480482689/"
+   },
+   {
+    "employer": "Hallmark Search Partners",
+    "id": "4482068148",
+    "location": "Bengaluru",
+    "title": "DevOps Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4482068148/"
+   },
+   {
+    "employer": "IBM",
+    "id": "4471737646",
+    "location": "Bengaluru",
+    "title": "Application Consultant-Site Reliability",
+    "url": "https://www.linkedin.com/jobs/view/4471737646/"
    }
   ],
   "Mastercard": [
@@ -1795,6 +1795,7 @@
    "4471701437": "2026-09-30T12:28:10+00:00",
    "4471733411": "2026-10-01T13:04:37+00:00",
    "4471734386": "2026-10-01T13:04:37+00:00",
+   "4471737646": "2026-10-22T11:43:14+00:00",
    "4471879248": "2026-10-18T10:56:49+00:00",
    "4471985965": "2026-10-01T05:44:15+00:00",
    "4472002347": "2026-09-27T13:54:22+00:00",
@@ -1934,6 +1935,7 @@
    "4477677113": "2026-10-10T12:24:16+00:00",
    "4477689824": "2026-10-11T12:41:40+00:00",
    "4477770933": "2026-10-19T19:51:29+00:00",
+   "4477777733": "2026-10-22T11:43:14+00:00",
    "4477782474": "2026-10-19T19:51:29+00:00",
    "4477786293": "2026-10-19T19:51:29+00:00",
    "4477787288": "2026-10-19T19:51:29+00:00",
@@ -1979,13 +1981,16 @@
    "4479920324": "2026-10-19T13:00:35+00:00",
    "4479931404": "2026-10-20T11:27:54+00:00",
    "4479981215": "2026-10-20T11:27:54+00:00",
+   "4480482689": "2026-10-22T11:43:14+00:00",
+   "4480486600": "2026-10-22T11:43:14+00:00",
    "4480566068": "2026-10-18T10:56:49+00:00",
    "4480790416": "2026-10-22T04:34:55+00:00",
    "4480792407": "2026-10-22T04:34:55+00:00",
    "4480873166": "2026-10-19T13:00:35+00:00",
    "4480937451": "2026-10-20T04:41:48+00:00",
    "4481271482": "2026-10-21T13:43:10+00:00",
-   "4481561241": "2026-10-21T13:43:10+00:00"
+   "4481561241": "2026-10-21T13:43:10+00:00",
+   "4482068148": "2026-10-22T11:43:14+00:00"
   },
   "Mastercard": {
    "/job/Pune-India/Platform-Engineer-II_R-288632": "2026-09-28T13:45:49+00:00",
