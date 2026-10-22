@@ -151,34 +151,6 @@
   "Kong": [],
   "LinkedIn alerts": [
    {
-    "employer": "Comviva",
-    "id": "4476573844",
-    "location": "Bengaluru",
-    "title": "DevOps Engineer",
-    "url": "https://www.linkedin.com/jobs/view/4476573844/"
-   },
-   {
-    "employer": "Tata Consultancy Services",
-    "id": "4475410088",
-    "location": "Bengaluru",
-    "title": "Site Reliability Engineer",
-    "url": "https://www.linkedin.com/jobs/view/4475410088/"
-   },
-   {
-    "employer": "IBM",
-    "id": "4476576418",
-    "location": "Bengaluru",
-    "title": "Application Consultant-Site Reliability",
-    "url": "https://www.linkedin.com/jobs/view/4476576418/"
-   },
-   {
-    "employer": "Cognizant",
-    "id": "4466535187",
-    "location": "Bangalore Urban",
-    "title": "Site Reliability Engineer (SRE) Support",
-    "url": "https://www.linkedin.com/jobs/view/4466535187/"
-   },
-   {
     "employer": "Jobgether",
     "id": "4474234593",
     "location": "India",
@@ -991,14 +963,7 @@
     "url": "https://www.linkedin.com/jobs/view/4471737646/"
    }
   ],
-  "Mastercard": [
-   {
-    "id": "/job/Pune-India/Tech-Hub---Technology-Lead_R-288835-1",
-    "location": "Pune, India",
-    "title": "Vice President, Platform Engineering",
-    "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Tech-Hub---Technology-Lead_R-288835-1"
-   }
-  ],
+  "Mastercard": [],
   "Meesho": [
    {
     "id": "60e0d986-abe8-42ee-b172-0d9aecb307b7",
@@ -1287,10 +1252,6 @@
   "PagerDuty": {
    "ats": "greenhouse",
    "token": "pagerduty"
-  },
-  "Paytm": {
-   "ats": "lever",
-   "token": "paytm"
   },
   "Percona": {
    "ats": "ashby",
