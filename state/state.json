@@ -4,12 +4,6 @@
   "Airbyte": [],
   "Amazon (AWS)": [
    {
-    "id": "10581357",
-    "location": "Bengaluru, Karnataka, IND",
-    "title": "DevOps Engineer II, Ads AI Core Infra Support Engineering, Ads AI Core Infra (ACI)",
-    "url": "https://www.amazon.jobs/en/jobs/10581357/devops-engineer-ii-ads-ai-core-infra-support-engineering-ads-ai-core-infra-aci"
-   },
-   {
     "id": "10577603",
     "location": "Bengaluru, Karnataka, IND",
     "title": "DevOps Engineer III, Ads AI Core Infra Support Engineering, Ads AI Core Infra (ACI)",
@@ -105,6 +99,18 @@
   "Confluent": [],
   "CrowdStrike": [
    {
+    "id": "/job/India---Bangalore/Engineer-III---AI-Powered-SRE--UK-Shift-Timing-_R30368",
+    "location": "India - Bangalore",
+    "title": "Engineer III - AI Powered SRE (UK Shift Timing)",
+    "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/India---Bangalore/Engineer-III---AI-Powered-SRE--UK-Shift-Timing-_R30368"
+   },
+   {
+    "id": "/job/India---Bangalore/Engineer-III---AI-Powered-SRE--UK-Shift-Timing-_R30369",
+    "location": "India - Bangalore",
+    "title": "Engineer III - AI Powered SRE (UK Shift Timing)",
+    "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/India---Bangalore/Engineer-III---AI-Powered-SRE--UK-Shift-Timing-_R30369"
+   },
+   {
     "id": "/job/India---Bangalore/Infrastructure-Engineer--TechOps-CICD_R29461",
     "location": "India - Bangalore",
     "title": "Infrastructure Engineer, TechOps CICD (Hybrid, IND)",
@@ -150,62 +156,6 @@
   "JFrog": [],
   "Kong": [],
   "LinkedIn alerts": [
-   {
-    "employer": "Jobgether",
-    "id": "4474234593",
-    "location": "India",
-    "title": "Site Reliability Engineer",
-    "url": "https://www.linkedin.com/jobs/view/4474234593/"
-   },
-   {
-    "employer": "FinSpring",
-    "id": "4475448937",
-    "location": "India",
-    "title": "DevOps Engineer",
-    "url": "https://www.linkedin.com/jobs/view/4475448937/"
-   },
-   {
-    "employer": "NodeShift",
-    "id": "4475719058",
-    "location": "India",
-    "title": "DevOps Engineer",
-    "url": "https://www.linkedin.com/jobs/view/4475719058/"
-   },
-   {
-    "employer": "Appiness Interactive",
-    "id": "4475752218",
-    "location": "Bengaluru",
-    "title": "DevOps Engineer (3-5 years)",
-    "url": "https://www.linkedin.com/jobs/view/4475752218/"
-   },
-   {
-    "employer": "Momentum Financial Services Group",
-    "id": "4476160728",
-    "location": "Hyderabad",
-    "title": "Cloud Engineer",
-    "url": "https://www.linkedin.com/jobs/view/4476160728/"
-   },
-   {
-    "employer": "Rekruton Global IT Services",
-    "id": "4475755105",
-    "location": "Ahmedabad",
-    "title": "DevOps Engineer I & II",
-    "url": "https://www.linkedin.com/jobs/view/4475755105/"
-   },
-   {
-    "employer": "Avikal Solutions",
-    "id": "4475456310",
-    "location": "Bengaluru",
-    "title": "DevOps Engineer",
-    "url": "https://www.linkedin.com/jobs/view/4475456310/"
-   },
-   {
-    "employer": "SAAP Technologies",
-    "id": "4474434768",
-    "location": "Hyderabad",
-    "title": "DevOps Engineer",
-    "url": "https://www.linkedin.com/jobs/view/4474434768/"
-   },
    {
     "employer": "Okta",
     "id": "4474020938",
@@ -1003,6 +953,34 @@
     "location": "Bengaluru",
     "title": "Data Engineer II - SRE",
     "url": "https://www.linkedin.com/jobs/view/4473953786/"
+   },
+   {
+    "employer": "Pearson",
+    "id": "4472316064",
+    "location": "Bengaluru East",
+    "title": "Specialist, Observability Engineering",
+    "url": "https://www.linkedin.com/jobs/view/4472316064/"
+   },
+   {
+    "employer": "UST",
+    "id": "4463076082",
+    "location": "Bengaluru",
+    "title": "Site Reliability Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4463076082/"
+   },
+   {
+    "employer": "Nestlé Nespresso SA",
+    "id": "4482105073",
+    "location": "Bengaluru",
+    "title": "Application Reliability Engineer​ (Ecommerce)",
+    "url": "https://www.linkedin.com/jobs/view/4482105073/"
+   },
+   {
+    "employer": "WillWare Technologies",
+    "id": "4482439455",
+    "location": "Bengaluru",
+    "title": "AWS DevOps Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4482439455/"
    }
   ],
   "Mastercard": [],
@@ -1129,6 +1107,12 @@
   },
   "Couchbase": {
    "miss": "2026-10-21T23:14:21+00:00"
+  },
+  "CrowdStrike": {
+   "ats": "workday",
+   "site": "crowdstrikecareers",
+   "tenant": "crowdstrike",
+   "wd": "wd5"
   },
   "Darwinbox": {
    "miss": "2026-10-21T23:14:21+00:00"
@@ -1554,6 +1538,8 @@
   "Confluent": {},
   "CrowdStrike": {
    "/job/India---Bangalore/Engineer-II---Site-Reliability--Hybrid--IND-_R29180": "2026-10-06T06:13:11+00:00",
+   "/job/India---Bangalore/Engineer-III---AI-Powered-SRE--UK-Shift-Timing-_R30368": "2026-10-23T13:20:44+00:00",
+   "/job/India---Bangalore/Engineer-III---AI-Powered-SRE--UK-Shift-Timing-_R30369": "2026-10-23T13:20:44+00:00",
    "/job/India---Bangalore/Engineer-III---Site-Reliability--Kubernetes_R30345": "2026-10-12T15:13:54+00:00",
    "/job/India---Bangalore/Infrastructure-Engineer--TechOps-CICD_R29461": "2026-10-06T15:04:52+00:00",
    "/job/India---Bangalore/Network-Reliability-Engineer-III--Hybrid--IND-_R29210": "2026-09-29T16:29:02+00:00",
@@ -1641,6 +1627,7 @@
    "4462948050": "2026-09-23T21:09:51+00:00",
    "4462975502": "2026-09-30T05:26:13+00:00",
    "4463069294": "2026-10-02T12:25:35+00:00",
+   "4463076082": "2026-10-23T13:20:44+00:00",
    "4463305645": "2026-10-03T05:11:22+00:00",
    "4463586745": "2026-10-02T12:25:35+00:00",
    "4463691913": "2026-09-27T08:03:27+00:00",
@@ -1757,6 +1744,7 @@
    "4472138523": "2026-10-01T13:04:37+00:00",
    "4472161255": "2026-10-01T05:44:15+00:00",
    "4472297676": "2026-09-28T13:45:49+00:00",
+   "4472316064": "2026-10-23T13:20:44+00:00",
    "4472326707": "2026-10-02T05:28:20+00:00",
    "4472339572": "2026-10-03T16:11:55+00:00",
    "4472407805": "2026-09-28T13:45:49+00:00",
@@ -1941,7 +1929,9 @@
    "4481327086": "2026-10-23T07:26:13+00:00",
    "4481561241": "2026-10-21T13:43:10+00:00",
    "4482068148": "2026-10-22T11:43:14+00:00",
-   "4482163551": "2026-10-23T07:26:13+00:00"
+   "4482105073": "2026-10-23T13:20:44+00:00",
+   "4482163551": "2026-10-23T07:26:13+00:00",
+   "4482439455": "2026-10-23T13:20:44+00:00"
   },
   "Mastercard": {
    "/job/Pune-India/Platform-Engineer-II_R-288632": "2026-09-28T13:45:49+00:00",
