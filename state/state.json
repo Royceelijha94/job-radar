@@ -961,17 +961,52 @@
     "location": "Bengaluru",
     "title": "Application Consultant-Site Reliability",
     "url": "https://www.linkedin.com/jobs/view/4471737646/"
+   },
+   {
+    "employer": "Remango Technologies Private Limited",
+    "id": "4479412422",
+    "location": "Gurugram",
+    "title": "DevOps Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4479412422/"
+   },
+   {
+    "employer": "Brainstorm Force",
+    "id": "4479402596",
+    "location": "Pune Division",
+    "title": "DevOps Engineer (WordPress & Hosting)",
+    "url": "https://www.linkedin.com/jobs/view/4479402596/"
+   },
+   {
+    "employer": "bebo Technologies",
+    "id": "4481327086",
+    "location": "Chandigarh, India",
+    "title": "DevOps Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4481327086/"
+   },
+   {
+    "employer": "Side",
+    "id": "4480257119",
+    "location": "Hyderabad",
+    "title": "Site Reliability Engineer II",
+    "url": "https://www.linkedin.com/jobs/view/4480257119/"
+   },
+   {
+    "employer": "JPMorganChase",
+    "id": "4482163551",
+    "location": "Mumbai",
+    "title": "Site Reliability Engineer III",
+    "url": "https://www.linkedin.com/jobs/view/4482163551/"
+   },
+   {
+    "employer": "JPMorganChase",
+    "id": "4473953786",
+    "location": "Bengaluru",
+    "title": "Data Engineer II - SRE",
+    "url": "https://www.linkedin.com/jobs/view/4473953786/"
    }
   ],
   "Mastercard": [],
-  "Meesho": [
-   {
-    "id": "60e0d986-abe8-42ee-b172-0d9aecb307b7",
-    "location": "Bangalore, Karnataka",
-    "title": "Software Development Engineer III DevOps",
-    "url": "https://jobs.lever.co/meesho/60e0d986-abe8-42ee-b172-0d9aecb307b7"
-   }
-  ],
+  "Meesho": [],
   "Micron": [],
   "Mindtickle": [],
   "MongoDB": [
@@ -1094,12 +1129,6 @@
   },
   "Couchbase": {
    "miss": "2026-10-21T23:14:21+00:00"
-  },
-  "CrowdStrike": {
-   "ats": "workday",
-   "site": "crowdstrikecareers",
-   "tenant": "crowdstrike",
-   "wd": "wd5"
   },
   "Darwinbox": {
    "miss": "2026-10-21T23:14:21+00:00"
@@ -1771,6 +1800,7 @@
    "4473797677": "2026-10-02T05:28:20+00:00",
    "4473905041": "2026-10-02T12:25:35+00:00",
    "4473931438": "2026-10-02T05:28:20+00:00",
+   "4473953786": "2026-10-23T07:26:13+00:00",
    "4473983456": "2026-10-02T05:28:20+00:00",
    "4474020938": "2026-10-10T12:24:16+00:00",
    "4474048389": "2026-10-07T17:24:24+00:00",
@@ -1887,6 +1917,8 @@
    "4479357399": "2026-10-18T10:56:49+00:00",
    "4479359323": "2026-10-18T10:56:49+00:00",
    "4479367051": "2026-10-18T10:56:49+00:00",
+   "4479402596": "2026-10-23T07:26:13+00:00",
+   "4479412422": "2026-10-23T07:26:13+00:00",
    "4479505166": "2026-10-15T11:20:35+00:00",
    "4479539423": "2026-10-16T07:05:11+00:00",
    "4479628835": "2026-10-21T07:31:00+00:00",
@@ -1897,6 +1929,7 @@
    "4479920324": "2026-10-19T13:00:35+00:00",
    "4479931404": "2026-10-20T11:27:54+00:00",
    "4479981215": "2026-10-20T11:27:54+00:00",
+   "4480257119": "2026-10-23T07:26:13+00:00",
    "4480482689": "2026-10-22T11:43:14+00:00",
    "4480486600": "2026-10-22T11:43:14+00:00",
    "4480566068": "2026-10-18T10:56:49+00:00",
@@ -1905,8 +1938,10 @@
    "4480873166": "2026-10-19T13:00:35+00:00",
    "4480937451": "2026-10-20T04:41:48+00:00",
    "4481271482": "2026-10-21T13:43:10+00:00",
+   "4481327086": "2026-10-23T07:26:13+00:00",
    "4481561241": "2026-10-21T13:43:10+00:00",
-   "4482068148": "2026-10-22T11:43:14+00:00"
+   "4482068148": "2026-10-22T11:43:14+00:00",
+   "4482163551": "2026-10-23T07:26:13+00:00"
   },
   "Mastercard": {
    "/job/Pune-India/Platform-Engineer-II_R-288632": "2026-09-28T13:45:49+00:00",
@@ -1914,9 +1949,7 @@
    "/job/Pune-India/Site-Reliability-Engineer-II_R-293452": "2026-10-12T22:54:45+00:00",
    "/job/Pune-India/Tech-Hub---Technology-Lead_R-288835-1": "2026-10-21T07:31:00+00:00"
   },
-  "Meesho": {
-   "60e0d986-abe8-42ee-b172-0d9aecb307b7": null
-  },
+  "Meesho": {},
   "Micron": {
    "/job/Sanand---303A---ATSSDMOD-India/Global-Quality-Product-Quality-and-Reliability-Engineer_JR106972": "2026-10-19T13:00:35+00:00"
   },
