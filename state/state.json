@@ -1253,6 +1253,10 @@
    "ats": "greenhouse",
    "token": "pagerduty"
   },
+  "Paytm": {
+   "ats": "lever",
+   "token": "paytm"
+  },
   "Percona": {
    "ats": "ashby",
    "token": "percona"
