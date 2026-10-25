@@ -157,13 +157,6 @@
   "Kong": [],
   "LinkedIn alerts": [
    {
-    "employer": "Razorpay",
-    "id": "4476806219",
-    "location": "Bengaluru",
-    "title": "DevOps Engineer",
-    "url": "https://www.linkedin.com/jobs/view/4476806219/"
-   },
-   {
     "employer": "Deutsche Bank",
     "id": "4477671518",
     "location": "Bengaluru",
@@ -925,6 +918,20 @@
     "location": "Bengaluru",
     "title": "Devops Engineer",
     "url": "https://www.linkedin.com/jobs/view/4480647830/"
+   },
+   {
+    "employer": "CME Group",
+    "id": "4482850830",
+    "location": "Bengaluru",
+    "title": "Site Reliability Engineer I - India",
+    "url": "https://www.linkedin.com/jobs/view/4482850830/"
+   },
+   {
+    "employer": "Cisco",
+    "id": "4483102522",
+    "location": "Bengaluru",
+    "title": "Cloud Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4483102522/"
    }
   ],
   "Mastercard": [],
@@ -1880,7 +1887,9 @@
    "4482105073": "2026-10-23T13:20:44+00:00",
    "4482163551": "2026-10-23T07:26:13+00:00",
    "4482439455": "2026-10-23T13:20:44+00:00",
-   "4482723231": "2026-10-24T10:51:04+00:00"
+   "4482723231": "2026-10-24T10:51:04+00:00",
+   "4482850830": "2026-10-25T11:17:15+00:00",
+   "4483102522": "2026-10-25T11:17:15+00:00"
   },
   "Mastercard": {
    "/job/Pune-India/Platform-Engineer-II_R-288632": "2026-09-28T13:45:49+00:00",
