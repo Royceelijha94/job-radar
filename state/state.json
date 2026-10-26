@@ -16,6 +16,12 @@
     "url": "https://www.amazon.jobs/en/jobs/10568687/dev-ops-engineer-aft-platform-engineering-and-services"
    },
    {
+    "id": "10588692",
+    "location": "Hyderabad, Telangana, IND",
+    "title": "System Development Engineer, AFT - Platform Engineering & Services",
+    "url": "https://www.amazon.jobs/en/jobs/10588692/system-development-engineer-aft-platform-engineering-services"
+   },
+   {
     "id": "10489541",
     "location": "Hyderabad, Telangana, IND",
     "title": "System Dev Engineer III, AFT Platform Engineering and Services",
@@ -150,20 +156,6 @@
   "JFrog": [],
   "Kong": [],
   "LinkedIn alerts": [
-   {
-    "employer": "Oracle",
-    "id": "4475624881",
-    "location": "Bengaluru",
-    "title": "Site Reliability Engineer 2",
-    "url": "https://www.linkedin.com/jobs/view/4475624881/"
-   },
-   {
-    "employer": "Data Eminence",
-    "id": "4477241831",
-    "location": "India",
-    "title": "DevOps Engineer",
-    "url": "https://www.linkedin.com/jobs/view/4477241831/"
-   },
    {
     "employer": "Teradata",
     "id": "4477521656",
@@ -924,14 +916,7 @@
   "Red Hat": [],
   "Redis": [],
   "Rubrik": [],
-  "Salesforce": [
-   {
-    "id": "/job/India---Hyderabad/Software-Engineering-MTS_JR338172-1",
-    "location": "India - Hyderabad, India - Bangalore",
-    "title": "Software Engineering, SMTS/MTS (Backend + Kubernetes/Docker/Helm)",
-    "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/India---Hyderabad/Software-Engineering-MTS_JR338172-1"
-   }
-  ],
+  "Salesforce": [],
   "Samsara": [],
   "ServiceNow": [],
   "Snowflake": [],
@@ -1427,7 +1412,8 @@
    "10570198": "2026-10-06T15:04:52+00:00",
    "10570248": "2026-10-06T15:04:52+00:00",
    "10577603": "2026-10-13T21:12:13+00:00",
-   "10581357": "2026-10-16T17:59:09+00:00"
+   "10581357": "2026-10-16T17:59:09+00:00",
+   "10588692": "2026-10-26T19:53:17+00:00"
   },
   "Astronomer": {
    "193740e4-593e-4fef-adf1-b6def7b7765a": "2026-09-23T21:15:40+00:00",
