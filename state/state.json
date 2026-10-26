@@ -99,12 +99,6 @@
   "Confluent": [],
   "CrowdStrike": [
    {
-    "id": "/job/India---Bangalore/Engineer-III---AI-Powered-SRE--UK-Shift-Timing-_R30368",
-    "location": "India - Bangalore",
-    "title": "Engineer III - AI Powered SRE (UK Shift Timing)",
-    "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/India---Bangalore/Engineer-III---AI-Powered-SRE--UK-Shift-Timing-_R30368"
-   },
-   {
     "id": "/job/India---Bangalore/Engineer-III---AI-Powered-SRE--UK-Shift-Timing-_R30369",
     "location": "India - Bangalore",
     "title": "Engineer III - AI Powered SRE (UK Shift Timing)",
@@ -876,6 +870,20 @@
     "location": "Bengaluru",
     "title": "Cloud Engineer",
     "url": "https://www.linkedin.com/jobs/view/4483102522/"
+   },
+   {
+    "employer": "FullStack",
+    "id": "4475032833",
+    "location": "India",
+    "title": "Agentic Azure DevOps Engineer - Remote - India",
+    "url": "https://www.linkedin.com/jobs/view/4475032833/"
+   },
+   {
+    "employer": "FullStack",
+    "id": "4475028909",
+    "location": "India",
+    "title": "Azure DevOps Engineer - Remote - India",
+    "url": "https://www.linkedin.com/jobs/view/4475028909/"
    }
   ],
   "Mastercard": [
@@ -901,7 +909,14 @@
   "Nvidia": [],
   "Observe.AI": [],
   "Okta": [],
-  "Oracle (OCI)": [],
+  "Oracle (OCI)": [
+   {
+    "id": "344640",
+    "location": "BENGALURU, KARNATAKA, India",
+    "title": "Core Infrastructure Engineer 2",
+    "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/344640"
+   }
+  ],
   "PagerDuty": [],
   "Paytm": [],
   "Percona": [],
@@ -909,7 +924,14 @@
   "Red Hat": [],
   "Redis": [],
   "Rubrik": [],
-  "Salesforce": [],
+  "Salesforce": [
+   {
+    "id": "/job/India---Hyderabad/Software-Engineering-MTS_JR338172-1",
+    "location": "India - Hyderabad, India - Bangalore",
+    "title": "Software Engineering, SMTS/MTS (Backend + Kubernetes/Docker/Helm)",
+    "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/India---Hyderabad/Software-Engineering-MTS_JR338172-1"
+   }
+  ],
   "Samsara": [],
   "ServiceNow": [],
   "Snowflake": [],
@@ -1716,6 +1738,8 @@
    "4474824176": "2026-10-10T12:24:16+00:00",
    "4474845781": "2026-10-10T12:24:16+00:00",
    "4474950323": "2026-10-08T05:55:00+00:00",
+   "4475028909": "2026-10-26T12:50:33+00:00",
+   "4475032833": "2026-10-26T12:50:33+00:00",
    "4475165982": "2026-10-08T05:55:00+00:00",
    "4475184838": "2026-10-08T13:20:39+00:00",
    "4475301638": "2026-10-04T08:22:57+00:00",
@@ -1869,6 +1893,7 @@
   },
   "Oracle (OCI)": {
    "343151": "2026-09-24T11:38:41+00:00",
+   "344640": "2026-10-26T12:50:33+00:00",
    "345871": "2026-09-24T17:05:36+00:00",
    "345896": "2026-09-25T13:41:28+00:00",
    "345903": "2026-09-24T17:05:36+00:00",
