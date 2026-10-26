@@ -878,7 +878,14 @@
     "url": "https://www.linkedin.com/jobs/view/4483102522/"
    }
   ],
-  "Mastercard": [],
+  "Mastercard": [
+   {
+    "id": "/job/Pune-India/Vice-President--Site-Reliability-Engineer_R-293568",
+    "location": "Pune, India",
+    "title": "Vice President, Site Reliability Engineer",
+    "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Vice-President--Site-Reliability-Engineer_R-293568"
+   }
+  ],
   "Meesho": [],
   "Micron": [],
   "Mindtickle": [],
@@ -1839,7 +1846,8 @@
    "/job/Pune-India/Platform-Engineer-II_R-288632": "2026-09-28T13:45:49+00:00",
    "/job/Pune-India/Site-Reliability-Engineer-2_R-278999-1": "2026-09-30T05:26:13+00:00",
    "/job/Pune-India/Site-Reliability-Engineer-II_R-293452": "2026-10-12T22:54:45+00:00",
-   "/job/Pune-India/Tech-Hub---Technology-Lead_R-288835-1": "2026-10-21T07:31:00+00:00"
+   "/job/Pune-India/Tech-Hub---Technology-Lead_R-288835-1": "2026-10-21T07:31:00+00:00",
+   "/job/Pune-India/Vice-President--Site-Reliability-Engineer_R-293568": "2026-10-26T04:38:09+00:00"
   },
   "Meesho": {},
   "Micron": {
