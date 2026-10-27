@@ -876,6 +876,34 @@
     "location": "India",
     "title": "Azure DevOps Engineer - Remote - India",
     "url": "https://www.linkedin.com/jobs/view/4475028909/"
+   },
+   {
+    "employer": "CodeRound AI",
+    "id": "4483543471",
+    "location": "India",
+    "title": "Site Reliability Engineer (Kubernetes heavy) | Upto 25 LPA",
+    "url": "https://www.linkedin.com/jobs/view/4483543471/"
+   },
+   {
+    "employer": "BT Group",
+    "id": "4481440264",
+    "location": "Bengaluru South",
+    "title": "Cloud Engineering Practitioner",
+    "url": "https://www.linkedin.com/jobs/view/4481440264/"
+   },
+   {
+    "employer": "SIXT Research & Development India",
+    "id": "4482919636",
+    "location": "Bengaluru",
+    "title": "Site Reliability Engineer II (Platform Engineer)",
+    "url": "https://www.linkedin.com/jobs/view/4482919636/"
+   },
+   {
+    "employer": "Continental Industry",
+    "id": "4481312179",
+    "location": "Bengaluru",
+    "title": "IT engineer Data & Analytics DevOps",
+    "url": "https://www.linkedin.com/jobs/view/4481312179/"
    }
   ],
   "Mastercard": [
@@ -1842,7 +1870,9 @@
    "4480873166": "2026-10-19T13:00:35+00:00",
    "4480937451": "2026-10-20T04:41:48+00:00",
    "4481271482": "2026-10-21T13:43:10+00:00",
+   "4481312179": "2026-10-27T04:56:09+00:00",
    "4481327086": "2026-10-23T07:26:13+00:00",
+   "4481440264": "2026-10-27T04:56:09+00:00",
    "4481561241": "2026-10-21T13:43:10+00:00",
    "4482068148": "2026-10-22T11:43:14+00:00",
    "4482105073": "2026-10-23T13:20:44+00:00",
@@ -1850,7 +1880,9 @@
    "4482439455": "2026-10-23T13:20:44+00:00",
    "4482723231": "2026-10-24T10:51:04+00:00",
    "4482850830": "2026-10-25T11:17:15+00:00",
-   "4483102522": "2026-10-25T11:17:15+00:00"
+   "4482919636": "2026-10-27T04:56:09+00:00",
+   "4483102522": "2026-10-25T11:17:15+00:00",
+   "4483543471": "2026-10-27T04:56:09+00:00"
   },
   "Mastercard": {
    "/job/Pune-India/Platform-Engineer-II_R-288632": "2026-09-28T13:45:49+00:00",
