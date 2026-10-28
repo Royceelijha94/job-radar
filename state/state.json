@@ -52,12 +52,6 @@
   "Autodesk": [],
   "Bosch": [
    {
-    "id": "744000157996908",
-    "location": "telangana, India",
-    "title": "Technical Operations & Service Reliability Engineer",
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000157996908"
-   },
-   {
     "id": "744000157829938",
     "location": "bangalore, India",
     "title": "2026-MS_EMT2-VM_DevOps_Engineer",
@@ -168,27 +162,6 @@
   "JFrog": [],
   "Kong": [],
   "LinkedIn alerts": [
-   {
-    "employer": "Cisco",
-    "id": "4478559092",
-    "location": "Bengaluru",
-    "title": "Site Reliability Engineer (SRE) – Cloud Platform & Kubernetes , Docker (4 to 8Years)",
-    "url": "https://www.linkedin.com/jobs/view/4478559092/"
-   },
-   {
-    "employer": "Open Metal India",
-    "id": "4478598713",
-    "location": "India",
-    "title": "DevOps Engineer",
-    "url": "https://www.linkedin.com/jobs/view/4478598713/"
-   },
-   {
-    "employer": "Netomi",
-    "id": "4476029281",
-    "location": "Gurugram",
-    "title": "Devops Engineer - I",
-    "url": "https://www.linkedin.com/jobs/view/4476029281/"
-   },
    {
     "employer": "WirelessCar",
     "id": "4477922312",
@@ -909,6 +882,41 @@
     "location": "Walmart Global Tech India",
     "title": "<strong class=\"font-bold\" style=\"font-weight: 600;\">\"Site Reliability\" OR SRE OR DevOps OR \"Platform Engineer\"</strong>",
     "url": "https://www.linkedin.com/jobs/view/4475804990/"
+   },
+   {
+    "employer": "Aktoria Robotics",
+    "id": "4482954006",
+    "location": "Noida",
+    "title": "Data Infrastructure Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4482954006/"
+   },
+   {
+    "employer": "Ivanti",
+    "id": "4481455833",
+    "location": "Hyderabad",
+    "title": "Site Reliability Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4481455833/"
+   },
+   {
+    "employer": "Xentic AI",
+    "id": "4483282689",
+    "location": "Gurugram",
+    "title": "DevOps Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4483282689/"
+   },
+   {
+    "employer": "Deutsche Bank",
+    "id": "4483713842",
+    "location": "Pune Division",
+    "title": "DevOps Engineer, AVP",
+    "url": "https://www.linkedin.com/jobs/view/4483713842/"
+   },
+   {
+    "employer": "Barclays",
+    "id": "4481479294",
+    "location": "Pune Division",
+    "title": "DevOps Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4481479294/"
    }
   ],
   "Mastercard": [],
@@ -1869,6 +1877,8 @@
    "4481440264": "2026-10-27T04:56:09+00:00",
    "4481440458": "2026-10-28T05:31:08+00:00",
    "4481448081": "2026-10-28T05:31:08+00:00",
+   "4481455833": "2026-10-28T12:43:18+00:00",
+   "4481479294": "2026-10-28T12:43:18+00:00",
    "4481561241": "2026-10-21T13:43:10+00:00",
    "4482068148": "2026-10-22T11:43:14+00:00",
    "4482105073": "2026-10-23T13:20:44+00:00",
@@ -1878,9 +1888,12 @@
    "4482850830": "2026-10-25T11:17:15+00:00",
    "4482919636": "2026-10-27T04:56:09+00:00",
    "4482950267": "2026-10-28T05:31:08+00:00",
+   "4482954006": "2026-10-28T12:43:18+00:00",
    "4483102522": "2026-10-25T11:17:15+00:00",
+   "4483282689": "2026-10-28T12:43:18+00:00",
    "4483543471": "2026-10-27T04:56:09+00:00",
-   "4483556444": "2026-10-28T05:31:08+00:00"
+   "4483556444": "2026-10-28T05:31:08+00:00",
+   "4483713842": "2026-10-28T12:43:18+00:00"
   },
   "Mastercard": {
    "/job/Pune-India/Platform-Engineer-II_R-288632": "2026-09-28T13:45:49+00:00",
