@@ -76,18 +76,6 @@
     "url": "https://jobs.smartrecruiters.com/BoschGroup/744000155720139"
    },
    {
-    "id": "744000154982800",
-    "location": "bengaluru, India",
-    "title": "DevOps/MLOps Specialist",
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000154982800"
-   },
-   {
-    "id": "744000154010709",
-    "location": "bangalore, India",
-    "title": "Azure Migration and DevOps Consultant",
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000154010709"
-   },
-   {
     "id": "744000153229468",
     "location": "bangalore, India",
     "title": "2026_MS_EMT1_VM_Senior VS Code Extension Developer (TypeScript | DevOps | CI/CD | Kubernetes)",
@@ -162,27 +150,6 @@
   "JFrog": [],
   "Kong": [],
   "LinkedIn alerts": [
-   {
-    "employer": "WirelessCar",
-    "id": "4477922312",
-    "location": "Bengaluru",
-    "title": "Service Reliability Engineer",
-    "url": "https://www.linkedin.com/jobs/view/4477922312/"
-   },
-   {
-    "employer": "Comviva",
-    "id": "4478767837",
-    "location": "Bengaluru",
-    "title": "DevOps Engineer",
-    "url": "https://www.linkedin.com/jobs/view/4478767837/"
-   },
-   {
-    "employer": "Whitefield Careers",
-    "id": "4478512347",
-    "location": "Bengaluru",
-    "title": "DevOps Engineer",
-    "url": "https://www.linkedin.com/jobs/view/4478512347/"
-   },
    {
     "employer": "CGI",
     "id": "4479096384",
@@ -935,7 +902,14 @@
   "Nvidia": [],
   "Observe.AI": [],
   "Okta": [],
-  "Oracle (OCI)": [],
+  "Oracle (OCI)": [
+   {
+    "id": "348861",
+    "location": "India",
+    "title": "Core Infrastructure Engineer",
+    "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/348861"
+   }
+  ],
   "PagerDuty": [],
   "Paytm": [],
   "Percona": [],
@@ -1926,7 +1900,8 @@
    "345871": "2026-09-24T17:05:36+00:00",
    "345896": "2026-09-25T13:41:28+00:00",
    "345903": "2026-09-24T17:05:36+00:00",
-   "346903": "2026-10-10T23:30:18+00:00"
+   "346903": "2026-10-10T23:30:18+00:00",
+   "348861": "2026-10-28T19:30:11+00:00"
   },
   "PagerDuty": {},
   "Paytm": {},
