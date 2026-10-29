@@ -151,62 +151,6 @@
   "Kong": [],
   "LinkedIn alerts": [
    {
-    "employer": "CGI",
-    "id": "4479096384",
-    "location": "Bengaluru",
-    "title": "SRE Engineer",
-    "url": "https://www.linkedin.com/jobs/view/4479096384/"
-   },
-   {
-    "employer": "Deloitte",
-    "id": "4476630690",
-    "location": "Bengaluru",
-    "title": "DevOps Engineer",
-    "url": "https://www.linkedin.com/jobs/view/4476630690/"
-   },
-   {
-    "employer": "EY",
-    "id": "4478152106",
-    "location": "Bengaluru",
-    "title": "DevOps Engineer",
-    "url": "https://www.linkedin.com/jobs/view/4478152106/"
-   },
-   {
-    "employer": "Planview",
-    "id": "4476648679",
-    "location": "Bengaluru",
-    "title": "DevOps Engineer II",
-    "url": "https://www.linkedin.com/jobs/view/4476648679/"
-   },
-   {
-    "employer": "ISG (Information Services Group)",
-    "id": "4479505166",
-    "location": "Bengaluru",
-    "title": "Cloud Infrastructure Engineer",
-    "url": "https://www.linkedin.com/jobs/view/4479505166/"
-   },
-   {
-    "employer": "Nutanix",
-    "id": "4478100477",
-    "location": "Bengaluru",
-    "title": "Systems Reliability Engineer III (BLR)",
-    "url": "https://www.linkedin.com/jobs/view/4478100477/"
-   },
-   {
-    "employer": "Torwin Infotech Pvt Ltd",
-    "id": "4476086738",
-    "location": "Bengaluru",
-    "title": "Azure DevOps + Splunk + Dynatrace",
-    "url": "https://www.linkedin.com/jobs/view/4476086738/"
-   },
-   {
-    "employer": "msg global solutions",
-    "id": "4478182125",
-    "location": "Bengaluru",
-    "title": "Devops Engineer",
-    "url": "https://www.linkedin.com/jobs/view/4478182125/"
-   },
-   {
     "employer": "Tecsys Inc.",
     "id": "4472556549",
     "location": "Bengaluru",
@@ -884,6 +828,62 @@
     "location": "Pune Division",
     "title": "DevOps Engineer",
     "url": "https://www.linkedin.com/jobs/view/4481479294/"
+   },
+   {
+    "employer": "Infosys",
+    "id": "4474652646",
+    "location": "Bengaluru East",
+    "title": "Site Reliability Engineer - JL6",
+    "url": "https://www.linkedin.com/jobs/view/4474652646/"
+   },
+   {
+    "employer": "Infosys",
+    "id": "4474642976",
+    "location": "Bengaluru East",
+    "title": "Site Reliability Engineer - JL5",
+    "url": "https://www.linkedin.com/jobs/view/4474642976/"
+   },
+   {
+    "employer": "Dover India",
+    "id": "4482220006",
+    "location": "Bengaluru East",
+    "title": "Specialist - DevOps",
+    "url": "https://www.linkedin.com/jobs/view/4482220006/"
+   },
+   {
+    "employer": "HiroJet",
+    "id": "4483842459",
+    "location": "Greater Bengaluru Area",
+    "title": "DevOps Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4483842459/"
+   },
+   {
+    "employer": "Amadeus",
+    "id": "4483616670",
+    "location": "Bengaluru",
+    "title": "Platform Engineering Engineer 4",
+    "url": "https://www.linkedin.com/jobs/view/4483616670/"
+   },
+   {
+    "employer": "Cargill",
+    "id": "4423698099",
+    "location": "Bengaluru",
+    "title": "Platform Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4423698099/"
+   },
+   {
+    "employer": "Ascendion",
+    "id": "4483671009",
+    "location": "Bengaluru",
+    "title": "Cloud Engineer/ Support Engineer - Cloud",
+    "url": "https://www.linkedin.com/jobs/view/4483671009/"
+   },
+   {
+    "employer": "Nutanix",
+    "id": "4476883989",
+    "location": "Pune Division",
+    "title": "SRE II Enterprise Tech Support (Virtualization & Networking)",
+    "url": "https://www.linkedin.com/jobs/view/4476883989/"
    }
   ],
   "Mastercard": [],
@@ -1489,6 +1489,7 @@
    "4415345658": "2026-09-23T21:09:51+00:00",
    "4419408148": "2026-09-25T07:42:36+00:00",
    "4421101868": "2026-09-24T04:40:01+00:00",
+   "4423698099": "2026-10-29T12:53:32+00:00",
    "4426243483": "2026-09-28T13:45:49+00:00",
    "4430604888": "2026-09-23T21:09:51+00:00",
    "4433091144": "2026-10-11T12:41:40+00:00",
@@ -1716,6 +1717,8 @@
    "4474529217": "2026-10-03T05:11:22+00:00",
    "4474563329": "2026-10-03T11:34:43+00:00",
    "4474587014": "2026-10-03T11:34:43+00:00",
+   "4474642976": "2026-10-29T12:53:32+00:00",
+   "4474652646": "2026-10-29T12:53:32+00:00",
    "4474663572": "2026-10-07T08:34:52+00:00",
    "4474824176": "2026-10-10T12:24:16+00:00",
    "4474845781": "2026-10-10T12:24:16+00:00",
@@ -1760,6 +1763,7 @@
    "4476853606": "2026-10-11T12:41:40+00:00",
    "4476867212": "2026-10-11T12:41:40+00:00",
    "4476869092": "2026-10-11T12:41:40+00:00",
+   "4476883989": "2026-10-29T12:53:32+00:00",
    "4477168582": "2026-10-10T12:24:16+00:00",
    "4477241831": "2026-10-12T15:13:54+00:00",
    "4477258985": "2026-10-13T06:42:38+00:00",
@@ -1850,6 +1854,7 @@
    "4482068148": "2026-10-22T11:43:14+00:00",
    "4482105073": "2026-10-23T13:20:44+00:00",
    "4482163551": "2026-10-23T07:26:13+00:00",
+   "4482220006": "2026-10-29T12:53:32+00:00",
    "4482439455": "2026-10-23T13:20:44+00:00",
    "4482723231": "2026-10-24T10:51:04+00:00",
    "4482850830": "2026-10-25T11:17:15+00:00",
@@ -1860,7 +1865,10 @@
    "4483282689": "2026-10-28T12:43:18+00:00",
    "4483543471": "2026-10-27T04:56:09+00:00",
    "4483556444": "2026-10-28T05:31:08+00:00",
-   "4483713842": "2026-10-28T12:43:18+00:00"
+   "4483616670": "2026-10-29T12:53:32+00:00",
+   "4483671009": "2026-10-29T12:53:32+00:00",
+   "4483713842": "2026-10-28T12:43:18+00:00",
+   "4483842459": "2026-10-29T12:53:32+00:00"
   },
   "Mastercard": {
    "/job/Pune-India/Platform-Engineer-II_R-288632": "2026-09-28T13:45:49+00:00",
