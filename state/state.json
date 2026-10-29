@@ -64,6 +64,12 @@
     "url": "https://jobs.smartrecruiters.com/BoschGroup/744000157033349"
    },
    {
+    "id": "744000158593709",
+    "location": "bangalore, India",
+    "title": "2026_MS_EMT1_VM_Senior VS Code Extension Developer (TypeScript | DevOps | CI/CD | Kubernetes)",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000158593709"
+   },
+   {
     "id": "744000156714729",
     "location": "telengana, India",
     "title": "CRM Junior Engineer with Devops",
@@ -74,12 +80,6 @@
     "location": "bangalore, India",
     "title": "DevOps Engineer (Application Deployment & Configuration - K8S)",
     "url": "https://jobs.smartrecruiters.com/BoschGroup/744000155720139"
-   },
-   {
-    "id": "744000153229468",
-    "location": "bangalore, India",
-    "title": "2026_MS_EMT1_VM_Senior VS Code Extension Developer (TypeScript | DevOps | CI/CD | Kubernetes)",
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000153229468"
    },
    {
     "id": "744000146640025",
@@ -1431,7 +1431,8 @@
    "744000156714729": "2026-10-21T07:31:00+00:00",
    "744000157033349": "2026-10-22T04:34:55+00:00",
    "744000157829938": "2026-10-27T22:07:49+00:00",
-   "744000157996908": "2026-10-28T05:31:08+00:00"
+   "744000157996908": "2026-10-28T05:31:08+00:00",
+   "744000158593709": "2026-10-29T19:35:07+00:00"
   },
   "Bybit": {},
   "CRED": {},
