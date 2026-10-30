@@ -854,7 +854,14 @@
   "Nvidia": [],
   "Observe.AI": [],
   "Okta": [],
-  "Oracle (OCI)": [],
+  "Oracle (OCI)": [
+   {
+    "id": "348486",
+    "location": "BENGALURU, KARNATAKA, India, HYDERABAD, TELANGANA, India",
+    "title": "Core Infrastructure Engineer 2",
+    "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/348486"
+   }
+  ],
   "PagerDuty": [],
   "Paytm": [],
   "Percona": [],
@@ -1087,6 +1094,12 @@
    "tenant": "mastercard",
    "wd": "wd1"
   },
+  "Micron": {
+   "ats": "workday",
+   "site": "External",
+   "tenant": "micron",
+   "wd": "wd1"
+  },
   "Mindtickle": {
    "ats": "lever",
    "token": "mindtickle"
@@ -1121,6 +1134,10 @@
   "PagerDuty": {
    "ats": "greenhouse",
    "token": "pagerduty"
+  },
+  "Paytm": {
+   "ats": "lever",
+   "token": "paytm"
   },
   "Percona": {
    "ats": "ashby",
@@ -1859,6 +1876,7 @@
    "345896": "2026-09-25T13:41:28+00:00",
    "345903": "2026-09-24T17:05:36+00:00",
    "346903": "2026-10-10T23:30:18+00:00",
+   "348486": "2026-10-30T23:41:32+00:00",
    "348861": "2026-10-28T19:30:11+00:00"
   },
   "PagerDuty": {},
