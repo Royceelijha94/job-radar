@@ -80,12 +80,6 @@
     "location": "bangalore, India",
     "title": "DevOps Engineer (Application Deployment & Configuration - K8S)",
     "url": "https://jobs.smartrecruiters.com/BoschGroup/744000155720139"
-   },
-   {
-    "id": "744000146640025",
-    "location": "coimbatore, India",
-    "title": "2026_CICD_DevOps_Engineer_ProCon_SLA_LGP3",
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000146640025"
    }
   ],
   "Bybit": [],
@@ -150,76 +144,6 @@
   "JFrog": [],
   "Kong": [],
   "LinkedIn alerts": [
-   {
-    "employer": "Tecsys Inc.",
-    "id": "4472556549",
-    "location": "Bengaluru",
-    "title": "Site Reliability Engineer",
-    "url": "https://www.linkedin.com/jobs/view/4472556549/"
-   },
-   {
-    "employer": "Natus Sensory",
-    "id": "4477421956",
-    "location": "Bengaluru",
-    "title": "DevOps Engineer",
-    "url": "https://www.linkedin.com/jobs/view/4477421956/"
-   },
-   {
-    "employer": "CME Group",
-    "id": "4456494800",
-    "location": "Bengaluru",
-    "title": "Site Reliability Engineer III - India",
-    "url": "https://www.linkedin.com/jobs/view/4456494800/"
-   },
-   {
-    "employer": "The Standard India",
-    "id": "4478460768",
-    "location": "Bengaluru East",
-    "title": "Cloud DevOps Engineer II",
-    "url": "https://www.linkedin.com/jobs/view/4478460768/"
-   },
-   {
-    "employer": "BCE Global Tech - A Bell Canada Company",
-    "id": "4478441794",
-    "location": "Bengaluru",
-    "title": "Site Reliability Engineer- GCP Cloud",
-    "url": "https://www.linkedin.com/jobs/view/4478441794/"
-   },
-   {
-    "employer": "Deloitte",
-    "id": "4478865464",
-    "location": "Bengaluru",
-    "title": "DevSecOps Engineer - DevOps Engineer II",
-    "url": "https://www.linkedin.com/jobs/view/4478865464/"
-   },
-   {
-    "employer": "Citi",
-    "id": "4478851952",
-    "location": "Pune Division",
-    "title": "Devops Engineer",
-    "url": "https://www.linkedin.com/jobs/view/4478851952/"
-   },
-   {
-    "employer": "Jobgether",
-    "id": "4478849078",
-    "location": "India",
-    "title": "Infrastructure Engineer",
-    "url": "https://www.linkedin.com/jobs/view/4478849078/"
-   },
-   {
-    "employer": "MetLife",
-    "id": "4479539423",
-    "location": "Hyderabad",
-    "title": "Site Reliability Engineer II",
-    "url": "https://www.linkedin.com/jobs/view/4479539423/"
-   },
-   {
-    "employer": "Roadcast",
-    "id": "4479802780",
-    "location": "New Delhi",
-    "title": "Junior DevOps Engineer",
-    "url": "https://www.linkedin.com/jobs/view/4479802780/"
-   },
    {
     "employer": "Nutanix",
     "id": "4478853197",
@@ -891,6 +815,55 @@
     "location": "Bengaluru",
     "title": "Software Engineer, Platform, SRE",
     "url": "https://www.linkedin.com/jobs/view/4484907684/"
+   },
+   {
+    "employer": "Nitro Commerce",
+    "id": "4483639857",
+    "location": "Gurugram",
+    "title": "DevOps Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4483639857/"
+   },
+   {
+    "employer": "American Express",
+    "id": "4483875327",
+    "location": "Bengaluru",
+    "title": "Site Reliability Engineer II",
+    "url": "https://www.linkedin.com/jobs/view/4483875327/"
+   },
+   {
+    "employer": "American Express",
+    "id": "4483882167",
+    "location": "Bengaluru",
+    "title": "Site Reliability Engineer II",
+    "url": "https://www.linkedin.com/jobs/view/4483882167/"
+   },
+   {
+    "employer": "HSBC",
+    "id": "4484907853",
+    "location": "Hyderabad",
+    "title": "Devops, GCP, Docker, Kubernetes / Consultant Specialist",
+    "url": "https://www.linkedin.com/jobs/view/4484907853/"
+   },
+   {
+    "employer": "Deutsche Bank",
+    "id": "4484735010",
+    "location": "Bengaluru",
+    "title": "Associate DevOps & BI Platform Engineer, AS",
+    "url": "https://www.linkedin.com/jobs/view/4484735010/"
+   },
+   {
+    "employer": "HSBC",
+    "id": "4484925043",
+    "location": "Pune Division",
+    "title": "Devops, GCP, Docker, Kubernetes / Consultant Specialist",
+    "url": "https://www.linkedin.com/jobs/view/4484925043/"
+   },
+   {
+    "employer": "TransUnion",
+    "id": "4484101382",
+    "location": "Chennai",
+    "title": "DevOps Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4484101382/"
    }
   ],
   "Mastercard": [],
@@ -936,7 +909,14 @@
   "Vercel": [],
   "Workday": [],
   "Yugabyte": [],
-  "Zeta": [],
+  "Zeta": [
+   {
+    "id": "4dfd3df1-9520-4e20-9b9b-3a1fa80ad323",
+    "location": "Hyderabad",
+    "title": "Site Reliability Engineer II",
+    "url": "https://jobs.lever.co/zeta/4dfd3df1-9520-4e20-9b9b-3a1fa80ad323"
+   }
+  ],
   "Zscaler": []
  },
  "resolved": {
@@ -1175,10 +1155,6 @@
   "PagerDuty": {
    "ats": "greenhouse",
    "token": "pagerduty"
-  },
-  "Paytm": {
-   "ats": "lever",
-   "token": "paytm"
   },
   "Percona": {
    "ats": "ashby",
@@ -1426,7 +1402,6 @@
    "/job/APAC---India---Pune---ABIL-Boulevard/Site-Reliability-Engineer_26WD98218-1": "2026-09-24T11:38:41+00:00"
   },
   "Bosch": {
-   "744000146640025": null,
    "744000151592409": "2026-09-24T11:38:41+00:00",
    "744000153229468": "2026-10-02T19:14:04+00:00",
    "744000153678133": "2026-10-06T15:04:52+00:00",
@@ -1874,10 +1849,17 @@
    "4483543471": "2026-10-27T04:56:09+00:00",
    "4483556444": "2026-10-28T05:31:08+00:00",
    "4483616670": "2026-10-29T12:53:32+00:00",
+   "4483639857": "2026-10-30T12:44:53+00:00",
    "4483671009": "2026-10-29T12:53:32+00:00",
    "4483713842": "2026-10-28T12:43:18+00:00",
    "4483842459": "2026-10-29T12:53:32+00:00",
-   "4484907684": "2026-10-30T05:38:47+00:00"
+   "4483875327": "2026-10-30T12:44:53+00:00",
+   "4483882167": "2026-10-30T12:44:53+00:00",
+   "4484101382": "2026-10-30T12:44:53+00:00",
+   "4484735010": "2026-10-30T12:44:53+00:00",
+   "4484907684": "2026-10-30T05:38:47+00:00",
+   "4484907853": "2026-10-30T12:44:53+00:00",
+   "4484925043": "2026-10-30T12:44:53+00:00"
   },
   "Mastercard": {
    "/job/Pune-India/Platform-Engineer-II_R-288632": "2026-09-28T13:45:49+00:00",
@@ -1947,6 +1929,7 @@
   "Workday": {},
   "Yugabyte": {},
   "Zeta": {
+   "4dfd3df1-9520-4e20-9b9b-3a1fa80ad323": "2026-10-30T12:44:53+00:00",
    "5eb7a75b-312c-4759-8813-70e67b5d4109": "2026-09-23T21:15:40+00:00",
    "803792f5-0e9c-45bc-82ce-c0a552ce0cf8": "2026-09-23T21:15:40+00:00"
   },
