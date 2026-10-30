@@ -145,34 +145,6 @@
   "Kong": [],
   "LinkedIn alerts": [
    {
-    "employer": "Nutanix",
-    "id": "4478853197",
-    "location": "Bengaluru",
-    "title": "SRE 2 Enterprise Tech Support (Virtualization & Networking)",
-    "url": "https://www.linkedin.com/jobs/view/4478853197/"
-   },
-   {
-    "employer": "Nutanix",
-    "id": "4478851220",
-    "location": "Bengaluru",
-    "title": "Systems Reliability Engineer II",
-    "url": "https://www.linkedin.com/jobs/view/4478851220/"
-   },
-   {
-    "employer": "Nutanix",
-    "id": "4478844725",
-    "location": "Bengaluru",
-    "title": "Systems Reliability Engineer II (BLR)",
-    "url": "https://www.linkedin.com/jobs/view/4478844725/"
-   },
-   {
-    "employer": "Nutanix",
-    "id": "4478454065",
-    "location": "Bengaluru",
-    "title": "Systems Reliability Engineer II- Technical Support, Virtualization, Linux, Trouble Shooting, Networking",
-    "url": "https://www.linkedin.com/jobs/view/4478454065/"
-   },
-   {
     "employer": "Quest Global",
     "id": "4477559574",
     "location": "Bengaluru",
@@ -1113,12 +1085,6 @@
    "ats": "workday",
    "site": "CorporateCareers",
    "tenant": "mastercard",
-   "wd": "wd1"
-  },
-  "Micron": {
-   "ats": "workday",
-   "site": "External",
-   "tenant": "micron",
    "wd": "wd1"
   },
   "Mindtickle": {
