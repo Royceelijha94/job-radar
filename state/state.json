@@ -145,90 +145,6 @@
   "Kong": [],
   "LinkedIn alerts": [
    {
-    "employer": "Quest Global",
-    "id": "4477559574",
-    "location": "Bengaluru",
-    "title": "Observability Engineer with Devops  skills",
-    "url": "https://www.linkedin.com/jobs/view/4477559574/"
-   },
-   {
-    "employer": "Google",
-    "id": "4477586827",
-    "location": "Bengaluru",
-    "title": "Systems Engineer II, SRE",
-    "url": "https://www.linkedin.com/jobs/view/4477586827/"
-   },
-   {
-    "employer": "PHOENIQS",
-    "id": "4460356924",
-    "location": "Hyderabad",
-    "title": "DevOps Engineer",
-    "url": "https://www.linkedin.com/jobs/view/4460356924/"
-   },
-   {
-    "employer": "NEUROSENSUM",
-    "id": "4479354188",
-    "location": "Gurugram",
-    "title": "DevOps Engineer",
-    "url": "https://www.linkedin.com/jobs/view/4479354188/"
-   },
-   {
-    "employer": "DigitalTolk",
-    "id": "4479124186",
-    "location": "Chennai",
-    "title": "Infrastructure Engineer Remote",
-    "url": "https://www.linkedin.com/jobs/view/4479124186/"
-   },
-   {
-    "employer": "Miamin Systems",
-    "id": "4477387015",
-    "location": "Bengaluru",
-    "title": "DevOps Engineer",
-    "url": "https://www.linkedin.com/jobs/view/4477387015/"
-   },
-   {
-    "employer": "TalentRabbit",
-    "id": "4477381290",
-    "location": "Bengaluru",
-    "title": "DevOps Engineer",
-    "url": "https://www.linkedin.com/jobs/view/4477381290/"
-   },
-   {
-    "employer": "Nutanix",
-    "id": "4469004212",
-    "location": "Pune Division",
-    "title": "SRE II (L2 Tech Support+ Virtualization) 4-7Yrs Pune",
-    "url": "https://www.linkedin.com/jobs/view/4469004212/"
-   },
-   {
-    "employer": "Nutanix",
-    "id": "4472119553",
-    "location": "Pune Division",
-    "title": "SRE Enterprise Tech Support (Virtualization & Networking)",
-    "url": "https://www.linkedin.com/jobs/view/4472119553/"
-   },
-   {
-    "employer": "Nutanix",
-    "id": "4472131123",
-    "location": "Bengaluru",
-    "title": "Systems Reliability Engineer - Enterprise Tech Support (Virtualization & Networking)",
-    "url": "https://www.linkedin.com/jobs/view/4472131123/"
-   },
-   {
-    "employer": "Site Reliability Engineer II - Enterprise Data Platform",
-    "id": "4479129659",
-    "location": "The Standard India",
-    "title": "<strong class=\"font-bold\" style=\"font-weight: 600;\">Site Reliability Engineer</strong> jobs in Bengaluru",
-    "url": "https://www.linkedin.com/jobs/view/4479129659/"
-   },
-   {
-    "employer": "NatWest Group",
-    "id": "4479845832",
-    "location": "Bengaluru",
-    "title": "Site Reliability Engineer, Vice President",
-    "url": "https://www.linkedin.com/jobs/view/4479845832/"
-   },
-   {
     "employer": "Miratech",
     "id": "4477393510",
     "location": "Bengaluru",
@@ -885,6 +801,13 @@
     "location": "Bengaluru",
     "title": "Data Platform Engineer",
     "url": "https://www.linkedin.com/jobs/view/4484996713/"
+   },
+   {
+    "employer": "Barclays",
+    "id": "4482532683",
+    "location": "Pune Division",
+    "title": "Infrastructure Cloud and DevOps Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4482532683/"
    }
   ],
   "Mastercard": [],
@@ -949,23 +872,23 @@
  },
  "resolved": {
   "AMD": {
-   "miss": "2026-10-28T05:31:08+00:00"
+   "miss": "2026-10-31T12:16:11+00:00"
   },
   "Acko": {
-   "miss": "2026-10-28T05:31:08+00:00"
+   "miss": "2026-10-31T12:16:11+00:00"
   },
   "Aerospike": {
-   "miss": "2026-10-28T05:31:08+00:00"
+   "miss": "2026-10-31T12:16:11+00:00"
   },
   "Airbyte": {
    "ats": "ashby",
    "token": "airbyte"
   },
   "Akamai": {
-   "miss": "2026-10-28T05:31:08+00:00"
+   "miss": "2026-10-31T12:16:11+00:00"
   },
   "Angel One": {
-   "miss": "2026-10-28T05:31:08+00:00"
+   "miss": "2026-10-31T12:16:11+00:00"
   },
   "Astronomer": {
    "ats": "ashby",
@@ -982,7 +905,7 @@
    "wd": "wd1"
   },
   "BharatPe": {
-   "miss": "2026-10-28T05:31:08+00:00"
+   "miss": "2026-10-31T12:16:11+00:00"
   },
   "Bosch": {
    "ats": "smartrecruiters",
@@ -993,10 +916,10 @@
    "token": "bybit"
   },
   "Cashfree Payments": {
-   "miss": "2026-10-28T05:31:08+00:00"
+   "miss": "2026-10-31T12:16:11+00:00"
   },
   "Chargebee": {
-   "miss": "2026-10-28T05:31:08+00:00"
+   "miss": "2026-10-31T12:16:11+00:00"
   },
   "CircleCI": {
    "ats": "greenhouse",
@@ -1011,20 +934,20 @@
    "token": "cloudflare"
   },
   "Cohesity": {
-   "miss": "2026-10-28T05:31:08+00:00"
+   "miss": "2026-10-31T12:16:11+00:00"
   },
   "CoinDCX": {
-   "miss": "2026-10-28T05:31:08+00:00"
+   "miss": "2026-10-31T12:16:11+00:00"
   },
   "CoinSwitch": {
-   "miss": "2026-10-28T05:31:08+00:00"
+   "miss": "2026-10-31T12:16:11+00:00"
   },
   "Coinbase": {
    "ats": "greenhouse",
    "token": "coinbase"
   },
   "Couchbase": {
-   "miss": "2026-10-28T05:31:08+00:00"
+   "miss": "2026-10-31T12:16:11+00:00"
   },
   "CrowdStrike": {
    "ats": "workday",
@@ -1033,17 +956,17 @@
    "wd": "wd5"
   },
   "Darwinbox": {
-   "miss": "2026-10-28T05:31:08+00:00"
+   "miss": "2026-10-31T12:16:11+00:00"
   },
   "Datadog": {
    "ats": "greenhouse",
    "token": "datadog"
   },
   "Delhivery": {
-   "miss": "2026-10-28T05:31:08+00:00"
+   "miss": "2026-10-31T12:16:11+00:00"
   },
   "Dell Technologies": {
-   "miss": "2026-10-28T05:31:08+00:00"
+   "miss": "2026-10-31T12:16:11+00:00"
   },
   "DigitalOcean": {
    "ats": "greenhouse",
@@ -1054,14 +977,14 @@
    "token": "docker"
   },
   "Dream11": {
-   "miss": "2026-10-28T05:31:08+00:00"
+   "miss": "2026-10-31T12:16:11+00:00"
   },
   "Druva": {
    "ats": "greenhouse",
    "token": "druva"
   },
   "Dubizzle Group": {
-   "miss": "2026-10-28T05:31:08+00:00"
+   "miss": "2026-10-31T12:16:11+00:00"
   },
   "Fi Money": {
    "ats": "lever",
@@ -1072,10 +995,10 @@
    "token": "fivetran"
   },
   "G42": {
-   "miss": "2026-10-28T05:31:08+00:00"
+   "miss": "2026-10-31T12:16:11+00:00"
   },
   "Games24x7": {
-   "miss": "2026-10-28T05:31:08+00:00"
+   "miss": "2026-10-31T12:16:11+00:00"
   },
   "Glance": {
    "ats": "greenhouse",
@@ -1086,24 +1009,24 @@
    "token": "gleanwork"
   },
   "Gupshup": {
-   "miss": "2026-10-28T05:31:08+00:00"
+   "miss": "2026-10-31T12:16:11+00:00"
   },
   "Hasura": {
-   "miss": "2026-10-28T05:31:08+00:00"
+   "miss": "2026-10-31T12:16:11+00:00"
   },
   "Hevo Data": {
    "ats": "lever",
    "token": "hevodata"
   },
   "Icertis": {
-   "miss": "2026-10-28T05:31:08+00:00"
+   "miss": "2026-10-31T12:16:11+00:00"
   },
   "InMobi": {
    "ats": "greenhouse",
    "token": "inmobi"
   },
   "Innovaccer": {
-   "miss": "2026-10-28T05:31:08+00:00"
+   "miss": "2026-10-31T12:16:11+00:00"
   },
   "Intel": {
    "ats": "workday",
@@ -1116,26 +1039,26 @@
    "token": "jfrog"
   },
   "Jupiter Money": {
-   "miss": "2026-10-28T05:31:08+00:00"
+   "miss": "2026-10-31T12:16:11+00:00"
   },
   "Juspay": {
-   "miss": "2026-10-28T05:31:08+00:00"
+   "miss": "2026-10-31T12:16:11+00:00"
   },
   "Kitopi": {
-   "miss": "2026-10-28T05:31:08+00:00"
+   "miss": "2026-10-31T12:16:11+00:00"
   },
   "Kong": {
    "ats": "ashby",
    "token": "kong"
   },
   "LeadSquared": {
-   "miss": "2026-10-28T05:31:08+00:00"
+   "miss": "2026-10-31T12:16:11+00:00"
   },
   "Lenskart": {
-   "miss": "2026-10-28T05:31:08+00:00"
+   "miss": "2026-10-31T12:16:11+00:00"
   },
   "MakeMyTrip": {
-   "miss": "2026-10-28T05:31:08+00:00"
+   "miss": "2026-10-31T12:16:11+00:00"
   },
   "Mastercard": {
    "ats": "workday",
@@ -1158,27 +1081,27 @@
    "token": "mongodb"
   },
   "Myntra": {
-   "miss": "2026-10-28T05:31:08+00:00"
+   "miss": "2026-10-31T12:16:11+00:00"
   },
   "Navi": {
-   "miss": "2026-10-28T05:31:08+00:00"
+   "miss": "2026-10-31T12:16:11+00:00"
   },
   "New Relic": {
    "ats": "greenhouse",
    "token": "newrelic"
   },
   "Nykaa": {
-   "miss": "2026-10-28T05:31:08+00:00"
+   "miss": "2026-10-31T12:16:11+00:00"
   },
   "Observe.AI": {
    "ats": "greenhouse",
    "token": "observeai"
   },
   "Ola": {
-   "miss": "2026-10-28T05:31:08+00:00"
+   "miss": "2026-10-31T12:16:11+00:00"
   },
   "PB Fintech (Policybazaar)": {
-   "miss": "2026-10-28T05:31:08+00:00"
+   "miss": "2026-10-31T12:16:11+00:00"
   },
   "PagerDuty": {
    "ats": "greenhouse",
@@ -1193,40 +1116,40 @@
    "token": "percona"
   },
   "Physics Wallah": {
-   "miss": "2026-10-28T05:31:08+00:00"
+   "miss": "2026-10-31T12:16:11+00:00"
   },
   "Pine Labs": {
-   "miss": "2026-10-28T05:31:08+00:00"
+   "miss": "2026-10-31T12:16:11+00:00"
   },
   "Property Finder": {
-   "miss": "2026-10-28T05:31:08+00:00"
+   "miss": "2026-10-31T12:16:11+00:00"
   },
   "Pure Storage": {
    "ats": "greenhouse",
    "token": "purestorage"
   },
   "Qualcomm": {
-   "miss": "2026-10-28T05:31:08+00:00"
+   "miss": "2026-10-31T12:16:11+00:00"
   },
   "Rapido": {
-   "miss": "2026-10-28T05:31:08+00:00"
+   "miss": "2026-10-31T12:16:11+00:00"
   },
   "Redis": {
    "ats": "ashby",
    "token": "redis"
   },
   "Rippling": {
-   "miss": "2026-10-28T05:31:08+00:00"
+   "miss": "2026-10-31T12:16:11+00:00"
   },
   "SUSE": {
-   "miss": "2026-10-28T05:31:08+00:00"
+   "miss": "2026-10-31T12:16:11+00:00"
   },
   "Samsara": {
    "ats": "greenhouse",
    "token": "samsara"
   },
   "ShareChat": {
-   "miss": "2026-10-28T05:31:08+00:00"
+   "miss": "2026-10-31T12:16:11+00:00"
   },
   "Snowflake": {
    "ats": "ashby",
@@ -1237,10 +1160,10 @@
    "token": "snyk"
   },
   "Sourcegraph": {
-   "miss": "2026-10-28T05:31:08+00:00"
+   "miss": "2026-10-31T12:16:11+00:00"
   },
   "Sprinto": {
-   "miss": "2026-10-28T05:31:08+00:00"
+   "miss": "2026-10-31T12:16:11+00:00"
   },
   "Stripe": {
    "ats": "greenhouse",
@@ -1259,7 +1182,7 @@
    "token": "sysdig"
   },
   "Tabby": {
-   "miss": "2026-10-28T05:31:08+00:00"
+   "miss": "2026-10-31T12:16:11+00:00"
   },
   "Tailscale": {
    "ats": "greenhouse",
@@ -1274,30 +1197,30 @@
    "token": "tekion"
   },
   "Tesco": {
-   "miss": "2026-10-28T05:31:08+00:00"
+   "miss": "2026-10-31T12:16:11+00:00"
   },
   "Thoughtworks": {
    "ats": "greenhouse",
    "token": "thoughtworks"
   },
   "Udaan": {
-   "miss": "2026-10-28T05:31:08+00:00"
+   "miss": "2026-10-31T12:16:11+00:00"
   },
   "Uniphore": {
-   "miss": "2026-10-28T05:31:08+00:00"
+   "miss": "2026-10-31T12:16:11+00:00"
   },
   "Upstox": {
-   "miss": "2026-10-28T05:31:08+00:00"
+   "miss": "2026-10-31T12:16:11+00:00"
   },
   "Urban Company": {
-   "miss": "2026-10-28T05:31:08+00:00"
+   "miss": "2026-10-31T12:16:11+00:00"
   },
   "Vercel": {
    "ats": "greenhouse",
    "token": "vercel"
   },
   "Whatfix": {
-   "miss": "2026-10-28T05:31:08+00:00"
+   "miss": "2026-10-31T12:16:11+00:00"
   },
   "Workday": {
    "ats": "workday",
@@ -1306,30 +1229,30 @@
    "wd": "wd5"
   },
   "Yellow.ai": {
-   "miss": "2026-10-28T05:31:08+00:00"
+   "miss": "2026-10-31T12:16:11+00:00"
   },
   "Yugabyte": {
    "ats": "greenhouse",
    "token": "yugabyte"
   },
   "Zendesk": {
-   "miss": "2026-10-28T05:31:08+00:00"
+   "miss": "2026-10-31T12:16:11+00:00"
   },
   "Zepto": {
-   "miss": "2026-10-28T05:31:08+00:00"
+   "miss": "2026-10-31T12:16:11+00:00"
   },
   "Zeta": {
    "ats": "lever",
    "token": "zeta"
   },
   "Zetwerk": {
-   "miss": "2026-10-28T05:31:08+00:00"
+   "miss": "2026-10-31T12:16:11+00:00"
   },
   "slice": {
-   "miss": "2026-10-28T05:31:08+00:00"
+   "miss": "2026-10-31T12:16:11+00:00"
   },
   "upGrad": {
-   "miss": "2026-10-28T05:31:08+00:00"
+   "miss": "2026-10-31T12:16:11+00:00"
   }
  },
  "seeded": [
@@ -1871,6 +1794,7 @@
    "4482163551": "2026-10-23T07:26:13+00:00",
    "4482220006": "2026-10-29T12:53:32+00:00",
    "4482439455": "2026-10-23T13:20:44+00:00",
+   "4482532683": "2026-10-31T12:16:11+00:00",
    "4482591942": "2026-10-31T05:29:11+00:00",
    "4482723231": "2026-10-24T10:51:04+00:00",
    "4482850830": "2026-10-25T11:17:15+00:00",
