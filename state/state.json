@@ -836,6 +836,55 @@
     "location": "Chennai",
     "title": "DevOps Engineer",
     "url": "https://www.linkedin.com/jobs/view/4484101382/"
+   },
+   {
+    "employer": "EasyLauncher",
+    "id": "4483295830",
+    "location": "Pune City",
+    "title": "DevOps Engineer (Immediate Joiners)",
+    "url": "https://www.linkedin.com/jobs/view/4483295830/"
+   },
+   {
+    "employer": "India's Future Investors - Money Entertainment Reality Show",
+    "id": "4482591942",
+    "location": "India",
+    "title": "DevOps Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4482591942/"
+   },
+   {
+    "employer": "66degrees",
+    "id": "4484816249",
+    "location": "Bengaluru",
+    "title": "Site Reliability Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4484816249/"
+   },
+   {
+    "employer": "Miratech",
+    "id": "4483062663",
+    "location": "Bengaluru",
+    "title": "DevOps Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4483062663/"
+   },
+   {
+    "employer": "Jobgether",
+    "id": "4484595926",
+    "location": "India",
+    "title": "DevOps Automation Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4484595926/"
+   },
+   {
+    "employer": "Runmap Infotech Private Ltd.",
+    "id": "4485298656",
+    "location": "India",
+    "title": "DevOps Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4485298656/"
+   },
+   {
+    "employer": "Atlassian",
+    "id": "4484996713",
+    "location": "Bengaluru",
+    "title": "Data Platform Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4484996713/"
    }
   ],
   "Mastercard": [],
@@ -1822,13 +1871,16 @@
    "4482163551": "2026-10-23T07:26:13+00:00",
    "4482220006": "2026-10-29T12:53:32+00:00",
    "4482439455": "2026-10-23T13:20:44+00:00",
+   "4482591942": "2026-10-31T05:29:11+00:00",
    "4482723231": "2026-10-24T10:51:04+00:00",
    "4482850830": "2026-10-25T11:17:15+00:00",
    "4482919636": "2026-10-27T04:56:09+00:00",
    "4482950267": "2026-10-28T05:31:08+00:00",
    "4482954006": "2026-10-28T12:43:18+00:00",
+   "4483062663": "2026-10-31T05:29:11+00:00",
    "4483102522": "2026-10-25T11:17:15+00:00",
    "4483282689": "2026-10-28T12:43:18+00:00",
+   "4483295830": "2026-10-31T05:29:11+00:00",
    "4483543471": "2026-10-27T04:56:09+00:00",
    "4483556444": "2026-10-28T05:31:08+00:00",
    "4483616670": "2026-10-29T12:53:32+00:00",
@@ -1839,10 +1891,14 @@
    "4483875327": "2026-10-30T12:44:53+00:00",
    "4483882167": "2026-10-30T12:44:53+00:00",
    "4484101382": "2026-10-30T12:44:53+00:00",
+   "4484595926": "2026-10-31T05:29:11+00:00",
    "4484735010": "2026-10-30T12:44:53+00:00",
+   "4484816249": "2026-10-31T05:29:11+00:00",
    "4484907684": "2026-10-30T05:38:47+00:00",
    "4484907853": "2026-10-30T12:44:53+00:00",
-   "4484925043": "2026-10-30T12:44:53+00:00"
+   "4484925043": "2026-10-30T12:44:53+00:00",
+   "4484996713": "2026-10-31T05:29:11+00:00",
+   "4485298656": "2026-10-31T05:29:11+00:00"
   },
   "Mastercard": {
    "/job/Pune-India/Platform-Engineer-II_R-288632": "2026-09-28T13:45:49+00:00",
