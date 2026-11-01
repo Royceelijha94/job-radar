@@ -145,62 +145,6 @@
   "Kong": [],
   "LinkedIn alerts": [
    {
-    "employer": "American Express",
-    "id": "4479367051",
-    "location": "Bengaluru",
-    "title": "Infrastructure Engineer I",
-    "url": "https://www.linkedin.com/jobs/view/4479367051/"
-   },
-   {
-    "employer": "American Express",
-    "id": "4479357399",
-    "location": "Gurugram",
-    "title": "Infrastructure Engineer II",
-    "url": "https://www.linkedin.com/jobs/view/4479357399/"
-   },
-   {
-    "employer": "American Express",
-    "id": "4479359323",
-    "location": "Gurugram",
-    "title": "Infrastructure Engineer I",
-    "url": "https://www.linkedin.com/jobs/view/4479359323/"
-   },
-   {
-    "employer": "Persistent Systems",
-    "id": "4479657560",
-    "location": "Bengaluru",
-    "title": "Observability Engineer",
-    "url": "https://www.linkedin.com/jobs/view/4479657560/"
-   },
-   {
-    "employer": "Accenture in India",
-    "id": "4480566068",
-    "location": "Bengaluru",
-    "title": "Cloud Operations Administrator",
-    "url": "https://www.linkedin.com/jobs/view/4480566068/"
-   },
-   {
-    "employer": "Work360",
-    "id": "4479333344",
-    "location": "India",
-    "title": "DevOps Engineer - Fresher",
-    "url": "https://www.linkedin.com/jobs/view/4479333344/"
-   },
-   {
-    "employer": "Amgen",
-    "id": "4471879248",
-    "location": "Hyderabad",
-    "title": "Site Reliability Engineer – Data Platforms",
-    "url": "https://www.linkedin.com/jobs/view/4471879248/"
-   },
-   {
-    "employer": "India's Future Investors - Money Entertainment Reality Show",
-    "id": "4479355342",
-    "location": "India",
-    "title": "DevOps Engineer",
-    "url": "https://www.linkedin.com/jobs/view/4479355342/"
-   },
-   {
     "employer": "HyperWorks Imaging",
     "id": "4479920324",
     "location": "Bengaluru",
@@ -836,6 +780,13 @@
     "location": "India",
     "title": "Site Reliability / Platform Engineer – Chaos Engineering, K6 Performance Testing & AWS Compute Optimization",
     "url": "https://www.linkedin.com/jobs/view/4483496672/"
+   },
+   {
+    "employer": "Cisco",
+    "id": "4468298851",
+    "location": "Bengaluru",
+    "title": "Software Engineer/Platform Engineer - Kubernetes + Golang/Python + AI (5+ Years)",
+    "url": "https://www.linkedin.com/jobs/view/4468298851/"
    }
   ],
   "Mastercard": [],
@@ -1526,6 +1477,7 @@
    "4467846836": "2026-10-01T13:04:37+00:00",
    "4467979115": "2026-09-23T21:09:51+00:00",
    "4468150037": "2026-09-23T21:09:51+00:00",
+   "4468298851": "2026-11-01T13:13:37+00:00",
    "4468343822": "2026-09-24T04:40:01+00:00",
    "4468420396": "2026-09-23T21:09:51+00:00",
    "4468449749": "2026-09-23T21:09:51+00:00",
