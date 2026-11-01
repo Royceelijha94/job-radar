@@ -145,13 +145,6 @@
   "Kong": [],
   "LinkedIn alerts": [
    {
-    "employer": "Miratech",
-    "id": "4477393510",
-    "location": "Bengaluru",
-    "title": "DevOps Engineer",
-    "url": "https://www.linkedin.com/jobs/view/4477393510/"
-   },
-   {
     "employer": "American Express",
     "id": "4479367051",
     "location": "Bengaluru",
@@ -808,6 +801,41 @@
     "location": "Pune Division",
     "title": "Infrastructure Cloud and DevOps Engineer",
     "url": "https://www.linkedin.com/jobs/view/4482532683/"
+   },
+   {
+    "employer": "Levi Strauss & Co.",
+    "id": "4484871442",
+    "location": "Bengaluru",
+    "title": "Engineer II, Systems Reliability Engineering",
+    "url": "https://www.linkedin.com/jobs/view/4484871442/"
+   },
+   {
+    "employer": "Infosys",
+    "id": "4458903806",
+    "location": "Bengaluru East",
+    "title": "AWS Site Reliability Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4458903806/"
+   },
+   {
+    "employer": "NatWest Group",
+    "id": "4485372841",
+    "location": "Bengaluru",
+    "title": "Site Reliability Engineer, AVP",
+    "url": "https://www.linkedin.com/jobs/view/4485372841/"
+   },
+   {
+    "employer": "Provation",
+    "id": "4485383907",
+    "location": "Bengaluru East",
+    "title": "Site Reliability Specialist",
+    "url": "https://www.linkedin.com/jobs/view/4485383907/"
+   },
+   {
+    "employer": "Qualtrix Consulting Inc.",
+    "id": "4483496672",
+    "location": "India",
+    "title": "Site Reliability / Platform Engineer – Chaos Engineering, K6 Performance Testing & AWS Compute Optimization",
+    "url": "https://www.linkedin.com/jobs/view/4483496672/"
    }
   ],
   "Mastercard": [],
@@ -1456,6 +1484,7 @@
    "4457488693": "2026-09-23T21:09:51+00:00",
    "4457788813": "2026-09-23T21:09:51+00:00",
    "4458352622": "2026-09-24T04:40:01+00:00",
+   "4458903806": "2026-11-01T05:54:53+00:00",
    "4458956317": "2026-09-24T04:40:01+00:00",
    "4458969311": "2026-09-24T04:40:01+00:00",
    "4459537334": "2026-09-30T12:28:10+00:00",
@@ -1805,6 +1834,7 @@
    "4483102522": "2026-10-25T11:17:15+00:00",
    "4483282689": "2026-10-28T12:43:18+00:00",
    "4483295830": "2026-10-31T05:29:11+00:00",
+   "4483496672": "2026-11-01T05:54:53+00:00",
    "4483543471": "2026-10-27T04:56:09+00:00",
    "4483556444": "2026-10-28T05:31:08+00:00",
    "4483616670": "2026-10-29T12:53:32+00:00",
@@ -1818,11 +1848,14 @@
    "4484595926": "2026-10-31T05:29:11+00:00",
    "4484735010": "2026-10-30T12:44:53+00:00",
    "4484816249": "2026-10-31T05:29:11+00:00",
+   "4484871442": "2026-11-01T05:54:53+00:00",
    "4484907684": "2026-10-30T05:38:47+00:00",
    "4484907853": "2026-10-30T12:44:53+00:00",
    "4484925043": "2026-10-30T12:44:53+00:00",
    "4484996713": "2026-10-31T05:29:11+00:00",
-   "4485298656": "2026-10-31T05:29:11+00:00"
+   "4485298656": "2026-10-31T05:29:11+00:00",
+   "4485372841": "2026-11-01T05:54:53+00:00",
+   "4485383907": "2026-11-01T05:54:53+00:00"
   },
   "Mastercard": {
    "/job/Pune-India/Platform-Engineer-II_R-288632": "2026-09-28T13:45:49+00:00",
