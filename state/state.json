@@ -26,12 +26,6 @@
     "location": "Hyderabad, Telangana, IND",
     "title": "Software Development Engineer, Amazon Fulfillment Technology (AFT), Platform Engineering and Services",
     "url": "https://www.amazon.jobs/en/jobs/10570248/software-development-engineer-amazon-fulfillment-technology-aft-platform-engineering-and-services"
-   },
-   {
-    "id": "10570197",
-    "location": "Hyderabad, Telangana, IND",
-    "title": "Software Development Engineer, Amazon Fulfillment Technology (AFT), Platform Engineering and Services",
-    "url": "https://www.amazon.jobs/en/jobs/10570197/software-development-engineer-amazon-fulfillment-technology-aft-platform-engineering-and-services"
    }
   ],
   "Astronomer": [
@@ -145,41 +139,6 @@
   "JFrog": [],
   "Kong": [],
   "LinkedIn alerts": [
-   {
-    "employer": "Barclays",
-    "id": "4477782474",
-    "location": "Bengaluru",
-    "title": "Infrastructure Engineer - BA4",
-    "url": "https://www.linkedin.com/jobs/view/4477782474/"
-   },
-   {
-    "employer": "Barclays",
-    "id": "4477786293",
-    "location": "Bengaluru",
-    "title": "Infrastructure Engineer AVP",
-    "url": "https://www.linkedin.com/jobs/view/4477786293/"
-   },
-   {
-    "employer": "Barclays",
-    "id": "4477770933",
-    "location": "Bengaluru",
-    "title": "API Infrastructure Engineer - BA4",
-    "url": "https://www.linkedin.com/jobs/view/4477770933/"
-   },
-   {
-    "employer": "Barclays",
-    "id": "4477787288",
-    "location": "Bengaluru",
-    "title": "Core Banking AVP Service Engg (Support & Devops)",
-    "url": "https://www.linkedin.com/jobs/view/4477787288/"
-   },
-   {
-    "employer": "PhonePe",
-    "id": "4461154327",
-    "location": "Bengaluru",
-    "title": "Site Reliability Engineer - On-Prem (4 to 12 Years)",
-    "url": "https://www.linkedin.com/jobs/view/4461154327/"
-   },
    {
     "employer": "Emkay Global Financial Services Ltd",
     "id": "4478278132",
@@ -1180,6 +1139,12 @@
   },
   "Whatfix": {
    "miss": "2026-10-31T12:16:11+00:00"
+  },
+  "Workday": {
+   "ats": "workday",
+   "site": "Workday",
+   "tenant": "workday",
+   "wd": "wd5"
   },
   "Yellow.ai": {
    "miss": "2026-10-31T12:16:11+00:00"
