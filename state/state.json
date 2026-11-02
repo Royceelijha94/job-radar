@@ -787,6 +787,20 @@
     "location": "Bengaluru",
     "title": "Software Engineer/Platform Engineer - Kubernetes + Golang/Python + AI (5+ Years)",
     "url": "https://www.linkedin.com/jobs/view/4468298851/"
+   },
+   {
+    "employer": "Qubrid AI",
+    "id": "4485928078",
+    "location": "India",
+    "title": "GPU Kubernetes Cluster Engineer WFH",
+    "url": "https://www.linkedin.com/jobs/view/4485928078/"
+   },
+   {
+    "employer": "AlgoSec",
+    "id": "4485924715",
+    "location": "New Delhi",
+    "title": "DevOps Engineer, India",
+    "url": "https://www.linkedin.com/jobs/view/4485924715/"
    }
   ],
   "Mastercard": [],
@@ -1807,7 +1821,9 @@
    "4484996713": "2026-10-31T05:29:11+00:00",
    "4485298656": "2026-10-31T05:29:11+00:00",
    "4485372841": "2026-11-01T05:54:53+00:00",
-   "4485383907": "2026-11-01T05:54:53+00:00"
+   "4485383907": "2026-11-01T05:54:53+00:00",
+   "4485924715": "2026-11-02T05:54:11+00:00",
+   "4485928078": "2026-11-02T05:54:11+00:00"
   },
   "Mastercard": {
    "/job/Pune-India/Platform-Engineer-II_R-288632": "2026-09-28T13:45:49+00:00",
