@@ -46,6 +46,12 @@
     "url": "https://jobs.smartrecruiters.com/BoschGroup/744000157829938"
    },
    {
+    "id": "744000159545819",
+    "location": "hosur road bangalore, India",
+    "title": "Embedded_Devops_ECT",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000159545819"
+   },
+   {
     "id": "744000159295609",
     "location": "bangalore, India",
     "title": "Full Stack Developer with DevOps experience",
@@ -754,6 +760,34 @@
     "location": "Chennai",
     "title": "Assoc DevOps Engineer",
     "url": "https://www.linkedin.com/jobs/view/4485411559/"
+   },
+   {
+    "employer": "Deutsche Bank",
+    "id": "4486427481",
+    "location": "Pune Division",
+    "title": "Tooling & Automation Site Reliability Engineering (SRE), AVP",
+    "url": "https://www.linkedin.com/jobs/view/4486427481/"
+   },
+   {
+    "employer": "Barclays",
+    "id": "4484625779",
+    "location": "Gurugram",
+    "title": "Infrastructure Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4484625779/"
+   },
+   {
+    "employer": "Smart Working",
+    "id": "4486834467",
+    "location": "India",
+    "title": "DevOps / Platform Engineer (Remote, Full-Time) [AS348]",
+    "url": "https://www.linkedin.com/jobs/view/4486834467/"
+   },
+   {
+    "employer": "Tecsys Inc.",
+    "id": "4485481028",
+    "location": "Bengaluru",
+    "title": "Site Reliability Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4485481028/"
    }
   ],
   "Mastercard": [],
@@ -1302,7 +1336,8 @@
    "744000157829938": "2026-10-27T22:07:49+00:00",
    "744000157996908": "2026-10-28T05:31:08+00:00",
    "744000158593709": "2026-10-29T19:35:07+00:00",
-   "744000159295609": "2026-11-03T06:39:37+00:00"
+   "744000159295609": "2026-11-03T06:39:37+00:00",
+   "744000159545819": "2026-11-04T06:06:26+00:00"
   },
   "Bybit": {},
   "CRED": {},
@@ -1756,6 +1791,7 @@
    "4483882167": "2026-10-30T12:44:53+00:00",
    "4484101382": "2026-10-30T12:44:53+00:00",
    "4484595926": "2026-10-31T05:29:11+00:00",
+   "4484625779": "2026-11-04T06:06:26+00:00",
    "4484735010": "2026-10-30T12:44:53+00:00",
    "4484816249": "2026-10-31T05:29:11+00:00",
    "4484871442": "2026-11-01T05:54:53+00:00",
@@ -1773,9 +1809,12 @@
    "4485465359": "2026-11-03T06:39:37+00:00",
    "4485466639": "2026-11-03T16:09:04+00:00",
    "4485474398": "2026-11-03T06:39:37+00:00",
+   "4485481028": "2026-11-04T06:06:26+00:00",
    "4485924715": "2026-11-02T05:54:11+00:00",
    "4485928078": "2026-11-02T05:54:11+00:00",
-   "4486115230": "2026-11-03T06:39:37+00:00"
+   "4486115230": "2026-11-03T06:39:37+00:00",
+   "4486427481": "2026-11-04T06:06:26+00:00",
+   "4486834467": "2026-11-04T06:06:26+00:00"
   },
   "Mastercard": {
    "/job/Pune-India/Platform-Engineer-II_R-288632": "2026-09-28T13:45:49+00:00",
