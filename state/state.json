@@ -146,55 +146,6 @@
   "Kong": [],
   "LinkedIn alerts": [
    {
-    "employer": "ALLPS",
-    "id": "4480790416",
-    "location": "India",
-    "title": "DevOps / Infrastructure Automation Engineer",
-    "url": "https://www.linkedin.com/jobs/view/4480790416/"
-   },
-   {
-    "employer": "Superfan.ng",
-    "id": "4480792407",
-    "location": "India",
-    "title": "Cloud Engineer",
-    "url": "https://www.linkedin.com/jobs/view/4480792407/"
-   },
-   {
-    "employer": "Citi",
-    "id": "4480486600",
-    "location": "Pune Division",
-    "title": "Devops Engineer",
-    "url": "https://www.linkedin.com/jobs/view/4480486600/"
-   },
-   {
-    "employer": "Barclays",
-    "id": "4477777733",
-    "location": "Bengaluru",
-    "title": "BUK TESCO Bank - Core Banking Infrastructure Engineer - BA4",
-    "url": "https://www.linkedin.com/jobs/view/4477777733/"
-   },
-   {
-    "employer": "Citi",
-    "id": "4480482689",
-    "location": "Pune Division",
-    "title": "AWS GCP Cloud Engineer AVP",
-    "url": "https://www.linkedin.com/jobs/view/4480482689/"
-   },
-   {
-    "employer": "Hallmark Search Partners",
-    "id": "4482068148",
-    "location": "Bengaluru",
-    "title": "DevOps Engineer",
-    "url": "https://www.linkedin.com/jobs/view/4482068148/"
-   },
-   {
-    "employer": "IBM",
-    "id": "4471737646",
-    "location": "Bengaluru",
-    "title": "Application Consultant-Site Reliability",
-    "url": "https://www.linkedin.com/jobs/view/4471737646/"
-   },
-   {
     "employer": "Remango Technologies Private Limited",
     "id": "4479412422",
     "location": "Gurugram",
@@ -774,6 +725,48 @@
     "location": "Hyderabad",
     "title": "DevOps Engineer",
     "url": "https://www.linkedin.com/jobs/view/4486010613/"
+   },
+   {
+    "employer": "NTT DATA North America",
+    "id": "4487253006",
+    "location": "Bangalore Urban",
+    "title": "DevOps Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4487253006/"
+   },
+   {
+    "employer": "Jobgether",
+    "id": "4486337434",
+    "location": "India",
+    "title": "Cloud Operations Consultant",
+    "url": "https://www.linkedin.com/jobs/view/4486337434/"
+   },
+   {
+    "employer": "Recruiterflow",
+    "id": "4486340271",
+    "location": "Bengaluru",
+    "title": "DevOps Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4486340271/"
+   },
+   {
+    "employer": "Walmart Global Tech India",
+    "id": "4484677256",
+    "location": "Bengaluru",
+    "title": "Systems and Infrastructure Engineer III",
+    "url": "https://www.linkedin.com/jobs/view/4484677256/"
+   },
+   {
+    "employer": "Nutanix",
+    "id": "4477971550",
+    "location": "Pune Division",
+    "title": "Systems Reliability Engineer II[4-8 years]- Technical Support, Virtualization, Linux, Trouble Shooting, Networking",
+    "url": "https://www.linkedin.com/jobs/view/4477971550/"
+   },
+   {
+    "employer": "Enterprise Bot",
+    "id": "4485074177",
+    "location": "Bengaluru",
+    "title": "DevOps Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4485074177/"
    }
   ],
   "Mastercard": [],
@@ -1695,6 +1688,7 @@
    "4477787288": "2026-10-19T19:51:29+00:00",
    "4477876106": "2026-10-11T12:41:40+00:00",
    "4477922312": "2026-10-14T13:38:42+00:00",
+   "4477971550": "2026-11-05T12:13:24+00:00",
    "4477978126": "2026-11-04T14:29:41+00:00",
    "4478100477": "2026-10-15T11:20:35+00:00",
    "4478152106": "2026-10-15T11:20:35+00:00",
@@ -1787,6 +1781,7 @@
    "4484101382": "2026-10-30T12:44:53+00:00",
    "4484595926": "2026-10-31T05:29:11+00:00",
    "4484625779": "2026-11-04T06:06:26+00:00",
+   "4484677256": "2026-11-05T12:13:24+00:00",
    "4484735010": "2026-10-30T12:44:53+00:00",
    "4484816249": "2026-10-31T05:29:11+00:00",
    "4484871442": "2026-11-01T05:54:53+00:00",
@@ -1794,6 +1789,7 @@
    "4484907853": "2026-10-30T12:44:53+00:00",
    "4484925043": "2026-10-30T12:44:53+00:00",
    "4484996713": "2026-10-31T05:29:11+00:00",
+   "4485074177": "2026-11-05T12:13:24+00:00",
    "4485171590": "2026-11-02T15:39:30+00:00",
    "4485298656": "2026-10-31T05:29:11+00:00",
    "4485372841": "2026-11-01T05:54:53+00:00",
@@ -1810,8 +1806,11 @@
    "4486010613": "2026-11-04T14:29:41+00:00",
    "4486026067": "2026-11-04T14:29:41+00:00",
    "4486115230": "2026-11-03T06:39:37+00:00",
+   "4486337434": "2026-11-05T12:13:24+00:00",
+   "4486340271": "2026-11-05T12:13:24+00:00",
    "4486427481": "2026-11-04T06:06:26+00:00",
-   "4486834467": "2026-11-04T06:06:26+00:00"
+   "4486834467": "2026-11-04T06:06:26+00:00",
+   "4487253006": "2026-11-05T12:13:24+00:00"
   },
   "Mastercard": {
    "/job/Pune-India/Platform-Engineer-II_R-288632": "2026-09-28T13:45:49+00:00",
