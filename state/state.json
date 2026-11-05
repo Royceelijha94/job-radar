@@ -40,12 +40,6 @@
   "Autodesk": [],
   "Bosch": [
    {
-    "id": "744000157829938",
-    "location": "bangalore, India",
-    "title": "2026-MS_EMT2-VM_DevOps_Engineer",
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000157829938"
-   },
-   {
     "id": "744000159545819",
     "location": "hosur road bangalore, India",
     "title": "Embedded_Devops_ECT",
@@ -62,6 +56,12 @@
     "location": "bangalore, India",
     "title": "2026_MS_EMT1_VM_Senior VS Code Extension Developer (TypeScript | DevOps | CI/CD | Kubernetes)",
     "url": "https://jobs.smartrecruiters.com/BoschGroup/744000158593709"
+   },
+   {
+    "id": "744000157829938",
+    "location": "bangalore, India",
+    "title": "2026-MS_EMT2-VM_DevOps_Engineer",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000157829938"
    },
    {
     "id": "744000156714729",
@@ -785,14 +785,7 @@
   "Nvidia": [],
   "Observe.AI": [],
   "Okta": [],
-  "Oracle (OCI)": [
-   {
-    "id": "349596",
-    "location": "BENGALURU, KARNATAKA, India",
-    "title": "Core Infrastructure Engineer 2",
-    "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/349596"
-   }
-  ],
+  "Oracle (OCI)": [],
   "PagerDuty": [],
   "Paytm": [],
   "Percona": [],
