@@ -134,59 +134,10 @@
     "url": "https://job-boards.greenhouse.io/inmobi/jobs/7393433"
    }
   ],
-  "Intel": [
-   {
-    "id": "/job/India-Bangalore/Product-Quality-and-Reliability-Engineer_JR0288827",
-    "location": "India, Bangalore",
-    "title": "Product Quality and Reliability Engineer",
-    "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/India-Bangalore/Product-Quality-and-Reliability-Engineer_JR0288827"
-   }
-  ],
+  "Intel": [],
   "JFrog": [],
   "Kong": [],
   "LinkedIn alerts": [
-   {
-    "employer": "Remango Technologies Private Limited",
-    "id": "4479412422",
-    "location": "Gurugram",
-    "title": "DevOps Engineer",
-    "url": "https://www.linkedin.com/jobs/view/4479412422/"
-   },
-   {
-    "employer": "Brainstorm Force",
-    "id": "4479402596",
-    "location": "Pune Division",
-    "title": "DevOps Engineer (WordPress & Hosting)",
-    "url": "https://www.linkedin.com/jobs/view/4479402596/"
-   },
-   {
-    "employer": "bebo Technologies",
-    "id": "4481327086",
-    "location": "Chandigarh, India",
-    "title": "DevOps Engineer",
-    "url": "https://www.linkedin.com/jobs/view/4481327086/"
-   },
-   {
-    "employer": "Side",
-    "id": "4480257119",
-    "location": "Hyderabad",
-    "title": "Site Reliability Engineer II",
-    "url": "https://www.linkedin.com/jobs/view/4480257119/"
-   },
-   {
-    "employer": "JPMorganChase",
-    "id": "4482163551",
-    "location": "Mumbai",
-    "title": "Site Reliability Engineer III",
-    "url": "https://www.linkedin.com/jobs/view/4482163551/"
-   },
-   {
-    "employer": "JPMorganChase",
-    "id": "4473953786",
-    "location": "Bengaluru",
-    "title": "Data Engineer II - SRE",
-    "url": "https://www.linkedin.com/jobs/view/4473953786/"
-   },
    {
     "employer": "Pearson",
     "id": "4472316064",
@@ -767,6 +718,69 @@
     "location": "Bengaluru",
     "title": "DevOps Engineer",
     "url": "https://www.linkedin.com/jobs/view/4485074177/"
+   },
+   {
+    "employer": "Moneytos",
+    "id": "4486511552",
+    "location": "India",
+    "title": "DevOps Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4486511552/"
+   },
+   {
+    "employer": "IDFC FIRST Bank",
+    "id": "4486597494",
+    "location": "Hyderabad",
+    "title": "DevOps Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4486597494/"
+   },
+   {
+    "employer": "r3 Consultant",
+    "id": "4487721850",
+    "location": "Mumbai",
+    "title": "Site Reliability Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4487721850/"
+   },
+   {
+    "employer": "IDFC FIRST Bank",
+    "id": "4485597811",
+    "location": "Chennai",
+    "title": "DevOps Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4485597811/"
+   },
+   {
+    "employer": "JPMorganChase",
+    "id": "4479592781",
+    "location": "Bengaluru",
+    "title": "Site Reliability Engineer II - Python, AWS, Unix",
+    "url": "https://www.linkedin.com/jobs/view/4479592781/"
+   },
+   {
+    "employer": "NetApp",
+    "id": "4485511236",
+    "location": "Bengaluru",
+    "title": "Site Reliability Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4485511236/"
+   },
+   {
+    "employer": "Flexiple",
+    "id": "4487732153",
+    "location": "India",
+    "title": "DevOps Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4487732153/"
+   },
+   {
+    "employer": "Cisco",
+    "id": "4451664188",
+    "location": "Bengaluru",
+    "title": "Reliability Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4451664188/"
+   },
+   {
+    "employer": "Nutanix",
+    "id": "4478444487",
+    "location": "Pune Division",
+    "title": "Systems Reliability Engineer II (Pune)",
+    "url": "https://www.linkedin.com/jobs/view/4478444487/"
    }
   ],
   "Mastercard": [],
@@ -791,7 +805,14 @@
   "Percona": [],
   "Pure Storage": [],
   "Red Hat": [],
-  "Redis": [],
+  "Redis": [
+   {
+    "id": "ff937e95-aa8e-4f41-a8a1-11da9de029c8",
+    "location": "India",
+    "title": "Site Reliability Engineer",
+    "url": "https://jobs.ashbyhq.com/redis/ff937e95-aa8e-4f41-a8a1-11da9de029c8"
+   }
+  ],
   "Rubrik": [],
   "Salesforce": [],
   "Samsara": [],
@@ -1395,6 +1416,7 @@
    "4448609097": "2026-09-25T13:41:28+00:00",
    "4449206760": "2026-09-23T21:09:51+00:00",
    "4451062427": "2026-09-23T21:09:51+00:00",
+   "4451664188": "2026-11-06T12:00:33+00:00",
    "4454396629": "2026-09-28T13:45:49+00:00",
    "4454415068": "2026-10-05T14:27:41+00:00",
    "4454501593": "2026-09-28T13:45:49+00:00",
@@ -1691,6 +1713,7 @@
    "4478278132": "2026-10-20T04:41:48+00:00",
    "4478378803": "2026-10-13T06:42:38+00:00",
    "4478441794": "2026-10-16T07:05:11+00:00",
+   "4478444487": "2026-11-06T12:00:33+00:00",
    "4478454065": "2026-10-16T13:12:34+00:00",
    "4478460768": "2026-10-16T07:05:11+00:00",
    "4478507977": "2026-11-04T14:29:41+00:00",
@@ -1718,6 +1741,7 @@
    "4479412422": "2026-10-23T07:26:13+00:00",
    "4479505166": "2026-10-15T11:20:35+00:00",
    "4479539423": "2026-10-16T07:05:11+00:00",
+   "4479592781": "2026-11-06T12:00:33+00:00",
    "4479628835": "2026-10-21T07:31:00+00:00",
    "4479657560": "2026-10-18T10:56:49+00:00",
    "4479695093": "2026-10-19T13:00:35+00:00",
@@ -1794,6 +1818,8 @@
    "4485466639": "2026-11-03T16:09:04+00:00",
    "4485474398": "2026-11-03T06:39:37+00:00",
    "4485481028": "2026-11-04T06:06:26+00:00",
+   "4485511236": "2026-11-06T12:00:33+00:00",
+   "4485597811": "2026-11-06T12:00:33+00:00",
    "4485924715": "2026-11-02T05:54:11+00:00",
    "4485928078": "2026-11-02T05:54:11+00:00",
    "4486010613": "2026-11-04T14:29:41+00:00",
@@ -1802,8 +1828,12 @@
    "4486337434": "2026-11-05T12:13:24+00:00",
    "4486340271": "2026-11-05T12:13:24+00:00",
    "4486427481": "2026-11-04T06:06:26+00:00",
+   "4486511552": "2026-11-06T12:00:33+00:00",
+   "4486597494": "2026-11-06T12:00:33+00:00",
    "4486834467": "2026-11-04T06:06:26+00:00",
-   "4487253006": "2026-11-05T12:13:24+00:00"
+   "4487253006": "2026-11-05T12:13:24+00:00",
+   "4487721850": "2026-11-06T12:00:33+00:00",
+   "4487732153": "2026-11-06T12:00:33+00:00"
   },
   "Mastercard": {
    "/job/Pune-India/Platform-Engineer-II_R-288632": "2026-09-28T13:45:49+00:00",
@@ -1846,7 +1876,9 @@
   "Percona": {},
   "Pure Storage": {},
   "Red Hat": {},
-  "Redis": {},
+  "Redis": {
+   "ff937e95-aa8e-4f41-a8a1-11da9de029c8": "2026-11-06T12:00:33+00:00"
+  },
   "Rubrik": {},
   "Salesforce": {
    "/job/India---Hyderabad/Software-Engineering-MTS--DevOps-Engineer-_JR362707": "2026-10-09T16:58:04+00:00",
