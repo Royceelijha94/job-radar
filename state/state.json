@@ -1010,10 +1010,6 @@
    "tenant": "micron",
    "wd": "wd1"
   },
-  "Mindtickle": {
-   "ats": "lever",
-   "token": "mindtickle"
-  },
   "MongoDB": {
    "ats": "greenhouse",
    "token": "mongodb"
