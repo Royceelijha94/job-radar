@@ -139,27 +139,6 @@
   "Kong": [],
   "LinkedIn alerts": [
    {
-    "employer": "Microsoft",
-    "id": "4446571852",
-    "location": "Hyderabad",
-    "title": "Site Reliability Engineer 2",
-    "url": "https://www.linkedin.com/jobs/view/4446571852/"
-   },
-   {
-    "employer": "Tata Consultancy Services",
-    "id": "4482723231",
-    "location": "Bengaluru",
-    "title": "SRE Engineer",
-    "url": "https://www.linkedin.com/jobs/view/4482723231/"
-   },
-   {
-    "employer": "Styli",
-    "id": "4480034480",
-    "location": "Bengaluru",
-    "title": "DevOps Engineer",
-    "url": "https://www.linkedin.com/jobs/view/4480034480/"
-   },
-   {
     "employer": "Miratech",
     "id": "4480647830",
     "location": "Bengaluru",
@@ -781,6 +760,55 @@
     "location": "India",
     "title": "Site Reliability Engineer /Cloud",
     "url": "https://www.linkedin.com/jobs/view/4487776404/"
+   },
+   {
+    "employer": "Moolya",
+    "id": "4486958437",
+    "location": "Bengaluru",
+    "title": "Site Reliability Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4486958437/"
+   },
+   {
+    "employer": "Thermo Fisher Scientific",
+    "id": "4481832966",
+    "location": "Bengaluru East",
+    "title": "Engineer-III, DevOps",
+    "url": "https://www.linkedin.com/jobs/view/4481832966/"
+   },
+   {
+    "employer": "Ascendion",
+    "id": "4486772437",
+    "location": "Bengaluru",
+    "title": "DevOps Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4486772437/"
+   },
+   {
+    "employer": "ANZ",
+    "id": "4488107686",
+    "location": "Bengaluru",
+    "title": "Site Reliability Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4488107686/"
+   },
+   {
+    "employer": "Comviva",
+    "id": "4488104592",
+    "location": "Bengaluru",
+    "title": "DevOps Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4488104592/"
+   },
+   {
+    "employer": "Persistent Systems",
+    "id": "4486976460",
+    "location": "Pune Division",
+    "title": "DevOps Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4486976460/"
+   },
+   {
+    "employer": "RhythmX AI",
+    "id": "4485894806",
+    "location": "Bengaluru",
+    "title": "DevOps Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4485894806/"
    }
   ],
   "Mastercard": [],
@@ -1769,6 +1797,7 @@
    "4481455833": "2026-10-28T12:43:18+00:00",
    "4481479294": "2026-10-28T12:43:18+00:00",
    "4481561241": "2026-10-21T13:43:10+00:00",
+   "4481832966": "2026-11-07T12:52:47+00:00",
    "4482068148": "2026-10-22T11:43:14+00:00",
    "4482105073": "2026-10-23T13:20:44+00:00",
    "4482163551": "2026-10-23T07:26:13+00:00",
@@ -1821,6 +1850,7 @@
    "4485511236": "2026-11-06T12:00:33+00:00",
    "4485581798": "2026-11-07T05:52:28+00:00",
    "4485597811": "2026-11-06T12:00:33+00:00",
+   "4485894806": "2026-11-07T12:52:47+00:00",
    "4485924715": "2026-11-02T05:54:11+00:00",
    "4485928078": "2026-11-02T05:54:11+00:00",
    "4486010613": "2026-11-04T14:29:41+00:00",
@@ -1832,13 +1862,18 @@
    "4486427481": "2026-11-04T06:06:26+00:00",
    "4486511552": "2026-11-06T12:00:33+00:00",
    "4486597494": "2026-11-06T12:00:33+00:00",
+   "4486772437": "2026-11-07T12:52:47+00:00",
    "4486834467": "2026-11-04T06:06:26+00:00",
    "4486908716": "2026-11-07T05:52:28+00:00",
    "4486953466": "2026-11-07T05:52:28+00:00",
+   "4486958437": "2026-11-07T12:52:47+00:00",
+   "4486976460": "2026-11-07T12:52:47+00:00",
    "4487253006": "2026-11-05T12:13:24+00:00",
    "4487721850": "2026-11-06T12:00:33+00:00",
    "4487732153": "2026-11-06T12:00:33+00:00",
-   "4487776404": "2026-11-07T05:52:28+00:00"
+   "4487776404": "2026-11-07T05:52:28+00:00",
+   "4488104592": "2026-11-07T12:52:47+00:00",
+   "4488107686": "2026-11-07T12:52:47+00:00"
   },
   "Mastercard": {
    "/job/Pune-India/Platform-Engineer-II_R-288632": "2026-09-28T13:45:49+00:00",
