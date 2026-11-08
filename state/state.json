@@ -139,20 +139,6 @@
   "Kong": [],
   "LinkedIn alerts": [
    {
-    "employer": "CME Group",
-    "id": "4482850830",
-    "location": "Bengaluru",
-    "title": "Site Reliability Engineer I - India",
-    "url": "https://www.linkedin.com/jobs/view/4482850830/"
-   },
-   {
-    "employer": "Cisco",
-    "id": "4483102522",
-    "location": "Bengaluru",
-    "title": "Cloud Engineer",
-    "url": "https://www.linkedin.com/jobs/view/4483102522/"
-   },
-   {
     "employer": "FullStack",
     "id": "4475032833",
     "location": "India",
@@ -837,6 +823,34 @@
     "location": "India",
     "title": "Site Reliability Engineer /Cloud",
     "url": "https://www.linkedin.com/jobs/view/4488424174/"
+   },
+   {
+    "employer": "JPMorganChase",
+    "id": "4488132723",
+    "location": "Bengaluru",
+    "title": "Site Reliability Engineer III - Python, Grafana, Splunk, AWS, Jenkins",
+    "url": "https://www.linkedin.com/jobs/view/4488132723/"
+   },
+   {
+    "employer": "Accenture in India",
+    "id": "4488192134",
+    "location": "Bengaluru",
+    "title": "DevOps Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4488192134/"
+   },
+   {
+    "employer": "AI Case Leads",
+    "id": "4488468230",
+    "location": "India",
+    "title": "DevOps Engineer — India & Pakistan",
+    "url": "https://www.linkedin.com/jobs/view/4488468230/"
+   },
+   {
+    "employer": "LSEG",
+    "id": "4469745016",
+    "location": "Bengaluru",
+    "title": "Engineer, Site Reliability Engineering",
+    "url": "https://www.linkedin.com/jobs/view/4469745016/"
    }
   ],
   "Mastercard": [],
@@ -1557,6 +1571,7 @@
    "4469544907": "2026-09-26T11:17:47+00:00",
    "4469565131": "2026-09-26T11:17:47+00:00",
    "4469575112": "2026-09-23T21:09:51+00:00",
+   "4469745016": "2026-11-08T13:15:08+00:00",
    "4469782183": "2026-09-26T11:17:47+00:00",
    "4469793177": "2026-09-26T11:17:47+00:00",
    "4469820504": "2026-09-23T21:09:51+00:00",
@@ -1904,8 +1919,11 @@
    "4487776404": "2026-11-07T05:52:28+00:00",
    "4488104592": "2026-11-07T12:52:47+00:00",
    "4488107686": "2026-11-07T12:52:47+00:00",
+   "4488132723": "2026-11-08T13:15:08+00:00",
+   "4488192134": "2026-11-08T13:15:08+00:00",
    "4488412527": "2026-11-08T05:53:37+00:00",
    "4488424174": "2026-11-08T05:53:37+00:00",
+   "4488468230": "2026-11-08T13:15:08+00:00",
    "4488497908": "2026-11-08T05:53:37+00:00"
   },
   "Mastercard": {
