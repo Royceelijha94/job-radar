@@ -139,13 +139,6 @@
   "Kong": [],
   "LinkedIn alerts": [
    {
-    "employer": "Miratech",
-    "id": "4480647830",
-    "location": "Bengaluru",
-    "title": "Devops Engineer",
-    "url": "https://www.linkedin.com/jobs/view/4480647830/"
-   },
-   {
     "employer": "CME Group",
     "id": "4482850830",
     "location": "Bengaluru",
@@ -809,6 +802,41 @@
     "location": "Bengaluru",
     "title": "DevOps Engineer",
     "url": "https://www.linkedin.com/jobs/view/4485894806/"
+   },
+   {
+    "employer": "Xebia",
+    "id": "4488497908",
+    "location": "Bengaluru",
+    "title": "DevOps Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4488497908/"
+   },
+   {
+    "employer": "Rackspace Technology",
+    "id": "4467856080",
+    "location": "India",
+    "title": "AWS Cloud Engineer III",
+    "url": "https://www.linkedin.com/jobs/view/4467856080/"
+   },
+   {
+    "employer": "Redis",
+    "id": "4486233224",
+    "location": "India",
+    "title": "Site Reliability Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4486233224/"
+   },
+   {
+    "employer": "Sophos",
+    "id": "4488412527",
+    "location": "India",
+    "title": "Site Reliability Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4488412527/"
+   },
+   {
+    "employer": "Sophos",
+    "id": "4488424174",
+    "location": "India",
+    "title": "Site Reliability Engineer /Cloud",
+    "url": "https://www.linkedin.com/jobs/view/4488424174/"
    }
   ],
   "Mastercard": [],
@@ -1496,6 +1524,7 @@
    "4467671141": "2026-09-23T21:09:51+00:00",
    "4467817876": "2026-09-29T08:23:22+00:00",
    "4467846836": "2026-10-01T13:04:37+00:00",
+   "4467856080": "2026-11-08T05:53:37+00:00",
    "4467979115": "2026-09-23T21:09:51+00:00",
    "4468150037": "2026-09-23T21:09:51+00:00",
    "4468298851": "2026-11-01T13:13:37+00:00",
@@ -1857,6 +1886,7 @@
    "4486026067": "2026-11-04T14:29:41+00:00",
    "4486029191": "2026-11-07T05:52:28+00:00",
    "4486115230": "2026-11-03T06:39:37+00:00",
+   "4486233224": "2026-11-08T05:53:37+00:00",
    "4486337434": "2026-11-05T12:13:24+00:00",
    "4486340271": "2026-11-05T12:13:24+00:00",
    "4486427481": "2026-11-04T06:06:26+00:00",
@@ -1873,7 +1903,10 @@
    "4487732153": "2026-11-06T12:00:33+00:00",
    "4487776404": "2026-11-07T05:52:28+00:00",
    "4488104592": "2026-11-07T12:52:47+00:00",
-   "4488107686": "2026-11-07T12:52:47+00:00"
+   "4488107686": "2026-11-07T12:52:47+00:00",
+   "4488412527": "2026-11-08T05:53:37+00:00",
+   "4488424174": "2026-11-08T05:53:37+00:00",
+   "4488497908": "2026-11-08T05:53:37+00:00"
   },
   "Mastercard": {
    "/job/Pune-India/Platform-Engineer-II_R-288632": "2026-09-28T13:45:49+00:00",
