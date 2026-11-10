@@ -27,6 +27,12 @@
   "Autodesk": [],
   "Bosch": [
    {
+    "id": "744000160793069",
+    "location": "bengaluru, India",
+    "title": "DevOps/MLOps Specialist",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000160793069"
+   },
+   {
     "id": "744000159545819",
     "location": "hosur road bangalore, India",
     "title": "Embedded_Devops_ECT",
@@ -55,12 +61,6 @@
     "location": "telengana, India",
     "title": "CRM Junior Engineer with Devops",
     "url": "https://jobs.smartrecruiters.com/BoschGroup/744000156714729"
-   },
-   {
-    "id": "744000155720139",
-    "location": "bangalore, India",
-    "title": "DevOps Engineer (Application Deployment & Configuration - K8S)",
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000155720139"
    }
   ],
   "Bybit": [],
@@ -78,12 +78,6 @@
     "location": "India - Bangalore",
     "title": "Engineer III - AI Powered SRE (UK Shift Timing)",
     "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/India---Bangalore/Engineer-III---AI-Powered-SRE--UK-Shift-Timing-_R30369"
-   },
-   {
-    "id": "/job/India---Bangalore/Infrastructure-Engineer--TechOps-CICD_R29461",
-    "location": "India - Bangalore",
-    "title": "Infrastructure Engineer, TechOps CICD (Hybrid, IND)",
-    "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/India---Bangalore/Infrastructure-Engineer--TechOps-CICD_R29461"
    },
    {
     "id": "/job/India---Bangalore/Engineer-II---Site-Reliability--Hybrid--IND-_R29180",
@@ -107,7 +101,14 @@
   "Fi Money": [],
   "Fivetran": [],
   "Freshworks": [],
-  "GitLab": [],
+  "GitLab": [
+   {
+    "id": "8867756002",
+    "location": "Bangalore, India",
+    "title": "Site Reliability Engineer, Cells Infrastructure",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8867756002"
+   }
+  ],
   "Glance": [],
   "Glean": [],
   "Grafana Labs": [],
@@ -125,34 +126,6 @@
   "JFrog": [],
   "Kong": [],
   "LinkedIn alerts": [
-   {
-    "employer": "CodeRound AI",
-    "id": "4483543471",
-    "location": "India",
-    "title": "Site Reliability Engineer (Kubernetes heavy) | Upto 25 LPA",
-    "url": "https://www.linkedin.com/jobs/view/4483543471/"
-   },
-   {
-    "employer": "BT Group",
-    "id": "4481440264",
-    "location": "Bengaluru South",
-    "title": "Cloud Engineering Practitioner",
-    "url": "https://www.linkedin.com/jobs/view/4481440264/"
-   },
-   {
-    "employer": "SIXT Research & Development India",
-    "id": "4482919636",
-    "location": "Bengaluru",
-    "title": "Site Reliability Engineer II (Platform Engineer)",
-    "url": "https://www.linkedin.com/jobs/view/4482919636/"
-   },
-   {
-    "employer": "Continental Industry",
-    "id": "4481312179",
-    "location": "Bengaluru",
-    "title": "IT engineer Data & Analytics DevOps",
-    "url": "https://www.linkedin.com/jobs/view/4481312179/"
-   },
    {
     "employer": "Siemens Healthineers",
     "id": "4481448081",
@@ -852,6 +825,27 @@
     "location": "Mumbai",
     "title": "Site Reliability Engineer",
     "url": "https://www.linkedin.com/jobs/view/4488766263/"
+   },
+   {
+    "employer": "Jobgether",
+    "id": "4487663838",
+    "location": "India",
+    "title": "Site Reliability Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4487663838/"
+   },
+   {
+    "employer": "Zensar Technologies",
+    "id": "4470331621",
+    "location": "Bengaluru",
+    "title": "Azure Site Reliability Engineer (SRE) - SaaS Operations",
+    "url": "https://www.linkedin.com/jobs/view/4470331621/"
+   },
+   {
+    "employer": "Softobiz",
+    "id": "4488799802",
+    "location": "Hyderabad",
+    "title": "GG-1531 - Site Reliability Engineer (SRE) - Platform Team(AWS+Hybrid)",
+    "url": "https://www.linkedin.com/jobs/view/4488799802/"
    }
   ],
   "Mastercard": [],
@@ -1401,7 +1395,8 @@
    "744000157996908": "2026-10-28T05:31:08+00:00",
    "744000158593709": "2026-10-29T19:35:07+00:00",
    "744000159295609": "2026-11-03T06:39:37+00:00",
-   "744000159545819": "2026-11-04T06:06:26+00:00"
+   "744000159545819": "2026-11-04T06:06:26+00:00",
+   "744000160793069": "2026-11-10T12:32:05+00:00"
   },
   "Bybit": {},
   "CRED": {},
@@ -1587,6 +1582,7 @@
    "4470274459": "2026-09-23T21:09:51+00:00",
    "4470279594": "2026-09-23T21:09:51+00:00",
    "4470306315": "2026-09-27T08:03:27+00:00",
+   "4470331621": "2026-11-10T12:32:05+00:00",
    "4470407795": "2026-09-23T21:09:51+00:00",
    "4470415876": "2026-09-24T11:38:41+00:00",
    "4470635972": "2026-09-24T11:38:41+00:00",
@@ -1911,6 +1907,7 @@
    "4486958437": "2026-11-07T12:52:47+00:00",
    "4486976460": "2026-11-07T12:52:47+00:00",
    "4487253006": "2026-11-05T12:13:24+00:00",
+   "4487663838": "2026-11-10T12:32:05+00:00",
    "4487721850": "2026-11-06T12:00:33+00:00",
    "4487732153": "2026-11-06T12:00:33+00:00",
    "4487776404": "2026-11-07T05:52:28+00:00",
@@ -1922,7 +1919,8 @@
    "4488424174": "2026-11-08T05:53:37+00:00",
    "4488468230": "2026-11-08T13:15:08+00:00",
    "4488497908": "2026-11-08T05:53:37+00:00",
-   "4488766263": "2026-11-09T18:42:14+00:00"
+   "4488766263": "2026-11-09T18:42:14+00:00",
+   "4488799802": "2026-11-10T12:32:05+00:00"
   },
   "Mastercard": {
    "/job/Pune-India/Platform-Engineer-II_R-288632": "2026-09-28T13:45:49+00:00",
