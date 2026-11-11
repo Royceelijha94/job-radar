@@ -127,41 +127,6 @@
   "Kong": [],
   "LinkedIn alerts": [
    {
-    "employer": "Siemens Healthineers",
-    "id": "4481448081",
-    "location": "Bengaluru",
-    "title": "DevOps Engineer – Developer UX",
-    "url": "https://www.linkedin.com/jobs/view/4481448081/"
-   },
-   {
-    "employer": "Siemens Healthineers",
-    "id": "4481440458",
-    "location": "Bengaluru",
-    "title": "DevOps Engineer – Agentic Engineering",
-    "url": "https://www.linkedin.com/jobs/view/4481440458/"
-   },
-   {
-    "employer": "Sarvam",
-    "id": "4482950267",
-    "location": "Bengaluru",
-    "title": "Infrastructure Engineer",
-    "url": "https://www.linkedin.com/jobs/view/4482950267/"
-   },
-   {
-    "employer": "SIXT Research & Development India",
-    "id": "4483556444",
-    "location": "Bengaluru",
-    "title": "Site Reliability Engineer II (Platform Engineer)",
-    "url": "https://www.linkedin.com/jobs/view/4483556444/"
-   },
-   {
-    "employer": "STAFF, SOFTWARE ENGINEER",
-    "id": "4475804990",
-    "location": "Walmart Global Tech India",
-    "title": "<strong class=\"font-bold\" style=\"font-weight: 600;\">\"Site Reliability\" OR SRE OR DevOps OR \"Platform Engineer\"</strong>",
-    "url": "https://www.linkedin.com/jobs/view/4475804990/"
-   },
-   {
     "employer": "Aktoria Robotics",
     "id": "4482954006",
     "location": "Noida",
@@ -846,6 +811,34 @@
     "location": "Hyderabad",
     "title": "GG-1531 - Site Reliability Engineer (SRE) - Platform Team(AWS+Hybrid)",
     "url": "https://www.linkedin.com/jobs/view/4488799802/"
+   },
+   {
+    "employer": "Tredence Inc.",
+    "id": "4489428838",
+    "location": "Bengaluru",
+    "title": "Dev Ops Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4489428838/"
+   },
+   {
+    "employer": "Plume",
+    "id": "4462430554",
+    "location": "Hyderabad",
+    "title": "Site Reliability Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4462430554/"
+   },
+   {
+    "employer": "Arcana",
+    "id": "4474280672",
+    "location": "Bengaluru",
+    "title": "DevOps Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4474280672/"
+   },
+   {
+    "employer": "9Sprints",
+    "id": "4487189567",
+    "location": "Hyderabad",
+    "title": "DevOps Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4487189567/"
    }
   ],
   "Mastercard": [],
@@ -1508,6 +1501,7 @@
    "4461866992": "2026-10-21T07:31:00+00:00",
    "4462147795": "2026-09-24T04:40:01+00:00",
    "4462150774": "2026-09-25T13:41:28+00:00",
+   "4462430554": "2026-11-11T09:17:10+00:00",
    "4462943375": "2026-09-23T21:09:51+00:00",
    "4462948050": "2026-09-23T21:09:51+00:00",
    "4462975502": "2026-09-30T05:26:13+00:00",
@@ -1692,6 +1686,7 @@
    "4474242527": "2026-10-06T15:04:52+00:00",
    "4474249754": "2026-10-06T15:04:52+00:00",
    "4474265331": "2026-10-06T15:04:52+00:00",
+   "4474280672": "2026-11-11T09:17:10+00:00",
    "4474310912": "2026-10-03T05:11:22+00:00",
    "4474318371": "2026-10-03T05:11:22+00:00",
    "4474323670": "2026-10-03T16:11:55+00:00",
@@ -1913,6 +1908,7 @@
    "4486953466": "2026-11-07T05:52:28+00:00",
    "4486958437": "2026-11-07T12:52:47+00:00",
    "4486976460": "2026-11-07T12:52:47+00:00",
+   "4487189567": "2026-11-11T09:17:10+00:00",
    "4487253006": "2026-11-05T12:13:24+00:00",
    "4487663838": "2026-11-10T12:32:05+00:00",
    "4487721850": "2026-11-06T12:00:33+00:00",
@@ -1927,7 +1923,8 @@
    "4488468230": "2026-11-08T13:15:08+00:00",
    "4488497908": "2026-11-08T05:53:37+00:00",
    "4488766263": "2026-11-09T18:42:14+00:00",
-   "4488799802": "2026-11-10T12:32:05+00:00"
+   "4488799802": "2026-11-10T12:32:05+00:00",
+   "4489428838": "2026-11-11T09:17:10+00:00"
   },
   "Mastercard": {
    "/job/Pune-India/Platform-Engineer-II_R-288632": "2026-09-28T13:45:49+00:00",
