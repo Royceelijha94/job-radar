@@ -14,12 +14,6 @@
     "location": "Hyderabad, Telangana, IND",
     "title": "System Development Engineer, AFT - Platform Engineering & Services",
     "url": "https://www.amazon.jobs/en/jobs/10588692/system-development-engineer-aft-platform-engineering-services"
-   },
-   {
-    "id": "10489541",
-    "location": "Hyderabad, Telangana, IND",
-    "title": "System Dev Engineer III, AFT Platform Engineering and Services",
-    "url": "https://www.amazon.jobs/en/jobs/10489541/system-dev-engineer-iii-aft-platform-engineering-and-services"
    }
   ],
   "Astronomer": [],
@@ -39,12 +33,6 @@
     "url": "https://jobs.smartrecruiters.com/BoschGroup/744000159545819"
    },
    {
-    "id": "744000159295609",
-    "location": "bangalore, India",
-    "title": "Full Stack Developer with DevOps experience",
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000159295609"
-   },
-   {
     "id": "744000158593709",
     "location": "bangalore, India",
     "title": "2026_MS_EMT1_VM_Senior VS Code Extension Developer (TypeScript | DevOps | CI/CD | Kubernetes)",
@@ -55,12 +43,6 @@
     "location": "bangalore, India",
     "title": "2026-MS_EMT2-VM_DevOps_Engineer",
     "url": "https://jobs.smartrecruiters.com/BoschGroup/744000157829938"
-   },
-   {
-    "id": "744000156714729",
-    "location": "telengana, India",
-    "title": "CRM Junior Engineer with Devops",
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000156714729"
    }
   ],
   "Bybit": [],
@@ -126,41 +108,6 @@
   "JFrog": [],
   "Kong": [],
   "LinkedIn alerts": [
-   {
-    "employer": "Aktoria Robotics",
-    "id": "4482954006",
-    "location": "Noida",
-    "title": "Data Infrastructure Engineer",
-    "url": "https://www.linkedin.com/jobs/view/4482954006/"
-   },
-   {
-    "employer": "Ivanti",
-    "id": "4481455833",
-    "location": "Hyderabad",
-    "title": "Site Reliability Engineer",
-    "url": "https://www.linkedin.com/jobs/view/4481455833/"
-   },
-   {
-    "employer": "Xentic AI",
-    "id": "4483282689",
-    "location": "Gurugram",
-    "title": "DevOps Engineer",
-    "url": "https://www.linkedin.com/jobs/view/4483282689/"
-   },
-   {
-    "employer": "Deutsche Bank",
-    "id": "4483713842",
-    "location": "Pune Division",
-    "title": "DevOps Engineer, AVP",
-    "url": "https://www.linkedin.com/jobs/view/4483713842/"
-   },
-   {
-    "employer": "Barclays",
-    "id": "4481479294",
-    "location": "Pune Division",
-    "title": "DevOps Engineer",
-    "url": "https://www.linkedin.com/jobs/view/4481479294/"
-   },
    {
     "employer": "Infosys",
     "id": "4474652646",
@@ -839,6 +786,41 @@
     "location": "Hyderabad",
     "title": "DevOps Engineer",
     "url": "https://www.linkedin.com/jobs/view/4487189567/"
+   },
+   {
+    "employer": "Deltek",
+    "id": "4488014751",
+    "location": "India",
+    "title": "AI DevOps Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4488014751/"
+   },
+   {
+    "employer": "Zebra Technologies",
+    "id": "4478274760",
+    "location": "Bengaluru",
+    "title": "Cloud Engineer II",
+    "url": "https://www.linkedin.com/jobs/view/4478274760/"
+   },
+   {
+    "employer": "Ascendeum",
+    "id": "4489433614",
+    "location": "India",
+    "title": "Assistant DevOps Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4489433614/"
+   },
+   {
+    "employer": "American Express Global Business Travel",
+    "id": "4487423897",
+    "location": "Bengaluru East",
+    "title": "DevOps Platform Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4487423897/"
+   },
+   {
+    "employer": "Auric AI Labs",
+    "id": "4487933826",
+    "location": "Bengaluru",
+    "title": "DevOps Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4487933826/"
    }
   ],
   "Mastercard": [],
@@ -859,6 +841,12 @@
   "Okta": [],
   "Oracle (OCI)": [
    {
+    "id": "346706",
+    "location": "India, NOIDA, UTTAR PRADESH, India, BENGALURU, KARNATAKA, India",
+    "title": "Cloud Operations Engineer – Production Support & DevOps",
+    "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/346706"
+   },
+   {
     "id": "350201",
     "location": "BENGALURU, KARNATAKA, India",
     "title": "Core Infrastructure Engineer 2",
@@ -872,7 +860,14 @@
   "Red Hat": [],
   "Redis": [],
   "Rubrik": [],
-  "Salesforce": [],
+  "Salesforce": [
+   {
+    "id": "/job/India---Hyderabad/Software-Engineering-MTS_JR338172-1",
+    "location": "India - Hyderabad, India - Bangalore",
+    "title": "Software Engineering, SMTS/MTS (Backend + Kubernetes/Docker/Helm)",
+    "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/India---Hyderabad/Software-Engineering-MTS_JR338172-1"
+   }
+  ],
   "Samsara": [],
   "ServiceNow": [],
   "Snowflake": [],
@@ -921,12 +916,6 @@
   "Atlan": {
    "ats": "ashby",
    "token": "atlan"
-  },
-  "Autodesk": {
-   "ats": "workday",
-   "site": "Ext",
-   "tenant": "autodesk",
-   "wd": "wd1"
   },
   "BharatPe": {
    "miss": "2026-11-10T02:41:25+00:00"
@@ -1777,6 +1766,7 @@
    "4478182125": "2026-10-15T11:20:35+00:00",
    "4478235769": "2026-10-20T04:41:48+00:00",
    "4478269741": "2026-10-21T07:31:00+00:00",
+   "4478274760": "2026-11-11T17:51:17+00:00",
    "4478278132": "2026-10-20T04:41:48+00:00",
    "4478378803": "2026-10-13T06:42:38+00:00",
    "4478441794": "2026-10-16T07:05:11+00:00",
@@ -1910,10 +1900,13 @@
    "4486976460": "2026-11-07T12:52:47+00:00",
    "4487189567": "2026-11-11T09:17:10+00:00",
    "4487253006": "2026-11-05T12:13:24+00:00",
+   "4487423897": "2026-11-11T17:51:17+00:00",
    "4487663838": "2026-11-10T12:32:05+00:00",
    "4487721850": "2026-11-06T12:00:33+00:00",
    "4487732153": "2026-11-06T12:00:33+00:00",
    "4487776404": "2026-11-07T05:52:28+00:00",
+   "4487933826": "2026-11-11T17:51:17+00:00",
+   "4488014751": "2026-11-11T17:51:17+00:00",
    "4488104592": "2026-11-07T12:52:47+00:00",
    "4488107686": "2026-11-07T12:52:47+00:00",
    "4488132723": "2026-11-08T13:15:08+00:00",
@@ -1924,7 +1917,8 @@
    "4488497908": "2026-11-08T05:53:37+00:00",
    "4488766263": "2026-11-09T18:42:14+00:00",
    "4488799802": "2026-11-10T12:32:05+00:00",
-   "4489428838": "2026-11-11T09:17:10+00:00"
+   "4489428838": "2026-11-11T09:17:10+00:00",
+   "4489433614": "2026-11-11T17:51:17+00:00"
   },
   "Mastercard": {
    "/job/Pune-India/Platform-Engineer-II_R-288632": "2026-09-28T13:45:49+00:00",
@@ -1957,6 +1951,7 @@
    "345871": "2026-09-24T17:05:36+00:00",
    "345896": "2026-09-25T13:41:28+00:00",
    "345903": "2026-09-24T17:05:36+00:00",
+   "346706": "2026-11-11T17:51:17+00:00",
    "346903": "2026-10-10T23:30:18+00:00",
    "348486": "2026-10-30T23:41:32+00:00",
    "348861": "2026-10-28T19:30:11+00:00",
