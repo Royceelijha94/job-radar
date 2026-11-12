@@ -821,6 +821,55 @@
     "location": "Bengaluru",
     "title": "DevOps Engineer",
     "url": "https://www.linkedin.com/jobs/view/4487933826/"
+   },
+   {
+    "employer": "Optum India",
+    "id": "4489913208",
+    "location": "Bengaluru",
+    "title": "DevOps Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4489913208/"
+   },
+   {
+    "employer": "Persistent Systems",
+    "id": "4488637216",
+    "location": "Bengaluru",
+    "title": "DevOps Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4488637216/"
+   },
+   {
+    "employer": "Cloudwick",
+    "id": "4489925227",
+    "location": "Bengaluru",
+    "title": "DevOps Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4489925227/"
+   },
+   {
+    "employer": "Scapia",
+    "id": "4488669888",
+    "location": "Bengaluru",
+    "title": "Site Reliability Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4488669888/"
+   },
+   {
+    "employer": "Jobgether",
+    "id": "4488653181",
+    "location": "India",
+    "title": "Site Reliability Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4488653181/"
+   },
+   {
+    "employer": "Deutsche Bank",
+    "id": "4489619966",
+    "location": "Pune Division",
+    "title": "Google Cloud Engineer - AVP",
+    "url": "https://www.linkedin.com/jobs/view/4489619966/"
+   },
+   {
+    "employer": "Electronic Arts (EA)",
+    "id": "4488220081",
+    "location": "Hyderabad",
+    "title": "Site Reliability Engineer II",
+    "url": "https://www.linkedin.com/jobs/view/4488220081/"
    }
   ],
   "Mastercard": [],
@@ -840,6 +889,18 @@
   "Observe.AI": [],
   "Okta": [],
   "Oracle (OCI)": [
+   {
+    "id": "343167",
+    "location": "BENGALURU, KARNATAKA, India",
+    "title": "Core Infrastructure Engineer 2",
+    "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/343167"
+   },
+   {
+    "id": "344640",
+    "location": "BENGALURU, KARNATAKA, India",
+    "title": "Core Infrastructure Engineer 2",
+    "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/344640"
+   },
    {
     "id": "350201",
     "location": "BENGALURU, KARNATAKA, India",
@@ -1911,14 +1972,21 @@
    "4488107686": "2026-11-07T12:52:47+00:00",
    "4488132723": "2026-11-08T13:15:08+00:00",
    "4488192134": "2026-11-08T13:15:08+00:00",
+   "4488220081": "2026-11-12T09:43:57+00:00",
    "4488412527": "2026-11-08T05:53:37+00:00",
    "4488424174": "2026-11-08T05:53:37+00:00",
    "4488468230": "2026-11-08T13:15:08+00:00",
    "4488497908": "2026-11-08T05:53:37+00:00",
+   "4488637216": "2026-11-12T09:43:57+00:00",
+   "4488653181": "2026-11-12T09:43:57+00:00",
+   "4488669888": "2026-11-12T09:43:57+00:00",
    "4488766263": "2026-11-09T18:42:14+00:00",
    "4488799802": "2026-11-10T12:32:05+00:00",
    "4489428838": "2026-11-11T09:17:10+00:00",
-   "4489433614": "2026-11-11T17:51:17+00:00"
+   "4489433614": "2026-11-11T17:51:17+00:00",
+   "4489619966": "2026-11-12T09:43:57+00:00",
+   "4489913208": "2026-11-12T09:43:57+00:00",
+   "4489925227": "2026-11-12T09:43:57+00:00"
   },
   "Mastercard": {
    "/job/Pune-India/Platform-Engineer-II_R-288632": "2026-09-28T13:45:49+00:00",
@@ -1947,6 +2015,7 @@
   },
   "Oracle (OCI)": {
    "343151": "2026-09-24T11:38:41+00:00",
+   "343167": "2026-11-12T09:43:57+00:00",
    "344640": "2026-10-26T12:50:33+00:00",
    "345871": "2026-09-24T17:05:36+00:00",
    "345896": "2026-09-25T13:41:28+00:00",
