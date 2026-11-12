@@ -841,12 +841,6 @@
   "Okta": [],
   "Oracle (OCI)": [
    {
-    "id": "346706",
-    "location": "India, NOIDA, UTTAR PRADESH, India, BENGALURU, KARNATAKA, India",
-    "title": "Cloud Operations Engineer – Production Support & DevOps",
-    "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/346706"
-   },
-   {
     "id": "350201",
     "location": "BENGALURU, KARNATAKA, India",
     "title": "Core Infrastructure Engineer 2",
@@ -916,6 +910,12 @@
   "Atlan": {
    "ats": "ashby",
    "token": "atlan"
+  },
+  "Autodesk": {
+   "ats": "workday",
+   "site": "Ext",
+   "tenant": "autodesk",
+   "wd": "wd1"
   },
   "BharatPe": {
    "miss": "2026-11-10T02:41:25+00:00"
