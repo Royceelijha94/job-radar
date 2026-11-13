@@ -33,6 +33,12 @@
     "url": "https://jobs.smartrecruiters.com/BoschGroup/744000160793069"
    },
    {
+    "id": "744000161475293",
+    "location": "Bengaluru Urban, India",
+    "title": "OpenText Workflow Backend Developer – Operations Orchestration (DevOps Team)",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161475293"
+   },
+   {
     "id": "744000159545819",
     "location": "hosur road bangalore, India",
     "title": "Embedded_Devops_ECT",
@@ -108,55 +114,6 @@
   "JFrog": [],
   "Kong": [],
   "LinkedIn alerts": [
-   {
-    "employer": "Nitro Commerce",
-    "id": "4483639857",
-    "location": "Gurugram",
-    "title": "DevOps Engineer",
-    "url": "https://www.linkedin.com/jobs/view/4483639857/"
-   },
-   {
-    "employer": "American Express",
-    "id": "4483875327",
-    "location": "Bengaluru",
-    "title": "Site Reliability Engineer II",
-    "url": "https://www.linkedin.com/jobs/view/4483875327/"
-   },
-   {
-    "employer": "American Express",
-    "id": "4483882167",
-    "location": "Bengaluru",
-    "title": "Site Reliability Engineer II",
-    "url": "https://www.linkedin.com/jobs/view/4483882167/"
-   },
-   {
-    "employer": "HSBC",
-    "id": "4484907853",
-    "location": "Hyderabad",
-    "title": "Devops, GCP, Docker, Kubernetes / Consultant Specialist",
-    "url": "https://www.linkedin.com/jobs/view/4484907853/"
-   },
-   {
-    "employer": "Deutsche Bank",
-    "id": "4484735010",
-    "location": "Bengaluru",
-    "title": "Associate DevOps & BI Platform Engineer, AS",
-    "url": "https://www.linkedin.com/jobs/view/4484735010/"
-   },
-   {
-    "employer": "HSBC",
-    "id": "4484925043",
-    "location": "Pune Division",
-    "title": "Devops, GCP, Docker, Kubernetes / Consultant Specialist",
-    "url": "https://www.linkedin.com/jobs/view/4484925043/"
-   },
-   {
-    "employer": "TransUnion",
-    "id": "4484101382",
-    "location": "Chennai",
-    "title": "DevOps Engineer",
-    "url": "https://www.linkedin.com/jobs/view/4484101382/"
-   },
    {
     "employer": "EasyLauncher",
     "id": "4483295830",
@@ -828,6 +785,41 @@
     "location": "India",
     "title": "SRE/DevOps Engineer",
     "url": "https://www.linkedin.com/jobs/view/4489071052/"
+   },
+   {
+    "employer": "PhonePe",
+    "id": "4488502435",
+    "location": "Bengaluru",
+    "title": "Site Reliability Engineer (4 to 8 Years) Core Infrastructure Team",
+    "url": "https://www.linkedin.com/jobs/view/4488502435/"
+   },
+   {
+    "employer": "PhonePe",
+    "id": "4478971891",
+    "location": "Bengaluru",
+    "title": "Site Reliability Engineer - On-Prem (1 to 4 Years)",
+    "url": "https://www.linkedin.com/jobs/view/4478971891/"
+   },
+   {
+    "employer": "Thales",
+    "id": "4489995290",
+    "location": "Bengaluru",
+    "title": "SRE III",
+    "url": "https://www.linkedin.com/jobs/view/4489995290/"
+   },
+   {
+    "employer": "LSEG",
+    "id": "4480729732",
+    "location": "Bengaluru",
+    "title": "Cloud Site Reliability Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4480729732/"
+   },
+   {
+    "employer": "PartnerOne",
+    "id": "4489993387",
+    "location": "India",
+    "title": "DevOps Automation Specialist",
+    "url": "https://www.linkedin.com/jobs/view/4489993387/"
    }
   ],
   "Mastercard": [],
@@ -1392,7 +1384,8 @@
    "744000158593709": "2026-10-29T19:35:07+00:00",
    "744000159295609": "2026-11-03T06:39:37+00:00",
    "744000159545819": "2026-11-04T06:06:26+00:00",
-   "744000160793069": "2026-11-10T12:32:05+00:00"
+   "744000160793069": "2026-11-10T12:32:05+00:00",
+   "744000161475293": "2026-11-13T17:40:23+00:00"
   },
   "Bybit": {},
   "CRED": {},
@@ -1791,6 +1784,7 @@
    "4478851952": "2026-10-16T07:05:11+00:00",
    "4478853197": "2026-10-16T13:12:34+00:00",
    "4478865464": "2026-10-16T07:05:11+00:00",
+   "4478971891": "2026-11-13T17:40:23+00:00",
    "4479096384": "2026-10-15T11:20:35+00:00",
    "4479124186": "2026-10-17T06:52:39+00:00",
    "4479129659": "2026-10-17T12:09:02+00:00",
@@ -1819,6 +1813,7 @@
    "4480486600": "2026-10-22T11:43:14+00:00",
    "4480566068": "2026-10-18T10:56:49+00:00",
    "4480647830": "2026-10-25T04:32:47+00:00",
+   "4480729732": "2026-11-13T17:40:23+00:00",
    "4480790416": "2026-10-22T04:34:55+00:00",
    "4480792407": "2026-10-22T04:34:55+00:00",
    "4480873166": "2026-10-19T13:00:35+00:00",
@@ -1923,6 +1918,7 @@
    "4488424174": "2026-11-08T05:53:37+00:00",
    "4488468230": "2026-11-08T13:15:08+00:00",
    "4488497908": "2026-11-08T05:53:37+00:00",
+   "4488502435": "2026-11-13T17:40:23+00:00",
    "4488637216": "2026-11-12T09:43:57+00:00",
    "4488653181": "2026-11-12T09:43:57+00:00",
    "4488669888": "2026-11-12T09:43:57+00:00",
@@ -1934,7 +1930,9 @@
    "4489433614": "2026-11-11T17:51:17+00:00",
    "4489619966": "2026-11-12T09:43:57+00:00",
    "4489913208": "2026-11-12T09:43:57+00:00",
-   "4489925227": "2026-11-12T09:43:57+00:00"
+   "4489925227": "2026-11-12T09:43:57+00:00",
+   "4489993387": "2026-11-13T17:40:23+00:00",
+   "4489995290": "2026-11-13T17:40:23+00:00"
   },
   "Mastercard": {
    "/job/Pune-India/Platform-Engineer-II_R-288632": "2026-09-28T13:45:49+00:00",
