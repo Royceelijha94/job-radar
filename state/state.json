@@ -960,12 +960,6 @@
   "Couchbase": {
    "miss": "2026-11-13T09:26:41+00:00"
   },
-  "CrowdStrike": {
-   "ats": "workday",
-   "site": "crowdstrikecareers",
-   "tenant": "crowdstrike",
-   "wd": "wd5"
-  },
   "Darwinbox": {
    "miss": "2026-11-13T09:26:41+00:00"
   },
@@ -1232,12 +1226,6 @@
   },
   "Whatfix": {
    "miss": "2026-11-13T09:26:41+00:00"
-  },
-  "Workday": {
-   "ats": "workday",
-   "site": "Workday",
-   "tenant": "workday",
-   "wd": "wd5"
   },
   "Yellow.ai": {
    "miss": "2026-11-13T09:26:41+00:00"
