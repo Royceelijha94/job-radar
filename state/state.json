@@ -62,12 +62,6 @@
   "Confluent": [],
   "CrowdStrike": [
    {
-    "id": "/job/India---Pune/Engineer-III---CICD-DevOps_R29096",
-    "location": "India - Pune",
-    "title": "Engineer III - Site Reliability",
-    "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/India---Pune/Engineer-III---CICD-DevOps_R29096"
-   },
-   {
     "id": "/job/India---Bangalore/Engineer-III---AI-Powered-SRE--UK-Shift-Timing-_R30369",
     "location": "India - Bangalore",
     "title": "Engineer III - AI Powered SRE (UK Shift Timing)",
@@ -114,13 +108,6 @@
   "JFrog": [],
   "Kong": [],
   "LinkedIn alerts": [
-   {
-    "employer": "Motive",
-    "id": "4484907684",
-    "location": "Bengaluru",
-    "title": "Software Engineer, Platform, SRE",
-    "url": "https://www.linkedin.com/jobs/view/4484907684/"
-   },
    {
     "employer": "Nitro Commerce",
     "id": "4483639857",
@@ -820,6 +807,27 @@
     "location": "Hyderabad",
     "title": "Site Reliability Engineer II",
     "url": "https://www.linkedin.com/jobs/view/4488220081/"
+   },
+   {
+    "employer": "JPMorganChase",
+    "id": "4482167401",
+    "location": "Mumbai",
+    "title": "Software Engineer II - SRE",
+    "url": "https://www.linkedin.com/jobs/view/4482167401/"
+   },
+   {
+    "employer": "Deloitte",
+    "id": "4488689342",
+    "location": "Bengaluru",
+    "title": "AWS Devops-DevOps Engineer III",
+    "url": "https://www.linkedin.com/jobs/view/4488689342/"
+   },
+   {
+    "employer": "Huxley",
+    "id": "4489071052",
+    "location": "India",
+    "title": "SRE/DevOps Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4489071052/"
    }
   ],
   "Mastercard": [],
@@ -850,12 +858,6 @@
     "location": "BENGALURU, KARNATAKA, India",
     "title": "Core Infrastructure Engineer 2",
     "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/344640"
-   },
-   {
-    "id": "350201",
-    "location": "BENGALURU, KARNATAKA, India",
-    "title": "Core Infrastructure Engineer 2",
-    "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350201"
    }
   ],
   "PagerDuty": [],
@@ -889,23 +891,23 @@
  },
  "resolved": {
   "AMD": {
-   "miss": "2026-11-10T02:41:25+00:00"
+   "miss": "2026-11-13T09:26:41+00:00"
   },
   "Acko": {
-   "miss": "2026-11-10T02:41:25+00:00"
+   "miss": "2026-11-13T09:26:41+00:00"
   },
   "Aerospike": {
-   "miss": "2026-11-10T02:41:25+00:00"
+   "miss": "2026-11-13T09:26:41+00:00"
   },
   "Airbyte": {
    "ats": "ashby",
    "token": "airbyte"
   },
   "Akamai": {
-   "miss": "2026-11-10T02:41:25+00:00"
+   "miss": "2026-11-13T09:26:41+00:00"
   },
   "Angel One": {
-   "miss": "2026-11-10T02:41:25+00:00"
+   "miss": "2026-11-13T09:26:41+00:00"
   },
   "Astronomer": {
    "ats": "ashby",
@@ -922,7 +924,7 @@
    "wd": "wd1"
   },
   "BharatPe": {
-   "miss": "2026-11-10T02:41:25+00:00"
+   "miss": "2026-11-13T09:26:41+00:00"
   },
   "Bosch": {
    "ats": "smartrecruiters",
@@ -933,10 +935,10 @@
    "token": "bybit"
   },
   "Cashfree Payments": {
-   "miss": "2026-11-10T02:41:25+00:00"
+   "miss": "2026-11-13T09:26:41+00:00"
   },
   "Chargebee": {
-   "miss": "2026-11-10T02:41:25+00:00"
+   "miss": "2026-11-13T09:26:41+00:00"
   },
   "CircleCI": {
    "ats": "greenhouse",
@@ -951,20 +953,20 @@
    "token": "cloudflare"
   },
   "Cohesity": {
-   "miss": "2026-11-10T02:41:25+00:00"
+   "miss": "2026-11-13T09:26:41+00:00"
   },
   "CoinDCX": {
-   "miss": "2026-11-10T02:41:25+00:00"
+   "miss": "2026-11-13T09:26:41+00:00"
   },
   "CoinSwitch": {
-   "miss": "2026-11-10T02:41:25+00:00"
+   "miss": "2026-11-13T09:26:41+00:00"
   },
   "Coinbase": {
    "ats": "greenhouse",
    "token": "coinbase"
   },
   "Couchbase": {
-   "miss": "2026-11-10T02:41:25+00:00"
+   "miss": "2026-11-13T09:26:41+00:00"
   },
   "CrowdStrike": {
    "ats": "workday",
@@ -973,17 +975,17 @@
    "wd": "wd5"
   },
   "Darwinbox": {
-   "miss": "2026-11-10T02:41:25+00:00"
+   "miss": "2026-11-13T09:26:41+00:00"
   },
   "Datadog": {
    "ats": "greenhouse",
    "token": "datadog"
   },
   "Delhivery": {
-   "miss": "2026-11-10T02:41:25+00:00"
+   "miss": "2026-11-13T09:26:41+00:00"
   },
   "Dell Technologies": {
-   "miss": "2026-11-10T02:41:25+00:00"
+   "miss": "2026-11-13T09:26:41+00:00"
   },
   "DigitalOcean": {
    "ats": "greenhouse",
@@ -994,14 +996,14 @@
    "token": "docker"
   },
   "Dream11": {
-   "miss": "2026-11-10T02:41:25+00:00"
+   "miss": "2026-11-13T09:26:41+00:00"
   },
   "Druva": {
    "ats": "greenhouse",
    "token": "druva"
   },
   "Dubizzle Group": {
-   "miss": "2026-11-10T02:41:25+00:00"
+   "miss": "2026-11-13T09:26:41+00:00"
   },
   "Fi Money": {
    "ats": "lever",
@@ -1012,10 +1014,10 @@
    "token": "fivetran"
   },
   "G42": {
-   "miss": "2026-11-10T02:41:25+00:00"
+   "miss": "2026-11-13T09:26:41+00:00"
   },
   "Games24x7": {
-   "miss": "2026-11-10T02:41:25+00:00"
+   "miss": "2026-11-13T09:26:41+00:00"
   },
   "Glance": {
    "ats": "greenhouse",
@@ -1026,24 +1028,24 @@
    "token": "gleanwork"
   },
   "Gupshup": {
-   "miss": "2026-11-10T02:41:25+00:00"
+   "miss": "2026-11-13T09:26:41+00:00"
   },
   "Hasura": {
-   "miss": "2026-11-10T02:41:25+00:00"
+   "miss": "2026-11-13T09:26:41+00:00"
   },
   "Hevo Data": {
    "ats": "lever",
    "token": "hevodata"
   },
   "Icertis": {
-   "miss": "2026-11-10T02:41:25+00:00"
+   "miss": "2026-11-13T09:26:41+00:00"
   },
   "InMobi": {
    "ats": "greenhouse",
    "token": "inmobi"
   },
   "Innovaccer": {
-   "miss": "2026-11-10T02:41:25+00:00"
+   "miss": "2026-11-13T09:26:41+00:00"
   },
   "Intel": {
    "ats": "workday",
@@ -1056,26 +1058,26 @@
    "token": "jfrog"
   },
   "Jupiter Money": {
-   "miss": "2026-11-10T02:41:25+00:00"
+   "miss": "2026-11-13T09:26:41+00:00"
   },
   "Juspay": {
-   "miss": "2026-11-10T02:41:25+00:00"
+   "miss": "2026-11-13T09:26:41+00:00"
   },
   "Kitopi": {
-   "miss": "2026-11-10T02:41:25+00:00"
+   "miss": "2026-11-13T09:26:41+00:00"
   },
   "Kong": {
    "ats": "ashby",
    "token": "kong"
   },
   "LeadSquared": {
-   "miss": "2026-11-10T02:41:25+00:00"
+   "miss": "2026-11-13T09:26:41+00:00"
   },
   "Lenskart": {
-   "miss": "2026-11-10T02:41:25+00:00"
+   "miss": "2026-11-13T09:26:41+00:00"
   },
   "MakeMyTrip": {
-   "miss": "2026-11-10T02:41:25+00:00"
+   "miss": "2026-11-13T09:26:41+00:00"
   },
   "Mastercard": {
    "ats": "workday",
@@ -1098,27 +1100,27 @@
    "token": "mongodb"
   },
   "Myntra": {
-   "miss": "2026-11-10T02:41:25+00:00"
+   "miss": "2026-11-13T09:26:41+00:00"
   },
   "Navi": {
-   "miss": "2026-11-10T02:41:25+00:00"
+   "miss": "2026-11-13T09:26:41+00:00"
   },
   "New Relic": {
    "ats": "greenhouse",
    "token": "newrelic"
   },
   "Nykaa": {
-   "miss": "2026-11-10T02:41:25+00:00"
+   "miss": "2026-11-13T09:26:41+00:00"
   },
   "Observe.AI": {
    "ats": "greenhouse",
    "token": "observeai"
   },
   "Ola": {
-   "miss": "2026-11-10T02:41:25+00:00"
+   "miss": "2026-11-13T09:26:41+00:00"
   },
   "PB Fintech (Policybazaar)": {
-   "miss": "2026-11-10T02:41:25+00:00"
+   "miss": "2026-11-13T09:26:41+00:00"
   },
   "PagerDuty": {
    "ats": "greenhouse",
@@ -1133,40 +1135,40 @@
    "token": "percona"
   },
   "Physics Wallah": {
-   "miss": "2026-11-10T02:41:25+00:00"
+   "miss": "2026-11-13T09:26:41+00:00"
   },
   "Pine Labs": {
-   "miss": "2026-11-10T02:41:25+00:00"
+   "miss": "2026-11-13T09:26:41+00:00"
   },
   "Property Finder": {
-   "miss": "2026-11-10T02:41:25+00:00"
+   "miss": "2026-11-13T09:26:41+00:00"
   },
   "Pure Storage": {
    "ats": "greenhouse",
    "token": "purestorage"
   },
   "Qualcomm": {
-   "miss": "2026-11-10T02:41:25+00:00"
+   "miss": "2026-11-13T09:26:41+00:00"
   },
   "Rapido": {
-   "miss": "2026-11-10T02:41:25+00:00"
+   "miss": "2026-11-13T09:26:41+00:00"
   },
   "Redis": {
    "ats": "ashby",
    "token": "redis"
   },
   "Rippling": {
-   "miss": "2026-11-10T02:41:25+00:00"
+   "miss": "2026-11-13T09:26:41+00:00"
   },
   "SUSE": {
-   "miss": "2026-11-10T02:41:25+00:00"
+   "miss": "2026-11-13T09:26:41+00:00"
   },
   "Samsara": {
    "ats": "greenhouse",
    "token": "samsara"
   },
   "ShareChat": {
-   "miss": "2026-11-10T02:41:25+00:00"
+   "miss": "2026-11-13T09:26:41+00:00"
   },
   "Snowflake": {
    "ats": "ashby",
@@ -1177,10 +1179,10 @@
    "token": "snyk"
   },
   "Sourcegraph": {
-   "miss": "2026-11-10T02:41:25+00:00"
+   "miss": "2026-11-13T09:26:41+00:00"
   },
   "Sprinto": {
-   "miss": "2026-11-10T02:41:25+00:00"
+   "miss": "2026-11-13T09:26:41+00:00"
   },
   "Stripe": {
    "ats": "greenhouse",
@@ -1199,7 +1201,7 @@
    "token": "sysdig"
   },
   "Tabby": {
-   "miss": "2026-11-10T02:41:25+00:00"
+   "miss": "2026-11-13T09:26:41+00:00"
   },
   "Tailscale": {
    "ats": "greenhouse",
@@ -1214,30 +1216,30 @@
    "token": "tekion"
   },
   "Tesco": {
-   "miss": "2026-11-10T02:41:25+00:00"
+   "miss": "2026-11-13T09:26:41+00:00"
   },
   "Thoughtworks": {
    "ats": "greenhouse",
    "token": "thoughtworks"
   },
   "Udaan": {
-   "miss": "2026-11-10T02:41:25+00:00"
+   "miss": "2026-11-13T09:26:41+00:00"
   },
   "Uniphore": {
-   "miss": "2026-11-10T02:41:25+00:00"
+   "miss": "2026-11-13T09:26:41+00:00"
   },
   "Upstox": {
-   "miss": "2026-11-10T02:41:25+00:00"
+   "miss": "2026-11-13T09:26:41+00:00"
   },
   "Urban Company": {
-   "miss": "2026-11-10T02:41:25+00:00"
+   "miss": "2026-11-13T09:26:41+00:00"
   },
   "Vercel": {
    "ats": "greenhouse",
    "token": "vercel"
   },
   "Whatfix": {
-   "miss": "2026-11-10T02:41:25+00:00"
+   "miss": "2026-11-13T09:26:41+00:00"
   },
   "Workday": {
    "ats": "workday",
@@ -1246,30 +1248,30 @@
    "wd": "wd5"
   },
   "Yellow.ai": {
-   "miss": "2026-11-10T02:41:25+00:00"
+   "miss": "2026-11-13T09:26:41+00:00"
   },
   "Yugabyte": {
    "ats": "greenhouse",
    "token": "yugabyte"
   },
   "Zendesk": {
-   "miss": "2026-11-10T02:41:25+00:00"
+   "miss": "2026-11-13T09:26:41+00:00"
   },
   "Zepto": {
-   "miss": "2026-11-10T02:41:25+00:00"
+   "miss": "2026-11-13T09:26:41+00:00"
   },
   "Zeta": {
    "ats": "lever",
    "token": "zeta"
   },
   "Zetwerk": {
-   "miss": "2026-11-10T02:41:25+00:00"
+   "miss": "2026-11-13T09:26:41+00:00"
   },
   "slice": {
-   "miss": "2026-11-10T02:41:25+00:00"
+   "miss": "2026-11-13T09:26:41+00:00"
   },
   "upGrad": {
-   "miss": "2026-11-10T02:41:25+00:00"
+   "miss": "2026-11-13T09:26:41+00:00"
   }
  },
  "seeded": [
@@ -1407,8 +1409,7 @@
    "/job/India---Bangalore/Engineer-III---AI-Powered-SRE--UK-Shift-Timing-_R30369": "2026-10-23T13:20:44+00:00",
    "/job/India---Bangalore/Engineer-III---Site-Reliability--Kubernetes_R30345": "2026-10-12T15:13:54+00:00",
    "/job/India---Bangalore/Infrastructure-Engineer--TechOps-CICD_R29461": "2026-10-06T15:04:52+00:00",
-   "/job/India---Bangalore/Network-Reliability-Engineer-III--Hybrid--IND-_R29210": "2026-09-29T16:29:02+00:00",
-   "/job/India---Pune/Engineer-III---CICD-DevOps_R29096": null
+   "/job/India---Bangalore/Network-Reliability-Engineer-III--Hybrid--IND-_R29210": "2026-09-29T16:29:02+00:00"
   },
   "Databricks": {},
   "Datadog": {},
@@ -1835,6 +1836,7 @@
    "4482068148": "2026-10-22T11:43:14+00:00",
    "4482105073": "2026-10-23T13:20:44+00:00",
    "4482163551": "2026-10-23T07:26:13+00:00",
+   "4482167401": "2026-11-13T09:26:41+00:00",
    "4482220006": "2026-10-29T12:53:32+00:00",
    "4482439455": "2026-10-23T13:20:44+00:00",
    "4482532683": "2026-10-31T12:16:11+00:00",
@@ -1924,8 +1926,10 @@
    "4488637216": "2026-11-12T09:43:57+00:00",
    "4488653181": "2026-11-12T09:43:57+00:00",
    "4488669888": "2026-11-12T09:43:57+00:00",
+   "4488689342": "2026-11-13T09:26:41+00:00",
    "4488766263": "2026-11-09T18:42:14+00:00",
    "4488799802": "2026-11-10T12:32:05+00:00",
+   "4489071052": "2026-11-13T09:26:41+00:00",
    "4489428838": "2026-11-11T09:17:10+00:00",
    "4489433614": "2026-11-11T17:51:17+00:00",
    "4489619966": "2026-11-12T09:43:57+00:00",
