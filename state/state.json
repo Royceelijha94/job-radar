@@ -115,55 +115,6 @@
   "Kong": [],
   "LinkedIn alerts": [
    {
-    "employer": "EasyLauncher",
-    "id": "4483295830",
-    "location": "Pune City",
-    "title": "DevOps Engineer (Immediate Joiners)",
-    "url": "https://www.linkedin.com/jobs/view/4483295830/"
-   },
-   {
-    "employer": "India's Future Investors - Money Entertainment Reality Show",
-    "id": "4482591942",
-    "location": "India",
-    "title": "DevOps Engineer",
-    "url": "https://www.linkedin.com/jobs/view/4482591942/"
-   },
-   {
-    "employer": "66degrees",
-    "id": "4484816249",
-    "location": "Bengaluru",
-    "title": "Site Reliability Engineer",
-    "url": "https://www.linkedin.com/jobs/view/4484816249/"
-   },
-   {
-    "employer": "Miratech",
-    "id": "4483062663",
-    "location": "Bengaluru",
-    "title": "DevOps Engineer",
-    "url": "https://www.linkedin.com/jobs/view/4483062663/"
-   },
-   {
-    "employer": "Jobgether",
-    "id": "4484595926",
-    "location": "India",
-    "title": "DevOps Automation Engineer",
-    "url": "https://www.linkedin.com/jobs/view/4484595926/"
-   },
-   {
-    "employer": "Runmap Infotech Private Ltd.",
-    "id": "4485298656",
-    "location": "India",
-    "title": "DevOps Engineer",
-    "url": "https://www.linkedin.com/jobs/view/4485298656/"
-   },
-   {
-    "employer": "Atlassian",
-    "id": "4484996713",
-    "location": "Bengaluru",
-    "title": "Data Platform Engineer",
-    "url": "https://www.linkedin.com/jobs/view/4484996713/"
-   },
-   {
     "employer": "Barclays",
     "id": "4482532683",
     "location": "Pune Division",
@@ -820,6 +771,41 @@
     "location": "India",
     "title": "DevOps Automation Specialist",
     "url": "https://www.linkedin.com/jobs/view/4489993387/"
+   },
+   {
+    "employer": "UST",
+    "id": "4480049444",
+    "location": "Bengaluru",
+    "title": "DevOps Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4480049444/"
+   },
+   {
+    "employer": "Viasat",
+    "id": "4483144977",
+    "location": "Hyderabad",
+    "title": "Site Reliability Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4483144977/"
+   },
+   {
+    "employer": "Umanist NA",
+    "id": "4489239850",
+    "location": "Navi Mumbai",
+    "title": "SRE Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4489239850/"
+   },
+   {
+    "employer": "FactSet",
+    "id": "4479490671",
+    "location": "Hyderabad",
+    "title": "Site Reliability Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4479490671/"
+   },
+   {
+    "employer": "TravClan",
+    "id": "4489245680",
+    "location": "New Delhi",
+    "title": "DevOps Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4489245680/"
    }
   ],
   "Mastercard": [],
@@ -909,12 +895,6 @@
    "ats": "ashby",
    "token": "atlan"
   },
-  "Autodesk": {
-   "ats": "workday",
-   "site": "Ext",
-   "tenant": "autodesk",
-   "wd": "wd1"
-  },
   "BharatPe": {
    "miss": "2026-11-13T09:26:41+00:00"
   },
@@ -959,6 +939,9 @@
   },
   "Couchbase": {
    "miss": "2026-11-13T09:26:41+00:00"
+  },
+  "CrowdStrike": {
+   "miss": "2026-11-14T06:10:05+00:00"
   },
   "Darwinbox": {
    "miss": "2026-11-13T09:26:41+00:00"
@@ -1033,12 +1016,6 @@
   "Innovaccer": {
    "miss": "2026-11-13T09:26:41+00:00"
   },
-  "Intel": {
-   "ats": "workday",
-   "site": "External",
-   "tenant": "intel",
-   "wd": "wd1"
-  },
   "JFrog": {
    "ats": "greenhouse",
    "token": "jfrog"
@@ -1064,18 +1041,6 @@
   },
   "MakeMyTrip": {
    "miss": "2026-11-13T09:26:41+00:00"
-  },
-  "Mastercard": {
-   "ats": "workday",
-   "site": "CorporateCareers",
-   "tenant": "mastercard",
-   "wd": "wd1"
-  },
-  "Micron": {
-   "ats": "workday",
-   "site": "External",
-   "tenant": "micron",
-   "wd": "wd1"
   },
   "Mindtickle": {
    "ats": "lever",
@@ -1226,6 +1191,9 @@
   },
   "Whatfix": {
    "miss": "2026-11-13T09:26:41+00:00"
+  },
+  "Workday": {
+   "miss": "2026-11-14T06:10:05+00:00"
   },
   "Yellow.ai": {
    "miss": "2026-11-13T09:26:41+00:00"
@@ -1784,6 +1752,7 @@
    "4479367051": "2026-10-18T10:56:49+00:00",
    "4479402596": "2026-10-23T07:26:13+00:00",
    "4479412422": "2026-10-23T07:26:13+00:00",
+   "4479490671": "2026-11-14T06:10:05+00:00",
    "4479505166": "2026-10-15T11:20:35+00:00",
    "4479539423": "2026-10-16T07:05:11+00:00",
    "4479592781": "2026-11-06T12:00:33+00:00",
@@ -1796,6 +1765,7 @@
    "4479931404": "2026-10-20T11:27:54+00:00",
    "4479981215": "2026-10-20T11:27:54+00:00",
    "4480034480": "2026-10-24T10:51:04+00:00",
+   "4480049444": "2026-11-14T06:10:05+00:00",
    "4480257119": "2026-10-23T07:26:13+00:00",
    "4480482689": "2026-10-22T11:43:14+00:00",
    "4480486600": "2026-10-22T11:43:14+00:00",
@@ -1831,6 +1801,7 @@
    "4482954006": "2026-10-28T12:43:18+00:00",
    "4483062663": "2026-10-31T05:29:11+00:00",
    "4483102522": "2026-10-25T11:17:15+00:00",
+   "4483144977": "2026-11-14T06:10:05+00:00",
    "4483282689": "2026-10-28T12:43:18+00:00",
    "4483295830": "2026-10-31T05:29:11+00:00",
    "4483496672": "2026-11-01T05:54:53+00:00",
@@ -1914,6 +1885,8 @@
    "4488766263": "2026-11-09T18:42:14+00:00",
    "4488799802": "2026-11-10T12:32:05+00:00",
    "4489071052": "2026-11-13T09:26:41+00:00",
+   "4489239850": "2026-11-14T06:10:05+00:00",
+   "4489245680": "2026-11-14T06:10:05+00:00",
    "4489428838": "2026-11-11T09:17:10+00:00",
    "4489433614": "2026-11-11T17:51:17+00:00",
    "4489619966": "2026-11-12T09:43:57+00:00",
