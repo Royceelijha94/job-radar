@@ -115,13 +115,6 @@
   "Kong": [],
   "LinkedIn alerts": [
    {
-    "employer": "Barclays",
-    "id": "4482532683",
-    "location": "Pune Division",
-    "title": "Infrastructure Cloud and DevOps Engineer",
-    "url": "https://www.linkedin.com/jobs/view/4482532683/"
-   },
-   {
     "employer": "Levi Strauss & Co.",
     "id": "4484871442",
     "location": "Bengaluru",
@@ -806,6 +799,69 @@
     "location": "New Delhi",
     "title": "DevOps Engineer",
     "url": "https://www.linkedin.com/jobs/view/4489245680/"
+   },
+   {
+    "employer": "Umanist NA",
+    "id": "4489239849",
+    "location": "Pune City",
+    "title": "SRE Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4489239849/"
+   },
+   {
+    "employer": "Nexcess",
+    "id": "4490587565",
+    "location": "India",
+    "title": "Site Reliability Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4490587565/"
+   },
+   {
+    "employer": "Umanist NA",
+    "id": "4489252357",
+    "location": "Pune Division",
+    "title": "SRE Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4489252357/"
+   },
+   {
+    "employer": "Nemetschek Group",
+    "id": "4489254207",
+    "location": "Bengaluru",
+    "title": "DevOps Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4489254207/"
+   },
+   {
+    "employer": "Uplers",
+    "id": "4490351906",
+    "location": "Bengaluru",
+    "title": "DevOps Engineer - Hybrid",
+    "url": "https://www.linkedin.com/jobs/view/4490351906/"
+   },
+   {
+    "employer": "CME Group",
+    "id": "4490322680",
+    "location": "Bengaluru",
+    "title": "Site Reliability Engineer II",
+    "url": "https://www.linkedin.com/jobs/view/4490322680/"
+   },
+   {
+    "employer": "IBM",
+    "id": "4488548089",
+    "location": "Bengaluru",
+    "title": "Infrastructure Specialist-DevOps",
+    "url": "https://www.linkedin.com/jobs/view/4488548089/"
+   },
+   {
+    "employer": "Revantage, A Blackstone Portfolio Company",
+    "id": "4490389589",
+    "location": "Bengaluru",
+    "title": "Oracle Integration DevOps Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4490389589/"
+   },
+   {
+    "employer": "Natus Sensory",
+    "id": "4490389951",
+    "location": "Bengaluru",
+    "title": "DevOps Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4490389951/"
    }
   ],
   "Mastercard": [],
@@ -894,6 +950,9 @@
   "Atlan": {
    "ats": "ashby",
    "token": "atlan"
+  },
+  "Autodesk": {
+   "miss": "2026-11-14T14:59:00+00:00"
   },
   "BharatPe": {
    "miss": "2026-11-13T09:26:41+00:00"
@@ -1016,6 +1075,9 @@
   "Innovaccer": {
    "miss": "2026-11-13T09:26:41+00:00"
   },
+  "Intel": {
+   "miss": "2026-11-14T14:59:00+00:00"
+  },
   "JFrog": {
    "ats": "greenhouse",
    "token": "jfrog"
@@ -1041,6 +1103,12 @@
   },
   "MakeMyTrip": {
    "miss": "2026-11-13T09:26:41+00:00"
+  },
+  "Mastercard": {
+   "miss": "2026-11-14T14:59:00+00:00"
+  },
+  "Micron": {
+   "miss": "2026-11-14T14:59:00+00:00"
   },
   "Mindtickle": {
    "ats": "lever",
@@ -1878,6 +1946,7 @@
    "4488468230": "2026-11-08T13:15:08+00:00",
    "4488497908": "2026-11-08T05:53:37+00:00",
    "4488502435": "2026-11-13T17:40:23+00:00",
+   "4488548089": "2026-11-14T14:59:00+00:00",
    "4488637216": "2026-11-12T09:43:57+00:00",
    "4488653181": "2026-11-12T09:43:57+00:00",
    "4488669888": "2026-11-12T09:43:57+00:00",
@@ -1885,15 +1954,23 @@
    "4488766263": "2026-11-09T18:42:14+00:00",
    "4488799802": "2026-11-10T12:32:05+00:00",
    "4489071052": "2026-11-13T09:26:41+00:00",
+   "4489239849": "2026-11-14T14:59:00+00:00",
    "4489239850": "2026-11-14T06:10:05+00:00",
    "4489245680": "2026-11-14T06:10:05+00:00",
+   "4489252357": "2026-11-14T14:59:00+00:00",
+   "4489254207": "2026-11-14T14:59:00+00:00",
    "4489428838": "2026-11-11T09:17:10+00:00",
    "4489433614": "2026-11-11T17:51:17+00:00",
    "4489619966": "2026-11-12T09:43:57+00:00",
    "4489913208": "2026-11-12T09:43:57+00:00",
    "4489925227": "2026-11-12T09:43:57+00:00",
    "4489993387": "2026-11-13T17:40:23+00:00",
-   "4489995290": "2026-11-13T17:40:23+00:00"
+   "4489995290": "2026-11-13T17:40:23+00:00",
+   "4490322680": "2026-11-14T14:59:00+00:00",
+   "4490351906": "2026-11-14T14:59:00+00:00",
+   "4490389589": "2026-11-14T14:59:00+00:00",
+   "4490389951": "2026-11-14T14:59:00+00:00",
+   "4490587565": "2026-11-14T14:59:00+00:00"
   },
   "Mastercard": {
    "/job/Pune-India/Platform-Engineer-II_R-288632": "2026-09-28T13:45:49+00:00",
