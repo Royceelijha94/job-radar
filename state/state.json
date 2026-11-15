@@ -10,12 +10,6 @@
     "url": "https://www.amazon.jobs/en/jobs/10603263/system-dev-engineer-ii-aft-platform-engineering-and-services"
    },
    {
-    "id": "10568687",
-    "location": "Hyderabad, Telangana, IND",
-    "title": "Dev Ops Engineer, AFT Platform Engineering and Services",
-    "url": "https://www.amazon.jobs/en/jobs/10568687/dev-ops-engineer-aft-platform-engineering-and-services"
-   },
-   {
     "id": "10588692",
     "location": "Hyderabad, Telangana, IND",
     "title": "System Development Engineer, AFT - Platform Engineering & Services",
@@ -108,41 +102,6 @@
   "JFrog": [],
   "Kong": [],
   "LinkedIn alerts": [
-   {
-    "employer": "Levi Strauss & Co.",
-    "id": "4484871442",
-    "location": "Bengaluru",
-    "title": "Engineer II, Systems Reliability Engineering",
-    "url": "https://www.linkedin.com/jobs/view/4484871442/"
-   },
-   {
-    "employer": "Infosys",
-    "id": "4458903806",
-    "location": "Bengaluru East",
-    "title": "AWS Site Reliability Engineer",
-    "url": "https://www.linkedin.com/jobs/view/4458903806/"
-   },
-   {
-    "employer": "NatWest Group",
-    "id": "4485372841",
-    "location": "Bengaluru",
-    "title": "Site Reliability Engineer, AVP",
-    "url": "https://www.linkedin.com/jobs/view/4485372841/"
-   },
-   {
-    "employer": "Provation",
-    "id": "4485383907",
-    "location": "Bengaluru East",
-    "title": "Site Reliability Specialist",
-    "url": "https://www.linkedin.com/jobs/view/4485383907/"
-   },
-   {
-    "employer": "Qualtrix Consulting Inc.",
-    "id": "4483496672",
-    "location": "India",
-    "title": "Site Reliability / Platform Engineer – Chaos Engineering, K6 Performance Testing & AWS Compute Optimization",
-    "url": "https://www.linkedin.com/jobs/view/4483496672/"
-   },
    {
     "employer": "Cisco",
     "id": "4468298851",
@@ -856,6 +815,62 @@
     "location": "Bengaluru",
     "title": "DevOps Engineer",
     "url": "https://www.linkedin.com/jobs/view/4490389951/"
+   },
+   {
+    "employer": "JPMorganChase",
+    "id": "4489924991",
+    "location": "Bengaluru",
+    "title": "Infrastructure Engineer III-  Storage & Automation",
+    "url": "https://www.linkedin.com/jobs/view/4489924991/"
+   },
+   {
+    "employer": "McAfee",
+    "id": "4482614319",
+    "location": "Bengaluru",
+    "title": "Site Reliability Engineer (SRE)",
+    "url": "https://www.linkedin.com/jobs/view/4482614319/"
+   },
+   {
+    "employer": "Cloudwick",
+    "id": "4491018058",
+    "location": "Bengaluru",
+    "title": "DevOps Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4491018058/"
+   },
+   {
+    "employer": "Euphoric Thought Technologies Pvt. Ltd.",
+    "id": "4489323710",
+    "location": "Bengaluru",
+    "title": "DevOps Engineer - 4-5 Years - Immediate Joiners",
+    "url": "https://www.linkedin.com/jobs/view/4489323710/"
+   },
+   {
+    "employer": "Westernacher Consulting",
+    "id": "4486866928",
+    "location": "Bengaluru East",
+    "title": "Cloud Operations Consultant",
+    "url": "https://www.linkedin.com/jobs/view/4486866928/"
+   },
+   {
+    "employer": "P99SOFT",
+    "id": "4489565747",
+    "location": "Hyderabad",
+    "title": "Site Reliability Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4489565747/"
+   },
+   {
+    "employer": "Accenture in India",
+    "id": "4490746491",
+    "location": "Bengaluru",
+    "title": "Cloud Platform Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4490746491/"
+   },
+   {
+    "employer": "Neuphonic",
+    "id": "4490751336",
+    "location": "India",
+    "title": "Infrastructure / Platform Engineer (India)",
+    "url": "https://www.linkedin.com/jobs/view/4490751336/"
    }
   ],
   "Mastercard": [],
@@ -1856,6 +1871,7 @@
    "4482439455": "2026-10-23T13:20:44+00:00",
    "4482532683": "2026-10-31T12:16:11+00:00",
    "4482591942": "2026-10-31T05:29:11+00:00",
+   "4482614319": "2026-11-15T09:15:01+00:00",
    "4482723231": "2026-10-24T10:51:04+00:00",
    "4482850830": "2026-10-25T11:17:15+00:00",
    "4482919636": "2026-10-27T04:56:09+00:00",
@@ -1917,6 +1933,7 @@
    "4486597494": "2026-11-06T12:00:33+00:00",
    "4486772437": "2026-11-07T12:52:47+00:00",
    "4486834467": "2026-11-04T06:06:26+00:00",
+   "4486866928": "2026-11-15T09:15:01+00:00",
    "4486908716": "2026-11-07T05:52:28+00:00",
    "4486953466": "2026-11-07T05:52:28+00:00",
    "4486958437": "2026-11-07T12:52:47+00:00",
@@ -1953,10 +1970,13 @@
    "4489245680": "2026-11-14T06:10:05+00:00",
    "4489252357": "2026-11-14T14:59:00+00:00",
    "4489254207": "2026-11-14T14:59:00+00:00",
+   "4489323710": "2026-11-15T09:15:01+00:00",
    "4489428838": "2026-11-11T09:17:10+00:00",
    "4489433614": "2026-11-11T17:51:17+00:00",
+   "4489565747": "2026-11-15T09:15:01+00:00",
    "4489619966": "2026-11-12T09:43:57+00:00",
    "4489913208": "2026-11-12T09:43:57+00:00",
+   "4489924991": "2026-11-15T09:15:01+00:00",
    "4489925227": "2026-11-12T09:43:57+00:00",
    "4489993387": "2026-11-13T17:40:23+00:00",
    "4489995290": "2026-11-13T17:40:23+00:00",
@@ -1964,7 +1984,10 @@
    "4490351906": "2026-11-14T14:59:00+00:00",
    "4490389589": "2026-11-14T14:59:00+00:00",
    "4490389951": "2026-11-14T14:59:00+00:00",
-   "4490587565": "2026-11-14T14:59:00+00:00"
+   "4490587565": "2026-11-14T14:59:00+00:00",
+   "4490746491": "2026-11-15T09:15:01+00:00",
+   "4490751336": "2026-11-15T09:15:01+00:00",
+   "4491018058": "2026-11-15T09:15:01+00:00"
   },
   "Mastercard": {
    "/job/Pune-India/Platform-Engineer-II_R-288632": "2026-09-28T13:45:49+00:00",
