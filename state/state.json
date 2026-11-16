@@ -103,20 +103,6 @@
   "Kong": [],
   "LinkedIn alerts": [
    {
-    "employer": "Qubrid AI",
-    "id": "4485928078",
-    "location": "India",
-    "title": "GPU Kubernetes Cluster Engineer WFH",
-    "url": "https://www.linkedin.com/jobs/view/4485928078/"
-   },
-   {
-    "employer": "AlgoSec",
-    "id": "4485924715",
-    "location": "New Delhi",
-    "title": "DevOps Engineer, India",
-    "url": "https://www.linkedin.com/jobs/view/4485924715/"
-   },
-   {
     "employer": "PayRup",
     "id": "4485171590",
     "location": "Chennai",
@@ -864,6 +850,27 @@
     "location": "India",
     "title": "Infrastructure / Platform Engineer (India)",
     "url": "https://www.linkedin.com/jobs/view/4490751336/"
+   },
+   {
+    "employer": "Fiserv",
+    "id": "4488678738",
+    "location": "Pune City",
+    "title": "DevOps Engineering",
+    "url": "https://www.linkedin.com/jobs/view/4488678738/"
+   },
+   {
+    "employer": "Nutanix",
+    "id": "4482606413",
+    "location": "Pune Division",
+    "title": "SRE II Enterprise Tech Support (Virtualization & Networking)",
+    "url": "https://www.linkedin.com/jobs/view/4482606413/"
+   },
+   {
+    "employer": "SAP",
+    "id": "4461335803",
+    "location": "Bengaluru",
+    "title": "Automation Reliability Engineer- python, devops, AI/ML",
+    "url": "https://www.linkedin.com/jobs/view/4461335803/"
    }
   ],
   "Mastercard": [],
@@ -1512,6 +1519,7 @@
    "4461154327": "2026-10-19T19:51:29+00:00",
    "4461157534": "2026-10-19T13:00:35+00:00",
    "4461192930": "2026-09-23T21:09:51+00:00",
+   "4461335803": "2026-11-16T06:17:02+00:00",
    "4461866992": "2026-10-21T07:31:00+00:00",
    "4462147795": "2026-09-24T04:40:01+00:00",
    "4462150774": "2026-09-25T13:41:28+00:00",
@@ -1864,6 +1872,7 @@
    "4482439455": "2026-10-23T13:20:44+00:00",
    "4482532683": "2026-10-31T12:16:11+00:00",
    "4482591942": "2026-10-31T05:29:11+00:00",
+   "4482606413": "2026-11-16T06:17:02+00:00",
    "4482614319": "2026-11-15T09:15:01+00:00",
    "4482723231": "2026-10-24T10:51:04+00:00",
    "4482850830": "2026-10-25T11:17:15+00:00",
@@ -1954,6 +1963,7 @@
    "4488637216": "2026-11-12T09:43:57+00:00",
    "4488653181": "2026-11-12T09:43:57+00:00",
    "4488669888": "2026-11-12T09:43:57+00:00",
+   "4488678738": "2026-11-16T06:17:02+00:00",
    "4488689342": "2026-11-13T09:26:41+00:00",
    "4488766263": "2026-11-09T18:42:14+00:00",
    "4488799802": "2026-11-10T12:32:05+00:00",
