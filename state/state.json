@@ -103,20 +103,6 @@
   "Kong": [],
   "LinkedIn alerts": [
    {
-    "employer": "TrainX",
-    "id": "4485466639",
-    "location": "India",
-    "title": "DevOps and Cloud Infrastructure Engineer",
-    "url": "https://www.linkedin.com/jobs/view/4485466639/"
-   },
-   {
-    "employer": "TransUnion",
-    "id": "4485411559",
-    "location": "Chennai",
-    "title": "Assoc DevOps Engineer",
-    "url": "https://www.linkedin.com/jobs/view/4485411559/"
-   },
-   {
     "employer": "Deutsche Bank",
     "id": "4486427481",
     "location": "Pune Division",
@@ -976,7 +962,7 @@
    "token": "atlan"
   },
   "Autodesk": {
-   "miss": "2026-11-14T14:59:00+00:00"
+   "miss": "2026-11-17T22:15:38+00:00"
   },
   "BharatPe": {
    "miss": "2026-11-16T18:24:59+00:00"
@@ -1100,7 +1086,7 @@
    "miss": "2026-11-16T18:24:59+00:00"
   },
   "Intel": {
-   "miss": "2026-11-14T14:59:00+00:00"
+   "miss": "2026-11-17T22:15:38+00:00"
   },
   "JFrog": {
    "ats": "greenhouse",
@@ -1129,10 +1115,10 @@
    "miss": "2026-11-16T18:24:59+00:00"
   },
   "Mastercard": {
-   "miss": "2026-11-14T14:59:00+00:00"
+   "miss": "2026-11-17T22:15:38+00:00"
   },
   "Micron": {
-   "miss": "2026-11-14T14:59:00+00:00"
+   "miss": "2026-11-17T22:15:38+00:00"
   },
   "Mindtickle": {
    "ats": "lever",
