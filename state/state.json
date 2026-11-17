@@ -8,18 +8,18 @@
     "location": "Hyderabad, Telangana, IND",
     "title": "System Dev Engineer II, AFT Platform Engineering and Services",
     "url": "https://www.amazon.jobs/en/jobs/10603263/system-dev-engineer-ii-aft-platform-engineering-and-services"
-   },
-   {
-    "id": "10588692",
-    "location": "Hyderabad, Telangana, IND",
-    "title": "System Development Engineer, AFT - Platform Engineering & Services",
-    "url": "https://www.amazon.jobs/en/jobs/10588692/system-development-engineer-aft-platform-engineering-services"
    }
   ],
   "Astronomer": [],
   "Atlan": [],
   "Autodesk": [],
   "Bosch": [
+   {
+    "id": "744000162064084",
+    "location": "hosur road bangalore, India",
+    "title": "Reliability Engineer",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000162064084"
+   },
    {
     "id": "744000160793069",
     "location": "bengaluru, India",
@@ -102,48 +102,6 @@
   "JFrog": [],
   "Kong": [],
   "LinkedIn alerts": [
-   {
-    "employer": "Charles Schwab India",
-    "id": "4486115230",
-    "location": "Hyderabad",
-    "title": "Associate - Software Development & Engineering (Site Reliability Engineer)",
-    "url": "https://www.linkedin.com/jobs/view/4486115230/"
-   },
-   {
-    "employer": "(IND) DISTINGUISHED, SOFTWARE ENGINEER",
-    "id": "4475684559",
-    "location": "Walmart Global Tech India",
-    "title": "<strong class=\"font-bold\" style=\"font-weight: 600;\">\"Site Reliability\" OR SRE OR DevOps OR \"Platform Engineer\"</strong>",
-    "url": "https://www.linkedin.com/jobs/view/4475684559/"
-   },
-   {
-    "employer": "Nutanix",
-    "id": "4485465082",
-    "location": "Pune Division",
-    "title": "SRE II Enterprise Tech Support (Virtualization & Networking)",
-    "url": "https://www.linkedin.com/jobs/view/4485465082/"
-   },
-   {
-    "employer": "Ascendion",
-    "id": "4485474398",
-    "location": "Bengaluru",
-    "title": "Site Reliability Engineer",
-    "url": "https://www.linkedin.com/jobs/view/4485474398/"
-   },
-   {
-    "employer": "Antal International",
-    "id": "4485444414",
-    "location": "Bengaluru",
-    "title": "DevOps Engineer (AWS)",
-    "url": "https://www.linkedin.com/jobs/view/4485444414/"
-   },
-   {
-    "employer": "Black Duck",
-    "id": "4485465359",
-    "location": "Bengaluru",
-    "title": "ProdOps Engineer 4 (DevOps Engineer)",
-    "url": "https://www.linkedin.com/jobs/view/4485465359/"
-   },
    {
     "employer": "TrainX",
     "id": "4485466639",
@@ -878,6 +836,62 @@
     "location": "Bengaluru",
     "title": "Site Reliability Engineer / DevOps Engineer",
     "url": "https://www.linkedin.com/jobs/view/4454259734/"
+   },
+   {
+    "employer": "Remotohire",
+    "id": "4489721367",
+    "location": "India",
+    "title": "Cloud DevOps Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4489721367/"
+   },
+   {
+    "employer": "Invi Grid Inc.",
+    "id": "4490272369",
+    "location": "India",
+    "title": "DevOps Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4490272369/"
+   },
+   {
+    "employer": "Global Payments Inc.",
+    "id": "4491501577",
+    "location": "Pune/Pimpri-Chinchwad Area",
+    "title": "DevOps Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4491501577/"
+   },
+   {
+    "employer": "Black Duck",
+    "id": "4490288109",
+    "location": "Bengaluru",
+    "title": "ProdOps Engineer 4 (DevOps/SRE Engineer)",
+    "url": "https://www.linkedin.com/jobs/view/4490288109/"
+   },
+   {
+    "employer": "KONE",
+    "id": "4491513150",
+    "location": "Pune/Pimpri-Chinchwad Area",
+    "title": "DevOps Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4491513150/"
+   },
+   {
+    "employer": "Fidelity Investments",
+    "id": "4491500606",
+    "location": "Bengaluru East",
+    "title": "Cloud Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4491500606/"
+   },
+   {
+    "employer": "Retail Insights",
+    "id": "4490293222",
+    "location": "Bengaluru",
+    "title": "DevOps Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4490293222/"
+   },
+   {
+    "employer": "Levi Strauss & Co.",
+    "id": "4490296052",
+    "location": "Bengaluru",
+    "title": "Engineer II, Systems Reliability Engineering",
+    "url": "https://www.linkedin.com/jobs/view/4490296052/"
    }
   ],
   "Mastercard": [],
@@ -896,7 +910,14 @@
   "Nvidia": [],
   "Observe.AI": [],
   "Okta": [],
-  "Oracle (OCI)": [],
+  "Oracle (OCI)": [
+   {
+    "id": "349622",
+    "location": "BENGALURU, KARNATAKA, India",
+    "title": "Core Infrastructure Engineer 2",
+    "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/349622"
+   }
+  ],
   "PagerDuty": [],
   "Paytm": [],
   "Percona": [],
@@ -906,14 +927,7 @@
   "Rubrik": [],
   "Salesforce": [],
   "Samsara": [],
-  "ServiceNow": [
-   {
-    "id": "744000161736459",
-    "location": "Hyderabad, India",
-    "title": "AI Platform Engineer",
-    "url": "https://jobs.smartrecruiters.com/ServiceNow/744000161736459"
-   }
-  ],
+  "ServiceNow": [],
   "Snowflake": [],
   "Snyk": [],
   "Stripe": [],
@@ -1010,7 +1024,7 @@
    "miss": "2026-11-16T18:24:59+00:00"
   },
   "CrowdStrike": {
-   "miss": "2026-11-14T06:10:05+00:00"
+   "miss": "2026-11-17T13:13:47+00:00"
   },
   "Darwinbox": {
    "miss": "2026-11-16T18:24:59+00:00"
@@ -1271,7 +1285,7 @@
    "miss": "2026-11-16T18:24:59+00:00"
   },
   "Workday": {
-   "miss": "2026-11-14T06:10:05+00:00"
+   "miss": "2026-11-17T13:13:47+00:00"
   },
   "Yellow.ai": {
    "miss": "2026-11-16T18:24:59+00:00"
@@ -1419,7 +1433,8 @@
    "744000159295609": "2026-11-03T06:39:37+00:00",
    "744000159545819": "2026-11-04T06:06:26+00:00",
    "744000160793069": "2026-11-10T12:32:05+00:00",
-   "744000161475293": "2026-11-13T17:40:23+00:00"
+   "744000161475293": "2026-11-13T17:40:23+00:00",
+   "744000162064084": "2026-11-17T13:13:47+00:00"
   },
   "Bybit": {},
   "CRED": {},
@@ -1981,12 +1996,17 @@
    "4489433614": "2026-11-11T17:51:17+00:00",
    "4489565747": "2026-11-15T09:15:01+00:00",
    "4489619966": "2026-11-12T09:43:57+00:00",
+   "4489721367": "2026-11-17T13:13:47+00:00",
    "4489893866": "2026-11-16T18:24:59+00:00",
    "4489913208": "2026-11-12T09:43:57+00:00",
    "4489924991": "2026-11-15T09:15:01+00:00",
    "4489925227": "2026-11-12T09:43:57+00:00",
    "4489993387": "2026-11-13T17:40:23+00:00",
    "4489995290": "2026-11-13T17:40:23+00:00",
+   "4490272369": "2026-11-17T13:13:47+00:00",
+   "4490288109": "2026-11-17T13:13:47+00:00",
+   "4490293222": "2026-11-17T13:13:47+00:00",
+   "4490296052": "2026-11-17T13:13:47+00:00",
    "4490322680": "2026-11-14T14:59:00+00:00",
    "4490351906": "2026-11-14T14:59:00+00:00",
    "4490389589": "2026-11-14T14:59:00+00:00",
@@ -1994,7 +2014,10 @@
    "4490587565": "2026-11-14T14:59:00+00:00",
    "4490746491": "2026-11-15T09:15:01+00:00",
    "4490751336": "2026-11-15T09:15:01+00:00",
-   "4491018058": "2026-11-15T09:15:01+00:00"
+   "4491018058": "2026-11-15T09:15:01+00:00",
+   "4491500606": "2026-11-17T13:13:47+00:00",
+   "4491501577": "2026-11-17T13:13:47+00:00",
+   "4491513150": "2026-11-17T13:13:47+00:00"
   },
   "Mastercard": {
    "/job/Pune-India/Platform-Engineer-II_R-288632": "2026-09-28T13:45:49+00:00",
@@ -2033,6 +2056,7 @@
    "348486": "2026-10-30T23:41:32+00:00",
    "348861": "2026-10-28T19:30:11+00:00",
    "349596": "2026-11-04T21:50:05+00:00",
+   "349622": "2026-11-17T13:13:47+00:00",
    "350201": "2026-11-10T20:47:11+00:00"
   },
   "PagerDuty": {},
