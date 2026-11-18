@@ -2,14 +2,7 @@
  "open": {
   "Adobe": [],
   "Airbyte": [],
-  "Amazon (AWS)": [
-   {
-    "id": "10603263",
-    "location": "Hyderabad, Telangana, IND",
-    "title": "System Dev Engineer II, AFT Platform Engineering and Services",
-    "url": "https://www.amazon.jobs/en/jobs/10603263/system-dev-engineer-ii-aft-platform-engineering-and-services"
-   }
-  ],
+  "Amazon (AWS)": [],
   "Astronomer": [],
   "Atlan": [],
   "Autodesk": [],
@@ -102,34 +95,6 @@
   "JFrog": [],
   "Kong": [],
   "LinkedIn alerts": [
-   {
-    "employer": "Deutsche Bank",
-    "id": "4486427481",
-    "location": "Pune Division",
-    "title": "Tooling & Automation Site Reliability Engineering (SRE), AVP",
-    "url": "https://www.linkedin.com/jobs/view/4486427481/"
-   },
-   {
-    "employer": "Barclays",
-    "id": "4484625779",
-    "location": "Gurugram",
-    "title": "Infrastructure Engineer",
-    "url": "https://www.linkedin.com/jobs/view/4484625779/"
-   },
-   {
-    "employer": "Smart Working",
-    "id": "4486834467",
-    "location": "India",
-    "title": "DevOps / Platform Engineer (Remote, Full-Time) [AS348]",
-    "url": "https://www.linkedin.com/jobs/view/4486834467/"
-   },
-   {
-    "employer": "Tecsys Inc.",
-    "id": "4485481028",
-    "location": "Bengaluru",
-    "title": "Site Reliability Engineer",
-    "url": "https://www.linkedin.com/jobs/view/4485481028/"
-   },
    {
     "employer": "Nutanix",
     "id": "4477978126",
@@ -878,6 +843,41 @@
     "location": "Bengaluru",
     "title": "Engineer II, Systems Reliability Engineering",
     "url": "https://www.linkedin.com/jobs/view/4490296052/"
+   },
+   {
+    "employer": "JPMorganChase",
+    "id": "4489790952",
+    "location": "Bengaluru",
+    "title": "Software Engineer III-DevOps",
+    "url": "https://www.linkedin.com/jobs/view/4489790952/"
+   },
+   {
+    "employer": "JPMorganChase",
+    "id": "4489792845",
+    "location": "Bengaluru",
+    "title": "SRE III- Network",
+    "url": "https://www.linkedin.com/jobs/view/4489792845/"
+   },
+   {
+    "employer": "JPMorganChase",
+    "id": "4490180980",
+    "location": "Mumbai",
+    "title": "Software Engineer III-DevOps",
+    "url": "https://www.linkedin.com/jobs/view/4490180980/"
+   },
+   {
+    "employer": "Jobgether",
+    "id": "4490170784",
+    "location": "India",
+    "title": "Site Reliability Engineer (SRE)",
+    "url": "https://www.linkedin.com/jobs/view/4490170784/"
+   },
+   {
+    "employer": "Software Engineer III",
+    "id": "4481444642",
+    "location": "Walmart Global Tech India",
+    "title": "<strong class=\"font-bold\" style=\"font-weight: 600;\">\"Site Reliability\" OR SRE OR DevOps OR \"Platform Engineer\"</strong>",
+    "url": "https://www.linkedin.com/jobs/view/4481444642/"
    }
   ],
   "Mastercard": [],
@@ -1863,6 +1863,7 @@
    "4481327086": "2026-10-23T07:26:13+00:00",
    "4481440264": "2026-10-27T04:56:09+00:00",
    "4481440458": "2026-10-28T05:31:08+00:00",
+   "4481444642": "2026-11-18T07:16:07+00:00",
    "4481448081": "2026-10-28T05:31:08+00:00",
    "4481455833": "2026-10-28T12:43:18+00:00",
    "4481479294": "2026-10-28T12:43:18+00:00",
@@ -1983,12 +1984,16 @@
    "4489565747": "2026-11-15T09:15:01+00:00",
    "4489619966": "2026-11-12T09:43:57+00:00",
    "4489721367": "2026-11-17T13:13:47+00:00",
+   "4489790952": "2026-11-18T07:16:07+00:00",
+   "4489792845": "2026-11-18T07:16:07+00:00",
    "4489893866": "2026-11-16T18:24:59+00:00",
    "4489913208": "2026-11-12T09:43:57+00:00",
    "4489924991": "2026-11-15T09:15:01+00:00",
    "4489925227": "2026-11-12T09:43:57+00:00",
    "4489993387": "2026-11-13T17:40:23+00:00",
    "4489995290": "2026-11-13T17:40:23+00:00",
+   "4490170784": "2026-11-18T07:16:07+00:00",
+   "4490180980": "2026-11-18T07:16:07+00:00",
    "4490272369": "2026-11-17T13:13:47+00:00",
    "4490288109": "2026-11-17T13:13:47+00:00",
    "4490293222": "2026-11-17T13:13:47+00:00",
