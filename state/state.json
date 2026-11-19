@@ -899,6 +899,48 @@
     "location": "Hyderabad",
     "title": "Production Support Engineer (DevOps/SRE) – Pan India (Hybrid) | Immediate Joiners Only",
     "url": "https://www.linkedin.com/jobs/view/4490900913/"
+   },
+   {
+    "employer": "Barclays",
+    "id": "4490858167",
+    "location": "Pune Division",
+    "title": "DevOps Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4490858167/"
+   },
+   {
+    "employer": "JPMorganChase",
+    "id": "4490845422",
+    "location": "Hyderabad",
+    "title": "Infrastructure Engineer III- Storage & Automation",
+    "url": "https://www.linkedin.com/jobs/view/4490845422/"
+   },
+   {
+    "employer": "Capgemini",
+    "id": "4491491956",
+    "location": "Hyderabad",
+    "title": "Devops Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4491491956/"
+   },
+   {
+    "employer": "DwellFi",
+    "id": "4491820514",
+    "location": "India",
+    "title": "Site Reliability & DevOps Engineer (India - Remote)",
+    "url": "https://www.linkedin.com/jobs/view/4491820514/"
+   },
+   {
+    "employer": "NatWest Group",
+    "id": "4491769683",
+    "location": "Bengaluru",
+    "title": "Infrastructure engineer, SRE",
+    "url": "https://www.linkedin.com/jobs/view/4491769683/"
+   },
+   {
+    "employer": "InCred Financial Services",
+    "id": "4491820693",
+    "location": "Bengaluru",
+    "title": "DevOps Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4491820693/"
    }
   ],
   "Mastercard": [],
@@ -2037,13 +2079,19 @@
    "4490619082": "2026-11-18T17:11:50+00:00",
    "4490746491": "2026-11-15T09:15:01+00:00",
    "4490751336": "2026-11-15T09:15:01+00:00",
+   "4490845422": "2026-11-19T10:13:30+00:00",
+   "4490858167": "2026-11-19T10:13:30+00:00",
    "4490900913": "2026-11-18T17:11:50+00:00",
    "4490949144": "2026-11-18T17:11:50+00:00",
    "4491018058": "2026-11-15T09:15:01+00:00",
    "4491144335": "2026-11-18T17:11:50+00:00",
+   "4491491956": "2026-11-19T10:13:30+00:00",
    "4491500606": "2026-11-17T13:13:47+00:00",
    "4491501577": "2026-11-17T13:13:47+00:00",
-   "4491513150": "2026-11-17T13:13:47+00:00"
+   "4491513150": "2026-11-17T13:13:47+00:00",
+   "4491769683": "2026-11-19T10:13:30+00:00",
+   "4491820514": "2026-11-19T10:13:30+00:00",
+   "4491820693": "2026-11-19T10:13:30+00:00"
   },
   "Mastercard": {
    "/job/Pune-India/Platform-Engineer-II_R-288632": "2026-09-28T13:45:49+00:00",
