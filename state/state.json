@@ -76,81 +76,11 @@
   "Grafana Labs": [],
   "Harness": [],
   "Hevo Data": [],
-  "InMobi": [
-   {
-    "id": "7393433",
-    "location": "Bangalore",
-    "title": "SDE III - Devops",
-    "url": "https://job-boards.greenhouse.io/inmobi/jobs/7393433"
-   }
-  ],
+  "InMobi": [],
   "Intel": [],
   "JFrog": [],
   "Kong": [],
   "LinkedIn alerts": [
-   {
-    "employer": "Moneytos",
-    "id": "4486511552",
-    "location": "India",
-    "title": "DevOps Engineer",
-    "url": "https://www.linkedin.com/jobs/view/4486511552/"
-   },
-   {
-    "employer": "IDFC FIRST Bank",
-    "id": "4486597494",
-    "location": "Hyderabad",
-    "title": "DevOps Engineer",
-    "url": "https://www.linkedin.com/jobs/view/4486597494/"
-   },
-   {
-    "employer": "r3 Consultant",
-    "id": "4487721850",
-    "location": "Mumbai",
-    "title": "Site Reliability Engineer",
-    "url": "https://www.linkedin.com/jobs/view/4487721850/"
-   },
-   {
-    "employer": "IDFC FIRST Bank",
-    "id": "4485597811",
-    "location": "Chennai",
-    "title": "DevOps Engineer",
-    "url": "https://www.linkedin.com/jobs/view/4485597811/"
-   },
-   {
-    "employer": "JPMorganChase",
-    "id": "4479592781",
-    "location": "Bengaluru",
-    "title": "Site Reliability Engineer II - Python, AWS, Unix",
-    "url": "https://www.linkedin.com/jobs/view/4479592781/"
-   },
-   {
-    "employer": "NetApp",
-    "id": "4485511236",
-    "location": "Bengaluru",
-    "title": "Site Reliability Engineer",
-    "url": "https://www.linkedin.com/jobs/view/4485511236/"
-   },
-   {
-    "employer": "Flexiple",
-    "id": "4487732153",
-    "location": "India",
-    "title": "DevOps Engineer",
-    "url": "https://www.linkedin.com/jobs/view/4487732153/"
-   },
-   {
-    "employer": "Cisco",
-    "id": "4451664188",
-    "location": "Bengaluru",
-    "title": "Reliability Engineer",
-    "url": "https://www.linkedin.com/jobs/view/4451664188/"
-   },
-   {
-    "employer": "Nutanix",
-    "id": "4478444487",
-    "location": "Pune Division",
-    "title": "Systems Reliability Engineer II (Pune)",
-    "url": "https://www.linkedin.com/jobs/view/4478444487/"
-   },
    {
     "employer": "Codemonk",
     "id": "4486029191",
@@ -899,6 +829,27 @@
     "location": "Bengaluru",
     "title": "DevOps Engineer",
     "url": "https://www.linkedin.com/jobs/view/4491820693/"
+   },
+   {
+    "employer": "Razorpay",
+    "id": "4491835667",
+    "location": "Greater Bengaluru Area",
+    "title": "Site Reliability Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4491835667/"
+   },
+   {
+    "employer": "Deutsche Bank",
+    "id": "4492088220",
+    "location": "Bengaluru",
+    "title": "SRE - Reliability Engineer- AS",
+    "url": "https://www.linkedin.com/jobs/view/4492088220/"
+   },
+   {
+    "employer": "Citi",
+    "id": "4491860741",
+    "location": "Pune Division",
+    "title": "Junior DevOps Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4491860741/"
    }
   ],
   "Mastercard": [],
@@ -951,7 +902,14 @@
   "Vercel": [],
   "Workday": [],
   "Yugabyte": [],
-  "Zeta": [],
+  "Zeta": [
+   {
+    "id": "f827a249-2537-4f7f-aade-25b829fc13f2",
+    "location": "Bangalore",
+    "title": "Site Reliability Engineer- II",
+    "url": "https://jobs.lever.co/zeta/f827a249-2537-4f7f-aade-25b829fc13f2"
+   }
+  ],
   "Zscaler": []
  },
  "resolved": {
@@ -1484,9 +1442,7 @@
   "Grafana Labs": {},
   "Harness": {},
   "Hevo Data": {},
-  "InMobi": {
-   "7393433": null
-  },
+  "InMobi": {},
   "Intel": {
    "/job/India-Bangalore/Product-Quality-and-Reliability-Engineer_JR0288827": "2026-11-02T15:39:30+00:00"
   },
@@ -2043,7 +1999,10 @@
    "4491513150": "2026-11-17T13:13:47+00:00",
    "4491769683": "2026-11-19T10:13:30+00:00",
    "4491820514": "2026-11-19T10:13:30+00:00",
-   "4491820693": "2026-11-19T10:13:30+00:00"
+   "4491820693": "2026-11-19T10:13:30+00:00",
+   "4491835667": "2026-11-20T12:46:48+00:00",
+   "4491860741": "2026-11-20T12:46:48+00:00",
+   "4492088220": "2026-11-20T12:46:48+00:00"
   },
   "Mastercard": {
    "/job/Pune-India/Platform-Engineer-II_R-288632": "2026-09-28T13:45:49+00:00",
@@ -2125,7 +2084,8 @@
   "Zeta": {
    "4dfd3df1-9520-4e20-9b9b-3a1fa80ad323": "2026-10-30T12:44:53+00:00",
    "5eb7a75b-312c-4759-8813-70e67b5d4109": "2026-09-23T21:15:40+00:00",
-   "803792f5-0e9c-45bc-82ce-c0a552ce0cf8": "2026-09-23T21:15:40+00:00"
+   "803792f5-0e9c-45bc-82ce-c0a552ce0cf8": "2026-09-23T21:15:40+00:00",
+   "f827a249-2537-4f7f-aade-25b829fc13f2": "2026-11-20T12:46:48+00:00"
   },
   "Zscaler": {}
  }
