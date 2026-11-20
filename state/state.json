@@ -868,14 +868,7 @@
   "Nvidia": [],
   "Observe.AI": [],
   "Okta": [],
-  "Oracle (OCI)": [
-   {
-    "id": "349596",
-    "location": "BENGALURU, KARNATAKA, India",
-    "title": "Core Infrastructure Engineer 2",
-    "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/349596"
-   }
-  ],
+  "Oracle (OCI)": [],
   "PagerDuty": [],
   "Paytm": [],
   "Percona": [],
@@ -989,7 +982,7 @@
    "miss": "2026-11-19T20:28:30+00:00"
   },
   "CrowdStrike": {
-   "miss": "2026-11-17T13:13:47+00:00"
+   "miss": "2026-11-20T21:46:25+00:00"
   },
   "Darwinbox": {
    "miss": "2026-11-19T20:28:30+00:00"
@@ -1250,7 +1243,7 @@
    "miss": "2026-11-19T20:28:30+00:00"
   },
   "Workday": {
-   "miss": "2026-11-17T13:13:47+00:00"
+   "miss": "2026-11-20T21:46:25+00:00"
   },
   "Yellow.ai": {
    "miss": "2026-11-19T20:28:30+00:00"
