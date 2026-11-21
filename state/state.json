@@ -82,41 +82,6 @@
   "Kong": [],
   "LinkedIn alerts": [
    {
-    "employer": "Codemonk",
-    "id": "4486029191",
-    "location": "Bengaluru",
-    "title": "Site Reliability Engineer (SRE)",
-    "url": "https://www.linkedin.com/jobs/view/4486029191/"
-   },
-   {
-    "employer": "American Express",
-    "id": "4486953466",
-    "location": "Bengaluru",
-    "title": "Infrastructure Engineer I",
-    "url": "https://www.linkedin.com/jobs/view/4486953466/"
-   },
-   {
-    "employer": "Barclays",
-    "id": "4485581798",
-    "location": "Bengaluru",
-    "title": "Data Engineer - AWS Cloud Engineer",
-    "url": "https://www.linkedin.com/jobs/view/4485581798/"
-   },
-   {
-    "employer": "Citi",
-    "id": "4486908716",
-    "location": "Pune Division",
-    "title": "Devops Engineer",
-    "url": "https://www.linkedin.com/jobs/view/4486908716/"
-   },
-   {
-    "employer": "Sophos",
-    "id": "4487776404",
-    "location": "India",
-    "title": "Site Reliability Engineer /Cloud",
-    "url": "https://www.linkedin.com/jobs/view/4487776404/"
-   },
-   {
     "employer": "Moolya",
     "id": "4486958437",
     "location": "Bengaluru",
@@ -850,6 +815,104 @@
     "location": "Pune Division",
     "title": "Junior DevOps Engineer",
     "url": "https://www.linkedin.com/jobs/view/4491860741/"
+   },
+   {
+    "employer": "American Express",
+    "id": "4492157220",
+    "location": "Bengaluru",
+    "title": "Infrastructure Engineer II",
+    "url": "https://www.linkedin.com/jobs/view/4492157220/"
+   },
+   {
+    "employer": "American Express",
+    "id": "4492139991",
+    "location": "Gurugram",
+    "title": "Infrastructure Engineer II",
+    "url": "https://www.linkedin.com/jobs/view/4492139991/"
+   },
+   {
+    "employer": "American Express",
+    "id": "4492146810",
+    "location": "Gurugram",
+    "title": "Infrastructure Engineer III",
+    "url": "https://www.linkedin.com/jobs/view/4492146810/"
+   },
+   {
+    "employer": "American Express",
+    "id": "4492153293",
+    "location": "Bengaluru",
+    "title": "Infrastructure Engineer II",
+    "url": "https://www.linkedin.com/jobs/view/4492153293/"
+   },
+   {
+    "employer": "Cisco",
+    "id": "4492475818",
+    "location": "Bengaluru",
+    "title": "Site Reliability Engineer - Python, Splunk- Telecom Product - 7+ Years",
+    "url": "https://www.linkedin.com/jobs/view/4492475818/"
+   },
+   {
+    "employer": "Cisco",
+    "id": "4492466713",
+    "location": "Bengaluru",
+    "title": "Site Reliability Engineer - Python, Splunk- Telecom Product - 4+ Years",
+    "url": "https://www.linkedin.com/jobs/view/4492466713/"
+   },
+   {
+    "employer": "slice",
+    "id": "4492911272",
+    "location": "Greater Bengaluru Area",
+    "title": "Site Reliability Engineer - 2",
+    "url": "https://www.linkedin.com/jobs/view/4492911272/"
+   },
+   {
+    "employer": "Kotak Mahindra Bank",
+    "id": "4492920155",
+    "location": "Bengaluru",
+    "title": "DevOps Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4492920155/"
+   },
+   {
+    "employer": "RockED Research & Development Private Limited",
+    "id": "4491691619",
+    "location": "Bengaluru",
+    "title": "DevOps & AI Infrastructure Engineer (SDE-2)",
+    "url": "https://www.linkedin.com/jobs/view/4491691619/"
+   },
+   {
+    "employer": "Kantiv",
+    "id": "4492456926",
+    "location": "India",
+    "title": "DevOps Engineer - Security and Compliance",
+    "url": "https://www.linkedin.com/jobs/view/4492456926/"
+   },
+   {
+    "employer": "Jobgether",
+    "id": "4492545394",
+    "location": "India",
+    "title": "SRE Software Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4492545394/"
+   },
+   {
+    "employer": "DHL",
+    "id": "4487265715",
+    "location": "Chennai",
+    "title": "DevOps Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4487265715/"
+   },
+   {
+    "employer": "UST",
+    "id": "4468377856",
+    "location": "Bengaluru",
+    "title": "Developer III - DevOps Engineering",
+    "url": "https://www.linkedin.com/jobs/view/4468377856/"
+   },
+   {
+    "employer": "NTT DATA North America",
+    "id": "4476903788",
+    "location": "Bangalore Urban",
+    "title": "SRE Consultant",
+    "url": "https://www.linkedin.com/jobs/view/4476903788/"
    }
   ],
   "Mastercard": [],
@@ -1531,6 +1594,7 @@
    "4468150037": "2026-09-23T21:09:51+00:00",
    "4468298851": "2026-11-01T13:13:37+00:00",
    "4468343822": "2026-09-24T04:40:01+00:00",
+   "4468377856": "2026-11-21T12:33:03+00:00",
    "4468420396": "2026-09-23T21:09:51+00:00",
    "4468449749": "2026-09-23T21:09:51+00:00",
    "4468493858": "2026-09-23T21:09:51+00:00",
@@ -1741,6 +1805,7 @@
    "4476867212": "2026-10-11T12:41:40+00:00",
    "4476869092": "2026-10-11T12:41:40+00:00",
    "4476883989": "2026-10-29T12:53:32+00:00",
+   "4476903788": "2026-11-21T12:33:03+00:00",
    "4477168582": "2026-10-10T12:24:16+00:00",
    "4477241831": "2026-10-12T15:13:54+00:00",
    "4477258985": "2026-10-13T06:42:38+00:00",
@@ -1918,6 +1983,7 @@
    "4486976460": "2026-11-07T12:52:47+00:00",
    "4487189567": "2026-11-11T09:17:10+00:00",
    "4487253006": "2026-11-05T12:13:24+00:00",
+   "4487265715": "2026-11-21T12:33:03+00:00",
    "4487423897": "2026-11-11T17:51:17+00:00",
    "4487663838": "2026-11-10T12:32:05+00:00",
    "4487721850": "2026-11-06T12:00:33+00:00",
@@ -1990,12 +2056,23 @@
    "4491500606": "2026-11-17T13:13:47+00:00",
    "4491501577": "2026-11-17T13:13:47+00:00",
    "4491513150": "2026-11-17T13:13:47+00:00",
+   "4491691619": "2026-11-21T12:33:03+00:00",
    "4491769683": "2026-11-19T10:13:30+00:00",
    "4491820514": "2026-11-19T10:13:30+00:00",
    "4491820693": "2026-11-19T10:13:30+00:00",
    "4491835667": "2026-11-20T12:46:48+00:00",
    "4491860741": "2026-11-20T12:46:48+00:00",
-   "4492088220": "2026-11-20T12:46:48+00:00"
+   "4492088220": "2026-11-20T12:46:48+00:00",
+   "4492139991": "2026-11-21T12:33:03+00:00",
+   "4492146810": "2026-11-21T12:33:03+00:00",
+   "4492153293": "2026-11-21T12:33:03+00:00",
+   "4492157220": "2026-11-21T12:33:03+00:00",
+   "4492456926": "2026-11-21T12:33:03+00:00",
+   "4492466713": "2026-11-21T12:33:03+00:00",
+   "4492475818": "2026-11-21T12:33:03+00:00",
+   "4492545394": "2026-11-21T12:33:03+00:00",
+   "4492911272": "2026-11-21T12:33:03+00:00",
+   "4492920155": "2026-11-21T12:33:03+00:00"
   },
   "Mastercard": {
    "/job/Pune-India/Platform-Engineer-II_R-288632": "2026-09-28T13:45:49+00:00",
