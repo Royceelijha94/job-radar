@@ -82,55 +82,6 @@
   "Kong": [],
   "LinkedIn alerts": [
    {
-    "employer": "Moolya",
-    "id": "4486958437",
-    "location": "Bengaluru",
-    "title": "Site Reliability Engineer",
-    "url": "https://www.linkedin.com/jobs/view/4486958437/"
-   },
-   {
-    "employer": "Thermo Fisher Scientific",
-    "id": "4481832966",
-    "location": "Bengaluru East",
-    "title": "Engineer-III, DevOps",
-    "url": "https://www.linkedin.com/jobs/view/4481832966/"
-   },
-   {
-    "employer": "Ascendion",
-    "id": "4486772437",
-    "location": "Bengaluru",
-    "title": "DevOps Engineer",
-    "url": "https://www.linkedin.com/jobs/view/4486772437/"
-   },
-   {
-    "employer": "ANZ",
-    "id": "4488107686",
-    "location": "Bengaluru",
-    "title": "Site Reliability Engineer",
-    "url": "https://www.linkedin.com/jobs/view/4488107686/"
-   },
-   {
-    "employer": "Comviva",
-    "id": "4488104592",
-    "location": "Bengaluru",
-    "title": "DevOps Engineer",
-    "url": "https://www.linkedin.com/jobs/view/4488104592/"
-   },
-   {
-    "employer": "Persistent Systems",
-    "id": "4486976460",
-    "location": "Pune Division",
-    "title": "DevOps Engineer",
-    "url": "https://www.linkedin.com/jobs/view/4486976460/"
-   },
-   {
-    "employer": "RhythmX AI",
-    "id": "4485894806",
-    "location": "Bengaluru",
-    "title": "DevOps Engineer",
-    "url": "https://www.linkedin.com/jobs/view/4485894806/"
-   },
-   {
     "employer": "Xebia",
     "id": "4488497908",
     "location": "Bengaluru",
@@ -913,6 +864,41 @@
     "location": "Bangalore Urban",
     "title": "SRE Consultant",
     "url": "https://www.linkedin.com/jobs/view/4476903788/"
+   },
+   {
+    "employer": "Jobgether",
+    "id": "4492558481",
+    "location": "India",
+    "title": "DevOps Engineer - Security and Compliance",
+    "url": "https://www.linkedin.com/jobs/view/4492558481/"
+   },
+   {
+    "employer": "Scoutit",
+    "id": "4492576321",
+    "location": "India",
+    "title": "DevOps Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4492576321/"
+   },
+   {
+    "employer": "HDFC Bank",
+    "id": "4491912372",
+    "location": "Navi Mumbai",
+    "title": "Site Reliability Engineer- GCP",
+    "url": "https://www.linkedin.com/jobs/view/4491912372/"
+   },
+   {
+    "employer": "Oracle",
+    "id": "4483061947",
+    "location": "Bengaluru",
+    "title": "Core Infrastructure Engineer 2",
+    "url": "https://www.linkedin.com/jobs/view/4483061947/"
+   },
+   {
+    "employer": "Deloitte",
+    "id": "4484530851",
+    "location": "Bengaluru",
+    "title": "Applied AI SRE Engineer II",
+    "url": "https://www.linkedin.com/jobs/view/4484530851/"
    }
   ],
   "Mastercard": [],
@@ -1920,6 +1906,7 @@
    "4482919636": "2026-10-27T04:56:09+00:00",
    "4482950267": "2026-10-28T05:31:08+00:00",
    "4482954006": "2026-10-28T12:43:18+00:00",
+   "4483061947": "2026-11-21T20:29:20+00:00",
    "4483062663": "2026-10-31T05:29:11+00:00",
    "4483102522": "2026-10-25T11:17:15+00:00",
    "4483144977": "2026-11-14T06:10:05+00:00",
@@ -1936,6 +1923,7 @@
    "4483875327": "2026-10-30T12:44:53+00:00",
    "4483882167": "2026-10-30T12:44:53+00:00",
    "4484101382": "2026-10-30T12:44:53+00:00",
+   "4484530851": "2026-11-21T20:29:20+00:00",
    "4484595926": "2026-10-31T05:29:11+00:00",
    "4484625779": "2026-11-04T06:06:26+00:00",
    "4484677256": "2026-11-05T12:13:24+00:00",
@@ -2062,6 +2050,7 @@
    "4491820693": "2026-11-19T10:13:30+00:00",
    "4491835667": "2026-11-20T12:46:48+00:00",
    "4491860741": "2026-11-20T12:46:48+00:00",
+   "4491912372": "2026-11-21T20:29:20+00:00",
    "4492088220": "2026-11-20T12:46:48+00:00",
    "4492139991": "2026-11-21T12:33:03+00:00",
    "4492146810": "2026-11-21T12:33:03+00:00",
@@ -2071,6 +2060,8 @@
    "4492466713": "2026-11-21T12:33:03+00:00",
    "4492475818": "2026-11-21T12:33:03+00:00",
    "4492545394": "2026-11-21T12:33:03+00:00",
+   "4492558481": "2026-11-21T20:29:20+00:00",
+   "4492576321": "2026-11-21T20:29:20+00:00",
    "4492911272": "2026-11-21T12:33:03+00:00",
    "4492920155": "2026-11-21T12:33:03+00:00"
   },
