@@ -82,27 +82,6 @@
   "Kong": [],
   "LinkedIn alerts": [
    {
-    "employer": "Jefferies",
-    "id": "4471853421",
-    "location": "Pune Division",
-    "title": "Associate - SRE - Platform Engineering",
-    "url": "https://www.linkedin.com/jobs/view/4471853421/"
-   },
-   {
-    "employer": "BMC Helix",
-    "id": "4466679652",
-    "location": "Pune Division",
-    "title": "Devops Engineer- INDIA",
-    "url": "https://www.linkedin.com/jobs/view/4466679652/"
-   },
-   {
-    "employer": "r3 Consultant",
-    "id": "4488766263",
-    "location": "Mumbai",
-    "title": "Site Reliability Engineer",
-    "url": "https://www.linkedin.com/jobs/view/4488766263/"
-   },
-   {
     "employer": "Jobgether",
     "id": "4487663838",
     "location": "India",
@@ -1038,7 +1017,7 @@
    "miss": "2026-11-22T20:41:55+00:00"
   },
   "CrowdStrike": {
-   "miss": "2026-11-20T21:46:25+00:00"
+   "miss": "2026-11-24T02:52:26+00:00"
   },
   "Darwinbox": {
    "miss": "2026-11-22T20:41:55+00:00"
@@ -1299,7 +1278,7 @@
    "miss": "2026-11-22T20:41:55+00:00"
   },
   "Workday": {
-   "miss": "2026-11-20T21:46:25+00:00"
+   "miss": "2026-11-24T02:52:26+00:00"
   },
   "Yellow.ai": {
    "miss": "2026-11-22T20:41:55+00:00"
