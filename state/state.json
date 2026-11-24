@@ -8,6 +8,12 @@
   "Autodesk": [],
   "Bosch": [
    {
+    "id": "744000163412486",
+    "location": "bangalore, India",
+    "title": "Reliability Engineer _ Braking",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000163412486"
+   },
+   {
     "id": "744000162064084",
     "location": "hosur road bangalore, India",
     "title": "Reliability Engineer",
@@ -81,27 +87,6 @@
   "JFrog": [],
   "Kong": [],
   "LinkedIn alerts": [
-   {
-    "employer": "Jobgether",
-    "id": "4487663838",
-    "location": "India",
-    "title": "Site Reliability Engineer",
-    "url": "https://www.linkedin.com/jobs/view/4487663838/"
-   },
-   {
-    "employer": "Zensar Technologies",
-    "id": "4470331621",
-    "location": "Bengaluru",
-    "title": "Azure Site Reliability Engineer (SRE) - SaaS Operations",
-    "url": "https://www.linkedin.com/jobs/view/4470331621/"
-   },
-   {
-    "employer": "Softobiz",
-    "id": "4488799802",
-    "location": "Hyderabad",
-    "title": "GG-1531 - Site Reliability Engineer (SRE) - Platform Team(AWS+Hybrid)",
-    "url": "https://www.linkedin.com/jobs/view/4488799802/"
-   },
    {
     "employer": "Tredence Inc.",
     "id": "4489428838",
@@ -878,6 +863,55 @@
     "location": "India",
     "title": "DevOps Engineer",
     "url": "https://www.linkedin.com/jobs/view/4483469602/"
+   },
+   {
+    "employer": "EY",
+    "id": "4493716283",
+    "location": "Bengaluru",
+    "title": "DevOps Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4493716283/"
+   },
+   {
+    "employer": "EY",
+    "id": "4493711467",
+    "location": "Gurugram",
+    "title": "DevOps Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4493711467/"
+   },
+   {
+    "employer": "Scoutit",
+    "id": "4493762225",
+    "location": "India",
+    "title": "DevOps Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4493762225/"
+   },
+   {
+    "employer": "Global Payments Inc.",
+    "id": "4493630397",
+    "location": "Pune/Pimpri-Chinchwad Area",
+    "title": "Cloud Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4493630397/"
+   },
+   {
+    "employer": "SwiftB2B",
+    "id": "4493613457",
+    "location": "Bengaluru",
+    "title": "DevOps Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4493613457/"
+   },
+   {
+    "employer": "ADB SAFEGATE",
+    "id": "4493759297",
+    "location": "Hyderabad",
+    "title": "Azure DevOps Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4493759297/"
+   },
+   {
+    "employer": "Sigmoid",
+    "id": "4492057099",
+    "location": "Bengaluru",
+    "title": "DevOps Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4492057099/"
    }
   ],
   "Mastercard": [],
@@ -969,7 +1003,7 @@
    "token": "atlan"
   },
   "Autodesk": {
-   "miss": "2026-11-21T03:10:13+00:00"
+   "miss": "2026-11-24T14:46:33+00:00"
   },
   "BharatPe": {
    "miss": "2026-11-22T20:41:55+00:00"
@@ -1093,7 +1127,7 @@
    "miss": "2026-11-22T20:41:55+00:00"
   },
   "Intel": {
-   "miss": "2026-11-21T03:10:13+00:00"
+   "miss": "2026-11-24T14:46:33+00:00"
   },
   "JFrog": {
    "ats": "greenhouse",
@@ -1122,10 +1156,10 @@
    "miss": "2026-11-22T20:41:55+00:00"
   },
   "Mastercard": {
-   "miss": "2026-11-21T03:10:13+00:00"
+   "miss": "2026-11-24T14:46:33+00:00"
   },
   "Micron": {
-   "miss": "2026-11-21T03:10:13+00:00"
+   "miss": "2026-11-24T14:46:33+00:00"
   },
   "Mindtickle": {
    "ats": "lever",
@@ -1253,10 +1287,6 @@
   },
   "Tesco": {
    "miss": "2026-11-22T20:41:55+00:00"
-  },
-  "Thoughtworks": {
-   "ats": "greenhouse",
-   "token": "thoughtworks"
   },
   "Udaan": {
    "miss": "2026-11-22T20:41:55+00:00"
@@ -1427,7 +1457,8 @@
    "744000159545819": "2026-11-04T06:06:26+00:00",
    "744000160793069": "2026-11-10T12:32:05+00:00",
    "744000161475293": "2026-11-13T17:40:23+00:00",
-   "744000162064084": "2026-11-17T13:13:47+00:00"
+   "744000162064084": "2026-11-17T13:13:47+00:00",
+   "744000163412486": "2026-11-24T14:46:33+00:00"
   },
   "Bybit": {},
   "CRED": {},
@@ -2042,6 +2073,7 @@
    "4491920708": "2026-11-22T12:30:07+00:00",
    "4491939605": "2026-11-22T12:30:07+00:00",
    "4491999559": "2026-11-22T12:30:07+00:00",
+   "4492057099": "2026-11-24T14:46:33+00:00",
    "4492088220": "2026-11-20T12:46:48+00:00",
    "4492139991": "2026-11-21T12:33:03+00:00",
    "4492146810": "2026-11-21T12:33:03+00:00",
@@ -2059,7 +2091,13 @@
    "4492943897": "2026-11-22T12:30:07+00:00",
    "4492952760": "2026-11-22T12:30:07+00:00",
    "4493279230": "2026-11-23T14:29:24+00:00",
-   "4493289051": "2026-11-23T14:29:24+00:00"
+   "4493289051": "2026-11-23T14:29:24+00:00",
+   "4493613457": "2026-11-24T14:46:33+00:00",
+   "4493630397": "2026-11-24T14:46:33+00:00",
+   "4493711467": "2026-11-24T14:46:33+00:00",
+   "4493716283": "2026-11-24T14:46:33+00:00",
+   "4493759297": "2026-11-24T14:46:33+00:00",
+   "4493762225": "2026-11-24T14:46:33+00:00"
   },
   "Mastercard": {
    "/job/Pune-India/Platform-Engineer-II_R-288632": "2026-09-28T13:45:49+00:00",
