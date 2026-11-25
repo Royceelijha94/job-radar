@@ -88,34 +88,6 @@
   "Kong": [],
   "LinkedIn alerts": [
    {
-    "employer": "Tredence Inc.",
-    "id": "4489428838",
-    "location": "Bengaluru",
-    "title": "Dev Ops Engineer",
-    "url": "https://www.linkedin.com/jobs/view/4489428838/"
-   },
-   {
-    "employer": "Plume",
-    "id": "4462430554",
-    "location": "Hyderabad",
-    "title": "Site Reliability Engineer",
-    "url": "https://www.linkedin.com/jobs/view/4462430554/"
-   },
-   {
-    "employer": "Arcana",
-    "id": "4474280672",
-    "location": "Bengaluru",
-    "title": "DevOps Engineer",
-    "url": "https://www.linkedin.com/jobs/view/4474280672/"
-   },
-   {
-    "employer": "9Sprints",
-    "id": "4487189567",
-    "location": "Hyderabad",
-    "title": "DevOps Engineer",
-    "url": "https://www.linkedin.com/jobs/view/4487189567/"
-   },
-   {
     "employer": "Deltek",
     "id": "4488014751",
     "location": "India",
@@ -912,6 +884,41 @@
     "location": "Bengaluru",
     "title": "DevOps Engineer",
     "url": "https://www.linkedin.com/jobs/view/4492057099/"
+   },
+   {
+    "employer": "Cisco",
+    "id": "4493933828",
+    "location": "Bengaluru",
+    "title": "Site Reliability Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4493933828/"
+   },
+   {
+    "employer": "H&M",
+    "id": "4494109459",
+    "location": "Bengaluru",
+    "title": "Junior Site Reliability Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4494109459/"
+   },
+   {
+    "employer": "slice",
+    "id": "4493994701",
+    "location": "Bengaluru",
+    "title": "Site Reliability Engineer - 3",
+    "url": "https://www.linkedin.com/jobs/view/4493994701/"
+   },
+   {
+    "employer": "Concentrix",
+    "id": "4492392860",
+    "location": "Bengaluru East",
+    "title": "SRE/ DevOps Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4492392860/"
+   },
+   {
+    "employer": "Molex",
+    "id": "4484306730",
+    "location": "Bengaluru",
+    "title": "Cloud Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4484306730/"
    }
   ],
   "Mastercard": [],
@@ -972,7 +979,14 @@
     "url": "https://jobs.lever.co/zeta/f827a249-2537-4f7f-aade-25b829fc13f2"
    }
   ],
-  "Zscaler": []
+  "Zscaler": [
+   {
+    "id": "5271559007",
+    "location": "Bangalore, IND",
+    "title": "Production Engineer (SRE/Dev - Python)",
+    "url": "https://job-boards.greenhouse.io/zscaler/jobs/5271559007"
+   }
+  ]
  },
  "resolved": {
   "AMD": {
@@ -1946,6 +1960,7 @@
    "4483875327": "2026-10-30T12:44:53+00:00",
    "4483882167": "2026-10-30T12:44:53+00:00",
    "4484101382": "2026-10-30T12:44:53+00:00",
+   "4484306730": "2026-11-25T11:11:35+00:00",
    "4484530851": "2026-11-21T20:29:20+00:00",
    "4484595926": "2026-10-31T05:29:11+00:00",
    "4484625779": "2026-11-04T06:06:26+00:00",
@@ -2083,6 +2098,7 @@
    "4492146810": "2026-11-21T12:33:03+00:00",
    "4492153293": "2026-11-21T12:33:03+00:00",
    "4492157220": "2026-11-21T12:33:03+00:00",
+   "4492392860": "2026-11-25T11:11:35+00:00",
    "4492456926": "2026-11-21T12:33:03+00:00",
    "4492466713": "2026-11-21T12:33:03+00:00",
    "4492475818": "2026-11-21T12:33:03+00:00",
@@ -2101,7 +2117,10 @@
    "4493711467": "2026-11-24T14:46:33+00:00",
    "4493716283": "2026-11-24T14:46:33+00:00",
    "4493759297": "2026-11-24T14:46:33+00:00",
-   "4493762225": "2026-11-24T14:46:33+00:00"
+   "4493762225": "2026-11-24T14:46:33+00:00",
+   "4493933828": "2026-11-25T11:11:35+00:00",
+   "4493994701": "2026-11-25T11:11:35+00:00",
+   "4494109459": "2026-11-25T11:11:35+00:00"
   },
   "Mastercard": {
    "/job/Pune-India/Platform-Engineer-II_R-288632": "2026-09-28T13:45:49+00:00",
@@ -2187,6 +2206,8 @@
    "803792f5-0e9c-45bc-82ce-c0a552ce0cf8": "2026-09-23T21:15:40+00:00",
    "f827a249-2537-4f7f-aade-25b829fc13f2": "2026-11-20T12:46:48+00:00"
   },
-  "Zscaler": {}
+  "Zscaler": {
+   "5271559007": "2026-11-25T11:11:35+00:00"
+  }
  }
 }
