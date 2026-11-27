@@ -82,62 +82,6 @@
   "Kong": [],
   "LinkedIn alerts": [
    {
-    "employer": "JPMorganChase",
-    "id": "4482167401",
-    "location": "Mumbai",
-    "title": "Software Engineer II - SRE",
-    "url": "https://www.linkedin.com/jobs/view/4482167401/"
-   },
-   {
-    "employer": "Deloitte",
-    "id": "4488689342",
-    "location": "Bengaluru",
-    "title": "AWS Devops-DevOps Engineer III",
-    "url": "https://www.linkedin.com/jobs/view/4488689342/"
-   },
-   {
-    "employer": "Huxley",
-    "id": "4489071052",
-    "location": "India",
-    "title": "SRE/DevOps Engineer",
-    "url": "https://www.linkedin.com/jobs/view/4489071052/"
-   },
-   {
-    "employer": "PhonePe",
-    "id": "4488502435",
-    "location": "Bengaluru",
-    "title": "Site Reliability Engineer (4 to 8 Years) Core Infrastructure Team",
-    "url": "https://www.linkedin.com/jobs/view/4488502435/"
-   },
-   {
-    "employer": "PhonePe",
-    "id": "4478971891",
-    "location": "Bengaluru",
-    "title": "Site Reliability Engineer - On-Prem (1 to 4 Years)",
-    "url": "https://www.linkedin.com/jobs/view/4478971891/"
-   },
-   {
-    "employer": "Thales",
-    "id": "4489995290",
-    "location": "Bengaluru",
-    "title": "SRE III",
-    "url": "https://www.linkedin.com/jobs/view/4489995290/"
-   },
-   {
-    "employer": "LSEG",
-    "id": "4480729732",
-    "location": "Bengaluru",
-    "title": "Cloud Site Reliability Engineer",
-    "url": "https://www.linkedin.com/jobs/view/4480729732/"
-   },
-   {
-    "employer": "PartnerOne",
-    "id": "4489993387",
-    "location": "India",
-    "title": "DevOps Automation Specialist",
-    "url": "https://www.linkedin.com/jobs/view/4489993387/"
-   },
-   {
     "employer": "UST",
     "id": "4480049444",
     "location": "Bengaluru",
@@ -1010,7 +954,7 @@
    "token": "atlan"
   },
   "Autodesk": {
-   "miss": "2026-11-24T14:46:33+00:00"
+   "miss": "2026-11-27T19:26:12+00:00"
   },
   "BharatPe": {
    "miss": "2026-11-25T21:36:52+00:00"
@@ -1134,7 +1078,7 @@
    "miss": "2026-11-25T21:36:52+00:00"
   },
   "Intel": {
-   "miss": "2026-11-24T14:46:33+00:00"
+   "miss": "2026-11-27T19:26:12+00:00"
   },
   "JFrog": {
    "ats": "greenhouse",
@@ -1163,10 +1107,10 @@
    "miss": "2026-11-25T21:36:52+00:00"
   },
   "Mastercard": {
-   "miss": "2026-11-24T14:46:33+00:00"
+   "miss": "2026-11-27T19:26:12+00:00"
   },
   "Micron": {
-   "miss": "2026-11-24T14:46:33+00:00"
+   "miss": "2026-11-27T19:26:12+00:00"
   },
   "Mindtickle": {
    "ats": "lever",
@@ -1317,6 +1261,9 @@
   },
   "Whatfix": {
    "miss": "2026-11-25T21:36:52+00:00"
+  },
+  "Workday": {
+   "miss": "2026-11-27T19:26:12+00:00"
   },
   "Yellow.ai": {
    "miss": "2026-11-25T21:36:52+00:00"
