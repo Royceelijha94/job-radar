@@ -14,12 +14,6 @@
     "url": "https://jobs.smartrecruiters.com/BoschGroup/744000163412486"
    },
    {
-    "id": "744000162064084",
-    "location": "hosur road bangalore, India",
-    "title": "Reliability Engineer",
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000162064084"
-   },
-   {
     "id": "744000160793069",
     "location": "bengaluru, India",
     "title": "DevOps/MLOps Specialist",
@@ -877,6 +871,34 @@
     "location": "Bengaluru",
     "title": "SRE III - VMware VCF",
     "url": "https://www.linkedin.com/jobs/view/4494478661/"
+   },
+   {
+    "employer": "American Express",
+    "id": "4494900875",
+    "location": "Bengaluru",
+    "title": "Infrastructure Engineer II",
+    "url": "https://www.linkedin.com/jobs/view/4494900875/"
+   },
+   {
+    "employer": "66degrees",
+    "id": "4495009475",
+    "location": "Bengaluru",
+    "title": "Site Reliability Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4495009475/"
+   },
+   {
+    "employer": "NatWest Group",
+    "id": "4495289005",
+    "location": "Bengaluru",
+    "title": "Infrastructure Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4495289005/"
+   },
+   {
+    "employer": "SPAN",
+    "id": "4494648995",
+    "location": "Bengaluru East",
+    "title": "Platform Infrastructure / Site Reliability Engineer",
+    "url": "https://www.linkedin.com/jobs/view/4494648995/"
    }
   ],
   "Mastercard": [],
@@ -1036,7 +1058,7 @@
    "miss": "2026-11-25T21:36:52+00:00"
   },
   "CrowdStrike": {
-   "miss": "2026-11-24T02:52:26+00:00"
+   "miss": "2026-11-27T08:16:03+00:00"
   },
   "Darwinbox": {
    "miss": "2026-11-25T21:36:52+00:00"
@@ -1295,9 +1317,6 @@
   },
   "Whatfix": {
    "miss": "2026-11-25T21:36:52+00:00"
-  },
-  "Workday": {
-   "miss": "2026-11-24T02:52:26+00:00"
   },
   "Yellow.ai": {
    "miss": "2026-11-25T21:36:52+00:00"
@@ -2097,7 +2116,11 @@
    "4494478661": "2026-11-26T13:52:57+00:00",
    "4494480827": "2026-11-26T13:52:57+00:00",
    "4494486370": "2026-11-26T13:52:57+00:00",
-   "4494603834": "2026-11-26T13:52:57+00:00"
+   "4494603834": "2026-11-26T13:52:57+00:00",
+   "4494648995": "2026-11-27T08:16:03+00:00",
+   "4494900875": "2026-11-27T08:16:03+00:00",
+   "4495009475": "2026-11-27T08:16:03+00:00",
+   "4495289005": "2026-11-27T08:16:03+00:00"
   },
   "Mastercard": {
    "/job/Pune-India/Platform-Engineer-II_R-288632": "2026-09-28T13:45:49+00:00",
